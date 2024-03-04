@@ -1,0 +1,459 @@
+[
+  {
+    "name": "エスコンフィールドＨＯＫＫＡＩＤＯ",
+    "officialName": "エスコンフィールドＨＯＫＫＡＩＤＯ",
+    "alt": [
+      "エスコンＦ",
+      "ES CON FIELD",
+      "ES CON FIELD HOKKAIDO"
+    ],
+    "url": "https://npb.jp/stadium/detail.html?290",
+    "address": "北海道北広島市Fビレッジ1番地",
+    "latitude": 42.990506,
+    "longitude": 141.549292
+  },
+  {
+    "name": "弘前はるか夢",
+    "officialName": "弘前市運動公園野球場",
+    "alt": [
+      "弘前",
+      "Hirosaki",
+      "Hirosaki City Sports Park Ballpark"
+    ],
+    "url": "https://npb.jp/stadium/detail.html?021",
+    "address": "青森県弘前市大字豊田2-3-1",
+    "latitude": 40.590943,
+    "longitude": 140.501691
+  },
+  {
+    "name": "きたぎんボールパーク",
+    "officialName": "いわて盛岡ボールパーク",
+    "alt": [
+      "盛岡",
+      "Morioka",
+      "Kitagin Ballpark"
+    ],
+    "url": "https://npb.jp/stadium/",
+    "address": "岩手県盛岡市永井７地割１６−２",
+    "latitude": 39.6498785,
+    "longitude": 141.1355576
+  },
+  {
+    "name": "楽天モバイルパーク宮城",
+    "officialName": "宮城球場／県営宮城球場",
+    "alt": [
+      "楽天モバイル",
+      "Rakuten Mobile",
+      "Rakuten Mobile Park Miyagi"
+    ],
+    "url": "https://npb.jp/stadium/detail.html?029",
+    "address": "宮城県仙台市宮城野区宮城野2-11-6",
+    "latitude": 38.256748,
+    "longitude": 140.902676
+  },
+  {
+    "name": "秋田こまちスタジアム",
+    "officialName": "秋田県立野球場",
+    "alt": [
+      "秋田",
+      "Akita",
+      "Komachi Stadium"
+    ],
+    "url": "https://npb.jp/stadium/detail.html?035",
+    "address": "秋田県秋田市新屋町字砂奴寄4-5",
+    "latitude": 39.726351,
+    "longitude": 140.069901
+  },
+  {
+    "name": "きらやかスタジアム",
+    "officialName": "山形市総合スポーツセンター野球場",
+    "alt": [
+      "山形市",
+      "Yamagata",
+      "Kirayaka Stadium"
+    ],
+    "url": "https://npb.jp/stadium/detail.html?289",
+    "address": "山形県山形市落合町1",
+    "latitude": 38.278824,
+    "longitude": 140.347244
+  },
+  {
+    "name": "県営あづま",
+    "officialName": "福島県営あづま球場",
+    "alt": [
+      "福島",
+      "Fukushima",
+      "Fukushima Azuma Baseball Stadium"
+    ],
+    "url": "https://npb.jp/stadium/detail.html?042",
+
+    "address": "福島県福島市佐原字神事場",
+    "latitude": 37.721442,
+    "longitude": 140.363674
+  },
+  {
+    "name": "ひたちなか市民",
+    "officialName": "ひたちなか市民球場／勝田市民球場",
+    "alt": [
+      "ひたちなか",
+      "Hitachinaka",
+      "Hitachinaka Municipal Baseball Stadium"
+    ],
+    "url": "https://npb.jp/stadium/detail.html?054",
+    "address": "茨城県ひたちなか市新光町49",
+    "latitude": 36.392276,
+    "longitude": 140.584045
+  },
+  {
+    "name": "上毛新聞敷島",
+    "officialName": "群馬県立敷島公園野球場",
+    "alt": [
+      "前橋",
+      "Maebashi",
+      "Gunma Shikishima Baseball Stadium"
+    ],
+    "url": "https://npb.jp/stadium/detail.html?062",
+    "address": "群馬県前橋市敷島町66",
+    "latitude": 36.414521,
+    "longitude": 139.050702
+  },
+  {
+    "name": "ベルーナドーム",
+    "officialName": "西武ドーム／西武ライオンズ球場",
+    "alt": [
+      "ベルーナドーム",
+      "Belluna Dome",
+      "Belluna Dome"
+    ],
+    "url": "https://npb.jp/stadium/detail.html?068",
+    "address": "埼玉県所沢市上山口2135",
+    "latitude": 35.769015,
+    "longitude": 139.420191
+  },
+  {
+    "name": "県営大宮",
+    "officialName": "埼玉県営大宮公園野球場",
+    "alt": [
+      "県営大宮",
+      "Omiya",
+      "Omiya Park Baseball Stadium"
+    ],
+    "url": "https://npb.jp/stadium/detail.html?069",
+    "address": "埼玉県さいたま市大宮区高鼻町4",
+    "latitude": 35.917287,
+    "longitude": 139.633602
+  },
+  {
+    "name": "ZOZOマリンスタジアム",
+    "officialName": "千葉マリンスタジアム",
+    "alt": [
+      "ZOZOマリン",
+      "ZOZO Marine",
+      "ZOZO Marine Stadium"
+    ],
+    "url": "https://npb.jp/stadium/detail.html?073",
+    "address": "千葉県千葉市美浜区美浜1",
+    "latitude": 35.645158,
+    "longitude": 140.030831
+  },
+  {
+    "name": "東京ドーム",
+    "officialName": "東京ドーム",
+    "alt": [
+      "東京ドーム",
+      "Tokyo Dome",
+      "Tokyo Dome"
+    ],
+    "url": "https://npb.jp/stadium/detail.html?081",
+    "address": "東京都文京区後楽1-3-61",
+    "latitude": 35.70564,
+    "longitude": 139.751891
+  },
+  {
+    "name": "神宮",
+    "officialName": "明治神宮野球場",
+    "alt": [
+      "神宮",
+      "Jingu",
+      "Jingu Stadium"
+    ],
+    "url": "https://npb.jp/stadium/detail.html?082",
+    "address": "東京都新宿区霞ヶ丘町3-1",
+    "latitude": 35.674492,
+    "longitude": 139.717076
+  },
+  {
+    "name": "横浜スタジアム",
+    "officialName": "横浜スタジアム",
+    "alt": [
+      "横浜",
+      "Yokohama",
+      "Yokohama Stadium"
+    ],
+    "url": "https://npb.jp/stadium/detail.html?093",
+    "address": "神奈川県横浜市中区横浜公園",
+    "latitude": 35.443223,
+    "longitude": 139.6401
+  },
+  {
+    "name": "HARD・OFF ECOスタジアム新潟",
+    "officialName": "新潟県立鳥屋野潟公園野球場",
+    "alt": [
+      "ハードオフ新潟",
+      "Niigata",
+      "HARD OFF ECO Stadium"
+    ],
+    "url": "https://npb.jp/stadium/detail.html?103",
+    "address": "新潟県新潟市中央区長潟570",
+    "latitude": 37.879278,
+    "longitude": 139.06428
+  },
+  {
+    "name": "富山アルペンスタジアム",
+    "officialName": "富山市民球場",
+    "alt": [
+      "富山",
+      "Toyama",
+      "Toyama Municipal Baseball Stadium ALPEN STADIUM"
+    ],
+    "url": "https://npb.jp/stadium/detail.html?113",
+    "address": "富山県富山市下飯野30-1",
+    "latitude": 36.730895,
+    "longitude": 137.26181
+  },
+  {
+    "name": "福井県営",
+    "officialName": "福井県営球場",
+    "alt": [
+      "福井",
+      "Fukui",
+      "Fukui Prefectural Baseball Stadium"
+    ],
+    "url": "https://npb.jp/stadium/detail.html?123",
+    "address": "福井県福井市福町3-20",
+    "latitude": 36.051881,
+    "longitude": 136.182721
+  },
+  {
+    "name": "松本市",
+    "officialName": "松本市野球場",
+    "alt": [
+      "松本",
+      "セキスイハイム松本スタジアム",
+      "Matsumoto",
+      "Matsumoto Municipal Baseball Stadium"
+    ],
+    "url": "https://npb.jp/stadium/detail.html?133",
+    "address": "長野県松本市浅間温泉1-9-1",
+    "latitude": 36.25814,
+    "longitude": 137.98862
+  },
+  {
+    "name": "岐阜県営長良川",
+    "officialName": "岐阜県営長良川球場／岐阜県営野球場",
+    "alt": [
+      "岐阜",
+      "Gifu",
+      "Nagaragawa Baseball Stadium"
+    ],
+    "url": "https://npb.jp/stadium/detail.html?142",
+    "address": "岐阜県岐阜市長良福光2675-28",
+    "latitude": 35.440153,
+    "longitude": 136.763207
+  },
+  {
+    "name": "バンテリンドーム ナゴヤ",
+    "officialName": "ナゴヤドーム",
+    "alt": [
+      "バンテリンドーム",
+      "Vantelin Dome",
+      "Vantelin Dome Nagoya"
+    ],
+    "url": "https://npb.jp/stadium/detail.html?151",
+    "address": "愛知県名古屋市東区大幸南1-1-1",
+    "latitude": 35.186008,
+    "longitude": 136.9474
+  },
+  {
+    "name": "豊橋市民",
+    "officialName": "豊橋市民球場",
+    "alt": [
+      "豊橋",
+      "Toyohashi",
+      "Toyohashi Municipal Baseball Stadium"
+    ],
+    "url": "https://npb.jp/stadium/detail.html?154",
+    "address": "愛知県豊橋市岩田町1-2",
+    "latitude": 34.757406,
+    "longitude": 137.425085
+  },
+  {
+    "name": "京セラドーム大阪",
+    "officialName": "大阪ドーム",
+    "alt": [
+      "京セラD大阪",
+      "Kyocera Dome",
+      "Kyocera Dome Osaka"
+    ],
+    "url": "https://npb.jp/stadium/detail.html?175",
+    "address": "大阪府大阪市西区千代崎3-中2-1",
+    "latitude": 34.66928,
+    "longitude": 135.476143
+  },
+  {
+    "name": "甲子園",
+    "officialName": "阪神甲子園球場",
+    "alt": [
+      "甲子園",
+      "Koshien",
+      "Hanshin Koshien Stadium"
+    ],
+    "url": "https://npb.jp/stadium/detail.html?181",
+    "address": "兵庫県西宮市甲子園町1-82",
+    "latitude": 34.721217,
+    "longitude": 135.361656
+  },
+  {
+    "name": "ほっともっとフィールド神戸",
+    "officialName": "神戸総合運動公園野球場",
+    "alt": [
+      "ほっと神戸",
+      "Hotto Kobe",
+      "Hotto Motto Field Kobe"
+    ],
+    "url": "https://npb.jp/stadium/detail.html?183",
+    "address": "兵庫県神戸市須磨区緑台3251-10",
+    "latitude": 34.680606,
+    "longitude": 135.073506
+  },
+  {
+    "name": "倉敷マスカットスタジアム",
+    "officialName": "岡山県倉敷スポーツ公園野球場",
+    "alt": [
+      "倉敷",
+      "Kurashiki",
+      "Kurashiki Muscat Stadium"
+    ],
+    "url": "https://npb.jp/stadium/detail.html?206",
+    "address": "岡山県倉敷市中庄3250-1",
+    "latitude": 34.621241,
+    "longitude": 133.803939
+  },
+  {
+    "name": "MAZDA Zoom-Zoom スタジアム広島",
+    "officialName": "広島市民球場",
+    "alt": [
+      "マツダスタジアム",
+      "Mazda Stadium",
+      "MAZDA Zoom-Zoom Stadium Hiroshima"
+    ],
+    "url": "https://npb.jp/stadium/detail.html?208",
+    "address": "広島県広島市南区南蟹屋2-3-1",
+    "latitude": 34.39183,
+    "longitude": 132.484132
+  },
+  {
+    "name": "松山坊っちゃんスタジアム",
+    "officialName": "松山中央公園野球場",
+    "alt": [
+      "松山",
+      "Matsuyama",
+      "Botchan Stadium"
+    ],
+    "url": "https://npb.jp/stadium/detail.html?242",
+    "address": "愛媛県松山市市坪西町625-1",
+    "latitude": 33.80917,
+    "longitude": 132.747536
+  },
+  {
+    "name": "福岡PayPayドーム",
+    "officialName": "福岡ドーム",
+    "alt": [
+      "PayPayドーム",
+      "PayPay Dome",
+      "Fukuoka PayPay Dome"
+    ],
+    "url": "https://npb.jp/stadium/detail.html?245",
+    "address": "福岡県福岡市中央区地行浜2-2-2",
+    "latitude": 33.595394,
+    "longitude": 130.362123
+  },
+  {
+    "name": "北九州市民",
+    "officialName": "北九州市民球場／小倉市営球場",
+    "alt": [
+      "北九州",
+      "Kitakyushu",
+      "Kitakyushu Citizens Baseball Stadium"
+    ],
+    "url": "https://npb.jp/stadium/detail.html?248",
+    "address": "福岡県北九州市小倉北区三萩野2-10",
+    "latitude": 33.869366,
+    "longitude": 130.885836
+  },
+  {
+    "name": "長崎ビッグNスタジアム",
+    "officialName": "長崎県営野球場",
+    "alt": [
+      "長崎",
+      "Nagasaki",
+      "Nagasaki Big N Stadium"
+    ],
+    "url": "https://npb.jp/stadium/detail.html?265",
+    "address": "長崎県長崎市松山町2-5",
+    "latitude": 32.777065,
+    "longitude": 129.860645
+  },
+  {
+    "name": "リブワーク藤崎台",
+    "officialName": "藤崎台県営野球場",
+    "alt": [
+      "熊本",
+      "Kumamoto",
+      "Lib Work Fujisakidai Stadium"
+    ],
+    "url": "https://npb.jp/stadium/detail.html?271",
+    "address": "熊本県熊本市中央区宮内4-1",
+    "latitude": 32.806608,
+    "longitude": 130.698012
+  },
+  {
+    "name": "ひなたサンマリンスタジアム宮崎",
+    "officialName": "宮崎県総合運動公園硬式野球場",
+    "alt": [
+      "宮崎",
+      "Miyazaki",
+      "Hinata Sunmarine Stadium Miyazaki"
+    ],
+    "url": "https://npb.jp/stadium/detail.html?276",
+    "address": "宮崎県宮崎市大字熊野1443-12",
+    "latitude": 31.830755,
+    "longitude": 131.445915
+  },
+  {
+    "name": "平和リース",
+    "officialName": "鹿児島県立鴨池野球場",
+    "alt": [
+      "鹿児島",
+      "Kagoshima",
+      "Heiwa Lease Baseball Stadium"
+    ],
+    "url": "https://npb.jp/stadium/detail.html?280",
+    "address": "鹿児島県鹿児島市与次郎2-2-2",
+    "latitude": 31.564364,
+    "longitude": 130.557757
+  },
+  {
+    "name": "沖縄セルラースタジアム那覇",
+    "officialName": "那覇市営奥武山野球場",
+    "alt": [
+      "那覇",
+      "Naha",
+      "Okinawa Cellular Stadium Naha"
+    ],
+    "url": "https://npb.jp/stadium/detail.html?282",
+    "address": "沖縄県那覇市奥武山町42-1",
+    "latitude": 26.203462,
+    "longitude": 127.673019
+  }
+]
