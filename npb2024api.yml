@@ -1,0 +1,61 @@
+openapi: 3.0.3
+info:
+  title: NPB 2024
+  version: 0.1.0
+servers:
+  - url: https://kurimareiji.github.io/npb2024/
+    description: GitHub Pages
+paths:
+  /npb2024-stadiums.json:
+    get:
+      summary: Get a list of stadiums scheduled for games 2024 season
+      description: Get stadiums
+      operationId: getStadiums
+      responses:
+        "200":
+          description: OK
+          content:
+            application/json:
+              schema:
+                type: array
+                items:
+                  $ref: "#/components/schemas/Stadium"
+components:
+  schemas:
+    Stadium:
+      type: object
+      properties:
+        name:
+          type: string
+          description: Stadium name at https://npb.jp/stadium/
+          example: 沖縄セルラースタジアム那覇
+        officialName:
+          type: string
+          description: Stadium official name
+          example: 那覇市営奥武山野球場
+        alt:
+          type: array
+          items:
+            type: string
+          description: |
+            Stadium alternate names  
+            at(0) names used in NPB schedules in Japanese  
+            at(-2) names used in NPB schedules in English  
+            at(-1) names in English
+          example:
+            - 那覇
+            - Naha
+            - Okinawa Cellular Stadium Naha
+        url:
+          type: string
+          description: Stadium URL at npb.jp
+          example: https://npb.jp/stadium/detail.html?282
+        address:
+          type: string
+          description: Stadium address
+        latitude:
+          type: number
+          description: Stadium latitude
+        longitude:
+          type: number
+          description: Stadium longitude
