@@ -1,11 +1,25 @@
 openapi: 3.0.3
 info:
   title: NPB 2024
-  version: 0.1.0
+  version: 0.1.1
 servers:
   - url: https://kurimareiji.github.io/npb2024/
     description: GitHub Pages
 paths:
+  /npb2024-teams.json:
+    get:
+      summary: Get a list of teams for 2024 season
+      description: Get teams
+      operationId: getTeams
+      responses:
+        "200":
+          description: OK
+          content:
+            application/json:
+              schema:
+                type: array
+                items:
+                  $ref: "#/components/schemas/Team"
   /npb2024-stadiums.json:
     get:
       summary: Get a list of stadiums scheduled for games 2024 season
@@ -22,6 +36,198 @@ paths:
                   $ref: "#/components/schemas/Stadium"
 components:
   schemas:
+    Team:
+      type: object
+      properties:
+        teamName:
+          type: string
+          description: Team name
+          enum:
+            - Tigers
+            - Carp
+            - Baystars
+            - Giants
+            - Swallows
+            - Dragons
+            - Buffaloes
+            - Marines
+            - Hawks
+            - Eagles
+            - Lions
+            - Fighters
+        franchiseName:
+          type: string
+          description: Franchise name
+          enum:
+            - Hanshin
+            - Hiroshima
+            - DeNA
+            - Yomiuri
+            - Yakult
+            - Chunichi
+            - ORIX
+            - Lotte
+            - SoftBank
+            - Rakuten
+            - Seibu
+            - Nippon-Ham
+        officialName:
+          type: string
+          description: Team official name in English
+          enum:
+            - Hanshin Tigers
+            - Hiroshima Toyo Carp
+            - YOKOHAMA DeNA BAYSTARS
+            - Yomiuri Giants
+            - Tokyo Yakult Swallows
+            - Chunichi Dragons
+            - ORIX Buffaloes
+            - Chiba Lotte Marines
+            - Fukuoka SoftBank Hawks
+            - Tohoku Rakuten Golden Eagles
+            - Saitama Seibu Lions
+            - Hokkaido Nippon-Ham Fighters
+        teamCode:
+          type: string
+          description: Team code
+          enum:
+            - T
+            - C
+            - DB
+            - G
+            - S
+            - D
+            - B
+            - M
+            - H
+            - E
+            - L
+            - F
+        venue:
+          type: string
+          description: Home Stadium
+          enum:
+            - Hanshin Koshien Stadium
+            - MAZDA Zoom-Zoom Stadium Hiroshima
+            - Yokohama Stadium
+            - Tokyo Dome
+            - Jingu Stadium
+            - Vantelin Dome Nagoya
+            - Kyocera Dome Osaka
+            - ZOZO Marine Stadium
+            - Fukuoka PayPay Dome
+            - Rakuten Mobile Park Miyagi
+            - Belluna Dome
+            - ES CON FIELD HOKKAIDO
+        jaTeamName:
+          type: string
+          description: Team name in Japanese
+          enum:
+            - タイガース
+            - カープ
+            - ベイスターズ
+            - ジャイアンツ
+            - スワローズ
+            - ドラゴンズ
+            - バファローズ
+            - マリーンズ
+            - ホークス
+            - イーグルス
+            - ライオンズ
+            - ファイターズ
+        jaFranchiseName:
+          type: string
+          description: Franchise name in Japanese
+          enum:
+            - 阪神
+            - 広島東洋
+            - 横浜DeNA
+            - 読売
+            - 東京ヤクルト
+            - 中日
+            - オリックス
+            - 千葉ロッテ
+            - 福岡ソフトバンク
+            - 東北楽天
+            - 埼玉西武
+            - 北海道日本ハム
+        jaShortFranchiseName:
+          type: string
+          description: Short Franchise name in Japanese
+          enum:
+            - 阪神
+            - 広島
+            - 横浜
+            - 巨人
+            - ヤクルト
+            - 中日
+            - オリックス
+            - ロッテ
+            - ソフトバンク
+            - 楽天
+            - 西武
+            - 日本ハム
+        jaOfficialName:
+          type: string
+          description: Team official name in Japanese
+          enum:
+            - 阪神タイガース
+            - 広島東洋カープ
+            - 横浜DeNAベイスターズ
+            - 読売ジャイアンツ
+            - 東京ヤクルトスワローズ
+            - 中日ドラゴンズ
+            - オリックス・バファローズ
+            - 千葉ロッテマリーンズ
+            - 福岡ソフトバンクホークス
+            - 東北楽天ゴールデンイーグルス
+            - 埼玉西武ライオンズ
+            - 北海道日本ハムファイターズ
+        jaTeamCode:
+          type: string
+          description: Team code in Japanese
+          enum:
+            - 神
+            - 広
+            - デ
+            - 巨
+            - ヤ
+            - 中
+            - オ
+            - ロ
+            - ソ
+            - 楽
+            - 西
+            - 日
+        jaVenue:
+          type: string
+          description: Venue in Japanese
+          enum:
+            - 阪神甲子園球場
+            - MAZDA Zoom-Zoom スタジアム広島
+            - 横浜スタジアム
+            - 東京ドーム
+            - 明治神宮野球場
+            - バンテリンドーム ナゴヤ
+            - 京セラドーム大阪
+            - 千葉マリンスタジアム
+            - 福岡PayPayドーム
+            - 楽天モバイルパーク宮城
+            - ベルーナドーム
+            - エスコンフィールドHOKKAIDO
+        league:
+          type: string
+          description: League
+          enum:
+            - Central
+            - Pacific
+        website:
+          type: string
+          description: Official website
+        since:
+          type: string
+          description: date of foundation
+          example: 1935-12-10
     Stadium:
       type: object
       properties:
@@ -38,7 +244,7 @@ components:
           items:
             type: string
           description: |
-            Stadium alternate names  
+            Alternate names of the stadium
             at(0) names used in NPB schedules in Japanese  
             at(-2) names used in NPB schedules in English  
             at(-1) names in English
