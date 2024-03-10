@@ -1,0 +1,126 @@
+openapi: 3.0.3
+info:
+  title: NPB 2024
+  version: 0.1.1
+servers:
+  - url: https://kurimareiji.github.io/npb2024/
+    description: GitHub Pages
+paths:
+  /npb2024-players.json:
+    get:
+      summary: Get a list of players for 2024 season
+      description: Get players
+      operationId: getPlayers
+      responses:
+        "200":
+          description: OK
+          content:
+            application/json:
+              schema:
+                type: array
+                items:
+                  $ref: "#/components/schemas/Player"
+components:
+  schemas:
+    Player:
+      type: object
+      properties:
+        id:
+          type: string
+          description: Player ID
+          example: 61265153
+        teamCode:
+          type: string
+          description: Team code
+          enum:
+            - T
+            - C
+            - DB
+            - G
+            - S
+            - D
+            - B
+            - M
+            - H
+            - E
+            - L
+            - F
+        primaryNumber:
+          type: string
+          description: Primary Number
+          example: 19
+        primaryPosition:
+          type: string
+          description: Primary Position. Pitcher, Catcher, Infieleder, Outfielder
+        jaFullName:
+          type: string
+          description: 登録名
+          example: 髙橋　宏斗
+        isActive:
+          type: boolean
+          description: Active or not
+        isDevelopmentalSquad:
+          type: boolean
+          description: Developmental squad or not
+        batSide:
+          type: string
+          description: Batting side
+          enum:
+            - R
+            - L
+            - S
+        pitchHand:
+          type: string
+          description: Pitching hand
+          enum:
+            - R
+            - L
+        height:
+          type: string
+          description: Height cm
+          example: 186
+        weight:
+          type: string
+          description: Weight kg
+          example: 86
+        birthDate:
+          type: string
+          description: Birth date
+          example: 2002-08-09
+        jaNotes:
+          type: string
+          description: 備考
+        notes:
+          type: string
+          description: Notes
+        fullLFMName:
+          type: string
+          description: Fullname. "Takahashi, Hiroto", "Mercedes, Cristopher Crisostomo"
+        jaLastName:
+          type: string
+          description: 姓
+          example: 髙橋
+        jaFirstName:
+          type: string
+          description: 名
+          example: 宏斗
+        boxscoreName:
+          type: string
+          description: Boxscore name
+          example: H.Takahashi
+        lastName:
+          type: string
+          description: Last name
+          example: Takahashi
+        firstName:
+          type: string
+          description: First name
+          example: Hiroto
+        middleName:
+          type: string
+          description: Middle name
+          example: Crisostomo
+        jaBoxscoreName:
+          type: string
+          description: ボックススコアで使用される名前
+          example: 髙橋宏
