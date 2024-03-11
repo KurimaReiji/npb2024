@@ -124,3 +124,8 @@ components:
           type: string
           description: ボックススコアで使用される名前
           example: 髙橋宏
+        history:
+          type: array
+          description: History
+          items:
+            type: object

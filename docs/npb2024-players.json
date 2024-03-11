@@ -10216,8 +10216,8 @@
   },
   {
     "id": "91795134",
-    "teamCode": "F",
-    "primaryNumber": "60",
+    "teamCode": "G",
+    "primaryNumber": "37",
     "primaryPosition": "Catcher",
     "jaFullName": "郡　拓也",
     "isActive": true,
@@ -10227,9 +10227,17 @@
     "height": "179",
     "weight": "88",
     "birthDate": "1998-04-25",
-    "jaNotes": "",
+    "jaNotes": "3/11 日本ハムより移籍",
     "fullLFMName": "Kohri, Takuya",
-    "notes": "",
+    "notes": "Traded by Nippon-Ham (Mar. 11).",
+    "history": [
+      {
+        "jaNotes": "3/11 巨人へ移籍",
+        "notes": "Traded to Yomiuri (Mar. 11).",
+        "teamCode": "F",
+        "primaryNumber": "60"
+      }
+    ],
     "jaLastName": "郡",
     "jaFirstName": "拓也",
     "boxscoreName": "Kohri",
@@ -10489,6 +10497,37 @@
     "lastName": "Sakaguchi",
     "firstName": "Uta",
     "jaBoxscoreName": "阪口"
+  },
+  {
+    "id": "13315136",
+    "teamCode": "F",
+    "primaryNumber": "49",
+    "primaryPosition": "Infielder",
+    "jaFullName": "若林　晃弘",
+    "isActive": true,
+    "isDevelopmentalSquad": false,
+    "batSide": "S",
+    "pitchHand": "R",
+    "height": "180",
+    "weight": "82",
+    "birthDate": "1993-08-26",
+    "jaNotes": "3/11 巨人より移籍",
+    "fullLFMName": "Wakabayashi, Akihiro",
+    "notes": "Traded by Yomiuri (Mar. 11).",
+    "history": [
+      {
+        "jaNotes": "3/11 日本ハムへ移籍",
+        "notes": "Traded to Nippon-Ham (Mar. 11).",
+        "teamCode": "G",
+        "primaryNumber": "37"
+      }
+    ],
+    "jaLastName": "若林",
+    "jaFirstName": "晃弘",
+    "boxscoreName": "Wakabayashi",
+    "lastName": "Wakabayashi",
+    "firstName": "Akihiro",
+    "jaBoxscoreName": "若林"
   },
   {
     "id": "61865153",
@@ -12322,29 +12361,6 @@
     "lastName": "Izuguchi",
     "firstName": "Yuta",
     "jaBoxscoreName": "泉口"
-  },
-  {
-    "id": "13315136",
-    "teamCode": "G",
-    "primaryNumber": "37",
-    "primaryPosition": "Infielder",
-    "jaFullName": "若林　晃弘",
-    "isActive": true,
-    "isDevelopmentalSquad": false,
-    "batSide": "S",
-    "pitchHand": "R",
-    "height": "180",
-    "weight": "82",
-    "birthDate": "1993-08-26",
-    "jaNotes": "",
-    "fullLFMName": "Wakabayashi, Akihiro",
-    "notes": "",
-    "jaLastName": "若林",
-    "jaFirstName": "晃弘",
-    "boxscoreName": "Wakabayashi",
-    "lastName": "Wakabayashi",
-    "firstName": "Akihiro",
-    "jaBoxscoreName": "若林"
   },
   {
     "id": "51655153",
