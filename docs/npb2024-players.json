@@ -8679,6 +8679,29 @@
     "jaBoxscoreName": "伊藤裕"
   },
   {
+    "id": "13115130",
+    "teamCode": "E",
+    "primaryNumber": "42",
+    "primaryPosition": "Infielder",
+    "jaFullName": "山田　遥楓",
+    "isActive": true,
+    "isDevelopmentalSquad": false,
+    "batSide": "R",
+    "pitchHand": "R",
+    "height": "180",
+    "weight": "84",
+    "birthDate": "1996-09-30",
+    "jaNotes": "3/12 育成選手から支配下選手へ移行",
+    "fullLFMName": "Yamada, Haruka",
+    "notes": "Registered(developmental player ->) (Mar. 12).",
+    "jaLastName": "山田",
+    "jaFirstName": "遥楓",
+    "boxscoreName": "Yamada",
+    "lastName": "Yamada",
+    "firstName": "Haruka",
+    "jaBoxscoreName": "山田"
+  },
+  {
     "id": "73175138",
     "teamCode": "E",
     "primaryNumber": "48",
@@ -9206,29 +9229,6 @@
     "lastName": "Egawa",
     "firstName": "Yuto",
     "jaBoxscoreName": "江川"
-  },
-  {
-    "id": "13115130",
-    "teamCode": "E",
-    "primaryNumber": "005",
-    "primaryPosition": "Infielder",
-    "jaFullName": "山田　遥楓",
-    "isActive": false,
-    "isDevelopmentalSquad": true,
-    "batSide": "R",
-    "pitchHand": "R",
-    "height": "180",
-    "weight": "84",
-    "birthDate": "1996-09-30",
-    "jaNotes": "",
-    "fullLFMName": "Yamada, Haruka",
-    "notes": "",
-    "jaLastName": "山田",
-    "jaFirstName": "遥楓",
-    "boxscoreName": "Yamada",
-    "lastName": "Yamada",
-    "firstName": "Haruka",
-    "jaBoxscoreName": "山田"
   },
   {
     "id": "21225157",
@@ -16777,7 +16777,7 @@
     "jaLastName": "ボー・タカハシ",
     "lastName": "Takahashi",
     "firstName": "Bo",
-    "jaBoxscoreName": "タカハシ",
+    "jaBoxscoreName": "ボー・タカハシ",
     "boxscoreName": "B.Takahashi"
   },
   {
