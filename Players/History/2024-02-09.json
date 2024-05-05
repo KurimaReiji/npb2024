@@ -1,0 +1,31 @@
+[
+  {
+    "playerId": "63565159",
+    "jaRegisteredName": "Ｒ．オドーア",
+    "date": "2024-02-09",
+    "jaEvent": "支配下選手登録",
+    "newValue": {
+      "teamCode": "G",
+      "primaryNumber": "23",
+      "primaryPosition": "Outfielder",
+      "jaStatus": "支配下選手",
+      "playerId": "63565159",
+      "jaRegisteredName": "Ｒ．オドーア",
+      "batSide": "L",
+      "pitchHand": "R",
+      "height": "180",
+      "weight": "90",
+      "birthDate": "1994-02-03",
+      "jaNotes": "2/9 支配下選手登録、4/4 自由契約",
+      "notes": "Registered (Feb. 9). Released (Apr. 4).",
+      "jaBoxscoreName": "オドーア",
+      "boxscoreName": "Odor",
+      "jaFullName": "ルーグネッド・オドーア",
+      "jaFirstName": "ルーグネッド",
+      "jaLastName": "オドーア",
+      "fullLFMName": "Odor, Rougned",
+      "firstName": "Rougned",
+      "lastName": "Odor"
+    }
+  }
+]

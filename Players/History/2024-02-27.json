@@ -1,0 +1,31 @@
+[
+  {
+    "playerId": "63065155",
+    "jaRegisteredName": "Ｇ．ポランコ",
+    "date": "2024-02-27",
+    "jaEvent": "支配下選手登録",
+    "newValue": {
+      "teamCode": "M",
+      "primaryNumber": "22",
+      "primaryPosition": "Outfielder",
+      "jaStatus": "支配下選手",
+      "playerId": "63065155",
+      "jaRegisteredName": "Ｇ．ポランコ",
+      "batSide": "L",
+      "pitchHand": "L",
+      "height": "196",
+      "weight": "108",
+      "birthDate": "1991-09-14",
+      "jaNotes": "2/27 支配下選手登録",
+      "notes": "Registered (Feb. 27).",
+      "jaBoxscoreName": "ポランコ",
+      "boxscoreName": "Polanco",
+      "jaFullName": "グレゴリー・ポランコ",
+      "jaFirstName": "グレゴリー",
+      "jaLastName": "ポランコ",
+      "fullLFMName": "Polanco, Gregory",
+      "firstName": "Gregory",
+      "lastName": "Polanco"
+    }
+  }
+]

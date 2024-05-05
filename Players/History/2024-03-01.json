@@ -1,0 +1,60 @@
+[
+  {
+    "playerId": "43045159",
+    "jaRegisteredName": "Ｍ．ラミレス",
+    "date": "2024-03-01",
+    "jaEvent": "育成選手登録",
+    "newValue": {
+      "teamCode": "C",
+      "primaryNumber": "130",
+      "primaryPosition": "Infielder",
+      "jaStatus": "育成選手",
+      "playerId": "43045159",
+      "jaRegisteredName": "Ｍ．ラミレス",
+      "batSide": "R",
+      "pitchHand": "R",
+      "height": "191",
+      "weight": "124",
+      "birthDate": "2002-02-01",
+      "jaNotes": "3/1 育成選手登録",
+      "notes": "Registered (Mar. 1).",
+      "jaBoxscoreName": "ラミレス",
+      "boxscoreName": "Ramirez",
+      "jaFullName": "モイセス・ラミレス",
+      "jaFirstName": "モイセス",
+      "jaLastName": "ラミレス",
+      "fullLFMName": "Ramirez, Moises",
+      "firstName": "Moises",
+      "lastName": "Ramirez"
+    }
+  },
+  {
+    "playerId": "63065159",
+    "jaRegisteredName": "Ｎ．ロベルト",
+    "date": "2024-03-01",
+    "jaEvent": "育成選手登録",
+    "newValue": {
+      "teamCode": "C",
+      "primaryNumber": "131",
+      "primaryPosition": "Outfielder",
+      "jaStatus": "育成選手",
+      "playerId": "63065159",
+      "jaRegisteredName": "Ｎ．ロベルト",
+      "batSide": "R",
+      "pitchHand": "R",
+      "height": "191",
+      "weight": "104",
+      "birthDate": "2000-10-27",
+      "jaNotes": "3/1 育成選手登録",
+      "notes": "Registered (Mar. 1).",
+      "jaBoxscoreName": "ロベルト",
+      "boxscoreName": "Roberto",
+      "jaFullName": "ネルソン・ロベルト",
+      "jaFirstName": "ネルソン",
+      "jaLastName": "ロベルト",
+      "fullLFMName": "Roberto, Nelson",
+      "firstName": "Nelson",
+      "lastName": "Roberto"
+    }
+  }
+]

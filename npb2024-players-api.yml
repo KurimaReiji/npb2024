@@ -1,7 +1,7 @@
 openapi: 3.0.3
 info:
   title: NPB 2024
-  version: 0.1.1
+  version: 0.1.2
 servers:
   - url: https://kurimareiji.github.io/npb2024/
     description: GitHub Pages
@@ -52,16 +52,13 @@ components:
         primaryPosition:
           type: string
           description: Primary Position. Pitcher, Catcher, Infieleder, Outfielder
-        jaFullName:
+        jaStatus:
           type: string
-          description: 登録名
-          example: 髙橋　宏斗
-        isActive:
-          type: boolean
-          description: Active or not
-        isDevelopmentalSquad:
-          type: boolean
-          description: Developmental squad or not
+          description: 支配下選手、育成選手
+          enum:
+            - 支配下選手
+            - 育成選手
+            - 退団
         batSide:
           type: string
           description: Batting side
@@ -93,21 +90,30 @@ components:
         notes:
           type: string
           description: Notes
-        fullLFMName:
+        jaBoxscoreName:
           type: string
-          description: Fullname. "Takahashi, Hiroto", "Mercedes, Cristopher Crisostomo"
-        jaLastName:
-          type: string
-          description: 姓
-          example: 髙橋
-        jaFirstName:
-          type: string
-          description: 名
-          example: 宏斗
+          description: ボックススコアで使用される名前
+          example: 髙橋宏
         boxscoreName:
           type: string
           description: Boxscore name
           example: H.Takahashi
+        jaFullName:
+          type: string
+          description: 登録フルネーム
+          example: 髙橋　宏斗
+        jaFirstName:
+          type: string
+          description: 名
+          example: 宏斗
+        jaLastName:
+          type: string
+          description: 姓
+          example: 髙橋
+        fullLFMName:
+          type: string
+          description: Fullname
+          example: "Mercedes, Cristopher Crisostomo"
         lastName:
           type: string
           description: Last name
@@ -120,12 +126,3 @@ components:
           type: string
           description: Middle name
           example: Crisostomo
-        jaBoxscoreName:
-          type: string
-          description: ボックススコアで使用される名前
-          example: 髙橋宏
-        history:
-          type: array
-          description: History
-          items:
-            type: object

@@ -1,0 +1,57 @@
+[
+  {
+    "playerId": "41945131",
+    "jaRegisteredName": "筒香　嘉智",
+    "date": "2024-04-19",
+    "jaEvent": "支配下選手登録",
+    "newValue": {
+      "teamCode": "DB",
+      "primaryNumber": "25",
+      "primaryPosition": "Outfielder",
+      "jaStatus": "支配下選手",
+      "playerId": "41945131",
+      "jaRegisteredName": "筒香　嘉智",
+      "batSide": "L",
+      "pitchHand": "R",
+      "height": "185",
+      "weight": "97",
+      "birthDate": "1991-11-26",
+      "jaNotes": "4/19 支配下選手登録",
+      "notes": "Registered (Apr. 19).",
+      "jaBoxscoreName": "筒香",
+      "boxscoreName": "Tsutsugo",
+      "jaFullName": "筒香　嘉智",
+      "jaFirstName": "嘉智",
+      "jaLastName": "筒香",
+      "fullLFMName": "Tsutsugo, Yoshitomo",
+      "firstName": "Yoshitomo",
+      "lastName": "Tsutsugo"
+    }
+  },
+  {
+    "playerId": "13315151",
+    "jaRegisteredName": "Ｅ．ウレーニャ",
+    "date": "2024-04-19",
+    "jaEvent": "育成選手登録抹消",
+    "jaEventDetails": "支配下選手へ移行",
+    "newValue": {
+      "teamCode": "",
+      "primaryNumber": "",
+      "primaryPosition": "",
+      "jaStatus": ""
+    }
+  },
+  {
+    "playerId": "13315151",
+    "jaRegisteredName": "Ｅ．ウレーニャ",
+    "date": "2024-04-19",
+    "jaEvent": "支配下選手登録",
+    "jaEventDetails": "育成選手から移行",
+    "newValue": {
+      "teamCode": "G",
+      "primaryNumber": "98",
+      "primaryPosition": "Infielder",
+      "jaStatus": "支配下選手"
+    }
+  }
+]

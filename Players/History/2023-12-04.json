@@ -1,0 +1,112 @@
+[
+  {
+    "playerId": "51755134",
+    "jaRegisteredName": "黒木　優太",
+    "date": "2023-12-04",
+    "jaEvent": "支配下選手登録",
+    "newValue": {
+      "teamCode": "B",
+      "primaryNumber": "54",
+      "primaryPosition": "Pitcher",
+      "jaStatus": "支配下選手",
+      "playerId": "51755134",
+      "jaRegisteredName": "黒木　優太",
+      "batSide": "L",
+      "pitchHand": "R",
+      "height": "179",
+      "weight": "85",
+      "birthDate": "1994-08-16",
+      "jaNotes": "",
+      "notes": "",
+      "jaBoxscoreName": "黒木",
+      "boxscoreName": "Kuroki",
+      "jaFullName": "黒木　優太",
+      "jaFirstName": "優太",
+      "jaLastName": "黒木",
+      "fullLFMName": "Kuroki, Yuta",
+      "firstName": "Yuta",
+      "lastName": "Kuroki"
+    }
+  },
+  {
+    "playerId": "13115138",
+    "jaRegisteredName": "吉田　輝星",
+    "date": "2023-12-04",
+    "jaEvent": "支配下選手登録",
+    "newValue": {
+      "teamCode": "F",
+      "primaryNumber": "18",
+      "primaryPosition": "Pitcher",
+      "jaStatus": "支配下選手",
+      "playerId": "13115138",
+      "jaRegisteredName": "吉田　輝星",
+      "batSide": "R",
+      "pitchHand": "R",
+      "height": "175",
+      "weight": "83",
+      "birthDate": "2001-01-12",
+      "jaNotes": "",
+      "notes": "",
+      "jaBoxscoreName": "吉田",
+      "boxscoreName": "Yoshida",
+      "jaFullName": "吉田　輝星",
+      "jaFirstName": "輝星",
+      "jaLastName": "吉田",
+      "fullLFMName": "Yoshida, Kosei",
+      "firstName": "Kosei",
+      "lastName": "Yoshida"
+    }
+  },
+  {
+    "playerId": "51755134",
+    "jaRegisteredName": "黒木　優太",
+    "date": "2023-12-04",
+    "jaEvent": "支配下選手登録抹消",
+    "jaEventDetails": "トレード",
+    "newValue": {
+      "teamCode": "",
+      "primaryNumber": "",
+      "primaryPosition": "",
+      "jaStatus": ""
+    }
+  },
+  {
+    "playerId": "13115138",
+    "jaRegisteredName": "吉田　輝星",
+    "date": "2023-12-04",
+    "jaEvent": "支配下選手登録抹消",
+    "jaEventDetails": "トレード",
+    "newValue": {
+      "teamCode": "",
+      "primaryNumber": "",
+      "primaryPosition": "",
+      "jaStatus": ""
+    }
+  },
+  {
+    "playerId": "13115138",
+    "jaRegisteredName": "吉田　輝星",
+    "date": "2023-12-04",
+    "jaEvent": "支配下選手登録",
+    "jaEventDetails": "トレード",
+    "newValue": {
+      "teamCode": "B",
+      "primaryNumber": "23",
+      "primaryPosition": "Pitcher",
+      "jaStatus": "支配下選手"
+    }
+  },
+  {
+    "playerId": "51755134",
+    "jaRegisteredName": "黒木　優太",
+    "date": "2023-12-04",
+    "jaEvent": "支配下選手登録",
+    "jaEventDetails": "トレード",
+    "newValue": {
+      "teamCode": "F",
+      "primaryNumber": "32",
+      "primaryPosition": "Pitcher",
+      "jaStatus": "支配下選手"
+    }
+  }
+]

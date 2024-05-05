@@ -1,0 +1,54 @@
+[
+  {
+    "playerId": "91795155",
+    "jaRegisteredName": "京本　眞",
+    "date": "2024-03-06",
+    "jaEvent": "育成選手登録抹消",
+    "jaEventDetails": "支配下選手へ移行",
+    "newValue": {
+      "teamCode": "",
+      "primaryNumber": "",
+      "primaryPosition": "",
+      "jaStatus": ""
+    }
+  },
+  {
+    "playerId": "01205157",
+    "jaRegisteredName": "中田　歩夢",
+    "date": "2024-03-06",
+    "jaEvent": "育成選手登録抹消",
+    "jaEventDetails": "支配下選手へ移行",
+    "newValue": {
+      "teamCode": "",
+      "primaryNumber": "",
+      "primaryPosition": "",
+      "jaStatus": ""
+    }
+  },
+  {
+    "playerId": "91795155",
+    "jaRegisteredName": "京本　眞",
+    "date": "2024-03-06",
+    "jaEvent": "支配下選手登録",
+    "jaEventDetails": "育成選手から移行",
+    "newValue": {
+      "teamCode": "G",
+      "primaryNumber": "99",
+      "primaryPosition": "Pitcher",
+      "jaStatus": "支配下選手"
+    }
+  },
+  {
+    "playerId": "01205157",
+    "jaRegisteredName": "中田　歩夢",
+    "date": "2024-03-06",
+    "jaEvent": "支配下選手登録",
+    "jaEventDetails": "育成選手から移行",
+    "newValue": {
+      "teamCode": "G",
+      "primaryNumber": "95",
+      "primaryPosition": "Infielder",
+      "jaStatus": "支配下選手"
+    }
+  }
+]

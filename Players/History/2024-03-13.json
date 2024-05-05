@@ -1,0 +1,60 @@
+[
+  {
+    "playerId": "83085159",
+    "jaRegisteredName": "Ｊ．ベタンセス",
+    "date": "2024-03-13",
+    "jaEvent": "育成選手登録",
+    "newValue": {
+      "teamCode": "T",
+      "primaryNumber": "131",
+      "primaryPosition": "Pitcher",
+      "jaStatus": "育成選手",
+      "playerId": "83085159",
+      "jaRegisteredName": "Ｊ．ベタンセス",
+      "batSide": "R",
+      "pitchHand": "R",
+      "height": "183",
+      "weight": "102",
+      "birthDate": "1999-10-17",
+      "jaNotes": "3/13 育成選手登録",
+      "notes": "Registered (Mar. 13).",
+      "jaBoxscoreName": "ベタンセス",
+      "boxscoreName": "Betances",
+      "jaFullName": "ホセ・ベタンセス",
+      "jaFirstName": "ホセ",
+      "jaLastName": "ベタンセス",
+      "fullLFMName": "Betances, Jose",
+      "firstName": "Jose",
+      "lastName": "Betances"
+    }
+  },
+  {
+    "playerId": "13215159",
+    "jaRegisteredName": "Ａ．マルティネス",
+    "date": "2024-03-13",
+    "jaEvent": "育成選手登録",
+    "newValue": {
+      "teamCode": "T",
+      "primaryNumber": "132",
+      "primaryPosition": "Pitcher",
+      "jaStatus": "育成選手",
+      "playerId": "13215159",
+      "jaRegisteredName": "Ａ．マルティネス",
+      "batSide": "R",
+      "pitchHand": "R",
+      "height": "190",
+      "weight": "79",
+      "birthDate": "2000-01-10",
+      "jaNotes": "3/13 育成選手登録",
+      "notes": "Registered (Mar. 13).",
+      "jaBoxscoreName": "マルティネス",
+      "boxscoreName": "Martinez",
+      "jaFullName": "アンソニー・マルティネス",
+      "jaFirstName": "アンソニー",
+      "jaLastName": "マルティネス",
+      "fullLFMName": "Martinez, Anthony",
+      "firstName": "Anthony",
+      "lastName": "Martinez"
+    }
+  }
+]

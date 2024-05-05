@@ -1,0 +1,57 @@
+[
+  {
+    "playerId": "51555138",
+    "jaRegisteredName": "甲斐野　央",
+    "date": "2024-01-19",
+    "jaEvent": "支配下選手登録",
+    "newValue": {
+      "teamCode": "H",
+      "primaryNumber": "",
+      "primaryPosition": "Pitcher",
+      "jaStatus": "支配下選手",
+      "playerId": "51555138",
+      "jaRegisteredName": "甲斐野　央",
+      "batSide": "L",
+      "pitchHand": "R",
+      "height": "188",
+      "weight": "92",
+      "birthDate": "1996-11-16",
+      "jaNotes": "",
+      "notes": "",
+      "jaBoxscoreName": "甲斐野",
+      "boxscoreName": "Kaino",
+      "jaFullName": "甲斐野　央",
+      "jaFirstName": "央",
+      "jaLastName": "甲斐野",
+      "fullLFMName": "Kaino, Hiroshi",
+      "firstName": "Hiroshi",
+      "lastName": "Kaino"
+    }
+  },
+  {
+    "playerId": "51555138",
+    "jaRegisteredName": "甲斐野　央",
+    "date": "2024-01-19",
+    "jaEvent": "支配下選手登録抹消",
+    "jaEventDetails": "FA移籍に伴う契約譲渡",
+    "newValue": {
+      "teamCode": "",
+      "primaryNumber": "",
+      "primaryPosition": "",
+      "jaStatus": ""
+    }
+  },
+  {
+    "playerId": "51555138",
+    "jaRegisteredName": "甲斐野　央",
+    "date": "2024-01-19",
+    "jaEvent": "支配下選手登録",
+    "jaEventDetails": "FA移籍に伴う契約譲渡",
+    "newValue": {
+      "teamCode": "L",
+      "primaryNumber": "34",
+      "primaryPosition": "Pitcher",
+      "jaStatus": "支配下選手"
+    }
+  }
+]

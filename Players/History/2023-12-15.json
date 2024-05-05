@@ -1,0 +1,662 @@
+[
+  {
+    "playerId": "41445136",
+    "jaRegisteredName": "馬場　皐輔",
+    "date": "2023-12-15",
+    "jaEvent": "支配下選手登録",
+    "newValue": {
+      "teamCode": "T",
+      "primaryNumber": "18",
+      "primaryPosition": "Pitcher",
+      "jaStatus": "支配下選手",
+      "playerId": "41445136",
+      "jaRegisteredName": "馬場　皐輔",
+      "batSide": "R",
+      "pitchHand": "R",
+      "height": "180",
+      "weight": "97",
+      "birthDate": "1995-05-18",
+      "jaNotes": "",
+      "notes": "",
+      "jaBoxscoreName": "馬場",
+      "boxscoreName": "Baba",
+      "jaFullName": "馬場　皐輔",
+      "jaFirstName": "皐輔",
+      "jaLastName": "馬場",
+      "fullLFMName": "Baba, Kosuke",
+      "firstName": "Kosuke",
+      "lastName": "Baba"
+    }
+  },
+  {
+    "playerId": "71075139",
+    "jaRegisteredName": "中村　祐太",
+    "date": "2023-12-15",
+    "jaEvent": "支配下選手登録",
+    "newValue": {
+      "teamCode": "C",
+      "primaryNumber": "67",
+      "primaryPosition": "Pitcher",
+      "jaStatus": "支配下選手",
+      "playerId": "71075139",
+      "jaRegisteredName": "中村　祐太",
+      "batSide": "R",
+      "pitchHand": "R",
+      "height": "184",
+      "weight": "90",
+      "birthDate": "1995-08-31",
+      "jaNotes": "",
+      "notes": "",
+      "jaBoxscoreName": "中村祐",
+      "boxscoreName": "Y.Nakamura",
+      "jaFullName": "中村　祐太",
+      "jaFirstName": "祐太",
+      "jaLastName": "中村",
+      "fullLFMName": "Nakamura, Yuta",
+      "firstName": "Yuta",
+      "lastName": "Nakamura"
+    }
+  },
+  {
+    "playerId": "11915136",
+    "jaRegisteredName": "櫻井　周斗",
+    "date": "2023-12-15",
+    "jaEvent": "支配下選手登録",
+    "newValue": {
+      "teamCode": "DB",
+      "primaryNumber": "41",
+      "primaryPosition": "Pitcher",
+      "jaStatus": "支配下選手",
+      "playerId": "11915136",
+      "jaRegisteredName": "櫻井　周斗",
+      "batSide": "L",
+      "pitchHand": "L",
+      "height": "178",
+      "weight": "86",
+      "birthDate": "1999-06-25",
+      "jaNotes": "",
+      "notes": "",
+      "jaBoxscoreName": "櫻井",
+      "boxscoreName": "Sakurai",
+      "jaFullName": "櫻井　周斗",
+      "jaFirstName": "周斗",
+      "jaLastName": "櫻井",
+      "fullLFMName": "Sakurai, Shuto",
+      "firstName": "Shuto",
+      "lastName": "Sakurai"
+    }
+  },
+  {
+    "playerId": "21525136",
+    "jaRegisteredName": "北村　拓己",
+    "date": "2023-12-15",
+    "jaEvent": "支配下選手登録",
+    "newValue": {
+      "teamCode": "G",
+      "primaryNumber": "52",
+      "primaryPosition": "Infielder",
+      "jaStatus": "支配下選手",
+      "playerId": "21525136",
+      "jaRegisteredName": "北村　拓己",
+      "batSide": "R",
+      "pitchHand": "R",
+      "height": "181",
+      "weight": "90",
+      "birthDate": "1995-08-29",
+      "jaNotes": "",
+      "notes": "",
+      "jaBoxscoreName": "北村拓",
+      "boxscoreName": "T.Kitamura",
+      "jaFullName": "北村　拓己",
+      "jaFirstName": "拓己",
+      "jaLastName": "北村",
+      "fullLFMName": "Kitamura, Takumi",
+      "firstName": "Takumi",
+      "lastName": "Kitamura"
+    }
+  },
+  {
+    "playerId": "51355134",
+    "jaRegisteredName": "梅野　雄吾",
+    "date": "2023-12-15",
+    "jaEvent": "支配下選手登録",
+    "newValue": {
+      "teamCode": "S",
+      "primaryNumber": "38",
+      "primaryPosition": "Pitcher",
+      "jaStatus": "支配下選手",
+      "playerId": "51355134",
+      "jaRegisteredName": "梅野　雄吾",
+      "batSide": "R",
+      "pitchHand": "R",
+      "height": "175",
+      "weight": "84",
+      "birthDate": "1999-01-13",
+      "jaNotes": "",
+      "notes": "",
+      "jaBoxscoreName": "梅野",
+      "boxscoreName": "Umeno",
+      "jaFullName": "梅野　雄吾",
+      "jaFirstName": "雄吾",
+      "jaLastName": "梅野",
+      "fullLFMName": "Umeno, Yugo",
+      "firstName": "Yugo",
+      "lastName": "Umeno"
+    }
+  },
+  {
+    "playerId": "61965136",
+    "jaRegisteredName": "鈴木　博志",
+    "date": "2023-12-15",
+    "jaEvent": "支配下選手登録",
+    "newValue": {
+      "teamCode": "D",
+      "primaryNumber": "46",
+      "primaryPosition": "Pitcher",
+      "jaStatus": "支配下選手",
+      "playerId": "61965136",
+      "jaRegisteredName": "鈴木　博志",
+      "batSide": "R",
+      "pitchHand": "R",
+      "height": "182",
+      "weight": "95",
+      "birthDate": "1997-03-22",
+      "jaNotes": "",
+      "notes": "",
+      "jaBoxscoreName": "鈴木",
+      "boxscoreName": "Suzuki",
+      "jaFullName": "鈴木　博志",
+      "jaFirstName": "博志",
+      "jaLastName": "鈴木",
+      "fullLFMName": "Suzuki, Hiroshi",
+      "firstName": "Hiroshi",
+      "lastName": "Suzuki"
+    }
+  },
+  {
+    "playerId": "11315138",
+    "jaRegisteredName": "漆原　大晟",
+    "date": "2023-12-15",
+    "jaEvent": "支配下選手登録",
+    "newValue": {
+      "teamCode": "B",
+      "primaryNumber": "",
+      "primaryPosition": "Pitcher",
+      "jaStatus": "支配下選手",
+      "playerId": "11315138",
+      "jaRegisteredName": "漆原　大晟",
+      "batSide": "L",
+      "pitchHand": "R",
+      "height": "182",
+      "weight": "85",
+      "birthDate": "1996-09-10",
+      "jaNotes": "",
+      "notes": "",
+      "jaBoxscoreName": "漆原",
+      "boxscoreName": "Urushihara",
+      "jaFullName": "漆原　大晟",
+      "jaFirstName": "大晟",
+      "jaLastName": "漆原",
+      "fullLFMName": "Urushihara, Taisei",
+      "firstName": "Taisei",
+      "lastName": "Urushihara"
+    }
+  },
+  {
+    "playerId": "71975134",
+    "jaRegisteredName": "佐々木　千隼",
+    "date": "2023-12-15",
+    "jaEvent": "支配下選手登録",
+    "newValue": {
+      "teamCode": "M",
+      "primaryNumber": "",
+      "primaryPosition": "Pitcher",
+      "jaStatus": "支配下選手",
+      "playerId": "71975134",
+      "jaRegisteredName": "佐々木　千隼",
+      "batSide": "R",
+      "pitchHand": "R",
+      "height": "181",
+      "weight": "83",
+      "birthDate": "1994-06-08",
+      "jaNotes": "",
+      "notes": "",
+      "jaBoxscoreName": "佐々木",
+      "boxscoreName": "Sasaki",
+      "jaFullName": "佐々木　千隼",
+      "jaFirstName": "千隼",
+      "jaLastName": "佐々木",
+      "fullLFMName": "Sasaki, Chihaya",
+      "firstName": "Chihaya",
+      "lastName": "Sasaki"
+    }
+  },
+  {
+    "playerId": "31835138",
+    "jaRegisteredName": "水谷　瞬",
+    "date": "2023-12-15",
+    "jaEvent": "支配下選手登録",
+    "newValue": {
+      "teamCode": "H",
+      "primaryNumber": "",
+      "primaryPosition": "Outfielder",
+      "jaStatus": "支配下選手",
+      "playerId": "31835138",
+      "jaRegisteredName": "水谷　瞬",
+      "batSide": "R",
+      "pitchHand": "R",
+      "height": "193",
+      "weight": "99",
+      "birthDate": "2001-03-09",
+      "jaNotes": "",
+      "notes": "",
+      "jaBoxscoreName": "水谷",
+      "boxscoreName": "Mizutani",
+      "jaFullName": "水谷　瞬",
+      "jaFirstName": "瞬",
+      "jaLastName": "水谷",
+      "fullLFMName": "Mizutani, Shun",
+      "firstName": "Shun",
+      "lastName": "Mizutani"
+    }
+  },
+  {
+    "playerId": "71575153",
+    "jaRegisteredName": "内間　拓馬",
+    "date": "2023-12-15",
+    "jaEvent": "支配下選手登録",
+    "newValue": {
+      "teamCode": "E",
+      "primaryNumber": "",
+      "primaryPosition": "Pitcher",
+      "jaStatus": "支配下選手",
+      "playerId": "71575153",
+      "jaRegisteredName": "内間　拓馬",
+      "batSide": "R",
+      "pitchHand": "R",
+      "height": "179",
+      "weight": "86",
+      "birthDate": "1998-11-21",
+      "jaNotes": "",
+      "notes": "",
+      "jaBoxscoreName": "内間",
+      "boxscoreName": "Uchima",
+      "jaFullName": "内間　拓馬",
+      "jaFirstName": "拓馬",
+      "jaLastName": "内間",
+      "fullLFMName": "Uchima, Takuma",
+      "firstName": "Takuma",
+      "lastName": "Uchima"
+    }
+  },
+  {
+    "playerId": "31535132",
+    "jaRegisteredName": "愛斗",
+    "date": "2023-12-15",
+    "jaEvent": "支配下選手登録",
+    "newValue": {
+      "teamCode": "L",
+      "primaryNumber": "",
+      "primaryPosition": "Outfielder",
+      "jaStatus": "支配下選手",
+      "playerId": "31535132",
+      "jaRegisteredName": "愛斗",
+      "batSide": "R",
+      "pitchHand": "R",
+      "height": "177",
+      "weight": "92",
+      "birthDate": "1997-04-06",
+      "jaNotes": "",
+      "notes": "",
+      "jaBoxscoreName": "愛斗",
+      "boxscoreName": "Takeda",
+      "jaFullName": "武田　愛斗",
+      "jaFirstName": "愛斗",
+      "jaLastName": "武田",
+      "fullLFMName": "Takeda, Aito",
+      "firstName": "Aito",
+      "lastName": "Takeda"
+    }
+  },
+  {
+    "playerId": "31635155",
+    "jaRegisteredName": "長谷川　威展",
+    "date": "2023-12-15",
+    "jaEvent": "支配下選手登録",
+    "newValue": {
+      "teamCode": "F",
+      "primaryNumber": "",
+      "primaryPosition": "Pitcher",
+      "jaStatus": "支配下選手",
+      "playerId": "31635155",
+      "jaRegisteredName": "長谷川　威展",
+      "batSide": "L",
+      "pitchHand": "L",
+      "height": "178",
+      "weight": "85",
+      "birthDate": "1999-08-09",
+      "jaNotes": "",
+      "notes": "",
+      "jaBoxscoreName": "長谷川",
+      "boxscoreName": "Hasegawa",
+      "jaFullName": "長谷川　威展",
+      "jaFirstName": "威展",
+      "jaLastName": "長谷川",
+      "fullLFMName": "Hasegawa, Takehiro",
+      "firstName": "Takehiro",
+      "lastName": "Hasegawa"
+    }
+  },
+  {
+    "playerId": "41445136",
+    "jaRegisteredName": "馬場　皐輔",
+    "date": "2023-12-15",
+    "jaEvent": "支配下選手登録抹消",
+    "jaEventDetails": "現役ドラフトに伴うトレード",
+    "newValue": {
+      "teamCode": "",
+      "primaryNumber": "",
+      "primaryPosition": "",
+      "jaStatus": ""
+    }
+  },
+  {
+    "playerId": "71075139",
+    "jaRegisteredName": "中村　祐太",
+    "date": "2023-12-15",
+    "jaEvent": "支配下選手登録抹消",
+    "jaEventDetails": "現役ドラフトに伴うトレード",
+    "newValue": {
+      "teamCode": "",
+      "primaryNumber": "",
+      "primaryPosition": "",
+      "jaStatus": ""
+    }
+  },
+  {
+    "playerId": "11915136",
+    "jaRegisteredName": "櫻井　周斗",
+    "date": "2023-12-15",
+    "jaEvent": "支配下選手登録抹消",
+    "jaEventDetails": "現役ドラフトに伴うトレード",
+    "newValue": {
+      "teamCode": "",
+      "primaryNumber": "",
+      "primaryPosition": "",
+      "jaStatus": ""
+    }
+  },
+  {
+    "playerId": "21525136",
+    "jaRegisteredName": "北村　拓己",
+    "date": "2023-12-15",
+    "jaEvent": "支配下選手登録抹消",
+    "jaEventDetails": "現役ドラフトに伴うトレード",
+    "newValue": {
+      "teamCode": "",
+      "primaryNumber": "",
+      "primaryPosition": "",
+      "jaStatus": ""
+    }
+  },
+  {
+    "playerId": "51355134",
+    "jaRegisteredName": "梅野　雄吾",
+    "date": "2023-12-15",
+    "jaEvent": "支配下選手登録抹消",
+    "jaEventDetails": "現役ドラフトに伴うトレード",
+    "newValue": {
+      "teamCode": "",
+      "primaryNumber": "",
+      "primaryPosition": "",
+      "jaStatus": ""
+    }
+  },
+  {
+    "playerId": "61965136",
+    "jaRegisteredName": "鈴木　博志",
+    "date": "2023-12-15",
+    "jaEvent": "支配下選手登録抹消",
+    "jaEventDetails": "現役ドラフトに伴うトレード",
+    "newValue": {
+      "teamCode": "",
+      "primaryNumber": "",
+      "primaryPosition": "",
+      "jaStatus": ""
+    }
+  },
+  {
+    "playerId": "11315138",
+    "jaRegisteredName": "漆原　大晟",
+    "date": "2023-12-15",
+    "jaEvent": "支配下選手登録抹消",
+    "jaEventDetails": "現役ドラフトに伴うトレード",
+    "newValue": {
+      "teamCode": "",
+      "primaryNumber": "",
+      "primaryPosition": "",
+      "jaStatus": ""
+    }
+  },
+  {
+    "playerId": "71975134",
+    "jaRegisteredName": "佐々木　千隼",
+    "date": "2023-12-15",
+    "jaEvent": "支配下選手登録抹消",
+    "jaEventDetails": "現役ドラフトに伴うトレード",
+    "newValue": {
+      "teamCode": "",
+      "primaryNumber": "",
+      "primaryPosition": "",
+      "jaStatus": ""
+    }
+  },
+  {
+    "playerId": "31835138",
+    "jaRegisteredName": "水谷　瞬",
+    "date": "2023-12-15",
+    "jaEvent": "支配下選手登録抹消",
+    "jaEventDetails": "現役ドラフトに伴うトレード",
+    "newValue": {
+      "teamCode": "",
+      "primaryNumber": "",
+      "primaryPosition": "",
+      "jaStatus": ""
+    }
+  },
+  {
+    "playerId": "71575153",
+    "jaRegisteredName": "内間　拓馬",
+    "date": "2023-12-15",
+    "jaEvent": "支配下選手登録抹消",
+    "jaEventDetails": "現役ドラフトに伴うトレード",
+    "newValue": {
+      "teamCode": "",
+      "primaryNumber": "",
+      "primaryPosition": "",
+      "jaStatus": ""
+    }
+  },
+  {
+    "playerId": "31535132",
+    "jaRegisteredName": "愛斗",
+    "date": "2023-12-15",
+    "jaEvent": "支配下選手登録抹消",
+    "jaEventDetails": "現役ドラフトに伴うトレード",
+    "newValue": {
+      "teamCode": "",
+      "primaryNumber": "",
+      "primaryPosition": "",
+      "jaStatus": ""
+    }
+  },
+  {
+    "playerId": "31635155",
+    "jaRegisteredName": "長谷川　威展",
+    "date": "2023-12-15",
+    "jaEvent": "支配下選手登録抹消",
+    "jaEventDetails": "現役ドラフトに伴うトレード",
+    "newValue": {
+      "teamCode": "",
+      "primaryNumber": "",
+      "primaryPosition": "",
+      "jaStatus": ""
+    }
+  },
+  {
+    "playerId": "11315138",
+    "jaRegisteredName": "漆原　大晟",
+    "date": "2023-12-15",
+    "jaEvent": "支配下選手登録",
+    "jaEventDetails": "現役ドラフトに伴うトレード",
+    "newValue": {
+      "teamCode": "T",
+      "primaryNumber": "34",
+      "primaryPosition": "Pitcher",
+      "jaStatus": "支配下選手"
+    }
+  },
+  {
+    "playerId": "71575153",
+    "jaRegisteredName": "内間　拓馬",
+    "date": "2023-12-15",
+    "jaEvent": "支配下選手登録",
+    "jaEventDetails": "現役ドラフトに伴うトレード",
+    "newValue": {
+      "teamCode": "C",
+      "primaryNumber": "67",
+      "primaryPosition": "Pitcher",
+      "jaStatus": "支配下選手"
+    }
+  },
+  {
+    "playerId": "71975134",
+    "jaRegisteredName": "佐々木　千隼",
+    "date": "2023-12-15",
+    "jaEvent": "支配下選手登録",
+    "jaEventDetails": "現役ドラフトに伴うトレード",
+    "newValue": {
+      "teamCode": "DB",
+      "primaryNumber": "41",
+      "primaryPosition": "Pitcher",
+      "jaStatus": "支配下選手"
+    }
+  },
+  {
+    "playerId": "41445136",
+    "jaRegisteredName": "馬場　皐輔",
+    "date": "2023-12-15",
+    "jaEvent": "支配下選手登録",
+    "jaEventDetails": "現役ドラフトに伴うトレード",
+    "newValue": {
+      "teamCode": "G",
+      "primaryNumber": "36",
+      "primaryPosition": "Pitcher",
+      "jaStatus": "支配下選手"
+    }
+  },
+  {
+    "playerId": "21525136",
+    "jaRegisteredName": "北村　拓己",
+    "date": "2023-12-15",
+    "jaEvent": "支配下選手登録",
+    "jaEventDetails": "現役ドラフトに伴うトレード",
+    "newValue": {
+      "teamCode": "S",
+      "primaryNumber": "38",
+      "primaryPosition": "Infielder",
+      "jaStatus": "支配下選手"
+    }
+  },
+  {
+    "playerId": "51355134",
+    "jaRegisteredName": "梅野　雄吾",
+    "date": "2023-12-15",
+    "jaEvent": "支配下選手登録",
+    "jaEventDetails": "現役ドラフトに伴うトレード",
+    "newValue": {
+      "teamCode": "D",
+      "primaryNumber": "46",
+      "primaryPosition": "Pitcher",
+      "jaStatus": "支配下選手"
+    }
+  },
+  {
+    "playerId": "61965136",
+    "jaRegisteredName": "鈴木　博志",
+    "date": "2023-12-15",
+    "jaEvent": "支配下選手登録",
+    "jaEventDetails": "現役ドラフトに伴うトレード",
+    "newValue": {
+      "teamCode": "B",
+      "primaryNumber": "66",
+      "primaryPosition": "Pitcher",
+      "jaStatus": "支配下選手"
+    }
+  },
+  {
+    "playerId": "31535132",
+    "jaRegisteredName": "愛斗",
+    "date": "2023-12-15",
+    "jaEvent": "支配下選手登録",
+    "jaEventDetails": "現役ドラフトに伴うトレード",
+    "newValue": {
+      "teamCode": "M",
+      "primaryNumber": "50",
+      "primaryPosition": "Outfielder",
+      "jaStatus": "支配下選手"
+    }
+  },
+  {
+    "playerId": "31635155",
+    "jaRegisteredName": "長谷川　威展",
+    "date": "2023-12-15",
+    "jaEvent": "支配下選手登録",
+    "jaEventDetails": "現役ドラフトに伴うトレード",
+    "newValue": {
+      "teamCode": "H",
+      "primaryNumber": "59",
+      "primaryPosition": "Pitcher",
+      "jaStatus": "支配下選手"
+    }
+  },
+  {
+    "playerId": "11915136",
+    "jaRegisteredName": "櫻井　周斗",
+    "date": "2023-12-15",
+    "jaEvent": "支配下選手登録",
+    "jaEventDetails": "現役ドラフトに伴うトレード",
+    "newValue": {
+      "teamCode": "E",
+      "primaryNumber": "40",
+      "primaryPosition": "Pitcher",
+      "jaStatus": "支配下選手"
+    }
+  },
+  {
+    "playerId": "71075139",
+    "jaRegisteredName": "中村　祐太",
+    "date": "2023-12-15",
+    "jaEvent": "支配下選手登録",
+    "jaEventDetails": "現役ドラフトに伴うトレード",
+    "newValue": {
+      "teamCode": "L",
+      "primaryNumber": "58",
+      "primaryPosition": "Pitcher",
+      "jaStatus": "支配下選手"
+    }
+  },
+  {
+    "playerId": "31835138",
+    "jaRegisteredName": "水谷　瞬",
+    "date": "2023-12-15",
+    "jaEvent": "支配下選手登録",
+    "jaEventDetails": "現役ドラフトに伴うトレード",
+    "newValue": {
+      "teamCode": "F",
+      "primaryNumber": "53",
+      "primaryPosition": "Outfielder",
+      "jaStatus": "支配下選手"
+    }
+  }
+]

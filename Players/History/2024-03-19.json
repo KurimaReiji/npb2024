@@ -1,0 +1,80 @@
+[
+  {
+    "playerId": "91495155",
+    "jaRegisteredName": "仲田　慶介",
+    "date": "2024-03-19",
+    "jaEvent": "育成選手登録抹消",
+    "jaEventDetails": "支配下選手へ移行",
+    "newValue": {
+      "teamCode": "",
+      "primaryNumber": "",
+      "primaryPosition": "",
+      "jaStatus": ""
+    }
+  },
+  {
+    "playerId": "81585153",
+    "jaRegisteredName": "緒方　理貢",
+    "date": "2024-03-19",
+    "jaEvent": "育成選手登録抹消",
+    "jaEventDetails": "支配下選手へ移行",
+    "newValue": {
+      "teamCode": "",
+      "primaryNumber": "",
+      "primaryPosition": "",
+      "jaStatus": ""
+    }
+  },
+  {
+    "playerId": "11715155",
+    "jaRegisteredName": "川村　友斗",
+    "date": "2024-03-19",
+    "jaEvent": "育成選手登録抹消",
+    "jaEventDetails": "支配下選手へ移行",
+    "newValue": {
+      "teamCode": "",
+      "primaryNumber": "",
+      "primaryPosition": "",
+      "jaStatus": ""
+    }
+  },
+  {
+    "playerId": "91495155",
+    "jaRegisteredName": "仲田　慶介",
+    "date": "2024-03-19",
+    "jaEvent": "支配下選手登録",
+    "jaEventDetails": "育成選手から移行",
+    "newValue": {
+      "teamCode": "H",
+      "primaryNumber": "69",
+      "primaryPosition": "Infielder",
+      "jaStatus": "支配下選手"
+    }
+  },
+  {
+    "playerId": "81585153",
+    "jaRegisteredName": "緒方　理貢",
+    "date": "2024-03-19",
+    "jaEvent": "支配下選手登録",
+    "jaEventDetails": "育成選手から移行",
+    "newValue": {
+      "teamCode": "H",
+      "primaryNumber": "57",
+      "primaryPosition": "Outfielder",
+      "jaStatus": "支配下選手"
+    }
+  },
+  {
+    "playerId": "11715155",
+    "jaRegisteredName": "川村　友斗",
+    "date": "2024-03-19",
+    "jaEvent": "支配下選手登録",
+    "jaEventDetails": "育成選手から移行",
+    "newValue": {
+      "teamCode": "H",
+      "primaryNumber": "61",
+      "primaryPosition": "Outfielder",
+      "jaStatus": "支配下選手"
+    }
+  }
+]

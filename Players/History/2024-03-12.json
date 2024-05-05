@@ -1,0 +1,28 @@
+[
+  {
+    "playerId": "13115130",
+    "jaRegisteredName": "山田　遥楓",
+    "date": "2024-03-12",
+    "jaEvent": "育成選手登録抹消",
+    "jaEventDetails": "支配下選手へ移行",
+    "newValue": {
+      "teamCode": "",
+      "primaryNumber": "",
+      "primaryPosition": "",
+      "jaStatus": ""
+    }
+  },
+  {
+    "playerId": "13115130",
+    "jaRegisteredName": "山田　遥楓",
+    "date": "2024-03-12",
+    "jaEvent": "支配下選手登録",
+    "jaEventDetails": "育成選手から移行",
+    "newValue": {
+      "teamCode": "E",
+      "primaryNumber": "42",
+      "primaryPosition": "Infielder",
+      "jaStatus": "支配下選手"
+    }
+  }
+]

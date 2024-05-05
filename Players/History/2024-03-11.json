@@ -1,0 +1,26 @@
+[
+  {
+    "playerId": "91795134",
+    "jaRegisteredName": "郡　拓也",
+    "date": "2024-03-11",
+    "jaEvent": "支配下選手登録",
+    "newValue": {
+      "teamCode": "G",
+      "primaryNumber": "37",
+      "primaryPosition": "Catcher",
+      "jaStatus": "支配下選手"
+    }
+  },
+  {
+    "playerId": "13315136",
+    "jaRegisteredName": "若林　晃弘",
+    "date": "2024-03-11",
+    "jaEvent": "支配下選手登録",
+    "newValue": {
+      "teamCode": "F",
+      "primaryNumber": "49",
+      "primaryPosition": "Infielder",
+      "jaStatus": "支配下選手"
+    }
+  }
+]

@@ -1,0 +1,117 @@
+[
+  {
+    "playerId": "73375151",
+    "jaRegisteredName": "Ｔ．オースティン",
+    "date": "2024-03-26",
+    "jaEvent": "守備位置変更",
+    "newValue": {
+      "teamCode": "DB",
+      "primaryNumber": "3",
+      "primaryPosition": "Infielder"
+    }
+  },
+  {
+    "playerId": "03005159",
+    "jaRegisteredName": "Ｃ．ロドリゲス",
+    "date": "2024-03-26",
+    "jaEvent": "育成選手登録抹消",
+    "jaEventDetails": "支配下選手へ移行",
+    "newValue": {
+      "teamCode": "",
+      "primaryNumber": "",
+      "primaryPosition": "",
+      "jaStatus": ""
+    }
+  },
+  {
+    "playerId": "71575159",
+    "jaRegisteredName": "尾田　剛樹",
+    "date": "2024-03-26",
+    "jaEvent": "育成選手登録抹消",
+    "jaEventDetails": "支配下選手へ移行",
+    "newValue": {
+      "teamCode": "",
+      "primaryNumber": "",
+      "primaryPosition": "",
+      "jaStatus": ""
+    }
+  },
+  {
+    "playerId": "03005159",
+    "jaRegisteredName": "Ｃ．ロドリゲス",
+    "date": "2024-03-26",
+    "jaEvent": "支配下選手登録",
+    "jaEventDetails": "育成選手から移行",
+    "newValue": {
+      "teamCode": "D",
+      "primaryNumber": "95",
+      "primaryPosition": "Infielder",
+      "jaStatus": "支配下選手"
+    }
+  },
+  {
+    "playerId": "71575159",
+    "jaRegisteredName": "尾田　剛樹",
+    "date": "2024-03-26",
+    "jaEvent": "支配下選手登録",
+    "jaEventDetails": "育成選手から移行",
+    "newValue": {
+      "teamCode": "D",
+      "primaryNumber": "00",
+      "primaryPosition": "Outfielder",
+      "jaStatus": "支配下選手"
+    }
+  },
+  {
+    "playerId": "31335132",
+    "jaRegisteredName": "井口　和朋",
+    "date": "2024-03-26",
+    "jaEvent": "育成選手登録抹消",
+    "jaEventDetails": "支配下選手へ移行",
+    "newValue": {
+      "teamCode": "",
+      "primaryNumber": "",
+      "primaryPosition": "",
+      "jaStatus": ""
+    }
+  },
+  {
+    "playerId": "31335132",
+    "jaRegisteredName": "井口　和朋",
+    "date": "2024-03-26",
+    "jaEvent": "支配下選手登録",
+    "jaEventDetails": "育成選手から移行",
+    "newValue": {
+      "teamCode": "B",
+      "primaryNumber": "58",
+      "primaryPosition": "Pitcher",
+      "jaStatus": "支配下選手"
+    }
+  },
+  {
+    "playerId": "91295153",
+    "jaRegisteredName": "ブランドン",
+    "date": "2024-03-26",
+    "jaEvent": "育成選手登録抹消",
+    "jaEventDetails": "支配下選手へ移行",
+    "newValue": {
+      "teamCode": "",
+      "primaryNumber": "",
+      "primaryPosition": "",
+      "jaStatus": ""
+    }
+  },
+  {
+    "playerId": "91295153",
+    "jaRegisteredName": "ブランドン",
+    "date": "2024-03-26",
+    "jaEvent": "支配下選手登録",
+    "jaEventDetails": "育成選手から移行",
+    "newValue": {
+      "teamCode": "L",
+      "primaryNumber": "66",
+      "primaryPosition": "Infielder",
+      "jaStatus": "支配下選手"
+    }
+  }
+]

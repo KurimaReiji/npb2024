@@ -1,0 +1,86 @@
+[
+  {
+    "playerId": "41645157",
+    "jaRegisteredName": "日髙　暖己",
+    "date": "2024-01-09",
+    "jaEvent": "支配下選手登録",
+    "newValue": {
+      "teamCode": "B",
+      "primaryNumber": "47",
+      "primaryPosition": "Pitcher",
+      "jaStatus": "支配下選手",
+      "playerId": "41645157",
+      "jaRegisteredName": "日髙　暖己",
+      "batSide": "L",
+      "pitchHand": "R",
+      "height": "183",
+      "weight": "74",
+      "birthDate": "2004-09-16",
+      "jaNotes": "",
+      "notes": "",
+      "jaBoxscoreName": "日髙",
+      "boxscoreName": "Hidaka",
+      "jaFullName": "日髙　暖己",
+      "jaFirstName": "暖己",
+      "jaLastName": "日髙",
+      "fullLFMName": "Hidaka, Atsumi",
+      "firstName": "Atsumi",
+      "lastName": "Hidaka"
+    }
+  },
+  {
+    "playerId": "41645157",
+    "jaRegisteredName": "日髙　暖己",
+    "date": "2024-01-09",
+    "jaEvent": "支配下選手登録抹消",
+    "jaEventDetails": "FA移籍に伴う契約譲渡",
+    "newValue": {
+      "teamCode": "",
+      "primaryNumber": "",
+      "primaryPosition": "",
+      "jaStatus": ""
+    }
+  },
+  {
+    "playerId": "41645157",
+    "jaRegisteredName": "日髙　暖己",
+    "date": "2024-01-09",
+    "jaEvent": "支配下選手登録",
+    "jaEventDetails": "FA移籍に伴う契約譲渡",
+    "newValue": {
+      "teamCode": "C",
+      "primaryNumber": "70",
+      "primaryPosition": "Pitcher",
+      "jaStatus": "支配下選手"
+    }
+  },
+  {
+    "playerId": "71475132",
+    "jaRegisteredName": "西川　龍馬",
+    "date": "2024-01-09",
+    "jaEvent": "支配下選手登録",
+    "newValue": {
+      "teamCode": "B",
+      "primaryNumber": "7",
+      "primaryPosition": "Outfielder",
+      "jaStatus": "支配下選手",
+      "playerId": "71475132",
+      "jaRegisteredName": "西川　龍馬",
+      "batSide": "L",
+      "pitchHand": "R",
+      "height": "176",
+      "weight": "83",
+      "birthDate": "1994-12-10",
+      "jaNotes": "",
+      "notes": "",
+      "jaBoxscoreName": "西川",
+      "boxscoreName": "Nishikawa",
+      "jaFullName": "西川　龍馬",
+      "jaFirstName": "龍馬",
+      "jaLastName": "西川",
+      "fullLFMName": "Nishikawa, Ryoma",
+      "firstName": "Ryoma",
+      "lastName": "Nishikawa"
+    }
+  }
+]

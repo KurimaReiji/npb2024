@@ -1,0 +1,60 @@
+[
+  {
+    "playerId": "23925134",
+    "jaRegisteredName": "Ｒ．マルティネス",
+    "date": "2024-02-19",
+    "jaEvent": "支配下選手登録",
+    "newValue": {
+      "teamCode": "D",
+      "primaryNumber": "92",
+      "primaryPosition": "Pitcher",
+      "jaStatus": "支配下選手",
+      "playerId": "23925134",
+      "jaRegisteredName": "Ｒ．マルティネス",
+      "batSide": "L",
+      "pitchHand": "R",
+      "height": "193",
+      "weight": "93",
+      "birthDate": "1996-10-11",
+      "jaNotes": "",
+      "notes": "",
+      "jaBoxscoreName": "マルティネス",
+      "boxscoreName": "Martinez",
+      "jaFullName": "ライデル・マルティネス",
+      "jaFirstName": "ライデル",
+      "jaLastName": "マルティネス",
+      "fullLFMName": "Martinez, Raidel",
+      "firstName": "Raidel",
+      "lastName": "Martinez"
+    }
+  },
+  {
+    "playerId": "03505136",
+    "jaRegisteredName": "Ｎ．ソト",
+    "date": "2024-02-19",
+    "jaEvent": "支配下選手登録",
+    "newValue": {
+      "teamCode": "M",
+      "primaryNumber": "99",
+      "primaryPosition": "Infielder",
+      "jaStatus": "支配下選手",
+      "playerId": "03505136",
+      "jaRegisteredName": "Ｎ．ソト",
+      "batSide": "R",
+      "pitchHand": "R",
+      "height": "185",
+      "weight": "97",
+      "birthDate": "1989-02-28",
+      "jaNotes": "2/19 支配下選手登録",
+      "notes": "Registered (Feb. 19).",
+      "jaBoxscoreName": "ソト",
+      "boxscoreName": "Soto",
+      "jaFullName": "ネフタリ・ソト",
+      "jaFirstName": "ネフタリ",
+      "jaLastName": "ソト",
+      "fullLFMName": "Soto, Neftali",
+      "firstName": "Neftali",
+      "lastName": "Soto"
+    }
+  }
+]

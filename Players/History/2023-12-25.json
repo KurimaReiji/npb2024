@@ -1,0 +1,112 @@
+[
+  {
+    "playerId": "33335153",
+    "jaRegisteredName": "元山　飛優",
+    "date": "2023-12-25",
+    "jaEvent": "支配下選手登録",
+    "newValue": {
+      "teamCode": "S",
+      "primaryNumber": "6",
+      "primaryPosition": "Infielder",
+      "jaStatus": "支配下選手",
+      "playerId": "33335153",
+      "jaRegisteredName": "元山　飛優",
+      "batSide": "L",
+      "pitchHand": "R",
+      "height": "180",
+      "weight": "79",
+      "birthDate": "1998-12-04",
+      "jaNotes": "",
+      "notes": "",
+      "jaBoxscoreName": "元山",
+      "boxscoreName": "Motoyama",
+      "jaFullName": "元山　飛優",
+      "jaFirstName": "飛優",
+      "jaLastName": "元山",
+      "fullLFMName": "Motoyama, Hiyu",
+      "firstName": "Hiyu",
+      "lastName": "Motoyama"
+    }
+  },
+  {
+    "playerId": "51855151",
+    "jaRegisteredName": "宮川　哲",
+    "date": "2023-12-25",
+    "jaEvent": "支配下選手登録",
+    "newValue": {
+      "teamCode": "L",
+      "primaryNumber": "15",
+      "primaryPosition": "Pitcher",
+      "jaStatus": "支配下選手",
+      "playerId": "51855151",
+      "jaRegisteredName": "宮川　哲",
+      "batSide": "R",
+      "pitchHand": "R",
+      "height": "177",
+      "weight": "86",
+      "birthDate": "1995-10-10",
+      "jaNotes": "",
+      "notes": "",
+      "jaBoxscoreName": "宮川",
+      "boxscoreName": "Miyagawa",
+      "jaFullName": "宮川　哲",
+      "jaFirstName": "哲",
+      "jaLastName": "宮川",
+      "fullLFMName": "Miyagawa, Tetsu",
+      "firstName": "Tetsu",
+      "lastName": "Miyagawa"
+    }
+  },
+  {
+    "playerId": "33335153",
+    "jaRegisteredName": "元山　飛優",
+    "date": "2023-12-25",
+    "jaEvent": "支配下選手登録抹消",
+    "jaEventDetails": "トレード",
+    "newValue": {
+      "teamCode": "",
+      "primaryNumber": "",
+      "primaryPosition": "",
+      "jaStatus": ""
+    }
+  },
+  {
+    "playerId": "51855151",
+    "jaRegisteredName": "宮川　哲",
+    "date": "2023-12-25",
+    "jaEvent": "支配下選手登録抹消",
+    "jaEventDetails": "トレード",
+    "newValue": {
+      "teamCode": "",
+      "primaryNumber": "",
+      "primaryPosition": "",
+      "jaStatus": ""
+    }
+  },
+  {
+    "playerId": "51855151",
+    "jaRegisteredName": "宮川　哲",
+    "date": "2023-12-25",
+    "jaEvent": "支配下選手登録",
+    "jaEventDetails": "トレード",
+    "newValue": {
+      "teamCode": "S",
+      "primaryNumber": "61",
+      "primaryPosition": "Pitcher",
+      "jaStatus": "支配下選手"
+    }
+  },
+  {
+    "playerId": "33335153",
+    "jaRegisteredName": "元山　飛優",
+    "date": "2023-12-25",
+    "jaEvent": "支配下選手登録",
+    "jaEventDetails": "トレード",
+    "newValue": {
+      "teamCode": "L",
+      "primaryNumber": "30",
+      "primaryPosition": "Infielder",
+      "jaStatus": "支配下選手"
+    }
+  }
+]
