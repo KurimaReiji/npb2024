@@ -1,0 +1,31 @@
+[
+  {
+    "playerId": "33235159",
+    "jaRegisteredName": "Ｅ．ヘルナンデス",
+    "date": "2024-05-13",
+    "jaEvent": "支配下選手登録",
+    "newValue": {
+      "teamCode": "G",
+      "primaryNumber": "42",
+      "primaryPosition": "Outfielder",
+      "jaStatus": "支配下選手",
+      "playerId": "33235159",
+      "jaRegisteredName": "Ｅ．ヘルナンデス",
+      "batSide": "R",
+      "pitchHand": "R",
+      "height": "185",
+      "weight": "89",
+      "birthDate": "1994-11-21",
+      "jaNotes": "5/13 支配下選手登録",
+      "notes": "Registered (May. 13).",
+      "jaBoxscoreName": "ヘルナンデス",
+      "boxscoreName": "Hernandez",
+      "jaFullName": "エリエ・ヘルナンデス",
+      "jaFirstName": "エリエ",
+      "jaLastName": "ヘルナンデス",
+      "fullLFMName": "Hernandez, Elier",
+      "firstName": "Elier",
+      "lastName": "Hernandez"
+    }
+  }
+]
