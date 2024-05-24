@@ -1,0 +1,54 @@
+[
+  {
+    "playerId": "11615157",
+    "jaRegisteredName": "橋本　星哉",
+    "date": "2024-05-24",
+    "jaEvent": "育成選手登録抹消",
+    "jaEventDetails": "支配下選手へ移行",
+    "newValue": {
+      "teamCode": "",
+      "primaryNumber": "",
+      "primaryPosition": "",
+      "jaStatus": ""
+    }
+  },
+  {
+    "playerId": "11615157",
+    "jaRegisteredName": "橋本　星哉",
+    "date": "2024-05-24",
+    "jaEvent": "支配下選手登録",
+    "jaEventDetails": "育成選手から移行",
+    "newValue": {
+      "teamCode": "S",
+      "primaryNumber": "93",
+      "primaryPosition": "Catcher",
+      "jaStatus": "支配下選手"
+    }
+  },
+  {
+    "playerId": "21725157",
+    "jaRegisteredName": "才木　海翔",
+    "date": "2024-05-24",
+    "jaEvent": "育成選手登録抹消",
+    "jaEventDetails": "支配下選手へ移行",
+    "newValue": {
+      "teamCode": "",
+      "primaryNumber": "",
+      "primaryPosition": "",
+      "jaStatus": ""
+    }
+  },
+  {
+    "playerId": "21725157",
+    "jaRegisteredName": "才木　海翔",
+    "date": "2024-05-24",
+    "jaEvent": "支配下選手登録",
+    "jaEventDetails": "育成選手から移行",
+    "newValue": {
+      "teamCode": "B",
+      "primaryNumber": "95",
+      "primaryPosition": "Pitcher",
+      "jaStatus": "支配下選手"
+    }
+  }
+]
