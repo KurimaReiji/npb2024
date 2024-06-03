@@ -1,0 +1,28 @@
+[
+  {
+    "playerId": "71075155",
+    "jaRegisteredName": "菅井　信也",
+    "date": "2024-06-03",
+    "jaEvent": "育成選手登録抹消",
+    "jaEventDetails": "支配下選手へ移行",
+    "newValue": {
+      "teamCode": "",
+      "primaryNumber": "",
+      "primaryPosition": "",
+      "jaStatus": ""
+    }
+  },
+  {
+    "playerId": "71075155",
+    "jaRegisteredName": "菅井　信也",
+    "date": "2024-06-03",
+    "jaEvent": "支配下選手登録",
+    "jaEventDetails": "育成選手から移行",
+    "newValue": {
+      "teamCode": "L",
+      "primaryNumber": "71",
+      "primaryPosition": "Pitcher",
+      "jaStatus": "支配下選手"
+    }
+  }
+]
