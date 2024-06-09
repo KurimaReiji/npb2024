@@ -16,4 +16,4 @@ DATA for the NPB 2024 season
 
 ## Homeruns
 
-- [Homeruns](https://kurimareiji.github.io/npb2024/npb2024-homeruns.ndjson)
+- [Homeruns](https://kurimareiji.github.io/npb2024/npb2024-homeruns.ndjson) (ndjson)
