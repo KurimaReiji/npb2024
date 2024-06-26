@@ -1,0 +1,28 @@
+[
+  {
+    "playerId": "41145139",
+    "jaRegisteredName": "石川　歩",
+    "date": "2024-06-24",
+    "jaEvent": "育成選手登録抹消",
+    "jaEventDetails": "支配下選手へ移行",
+    "newValue": {
+      "teamCode": "",
+      "primaryNumber": "",
+      "primaryPosition": "",
+      "jaStatus": ""
+    }
+  },
+  {
+    "playerId": "41145139",
+    "jaRegisteredName": "石川　歩",
+    "date": "2024-06-24",
+    "jaEvent": "支配下選手登録",
+    "jaEventDetails": "育成選手から移行",
+    "newValue": {
+      "teamCode": "M",
+      "primaryNumber": "12",
+      "primaryPosition": "Pitcher",
+      "jaStatus": "支配下選手"
+    }
+  }
+]

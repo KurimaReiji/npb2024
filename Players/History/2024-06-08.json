@@ -1,0 +1,54 @@
+[
+  {
+    "playerId": "43545151",
+    "jaRegisteredName": "Ｙ．ディアス",
+    "date": "2024-06-08",
+    "jaEvent": "育成選手登録抹消",
+    "jaEventDetails": "支配下選手へ移行",
+    "newValue": {
+      "teamCode": "",
+      "primaryNumber": "",
+      "primaryPosition": "",
+      "jaStatus": ""
+    }
+  },
+  {
+    "playerId": "43545151",
+    "jaRegisteredName": "Ｙ．ディアス",
+    "date": "2024-06-08",
+    "jaEvent": "支配下選手登録",
+    "jaEventDetails": "育成選手から移行",
+    "newValue": {
+      "teamCode": "DB",
+      "primaryNumber": "93",
+      "primaryPosition": "Pitcher",
+      "jaStatus": "支配下選手"
+    }
+  },
+  {
+    "playerId": "71875134",
+    "jaRegisteredName": "堀岡　隼人",
+    "date": "2024-06-08",
+    "jaEvent": "育成選手登録抹消",
+    "jaEventDetails": "支配下選手へ移行",
+    "newValue": {
+      "teamCode": "",
+      "primaryNumber": "",
+      "primaryPosition": "",
+      "jaStatus": ""
+    }
+  },
+  {
+    "playerId": "71875134",
+    "jaRegisteredName": "堀岡　隼人",
+    "date": "2024-06-08",
+    "jaEvent": "支配下選手登録",
+    "jaEventDetails": "育成選手から移行",
+    "newValue": {
+      "teamCode": "DB",
+      "primaryNumber": "92",
+      "primaryPosition": "Pitcher",
+      "jaStatus": "支配下選手"
+    }
+  }
+]

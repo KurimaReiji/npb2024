@@ -1,0 +1,28 @@
+[
+  {
+    "playerId": "51555159",
+    "jaRegisteredName": "奥村　光一",
+    "date": "2024-06-09",
+    "jaEvent": "育成選手登録抹消",
+    "jaEventDetails": "支配下選手へ移行",
+    "newValue": {
+      "teamCode": "",
+      "primaryNumber": "",
+      "primaryPosition": "",
+      "jaStatus": ""
+    }
+  },
+  {
+    "playerId": "51555159",
+    "jaRegisteredName": "奥村　光一",
+    "date": "2024-06-09",
+    "jaEvent": "支配下選手登録",
+    "jaEventDetails": "育成選手から移行",
+    "newValue": {
+      "teamCode": "L",
+      "primaryNumber": "75",
+      "primaryPosition": "Outfielder",
+      "jaStatus": "支配下選手"
+    }
+  }
+]

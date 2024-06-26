@@ -1,0 +1,31 @@
+[
+  {
+    "playerId": "13215157",
+    "jaRegisteredName": "Ｌ．ペルドモ",
+    "date": "2024-06-19",
+    "jaEvent": "支配下選手登録",
+    "newValue": {
+      "teamCode": "B",
+      "primaryNumber": "59",
+      "primaryPosition": "Pitcher",
+      "jaStatus": "支配下選手",
+      "playerId": "13215157",
+      "jaRegisteredName": "Ｌ．ペルドモ",
+      "batSide": "R",
+      "pitchHand": "R",
+      "height": "188",
+      "weight": "84",
+      "birthDate": "1993-05-09",
+      "jaNotes": "6/19 支配下選手登録",
+      "notes": "Registered (Jun. 19).",
+      "jaBoxscoreName": "ヘルナンデス",
+      "boxscoreName": "Perdomo",
+      "jaFullName": "ルイス・ペルドモ",
+      "jaFirstName": "ルイス",
+      "jaLastName": "ペルドモ",
+      "fullLFMName": "Perdomo, Luis",
+      "firstName": "Luis",
+      "lastName": "Perdomo"
+    }
+  }
+]

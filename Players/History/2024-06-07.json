@@ -1,0 +1,28 @@
+[
+  {
+    "playerId": "71975159",
+    "jaRegisteredName": "佐藤　啓介",
+    "date": "2024-06-07",
+    "jaEvent": "育成選手登録抹消",
+    "jaEventDetails": "支配下選手へ移行",
+    "newValue": {
+      "teamCode": "",
+      "primaryNumber": "",
+      "primaryPosition": "",
+      "jaStatus": ""
+    }
+  },
+  {
+    "playerId": "71975159",
+    "jaRegisteredName": "佐藤　啓介",
+    "date": "2024-06-07",
+    "jaEvent": "支配下選手登録",
+    "jaEventDetails": "育成選手から移行",
+    "newValue": {
+      "teamCode": "C",
+      "primaryNumber": "94",
+      "primaryPosition": "Infielder",
+      "jaStatus": "支配下選手"
+    }
+  }
+]

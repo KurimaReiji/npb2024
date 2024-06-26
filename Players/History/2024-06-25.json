@@ -1,0 +1,52 @@
+[
+  {
+    "playerId": "71675138",
+    "jaRegisteredName": "牧野　翔矢",
+    "date": "2024-06-25",
+    "jaEvent": "育成選手登録抹消",
+    "jaEventDetails": "支配下選手へ移行",
+    "newValue": {
+      "teamCode": "",
+      "primaryNumber": "",
+      "primaryPosition": "",
+      "jaStatus": ""
+    }
+  },
+  {
+    "playerId": "71675138",
+    "jaRegisteredName": "牧野　翔矢",
+    "date": "2024-06-25",
+    "jaEvent": "支配下選手登録",
+    "jaEventDetails": "育成選手から移行",
+    "newValue": {
+      "teamCode": "L",
+      "primaryNumber": "53",
+      "primaryPosition": "Catcher",
+      "jaStatus": "支配下選手"
+    }
+  },
+  {
+    "playerId": "21825134",
+    "jaRegisteredName": "松原　聖弥",
+    "date": "2024-06-25",
+    "jaEvent": "支配下選手登録",
+    "newValue": {
+      "teamCode": "L",
+      "primaryNumber": "35",
+      "primaryPosition": "Outfielder",
+      "jaStatus": "支配下選手"
+    }
+  },
+  {
+    "playerId": "53555153",
+    "jaRegisteredName": "若林　楽人",
+    "date": "2024-06-25",
+    "jaEvent": "支配下選手登録",
+    "newValue": {
+      "teamCode": "G",
+      "primaryNumber": "59",
+      "primaryPosition": "Outfielder",
+      "jaStatus": "支配下選手"
+    }
+  }
+]

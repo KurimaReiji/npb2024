@@ -1,0 +1,31 @@
+[
+  {
+    "playerId": "53255159",
+    "jaRegisteredName": "翔聖",
+    "date": "2024-06-10",
+    "jaEvent": "育成選手登録",
+    "newValue": {
+      "teamCode": "S",
+      "primaryNumber": "017",
+      "primaryPosition": "Pitcher",
+      "jaStatus": "育成選手",
+      "playerId": "53255159",
+      "jaRegisteredName": "翔聖",
+      "batSide": "R",
+      "pitchHand": "R",
+      "height": "187",
+      "weight": "81",
+      "birthDate": "2005-12-17",
+      "jaNotes": "6/10 育成選手登録",
+      "notes": "Registered (Jun. 10).",
+      "jaBoxscoreName": "翔聖",
+      "boxscoreName": "Takahashi",
+      "jaFullName": "髙橋　翔聖",
+      "jaFirstName": "翔聖",
+      "jaLastName": "髙橋",
+      "fullLFMName": "Takahashi, Shosei",
+      "firstName": "Shosei",
+      "lastName": "Takahashi"
+    }
+  }
+]
