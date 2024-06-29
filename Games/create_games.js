@@ -1,12 +1,12 @@
 import { existsSync, readFileSync, writeFileSync } from "fs";
 
-const teams = JSON.parse(readFileSync("../Teams/npb2024-teams.json", "utf-8"));
+const teams = JSON.parse(readFileSync("../docs/npb2024-teams.json", "utf-8"));
 const baystars = teams.find(({ teamName }) => teamName === "Baystars")
 baystars.jaShortFranchiseName = "DeNA";
 const toTeamName = (t) => teams.find(({ jaShortFranchiseName }) => jaShortFranchiseName === t).teamName;
 const toTeamCode = (t) => teams.find(({ jaShortFranchiseName }) => jaShortFranchiseName === t).teamCode;
 
-const venues = JSON.parse(readFileSync("../../../npb2024/docs/npb2024-stadiums.json", "utf-8"));
+const venues = JSON.parse(readFileSync("../docs/npb2024-stadiums.json", "utf-8"));
 // PayPay until 2024-04-21
 // MIZUHO PayPay after 2024-04-27
 const paypay = venues.find((v) => v.jaBoxscoreName === "PayPayドーム");
