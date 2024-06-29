@@ -1,0 +1,34 @@
+name: get CS% leaders
+on:
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    env:
+      CI_COMMIT_MESSAGE: The CS% leaders saved
+    steps:
+    - uses: actions/checkout@v4
+    - uses: actions/setup-node@v4
+      with:
+        node-version: 18
+    - name: install puppeteer
+      run: npm ci
+    - name: get CS% leaders of yesterday
+      run: make
+      working-directory: ./StolenBases/leaders
+    - name: Check diff
+      id: diff
+      run: |
+        git add .
+        git diff --name-only --exit-code
+      continue-on-error: true
+    - name: Commit and push to GitHub if needed
+      if: steps.diff.outcome == 'failure'
+    - name: commit and push
+      run: |
+        git config --global user.name github-actions[bot]
+        git config --global user.email "${{ secrets.MY_SECRET_EMAIL}}"
+        git add .
+        git commit -a -m "${{ env.CI_COMMIT_MESSAGE }}"
+        git push
