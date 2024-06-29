@@ -1,0 +1,59 @@
+[
+  {
+    "jaText": "（走者・門脇）二塁盗塁成功",
+    "text": "Kadowaki steals 2nd base.",
+    "pickoff": ""
+  },
+  {
+    "jaText": "（走者・近本）二塁盗塁成功",
+    "text": "Chikamoto steals 2nd base.",
+    "pickoff": ""
+  },
+  {
+    "jaText": "（走者・ノイジー）二塁盗塁成功",
+    "text": "Neuse steals 2nd base.",
+    "pickoff": "",
+    "isK": "Y"
+  },
+  {
+    "jaText": "（走者・塩見）二塁盗塁成功",
+    "text": "Shiomi steals 2nd base.",
+    "pickoff": "",
+    "isK": "Y"
+  },
+  {
+    "jaText": "（走者・野間）二塁盗塁成功",
+    "text": "Noma steals 2nd base.",
+    "pickoff": "",
+    "catcher": {
+      "id": "61365132",
+      "jaBoxscoreName": "宇佐見",
+      "boxscoreName": "Usami"
+    }
+  },
+  {
+    "jaText": "（走者・小深田）二塁盗塁成功",
+    "text": "Kobukata steals 2nd base.",
+    "pickoff": "",
+    "catcher": {
+      "id": "81385151",
+      "jaBoxscoreName": "海野",
+      "boxscoreName": "Umino"
+    }
+  },
+  {
+    "jaText": "（走者・辰己）二塁盗塁成功",
+    "text": "R.Tatsumi steals 2nd base.",
+    "pickoff": "",
+    "catcher": {
+      "id": "81385151",
+      "jaBoxscoreName": "海野",
+      "boxscoreName": "Umino"
+    }
+  },
+  {
+    "jaText": "（走者・岡）二塁盗塁成功",
+    "text": "Oka steals 2nd base.",
+    "pickoff": ""
+  }
+]

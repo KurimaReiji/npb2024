@@ -1,0 +1,323 @@
+[
+  {
+    "date": "2024-06-23",
+    "runner": {
+      "id": "91395132",
+      "jaBoxscoreName": "板山",
+      "boxscoreName": "Itayama"
+    },
+    "batter": {
+      "id": "31835134",
+      "jaBoxscoreName": "細川",
+      "boxscoreName": "Hosokawa",
+      "batSide": "R"
+    },
+    "pitcher": {
+      "id": "41245151",
+      "jaBoxscoreName": "玉村",
+      "boxscoreName": "Tamamura",
+      "pitchHand": "L"
+    },
+    "catcher": {
+      "id": "21125151",
+      "jaBoxscoreName": "石原",
+      "boxscoreName": "Ishihara"
+    },
+    "scoring": "CaughtStealing",
+    "base": "2B",
+    "pickoff": "",
+    "inning": 1,
+    "halfInning": "bottom",
+    "outs": 2,
+    "RoB": "1--",
+    "runs": {
+      "road": 0,
+      "home": 0
+    },
+    "venue": {
+      "jaBoxscoreName": "バンテリンドーム",
+      "boxscoreName": "Vantelin Dome",
+      "jaName": "バンテリンドーム ナゴヤ",
+      "name": "Vantelin Dome Nagoya"
+    },
+    "teams": {
+      "road": {
+        "teamCode": "C",
+        "teamName": "Carp",
+        "score": 1
+      },
+      "home": {
+        "teamCode": "D",
+        "teamName": "Dragons",
+        "score": 2
+      }
+    },
+    "jaText": "（走者・板山）二塁盗塁失敗",
+    "text": "Itayama caught stealing 2nd base.",
+    "url": "https://npb.jp/scores/2024/0623/d-c-10/playbyplay.html#com1-2",
+    "catchers": [
+      {
+        "id": "21125151",
+        "jaBoxscoreName": "石原",
+        "boxscoreName": "Ishihara"
+      }
+    ]
+  },
+  {
+    "date": "2024-06-23",
+    "runner": {
+      "id": "71575159",
+      "jaBoxscoreName": "尾田",
+      "boxscoreName": "Oda"
+    },
+    "batter": {
+      "id": "91095135",
+      "jaBoxscoreName": "高橋周",
+      "boxscoreName": "S.Takahashi",
+      "batSide": "L"
+    },
+    "pitcher": {
+      "id": "31935138",
+      "jaBoxscoreName": "島内",
+      "boxscoreName": "Shimauchi",
+      "pitchHand": "R"
+    },
+    "catcher": {
+      "id": "21125151",
+      "jaBoxscoreName": "石原",
+      "boxscoreName": "Ishihara"
+    },
+    "scoring": "CaughtStealing",
+    "base": "2B",
+    "pickoff": "",
+    "inning": 8,
+    "halfInning": "bottom",
+    "outs": 2,
+    "RoB": "1--",
+    "runs": {
+      "road": 1,
+      "home": 2
+    },
+    "venue": {
+      "jaBoxscoreName": "バンテリンドーム",
+      "boxscoreName": "Vantelin Dome",
+      "jaName": "バンテリンドーム ナゴヤ",
+      "name": "Vantelin Dome Nagoya"
+    },
+    "teams": {
+      "road": {
+        "teamCode": "C",
+        "teamName": "Carp",
+        "score": 1
+      },
+      "home": {
+        "teamCode": "D",
+        "teamName": "Dragons",
+        "score": 2
+      }
+    },
+    "jaText": "（走者・尾田）二塁盗塁失敗",
+    "text": "Oda caught stealing 2nd base.",
+    "url": "https://npb.jp/scores/2024/0623/d-c-10/playbyplay.html#com8-2",
+    "catchers": [
+      {
+        "id": "21125151",
+        "jaBoxscoreName": "石原",
+        "boxscoreName": "Ishihara"
+      }
+    ]
+  },
+  {
+    "date": "2024-06-23",
+    "runner": {
+      "id": "51955151",
+      "jaBoxscoreName": "岸",
+      "boxscoreName": "Kishi"
+    },
+    "batter": {
+      "id": "31035134",
+      "jaBoxscoreName": "鈴木",
+      "boxscoreName": "Suzuki",
+      "batSide": "L"
+    },
+    "pitcher": {
+      "id": "73775157",
+      "jaBoxscoreName": "カスティーヨ",
+      "boxscoreName": "Castillo",
+      "pitchHand": "R"
+    },
+    "catcher": {
+      "id": "91495139",
+      "jaBoxscoreName": "森",
+      "boxscoreName": "Mori"
+    },
+    "scoring": "StolenBase",
+    "base": "2B",
+    "pickoff": "",
+    "inning": 7,
+    "halfInning": "top",
+    "outs": 1,
+    "RoB": "1--",
+    "runs": {
+      "road": 0,
+      "home": 4
+    },
+    "venue": {
+      "jaBoxscoreName": "京セラD大阪",
+      "boxscoreName": "Kyocera Dome",
+      "jaName": "京セラドーム大阪",
+      "name": "Kyocera Dome Osaka"
+    },
+    "teams": {
+      "road": {
+        "teamCode": "L",
+        "teamName": "Lions",
+        "score": 1
+      },
+      "home": {
+        "teamCode": "B",
+        "teamName": "Buffaloes",
+        "score": 4
+      }
+    },
+    "jaText": "（走者・岸）二塁盗塁成功",
+    "text": "Kishi steals 2nd base.",
+    "url": "https://npb.jp/scores/2024/0623/b-l-12/playbyplay.html#com7-1",
+    "catchers": [
+      {
+        "id": "91495139",
+        "jaBoxscoreName": "森",
+        "boxscoreName": "Mori"
+      }
+    ]
+  },
+  {
+    "date": "2024-06-23",
+    "runner": {
+      "id": "33335136",
+      "jaBoxscoreName": "和田",
+      "boxscoreName": "Wada"
+    },
+    "batter": {
+      "id": "11215151",
+      "jaBoxscoreName": "髙部",
+      "boxscoreName": "Takabe",
+      "batSide": "L"
+    },
+    "pitcher": {
+      "id": "31635155",
+      "jaBoxscoreName": "長谷川",
+      "boxscoreName": "Hasegawa",
+      "pitchHand": "L"
+    },
+    "catcher": {},
+    "scoring": "StolenBase",
+    "base": "2B",
+    "pickoff": "",
+    "inning": 12,
+    "halfInning": "top",
+    "outs": 2,
+    "RoB": "1--",
+    "runs": {
+      "road": 6,
+      "home": 6
+    },
+    "venue": {
+      "jaBoxscoreName": "みずほPayPay",
+      "boxscoreName": "MIZUHO PayPay Dome",
+      "jaName": "みずほPayPayドーム福岡",
+      "name": "MIZUHO PayPay Dome FUKUOKA"
+    },
+    "teams": {
+      "road": {
+        "teamCode": "M",
+        "teamName": "Marines",
+        "score": 6
+      },
+      "home": {
+        "teamCode": "H",
+        "teamName": "Hawks",
+        "score": 6
+      }
+    },
+    "jaText": "（走者・和田）二塁盗塁成功",
+    "text": "Wada steals 2nd base.",
+    "url": "https://npb.jp/scores/2024/0623/h-m-12/playbyplay.html#com12-1",
+    "catchers": [
+      {
+        "id": "91595133",
+        "jaBoxscoreName": "甲斐",
+        "boxscoreName": "T.Kai"
+      },
+      {
+        "id": "81385151",
+        "jaBoxscoreName": "海野",
+        "boxscoreName": "Umino"
+      }
+    ]
+  },
+  {
+    "date": "2024-06-23",
+    "runner": {
+      "id": "91095151",
+      "jaBoxscoreName": "佐藤直",
+      "boxscoreName": "N.Satoh"
+    },
+    "batter": {
+      "id": "21925136",
+      "jaBoxscoreName": "周東",
+      "boxscoreName": "Shuto",
+      "batSide": "L"
+    },
+    "pitcher": {
+      "id": "81985133",
+      "jaBoxscoreName": "澤村",
+      "boxscoreName": "Sawamura",
+      "pitchHand": "R"
+    },
+    "catcher": {
+      "id": "71075151",
+      "jaBoxscoreName": "佐藤",
+      "boxscoreName": "Satoh"
+    },
+    "scoring": "PickedOff",
+    "base": "1B",
+    "pickoff": "",
+    "inning": 12,
+    "halfInning": "bottom",
+    "outs": 1,
+    "RoB": "1--",
+    "runs": {
+      "road": 6,
+      "home": 6
+    },
+    "venue": {
+      "jaBoxscoreName": "みずほPayPay",
+      "boxscoreName": "MIZUHO PayPay Dome",
+      "jaName": "みずほPayPayドーム福岡",
+      "name": "MIZUHO PayPay Dome FUKUOKA"
+    },
+    "teams": {
+      "road": {
+        "teamCode": "M",
+        "teamName": "Marines",
+        "score": 6
+      },
+      "home": {
+        "teamCode": "H",
+        "teamName": "Hawks",
+        "score": 6
+      }
+    },
+    "jaText": "（走者・佐藤直）一塁牽制アウト",
+    "text": "N.Satoh picked off at 1st base.",
+    "url": "https://npb.jp/scores/2024/0623/h-m-12/playbyplay.html#com12-2",
+    "catchers": [
+      {
+        "id": "71075151",
+        "jaBoxscoreName": "佐藤",
+        "boxscoreName": "Satoh"
+      }
+    ]
+  }
+]

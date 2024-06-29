@@ -1,0 +1,214 @@
+[
+  {
+    "id": "41245130-2024-01",
+    "date": "2024-04-04",
+    "batter": {
+      "id": "41245130",
+      "jaBoxscoreName": "外崎",
+      "boxscoreName": "Tonosaki",
+      "batSide": "R"
+    },
+    "pitcher": {
+      "id": "71175136",
+      "jaBoxscoreName": "東",
+      "boxscoreName": "Azuma",
+      "pitchHand": "R"
+    },
+    "number": 1,
+    "inning": 7,
+    "halfInning": "bottom",
+    "outs": 1,
+    "RoB": "---",
+    "count": {
+      "balls": 2,
+      "strikes": 2
+    },
+    "runs": {
+      "road": 2,
+      "home": 0
+    },
+    "bop": 3,
+    "rbi": 1,
+    "whereHit": "7",
+    "venue": {
+      "jaBoxscoreName": "ベルーナドーム",
+      "boxscoreName": "Belluna Dome",
+      "jaName": "ベルーナドーム",
+      "name": "Belluna Dome"
+    },
+    "teams": {
+      "road": {
+        "teamCode": "B",
+        "teamName": "Buffaloes",
+        "score": 2
+      },
+      "home": {
+        "teamCode": "L",
+        "teamName": "Lions",
+        "score": 1
+      }
+    },
+    "jaText": "レフトソロホームラン（打点1）",
+    "text": "Tonosaki homers (1) to left field.",
+    "url": "https://npb.jp/scores/2024/0404/l-b-03/playbyplay.html#com7-2"
+  },
+  {
+    "id": "41645136-2024-01",
+    "date": "2024-04-04",
+    "batter": {
+      "id": "41645136",
+      "jaBoxscoreName": "藤岡",
+      "boxscoreName": "Fujioka",
+      "batSide": "L"
+    },
+    "pitcher": {
+      "id": "01305157",
+      "jaBoxscoreName": "大津",
+      "boxscoreName": "Ohtsu",
+      "pitchHand": "R"
+    },
+    "number": 1,
+    "inning": 1,
+    "halfInning": "top",
+    "outs": 2,
+    "RoB": "---",
+    "count": {
+      "balls": 1,
+      "strikes": 0
+    },
+    "runs": {
+      "road": 0,
+      "home": 0
+    },
+    "bop": 3,
+    "rbi": 1,
+    "whereHit": "9",
+    "venue": {
+      "jaBoxscoreName": "PayPayドーム",
+      "boxscoreName": "PayPay Dome",
+      "jaName": "福岡PayPayドーム",
+      "name": "Fukuoka PayPay Dome"
+    },
+    "teams": {
+      "road": {
+        "teamCode": "M",
+        "teamName": "Marines",
+        "score": 1
+      },
+      "home": {
+        "teamCode": "H",
+        "teamName": "Hawks",
+        "score": 8
+      }
+    },
+    "jaText": "ライトソロホームラン（打点1）",
+    "text": "Fujioka homers (1) to right field.",
+    "url": "https://npb.jp/scores/2024/0404/h-m-03/playbyplay.html#com1-1"
+  },
+  {
+    "id": "41745135-2024-01",
+    "date": "2024-04-04",
+    "batter": {
+      "id": "41745135",
+      "jaBoxscoreName": "近藤",
+      "boxscoreName": "Kondoh",
+      "batSide": "L"
+    },
+    "pitcher": {
+      "id": "01605133",
+      "jaBoxscoreName": "美馬",
+      "boxscoreName": "Mima",
+      "pitchHand": "R"
+    },
+    "number": 1,
+    "inning": 1,
+    "halfInning": "bottom",
+    "outs": 1,
+    "RoB": "-2-",
+    "count": {
+      "balls": 2,
+      "strikes": 1
+    },
+    "runs": {
+      "road": 1,
+      "home": 2
+    },
+    "bop": 5,
+    "rbi": 2,
+    "whereHit": "9",
+    "venue": {
+      "jaBoxscoreName": "PayPayドーム",
+      "boxscoreName": "PayPay Dome",
+      "jaName": "福岡PayPayドーム",
+      "name": "Fukuoka PayPay Dome"
+    },
+    "teams": {
+      "road": {
+        "teamCode": "M",
+        "teamName": "Marines",
+        "score": 1
+      },
+      "home": {
+        "teamCode": "H",
+        "teamName": "Hawks",
+        "score": 8
+      }
+    },
+    "jaText": "ライト2ランホームラン（打点2）",
+    "text": "Kondoh homers (1) to right field.",
+    "url": "https://npb.jp/scores/2024/0404/h-m-03/playbyplay.html#com1-2"
+  },
+  {
+    "id": "31335131-2024-02",
+    "date": "2024-04-04",
+    "batter": {
+      "id": "31335131",
+      "jaBoxscoreName": "今宮",
+      "boxscoreName": "Imamiya",
+      "batSide": "R"
+    },
+    "pitcher": {
+      "id": "13915159",
+      "jaBoxscoreName": "ダイクストラ",
+      "boxscoreName": "Dykstra",
+      "pitchHand": "R"
+    },
+    "number": 2,
+    "inning": 6,
+    "halfInning": "bottom",
+    "outs": 2,
+    "RoB": "---",
+    "count": {
+      "balls": 2,
+      "strikes": 1
+    },
+    "runs": {
+      "road": 1,
+      "home": 7
+    },
+    "bop": 2,
+    "rbi": 1,
+    "whereHit": "7",
+    "venue": {
+      "jaBoxscoreName": "PayPayドーム",
+      "boxscoreName": "PayPay Dome",
+      "jaName": "福岡PayPayドーム",
+      "name": "Fukuoka PayPay Dome"
+    },
+    "teams": {
+      "road": {
+        "teamCode": "M",
+        "teamName": "Marines",
+        "score": 1
+      },
+      "home": {
+        "teamCode": "H",
+        "teamName": "Hawks",
+        "score": 8
+      }
+    },
+    "jaText": "レフトソロホームラン（打点1）",
+    "text": "Imamiya homers (2) to left field.",
+    "url": "https://npb.jp/scores/2024/0404/h-m-03/playbyplay.html#com6-2"
+  }
+]

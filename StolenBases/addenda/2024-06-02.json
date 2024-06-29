@@ -1,0 +1,87 @@
+[
+  {
+    "jaText": "（走者・重信）二塁盗塁成功",
+    "text": "Shigenobu steals 2nd base.",
+    "pickoff": "",
+    "catcher": {
+      "id": "61265151",
+      "jaBoxscoreName": "柘植",
+      "boxscoreName": "Tsuge"
+    }
+  },
+  {
+    "jaText": "（走者・森下）二塁盗塁失敗",
+    "text": "Morishita picked off and caught stealing 2nd base.",
+    "pickoff": "Y",
+    "catcher": {
+      "id": "71075151",
+      "jaBoxscoreName": "佐藤",
+      "boxscoreName": "Satoh"
+    }
+  },
+  {
+    "jaText": "（走者・岡林）本塁盗塁失敗",
+    "text": "Okabayashi picked off and caught stealing home plate.",
+    "pickoff": "Y"
+  },
+  {
+    "jaText": "（走者・中川）二塁盗塁成功",
+    "text": "Nakagawa steals 2nd base.",
+    "pickoff": "",
+    "catcher": {
+      "id": "91195138",
+      "jaBoxscoreName": "石橋",
+      "boxscoreName": "Ishibashi"
+    }
+  },
+  {
+    "jaText": "（走者・村松）二塁盗塁失敗",
+    "text": "Muramatsu caught stealing 2nd base.",
+    "pickoff": ""
+  },
+  {
+    "jaText": "（走者・西川）二塁盗塁成功",
+    "text": "Nishikawa steals 2nd base.",
+    "pickoff": "",
+    "catcher": {
+      "id": "91195138",
+      "jaBoxscoreName": "石橋",
+      "boxscoreName": "Ishibashi"
+    }
+  },
+  {
+    "jaText": "（走者・中川）二塁盗塁成功",
+    "text": "Nakagawa steals 2nd base.",
+    "pickoff": "",
+    "catcher": {
+      "id": "91195138",
+      "jaBoxscoreName": "石橋",
+      "boxscoreName": "Ishibashi"
+    }
+  },
+  {
+    "jaText": "（走者・福田）二塁盗塁成功",
+    "text": "Fukuda steals 2nd base.",
+    "pickoff": "",
+    "catcher": {
+      "id": "91195138",
+      "jaBoxscoreName": "石橋",
+      "boxscoreName": "Ishibashi"
+    }
+  },
+  {
+    "jaText": "（走者・佐藤直）二塁盗塁失敗",
+    "text": "N.Satoh caught stealing 2nd base.",
+    "pickoff": ""
+  },
+  {
+    "jaText": "（走者・佐藤直）二塁盗塁失敗",
+    "text": "N.Satoh caught stealing 2nd base.",
+    "pickoff": ""
+  },
+  {
+    "jaText": "（走者・佐藤直）二塁盗塁成功",
+    "text": "N.Satoh steals 2nd base.",
+    "pickoff": ""
+  }
+]

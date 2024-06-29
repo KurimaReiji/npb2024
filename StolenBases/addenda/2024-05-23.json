@@ -1,0 +1,32 @@
+[
+  {
+    "jaText": "（走者・桑原）二塁盗塁成功",
+    "text": "Kuwahara steals 2nd base.",
+    "pickoff": ""
+  },
+  {
+    "jaText": "（走者・中野）二塁盗塁成功",
+    "text": "Nakano steals 2nd base.",
+    "pickoff": ""
+  },
+  {
+    "jaText": "（走者・矢野）二塁盗塁成功",
+    "text": "Yano steals 2nd base.",
+    "pickoff": ""
+  },
+  {
+    "jaText": "（走者・渡邉）二塁盗塁失敗",
+    "text": "Watanabe caught stealing 2nd base.",
+    "pickoff": ""
+  },
+  {
+    "jaText": "（走者・矢野）二塁盗塁失敗",
+    "text": "Yano picked off and caught stealing 2nd base.",
+    "pickoff": "Y"
+  },
+  {
+    "jaText": "（走者・茶野）二塁盗塁成功",
+    "text": "Chano steals 2nd base.",
+    "pickoff": ""
+  }
+]

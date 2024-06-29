@@ -1,0 +1,37 @@
+[
+  {
+    "jaText": "（走者・金子侑）二塁盗塁成功",
+    "text": "Y.Kaneko steals 2nd base.",
+    "pickoff": ""
+  },
+  {
+    "jaText": "（走者・源田）二塁盗塁失敗",
+    "text": "Genda caught stealing 2nd base.",
+    "pickoff": ""
+  },
+  {
+    "jaText": "（走者・石井）二塁盗塁失敗",
+    "text": "Ishii picked off and caught stealing 2nd base.",
+    "pickoff": "Y"
+  },
+  {
+    "jaText": "（走者・村林）二塁盗塁成功",
+    "text": "Murabayashi steals 2nd base.",
+    "pickoff": ""
+  },
+  {
+    "jaText": "（走者・近藤）二塁盗塁成功",
+    "text": "Kondoh steals 2nd base.",
+    "pickoff": ""
+  },
+  {
+    "jaText": "（走者・友杉）二塁盗塁成功",
+    "text": "Tomosugi steals 2nd base.",
+    "pickoff": "",
+    "catcher": {
+      "id": "91495139",
+      "jaBoxscoreName": "森",
+      "boxscoreName": "Mori"
+    }
+  }
+]

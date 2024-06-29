@@ -1,0 +1,42 @@
+[
+  {
+    "jaText": "（走者・牧）二塁盗塁成功",
+    "text": "Maki steals 2nd base.",
+    "pickoff": "",
+    "catcher": {
+      "id": "51255118",
+      "jaBoxscoreName": "中村",
+      "boxscoreName": "Nakamura"
+    }
+  },
+  {
+    "jaText": "（走者・度会）二塁盗塁成功",
+    "text": "Watarai steals 2nd base.",
+    "pickoff": "",
+    "catcher": {
+      "id": "51255118",
+      "jaBoxscoreName": "中村",
+      "boxscoreName": "Nakamura"
+    }
+  },
+  {
+    "jaText": "（走者・田中）二塁盗塁成功",
+    "text": "Tanaka steals 2nd base.",
+    "pickoff": ""
+  },
+  {
+    "jaText": "（走者・小郷）二塁盗塁成功",
+    "text": "Ogoh steals 2nd base.",
+    "pickoff": ""
+  },
+  {
+    "jaText": "（走者・髙松）二塁盗塁成功",
+    "text": "Takamatsu steals 2nd base.",
+    "pickoff": ""
+  },
+  {
+    "jaText": "（走者・野口）二塁盗塁失敗",
+    "text": "Noguchi caught stealing 2nd base.",
+    "pickoff": ""
+  }
+]

@@ -1,0 +1,322 @@
+[
+  {
+    "date": "2024-04-25",
+    "runner": {
+      "id": "01405130",
+      "jaBoxscoreName": "野間",
+      "boxscoreName": "Noma"
+    },
+    "batter": {
+      "id": "01705138",
+      "jaBoxscoreName": "小園",
+      "boxscoreName": "Kozono",
+      "batSide": "L"
+    },
+    "pitcher": {
+      "id": "51055132",
+      "jaBoxscoreName": "高橋",
+      "boxscoreName": "Takahashi",
+      "pitchHand": "L"
+    },
+    "catcher": {
+      "id": "51255118",
+      "jaBoxscoreName": "中村",
+      "boxscoreName": "Nakamura"
+    },
+    "scoring": "CaughtStealing",
+    "base": "2B",
+    "pickoff": "",
+    "inning": 1,
+    "halfInning": "top",
+    "outs": 2,
+    "RoB": "1--",
+    "runs": {
+      "road": 1,
+      "home": 0
+    },
+    "venue": {
+      "jaBoxscoreName": "神宮",
+      "boxscoreName": "Jingu",
+      "jaName": "神宮",
+      "name": "Jingu Stadium"
+    },
+    "teams": {
+      "road": {
+        "teamCode": "C",
+        "teamName": "Carp",
+        "score": 8
+      },
+      "home": {
+        "teamCode": "S",
+        "teamName": "Swallows",
+        "score": 9
+      }
+    },
+    "jaText": "（走者・野間）二塁盗塁失敗",
+    "text": "Noma caught stealing 2nd base.",
+    "url": "https://npb.jp/scores/2024/0425/s-c-04/playbyplay.html#com1-1",
+    "catchers": [
+      {
+        "id": "51255118",
+        "jaBoxscoreName": "中村",
+        "boxscoreName": "Nakamura"
+      }
+    ]
+  },
+  {
+    "date": "2024-04-25",
+    "runner": {
+      "id": "51355155",
+      "jaBoxscoreName": "岩田",
+      "boxscoreName": "Iwata"
+    },
+    "batter": {
+      "id": "93195155",
+      "jaBoxscoreName": "丸山和",
+      "boxscoreName": "K.Maruyama",
+      "batSide": "L"
+    },
+    "pitcher": {
+      "id": "31935138",
+      "jaBoxscoreName": "島内",
+      "boxscoreName": "Shimauchi",
+      "pitchHand": "R"
+    },
+    "catcher": {
+      "id": "11915134",
+      "jaBoxscoreName": "坂倉",
+      "boxscoreName": "Sakakura"
+    },
+    "scoring": "StolenBase",
+    "base": "2B",
+    "pickoff": "",
+    "inning": 8,
+    "halfInning": "bottom",
+    "outs": 2,
+    "RoB": "1--",
+    "runs": {
+      "road": 8,
+      "home": 8
+    },
+    "venue": {
+      "jaBoxscoreName": "神宮",
+      "boxscoreName": "Jingu",
+      "jaName": "神宮",
+      "name": "Jingu Stadium"
+    },
+    "teams": {
+      "road": {
+        "teamCode": "C",
+        "teamName": "Carp",
+        "score": 8
+      },
+      "home": {
+        "teamCode": "S",
+        "teamName": "Swallows",
+        "score": 9
+      }
+    },
+    "jaText": "（走者・岩田）二塁盗塁成功",
+    "text": "Iwata steals 2nd base.",
+    "url": "https://npb.jp/scores/2024/0425/s-c-04/playbyplay.html#com8-2",
+    "catchers": [
+      {
+        "id": "11915134",
+        "jaBoxscoreName": "坂倉",
+        "boxscoreName": "Sakakura"
+      }
+    ]
+  },
+  {
+    "date": "2024-04-25",
+    "runner": {
+      "id": "61965151",
+      "jaBoxscoreName": "小深田",
+      "boxscoreName": "Kobukata"
+    },
+    "batter": {
+      "id": "81385138",
+      "jaBoxscoreName": "小郷",
+      "boxscoreName": "Ogoh",
+      "batSide": "L"
+    },
+    "pitcher": {
+      "id": "61065136",
+      "jaBoxscoreName": "田中瑛",
+      "boxscoreName": "E.Tanaka",
+      "pitchHand": "R"
+    },
+    "catcher": {
+      "id": "51055138",
+      "jaBoxscoreName": "田宮",
+      "boxscoreName": "Tamiya"
+    },
+    "scoring": "StolenBase",
+    "base": "2B",
+    "pickoff": "",
+    "inning": 5,
+    "halfInning": "bottom",
+    "outs": 0,
+    "RoB": "1--",
+    "runs": {
+      "road": 0,
+      "home": 2
+    },
+    "venue": {
+      "jaBoxscoreName": "楽天モバイル",
+      "boxscoreName": "Rakuten Mobile",
+      "jaName": "楽天モバイルパーク宮城",
+      "name": "Rakuten Mobile Park Miyagi"
+    },
+    "teams": {
+      "road": {
+        "teamCode": "F",
+        "teamName": "Fighters",
+        "score": 1
+      },
+      "home": {
+        "teamCode": "E",
+        "teamName": "Eagles",
+        "score": 5
+      }
+    },
+    "jaText": "（走者・小深田）二塁盗塁成功",
+    "text": "Kobukata steals 2nd base.",
+    "url": "https://npb.jp/scores/2024/0425/e-f-04/playbyplay.html#com5-2",
+    "catchers": [
+      {
+        "id": "51055138",
+        "jaBoxscoreName": "田宮",
+        "boxscoreName": "Tamiya"
+      }
+    ]
+  },
+  {
+    "date": "2024-04-25",
+    "runner": {
+      "id": "41745135",
+      "jaBoxscoreName": "近藤",
+      "boxscoreName": "Kondoh"
+    },
+    "batter": {
+      "id": "03705155",
+      "jaBoxscoreName": "ウォーカー",
+      "boxscoreName": "Walker",
+      "batSide": "R"
+    },
+    "pitcher": {
+      "id": "01205118",
+      "jaBoxscoreName": "西野",
+      "boxscoreName": "Nishino",
+      "pitchHand": "R"
+    },
+    "catcher": {
+      "id": "41945137",
+      "jaBoxscoreName": "田村",
+      "boxscoreName": "Tamura"
+    },
+    "scoring": "StolenBase",
+    "base": "2B",
+    "pickoff": "",
+    "inning": 2,
+    "halfInning": "top",
+    "outs": 1,
+    "RoB": "1--",
+    "runs": {
+      "road": 0,
+      "home": 0
+    },
+    "venue": {
+      "jaBoxscoreName": "ZOZOマリン",
+      "boxscoreName": "ZOZO Marine",
+      "jaName": "ZOZOマリンスタジアム",
+      "name": "ZOZO Marine Stadium"
+    },
+    "teams": {
+      "road": {
+        "teamCode": "H",
+        "teamName": "Hawks",
+        "score": 6
+      },
+      "home": {
+        "teamCode": "M",
+        "teamName": "Marines",
+        "score": 0
+      }
+    },
+    "jaText": "（走者・近藤）二塁盗塁成功",
+    "text": "Kondoh steals 2nd base.",
+    "url": "https://npb.jp/scores/2024/0425/m-h-06/playbyplay.html#com2-1",
+    "catchers": [
+      {
+        "id": "41945137",
+        "jaBoxscoreName": "田村",
+        "boxscoreName": "Tamura"
+      }
+    ]
+  },
+  {
+    "date": "2024-04-25",
+    "runner": {
+      "id": "11715155",
+      "jaBoxscoreName": "川村",
+      "boxscoreName": "Kawamura"
+    },
+    "batter": {
+      "id": "31335131",
+      "jaBoxscoreName": "今宮",
+      "boxscoreName": "Imamiya",
+      "batSide": "R"
+    },
+    "pitcher": {
+      "id": "71675135",
+      "jaBoxscoreName": "益田",
+      "boxscoreName": "Masuda",
+      "pitchHand": "R"
+    },
+    "catcher": {
+      "id": "41945137",
+      "jaBoxscoreName": "田村",
+      "boxscoreName": "Tamura"
+    },
+    "scoring": "StolenBase",
+    "base": "2B",
+    "pickoff": "",
+    "inning": 9,
+    "halfInning": "top",
+    "outs": 2,
+    "RoB": "1--",
+    "runs": {
+      "road": 5,
+      "home": 0
+    },
+    "venue": {
+      "jaBoxscoreName": "ZOZOマリン",
+      "boxscoreName": "ZOZO Marine",
+      "jaName": "ZOZOマリンスタジアム",
+      "name": "ZOZO Marine Stadium"
+    },
+    "teams": {
+      "road": {
+        "teamCode": "H",
+        "teamName": "Hawks",
+        "score": 6
+      },
+      "home": {
+        "teamCode": "M",
+        "teamName": "Marines",
+        "score": 0
+      }
+    },
+    "jaText": "（走者・川村）二塁盗塁成功",
+    "text": "Kawamura steals 2nd base.",
+    "url": "https://npb.jp/scores/2024/0425/m-h-06/playbyplay.html#com9-1",
+    "catchers": [
+      {
+        "id": "41945137",
+        "jaBoxscoreName": "田村",
+        "boxscoreName": "Tamura"
+      }
+    ]
+  }
+]

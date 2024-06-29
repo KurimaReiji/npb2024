@@ -1,0 +1,57 @@
+[
+  {
+    "jaText": "（走者・桑原）二塁盗塁成功",
+    "text": "Kuwahara steals 2nd base.",
+    "pickoff": "",
+    "catcher": {
+      "id": "21325136",
+      "jaBoxscoreName": "大城卓",
+      "boxscoreName": "T.Ohshiro"
+    }
+  },
+  {
+    "jaText": "（走者・オコエ）二塁盗塁成功",
+    "text": "Okoye steals 2nd base.",
+    "pickoff": ""
+  },
+  {
+    "jaText": "（走者・関根）一塁牽制アウト",
+    "text": "Sekine picked off at 1st base.",
+    "pickoff": "Y",
+    "catcher": {
+      "id": "21325136",
+      "jaBoxscoreName": "大城卓",
+      "boxscoreName": "T.Ohshiro"
+    }
+  },
+  {
+    "jaText": "（走者・矢野）一塁牽制アウト",
+    "text": "Yano picked off at 1st base.",
+    "pickoff": "Y"
+  },
+  {
+    "jaText": "（走者・宇草）二塁盗塁成功",
+    "text": "Ugusa steals 2nd base.",
+    "pickoff": ""
+  },
+  {
+    "jaText": "（走者・野間）二塁盗塁成功",
+    "text": "Noma steals 2nd base.",
+    "pickoff": ""
+  },
+  {
+    "jaText": "（走者・サンタナ）三塁盗塁成功",
+    "text": "Santana steals 3rd base.",
+    "pickoff": ""
+  },
+  {
+    "jaText": "（走者・福田）二塁盗塁成功",
+    "text": "Fukuda steals 2nd base.",
+    "pickoff": ""
+  },
+  {
+    "jaText": "（走者・中村剛）二塁盗塁成功",
+    "text": "T.Nakamura steals 2nd base.",
+    "pickoff": ""
+  }
+]

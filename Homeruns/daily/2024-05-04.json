@@ -1,0 +1,162 @@
+[
+  {
+    "id": "41845136-2024-08",
+    "date": "2024-05-04",
+    "batter": {
+      "id": "41845136",
+      "jaBoxscoreName": "村上",
+      "boxscoreName": "Murakami",
+      "batSide": "L"
+    },
+    "pitcher": {
+      "id": "83285157",
+      "jaBoxscoreName": "フェリス",
+      "boxscoreName": "Feliz",
+      "pitchHand": "R"
+    },
+    "number": 8,
+    "inning": 6,
+    "halfInning": "bottom",
+    "outs": 2,
+    "RoB": "-2-",
+    "count": {
+      "balls": 3,
+      "strikes": 2
+    },
+    "runs": {
+      "road": 3,
+      "home": 5
+    },
+    "bop": 4,
+    "rbi": 2,
+    "whereHit": "89",
+    "venue": {
+      "jaBoxscoreName": "神宮",
+      "boxscoreName": "Jingu",
+      "jaName": "神宮",
+      "name": "Jingu Stadium"
+    },
+    "teams": {
+      "road": {
+        "teamCode": "D",
+        "teamName": "Dragons",
+        "score": 7
+      },
+      "home": {
+        "teamCode": "S",
+        "teamName": "Swallows",
+        "score": 7
+      }
+    },
+    "jaText": "右中間2ランホームラン（打点2）",
+    "text": "Murakami homers (8) to right center.",
+    "url": "https://npb.jp/scores/2024/0504/s-d-08/playbyplay.html#com6-2"
+  },
+  {
+    "id": "01405116-2024-01",
+    "date": "2024-05-04",
+    "batter": {
+      "id": "01405116",
+      "jaBoxscoreName": "松山",
+      "boxscoreName": "Matsuyama",
+      "batSide": "L"
+    },
+    "pitcher": {
+      "id": "81285155",
+      "jaBoxscoreName": "徳山",
+      "boxscoreName": "Tokuyama",
+      "pitchHand": "R"
+    },
+    "number": 1,
+    "inning": 7,
+    "halfInning": "bottom",
+    "outs": 2,
+    "RoB": "1-3",
+    "count": {
+      "balls": 1,
+      "strikes": 1
+    },
+    "runs": {
+      "road": 1,
+      "home": 1
+    },
+    "bop": 4,
+    "rbi": 3,
+    "whereHit": "9",
+    "venue": {
+      "jaBoxscoreName": "マツダスタジアム",
+      "boxscoreName": "Mazda Stadium",
+      "jaName": "MAZDA Zoom-Zoom スタジアム広島",
+      "name": "MAZDA Zoom-Zoom Stadium Hiroshima"
+    },
+    "teams": {
+      "road": {
+        "teamCode": "DB",
+        "teamName": "Baystars",
+        "score": 1
+      },
+      "home": {
+        "teamCode": "C",
+        "teamName": "Carp",
+        "score": 4
+      }
+    },
+    "jaText": "ライト3ランホームラン（打点3）",
+    "text": "Matsuyama homers (1) to right field.",
+    "url": "https://npb.jp/scores/2024/0504/c-db-07/playbyplay.html#com7-2",
+    "isPinchHit": "Y"
+  },
+  {
+    "id": "03505136-2024-02",
+    "date": "2024-05-04",
+    "batter": {
+      "id": "03505136",
+      "jaBoxscoreName": "ソト",
+      "boxscoreName": "Soto",
+      "batSide": "R"
+    },
+    "pitcher": {
+      "id": "51555153",
+      "jaBoxscoreName": "内",
+      "boxscoreName": "Uchi",
+      "pitchHand": "R"
+    },
+    "number": 2,
+    "inning": 8,
+    "halfInning": "top",
+    "outs": 1,
+    "RoB": "1--",
+    "count": {
+      "balls": 1,
+      "strikes": 2
+    },
+    "runs": {
+      "road": 0,
+      "home": 0
+    },
+    "bop": 4,
+    "rbi": 2,
+    "whereHit": "7",
+    "venue": {
+      "jaBoxscoreName": "楽天モバイル",
+      "boxscoreName": "Rakuten Mobile",
+      "jaName": "楽天モバイルパーク宮城",
+      "name": "Rakuten Mobile Park Miyagi"
+    },
+    "teams": {
+      "road": {
+        "teamCode": "M",
+        "teamName": "Marines",
+        "score": 2
+      },
+      "home": {
+        "teamCode": "E",
+        "teamName": "Eagles",
+        "score": 0
+      }
+    },
+    "jaText": "レフト2ランホームラン（打点2）",
+    "text": "Soto homers (2) to left field.",
+    "url": "https://npb.jp/scores/2024/0504/e-m-08/playbyplay.html#com8-1"
+  }
+]

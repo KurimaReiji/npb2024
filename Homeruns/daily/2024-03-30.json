@@ -1,0 +1,267 @@
+[
+  {
+    "id": "11515130-2024-01",
+    "date": "2024-03-30",
+    "batter": {
+      "id": "11515130",
+      "jaBoxscoreName": "岡本和",
+      "boxscoreName": "K.Okamoto",
+      "batSide": "R"
+    },
+    "pitcher": {
+      "id": "41345136",
+      "jaBoxscoreName": "大竹",
+      "boxscoreName": "Ohtake",
+      "pitchHand": "L"
+    },
+    "number": 1,
+    "inning": 6,
+    "halfInning": "bottom",
+    "outs": 0,
+    "RoB": "1--",
+    "count": {
+      "balls": 1,
+      "strikes": 0
+    },
+    "runs": {
+      "road": 0,
+      "home": 0
+    },
+    "bop": 4,
+    "rbi": 2,
+    "whereHit": "8",
+    "venue": {
+      "jaBoxscoreName": "東京ドーム",
+      "boxscoreName": "Tokyo Dome",
+      "jaName": "東京ドーム",
+      "name": "Tokyo Dome"
+    },
+    "teams": {
+      "road": {
+        "teamCode": "T",
+        "teamName": "Tigers",
+        "score": 0
+      },
+      "home": {
+        "teamCode": "G",
+        "teamName": "Giants",
+        "score": 5
+      }
+    },
+    "jaText": "センター2ランホームラン（打点2）",
+    "text": "K.Okamoto homers (1) to center field.",
+    "url": "https://npb.jp/scores/2024/0330/g-t-02/playbyplay.html#com6-2"
+  },
+  {
+    "id": "51955114-2024-01",
+    "date": "2024-03-30",
+    "batter": {
+      "id": "51955114",
+      "jaBoxscoreName": "坂本",
+      "boxscoreName": "Sakamoto",
+      "batSide": "R"
+    },
+    "pitcher": {
+      "id": "41345136",
+      "jaBoxscoreName": "大竹",
+      "boxscoreName": "Ohtake",
+      "pitchHand": "L"
+    },
+    "number": 1,
+    "inning": 6,
+    "halfInning": "bottom",
+    "outs": 0,
+    "RoB": "---",
+    "count": {
+      "balls": 1,
+      "strikes": 1
+    },
+    "runs": {
+      "road": 0,
+      "home": 2
+    },
+    "bop": 5,
+    "rbi": 1,
+    "whereHit": "7",
+    "venue": {
+      "jaBoxscoreName": "東京ドーム",
+      "boxscoreName": "Tokyo Dome",
+      "jaName": "東京ドーム",
+      "name": "Tokyo Dome"
+    },
+    "teams": {
+      "road": {
+        "teamCode": "T",
+        "teamName": "Tigers",
+        "score": 0
+      },
+      "home": {
+        "teamCode": "G",
+        "teamName": "Giants",
+        "score": 5
+      }
+    },
+    "jaText": "レフトソロホームラン（打点1）",
+    "text": "Sakamoto homers (1) to left field.",
+    "url": "https://npb.jp/scores/2024/0330/g-t-02/playbyplay.html#com6-2"
+  },
+  {
+    "id": "33535159-2024-02",
+    "date": "2024-03-30",
+    "batter": {
+      "id": "33535159",
+      "jaBoxscoreName": "度会",
+      "boxscoreName": "Watarai",
+      "batSide": "L"
+    },
+    "pitcher": {
+      "id": "41545153",
+      "jaBoxscoreName": "大道",
+      "boxscoreName": "Ohmichi",
+      "pitchHand": "R"
+    },
+    "number": 2,
+    "inning": 4,
+    "halfInning": "bottom",
+    "outs": 0,
+    "RoB": "1--",
+    "count": {
+      "balls": 0,
+      "strikes": 1
+    },
+    "runs": {
+      "road": 0,
+      "home": 4
+    },
+    "bop": 1,
+    "rbi": 2,
+    "whereHit": "9",
+    "venue": {
+      "jaBoxscoreName": "横浜",
+      "boxscoreName": "Yokohama",
+      "jaName": "横浜スタジアム",
+      "name": "Yokohama Stadium"
+    },
+    "teams": {
+      "road": {
+        "teamCode": "C",
+        "teamName": "Carp",
+        "score": 1
+      },
+      "home": {
+        "teamCode": "DB",
+        "teamName": "Baystars",
+        "score": 6
+      }
+    },
+    "jaText": "ライト2ランホームラン（打点2）",
+    "text": "Watarai homers (2) to right field.",
+    "url": "https://npb.jp/scores/2024/0330/db-c-02/playbyplay.html#com4-2"
+  },
+  {
+    "id": "81785155-2024-01",
+    "date": "2024-03-30",
+    "batter": {
+      "id": "81785155",
+      "jaBoxscoreName": "古賀",
+      "boxscoreName": "Koga",
+      "batSide": "R"
+    },
+    "pitcher": {
+      "id": "21925157",
+      "jaBoxscoreName": "荘司",
+      "boxscoreName": "Shoji",
+      "pitchHand": "R"
+    },
+    "number": 1,
+    "inning": 4,
+    "halfInning": "top",
+    "outs": 1,
+    "RoB": "---",
+    "count": {
+      "balls": 0,
+      "strikes": 1
+    },
+    "runs": {
+      "road": 4,
+      "home": 2
+    },
+    "bop": 8,
+    "rbi": 1,
+    "whereHit": "7",
+    "venue": {
+      "jaBoxscoreName": "楽天モバイル",
+      "boxscoreName": "Rakuten Mobile",
+      "jaName": "楽天モバイルパーク宮城",
+      "name": "Rakuten Mobile Park Miyagi"
+    },
+    "teams": {
+      "road": {
+        "teamCode": "L",
+        "teamName": "Lions",
+        "score": 8
+      },
+      "home": {
+        "teamCode": "E",
+        "teamName": "Eagles",
+        "score": 2
+      }
+    },
+    "jaText": "レフトソロホームラン（打点1）",
+    "text": "Koga homers (1) to left field.",
+    "url": "https://npb.jp/scores/2024/0330/e-l-02/playbyplay.html#com4-1"
+  },
+  {
+    "id": "13915157-2024-01",
+    "date": "2024-03-30",
+    "batter": {
+      "id": "13915157",
+      "jaBoxscoreName": "セデーニョ",
+      "boxscoreName": "Cedeno",
+      "batSide": "R"
+    },
+    "pitcher": {
+      "id": "63965134",
+      "jaBoxscoreName": "モイネロ",
+      "boxscoreName": "Moinelo",
+      "pitchHand": "L"
+    },
+    "number": 1,
+    "inning": 5,
+    "halfInning": "bottom",
+    "outs": 1,
+    "RoB": "1--",
+    "count": {
+      "balls": 2,
+      "strikes": 0
+    },
+    "runs": {
+      "road": 0,
+      "home": 0
+    },
+    "bop": 6,
+    "rbi": 2,
+    "whereHit": "89",
+    "venue": {
+      "jaBoxscoreName": "京セラD大阪",
+      "boxscoreName": "Kyocera Dome",
+      "jaName": "京セラドーム大阪",
+      "name": "Kyocera Dome Osaka"
+    },
+    "teams": {
+      "road": {
+        "teamCode": "H",
+        "teamName": "Hawks",
+        "score": 0
+      },
+      "home": {
+        "teamCode": "B",
+        "teamName": "Buffaloes",
+        "score": 2
+      }
+    },
+    "jaText": "右中間2ランホームラン（打点2）",
+    "text": "Cedeno homers (1) to right center.",
+    "url": "https://npb.jp/scores/2024/0330/b-h-02/playbyplay.html#com5-2"
+  }
+]

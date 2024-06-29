@@ -1,0 +1,323 @@
+[
+  {
+    "date": "2024-06-06",
+    "runner": {
+      "id": "73375134",
+      "jaBoxscoreName": "吉川",
+      "boxscoreName": "Yoshikawa"
+    },
+    "batter": {
+      "id": "11515130",
+      "jaBoxscoreName": "岡本和",
+      "boxscoreName": "K.Okamoto",
+      "batSide": "R"
+    },
+    "pitcher": {
+      "id": "01205118",
+      "jaBoxscoreName": "西野",
+      "boxscoreName": "Nishino",
+      "pitchHand": "R"
+    },
+    "catcher": {
+      "id": "41945137",
+      "jaBoxscoreName": "田村",
+      "boxscoreName": "Tamura"
+    },
+    "scoring": "CaughtStealing",
+    "base": "2B",
+    "pickoff": "",
+    "inning": 1,
+    "halfInning": "bottom",
+    "outs": 2,
+    "RoB": "1--",
+    "runs": {
+      "road": 0,
+      "home": 0
+    },
+    "venue": {
+      "jaBoxscoreName": "東京ドーム",
+      "boxscoreName": "Tokyo Dome",
+      "jaName": "東京ドーム",
+      "name": "Tokyo Dome"
+    },
+    "teams": {
+      "road": {
+        "teamCode": "M",
+        "teamName": "Marines",
+        "score": 4
+      },
+      "home": {
+        "teamCode": "G",
+        "teamName": "Giants",
+        "score": 7
+      }
+    },
+    "jaText": "（走者・吉川）二塁盗塁失敗",
+    "text": "Yoshikawa caught stealing 2nd base.",
+    "url": "https://npb.jp/scores/2024/0606/g-m-03/playbyplay.html#com1-2",
+    "catchers": [
+      {
+        "id": "41945137",
+        "jaBoxscoreName": "田村",
+        "boxscoreName": "Tamura"
+      }
+    ]
+  },
+  {
+    "date": "2024-06-06",
+    "runner": {
+      "id": "81985118",
+      "jaBoxscoreName": "立岡",
+      "boxscoreName": "Tateoka"
+    },
+    "batter": {
+      "id": "21325136",
+      "jaBoxscoreName": "大城卓",
+      "boxscoreName": "T.Ohshiro",
+      "batSide": "L"
+    },
+    "pitcher": {
+      "id": "01205118",
+      "jaBoxscoreName": "西野",
+      "boxscoreName": "Nishino",
+      "pitchHand": "R"
+    },
+    "catcher": {
+      "id": "41945137",
+      "jaBoxscoreName": "田村",
+      "boxscoreName": "Tamura"
+    },
+    "scoring": "StolenBase",
+    "base": "2B",
+    "pickoff": "",
+    "inning": 4,
+    "halfInning": "bottom",
+    "outs": 2,
+    "RoB": "1--",
+    "runs": {
+      "road": 0,
+      "home": 3
+    },
+    "venue": {
+      "jaBoxscoreName": "東京ドーム",
+      "boxscoreName": "Tokyo Dome",
+      "jaName": "東京ドーム",
+      "name": "Tokyo Dome"
+    },
+    "teams": {
+      "road": {
+        "teamCode": "M",
+        "teamName": "Marines",
+        "score": 4
+      },
+      "home": {
+        "teamCode": "G",
+        "teamName": "Giants",
+        "score": 7
+      }
+    },
+    "jaText": "（走者・立岡）二塁盗塁成功",
+    "text": "Tateoka steals 2nd base.",
+    "url": "https://npb.jp/scores/2024/0606/g-m-03/playbyplay.html#com4-2",
+    "catchers": [
+      {
+        "id": "41945137",
+        "jaBoxscoreName": "田村",
+        "boxscoreName": "Tamura"
+      }
+    ]
+  },
+  {
+    "date": "2024-06-06",
+    "runner": {
+      "id": "71575159",
+      "jaBoxscoreName": "尾田",
+      "boxscoreName": "Oda"
+    },
+    "batter": {
+      "id": "13715132",
+      "jaBoxscoreName": "ビシエド",
+      "boxscoreName": "Viciedo",
+      "batSide": "R"
+    },
+    "pitcher": {
+      "id": "31635155",
+      "jaBoxscoreName": "長谷川",
+      "boxscoreName": "Hasegawa",
+      "pitchHand": "L"
+    },
+    "catcher": {
+      "id": "91595133",
+      "jaBoxscoreName": "甲斐",
+      "boxscoreName": "T.Kai"
+    },
+    "scoring": "StolenBase",
+    "base": "2B",
+    "pickoff": "",
+    "inning": 8,
+    "halfInning": "bottom",
+    "outs": 1,
+    "RoB": "1--",
+    "runs": {
+      "road": 0,
+      "home": 1
+    },
+    "venue": {
+      "jaBoxscoreName": "バンテリンドーム",
+      "boxscoreName": "Vantelin Dome",
+      "jaName": "バンテリンドーム ナゴヤ",
+      "name": "Vantelin Dome Nagoya"
+    },
+    "teams": {
+      "road": {
+        "teamCode": "H",
+        "teamName": "Hawks",
+        "score": 0
+      },
+      "home": {
+        "teamCode": "D",
+        "teamName": "Dragons",
+        "score": 3
+      }
+    },
+    "jaText": "（走者・尾田）二塁盗塁成功",
+    "text": "Oda steals 2nd base.",
+    "url": "https://npb.jp/scores/2024/0606/d-h-03/playbyplay.html#com8-2",
+    "catchers": [
+      {
+        "id": "91595133",
+        "jaBoxscoreName": "甲斐",
+        "boxscoreName": "T.Kai"
+      }
+    ]
+  },
+  {
+    "date": "2024-06-06",
+    "runner": {
+      "id": "61965151",
+      "jaBoxscoreName": "小深田",
+      "boxscoreName": "Kobukata"
+    },
+    "batter": {
+      "id": "71375138",
+      "jaBoxscoreName": "太田",
+      "boxscoreName": "Ohta",
+      "batSide": "R"
+    },
+    "pitcher": {
+      "id": "71275118",
+      "jaBoxscoreName": "西勇",
+      "boxscoreName": "Y.Nishi",
+      "pitchHand": "R"
+    },
+    "catcher": {
+      "id": "21325139",
+      "jaBoxscoreName": "梅野",
+      "boxscoreName": "Umeno"
+    },
+    "scoring": "CaughtStealing",
+    "base": "2B",
+    "pickoff": "",
+    "inning": 6,
+    "halfInning": "top",
+    "outs": 2,
+    "RoB": "1--",
+    "runs": {
+      "road": 4,
+      "home": 1
+    },
+    "venue": {
+      "jaBoxscoreName": "甲子園",
+      "boxscoreName": "Koshien",
+      "jaName": "甲子園",
+      "name": "Hanshin Koshien Stadium"
+    },
+    "teams": {
+      "road": {
+        "teamCode": "E",
+        "teamName": "Eagles",
+        "score": 4
+      },
+      "home": {
+        "teamCode": "T",
+        "teamName": "Tigers",
+        "score": 1
+      }
+    },
+    "jaText": "（走者・小深田）二塁盗塁失敗",
+    "text": "Kobukata caught stealing 2nd base.",
+    "url": "https://npb.jp/scores/2024/0606/t-e-03/playbyplay.html#com6-1",
+    "catchers": [
+      {
+        "id": "21325139",
+        "jaBoxscoreName": "梅野",
+        "boxscoreName": "Umeno"
+      }
+    ]
+  },
+  {
+    "date": "2024-06-06",
+    "runner": {
+      "id": "31835138",
+      "jaBoxscoreName": "水谷",
+      "boxscoreName": "Mizutani"
+    },
+    "batter": {
+      "id": "51055138",
+      "jaBoxscoreName": "田宮",
+      "boxscoreName": "Tamiya",
+      "batSide": "L"
+    },
+    "pitcher": {
+      "id": "71775139",
+      "jaBoxscoreName": "九里",
+      "boxscoreName": "Kuri",
+      "pitchHand": "R"
+    },
+    "catcher": {},
+    "scoring": "CaughtStealing",
+    "base": "2B",
+    "pickoff": "",
+    "inning": 1,
+    "halfInning": "top",
+    "outs": 2,
+    "RoB": "1--",
+    "runs": {
+      "road": 0,
+      "home": 0
+    },
+    "venue": {
+      "jaBoxscoreName": "マツダスタジアム",
+      "boxscoreName": "Mazda Stadium",
+      "jaName": "MAZDA Zoom-Zoom スタジアム広島",
+      "name": "MAZDA Zoom-Zoom Stadium Hiroshima"
+    },
+    "teams": {
+      "road": {
+        "teamCode": "F",
+        "teamName": "Fighters",
+        "score": 1
+      },
+      "home": {
+        "teamCode": "C",
+        "teamName": "Carp",
+        "score": 3
+      }
+    },
+    "jaText": "（走者・水谷）二塁盗塁失敗",
+    "text": "Mizutani caught stealing 2nd base.",
+    "url": "https://npb.jp/scores/2024/0606/c-f-03/playbyplay.html#com1-1",
+    "catchers": [
+      {
+        "id": "21125151",
+        "jaBoxscoreName": "石原",
+        "boxscoreName": "Ishihara"
+      },
+      {
+        "id": "31135114",
+        "jaBoxscoreName": "會澤",
+        "boxscoreName": "Aizawa"
+      }
+    ]
+  }
+]

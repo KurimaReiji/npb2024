@@ -1,0 +1,107 @@
+[
+  {
+    "jaText": "（走者・塩見）二塁盗塁成功",
+    "text": "Shiomi steals 2nd base.",
+    "pickoff": ""
+  },
+  {
+    "jaText": "（走者・近本）二塁盗塁失敗",
+    "text": "Chikamoto caught stealing 2nd base.",
+    "pickoff": ""
+  },
+  {
+    "jaText": "（走者・山本）二塁盗塁失敗",
+    "text": "Yamamoto caught stealing 2nd base.",
+    "pickoff": ""
+  },
+  {
+    "jaText": "（走者・牧）二塁牽制アウト",
+    "text": "Maki picked off at 2nd base.",
+    "pickoff": "Y"
+  },
+  {
+    "jaText": "（走者・万波）二塁盗塁成功",
+    "text": "Mannami steals 2nd base.",
+    "pickoff": "",
+    "catcher": {
+      "id": "61165134",
+      "jaBoxscoreName": "石原",
+      "boxscoreName": "Ishihara"
+    }
+  },
+  {
+    "jaText": "（走者・小深田）二塁盗塁成功",
+    "text": "Kobukata steals 2nd base.",
+    "pickoff": "",
+    "catcher": {
+      "id": "61065137",
+      "jaBoxscoreName": "伏見",
+      "boxscoreName": "Fushimi"
+    }
+  },
+  {
+    "jaText": "（走者・石井）二塁盗塁成功",
+    "text": "Ishii steals 2nd base.",
+    "pickoff": "",
+    "catcher": {
+      "id": "61165134",
+      "jaBoxscoreName": "石原",
+      "boxscoreName": "Ishihara"
+    }
+  },
+  {
+    "jaText": "（走者・水野）二塁盗塁失敗",
+    "text": "Mizuno caught stealing 2nd base.",
+    "pickoff": "",
+    "catcher": {
+      "id": "61165134",
+      "jaBoxscoreName": "石原",
+      "boxscoreName": "Ishihara"
+    }
+  },
+  {
+    "jaText": "（走者・五十幡）二塁盗塁失敗",
+    "text": "Isobata caught stealing 2nd base.",
+    "pickoff": "",
+    "catcher": {
+      "id": "71375138",
+      "jaBoxscoreName": "太田",
+      "boxscoreName": "Ohta"
+    }
+  },
+  {
+    "jaText": "（走者・五十幡）二塁盗塁成功",
+    "text": "Isobata steals 2nd base.",
+    "pickoff": "",
+    "catcher": {
+      "id": "71375138",
+      "jaBoxscoreName": "太田",
+      "boxscoreName": "Ohta"
+    }
+  },
+  {
+    "jaText": "（走者・上川畑）二塁盗塁成功",
+    "text": "Kamikawabata steals 2nd base.",
+    "pickoff": "",
+    "catcher": {
+      "id": "71375138",
+      "jaBoxscoreName": "太田",
+      "boxscoreName": "Ohta"
+    }
+  },
+  {
+    "jaText": "（走者・牧原大）二塁盗塁成功",
+    "text": "T.Makihara steals 2nd base.",
+    "pickoff": ""
+  },
+  {
+    "jaText": "（走者・森）二塁盗塁成功",
+    "text": "Mori steals 2nd base.",
+    "pickoff": ""
+  },
+  {
+    "jaText": "（走者・岸）二塁盗塁成功",
+    "text": "Kishi steals 2nd base.",
+    "pickoff": ""
+  }
+]

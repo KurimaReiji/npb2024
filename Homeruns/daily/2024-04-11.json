@@ -1,0 +1,161 @@
+[
+  {
+    "id": "13915157-2024-04",
+    "date": "2024-04-11",
+    "batter": {
+      "id": "13915157",
+      "jaBoxscoreName": "セデーニョ",
+      "boxscoreName": "Cedeno",
+      "batSide": "R"
+    },
+    "pitcher": {
+      "id": "51555153",
+      "jaBoxscoreName": "内",
+      "boxscoreName": "Uchi",
+      "pitchHand": "R"
+    },
+    "number": 4,
+    "inning": 6,
+    "halfInning": "bottom",
+    "outs": 1,
+    "RoB": "---",
+    "count": {
+      "balls": 1,
+      "strikes": 0
+    },
+    "runs": {
+      "road": 1,
+      "home": 0
+    },
+    "bop": 4,
+    "rbi": 1,
+    "whereHit": "78",
+    "venue": {
+      "jaBoxscoreName": "京セラD大阪",
+      "boxscoreName": "Kyocera Dome",
+      "jaName": "京セラドーム大阪",
+      "name": "Kyocera Dome Osaka"
+    },
+    "teams": {
+      "road": {
+        "teamCode": "E",
+        "teamName": "Eagles",
+        "score": 1
+      },
+      "home": {
+        "teamCode": "B",
+        "teamName": "Buffaloes",
+        "score": 2
+      }
+    },
+    "jaText": "左中間ソロホームラン（打点1）",
+    "text": "Cedeno homers (4) to left center.",
+    "url": "https://npb.jp/scores/2024/0411/b-e-03/playbyplay.html#com6-2"
+  },
+  {
+    "id": "11815138-2024-02",
+    "date": "2024-04-11",
+    "batter": {
+      "id": "11815138",
+      "jaBoxscoreName": "万波",
+      "boxscoreName": "Mannami",
+      "batSide": "R"
+    },
+    "pitcher": {
+      "id": "01505151",
+      "jaBoxscoreName": "大関",
+      "boxscoreName": "Ohzeki",
+      "pitchHand": "L"
+    },
+    "number": 2,
+    "inning": 1,
+    "halfInning": "top",
+    "outs": 2,
+    "RoB": "---",
+    "count": {
+      "balls": 3,
+      "strikes": 0
+    },
+    "runs": {
+      "road": 0,
+      "home": 0
+    },
+    "bop": 3,
+    "rbi": 1,
+    "whereHit": "7",
+    "venue": {
+      "jaBoxscoreName": "北九州",
+      "boxscoreName": "Kitakyushu",
+      "jaName": "北九州市民",
+      "name": "Kitakyushu Citizens Baseball Stadium"
+    },
+    "teams": {
+      "road": {
+        "teamCode": "F",
+        "teamName": "Fighters",
+        "score": 3
+      },
+      "home": {
+        "teamCode": "H",
+        "teamName": "Hawks",
+        "score": 6
+      }
+    },
+    "jaText": "レフトソロホームラン（打点1）",
+    "text": "Mannami homers (2) to left field.",
+    "url": "https://npb.jp/scores/2024/0411/h-f-02/playbyplay.html#com1-1"
+  },
+  {
+    "id": "21925151-2024-01",
+    "date": "2024-04-11",
+    "batter": {
+      "id": "21925151",
+      "jaBoxscoreName": "郡司",
+      "boxscoreName": "Gunji",
+      "batSide": "R"
+    },
+    "pitcher": {
+      "id": "01505151",
+      "jaBoxscoreName": "大関",
+      "boxscoreName": "Ohzeki",
+      "pitchHand": "L"
+    },
+    "number": 1,
+    "inning": 3,
+    "halfInning": "top",
+    "outs": 0,
+    "RoB": "---",
+    "count": {
+      "balls": 0,
+      "strikes": 1
+    },
+    "runs": {
+      "road": 1,
+      "home": 3
+    },
+    "bop": 1,
+    "rbi": 1,
+    "whereHit": "7",
+    "venue": {
+      "jaBoxscoreName": "北九州",
+      "boxscoreName": "Kitakyushu",
+      "jaName": "北九州市民",
+      "name": "Kitakyushu Citizens Baseball Stadium"
+    },
+    "teams": {
+      "road": {
+        "teamCode": "F",
+        "teamName": "Fighters",
+        "score": 3
+      },
+      "home": {
+        "teamCode": "H",
+        "teamName": "Hawks",
+        "score": 6
+      }
+    },
+    "jaText": "レフトソロホームラン（打点1）",
+    "text": "Gunji homers (1) to left field.",
+    "url": "https://npb.jp/scores/2024/0411/h-f-02/playbyplay.html#com3-1"
+  }
+]

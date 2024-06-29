@@ -1,0 +1,321 @@
+[
+  {
+    "id": "11515130-2024-08",
+    "date": "2024-05-12",
+    "batter": {
+      "id": "11515130",
+      "jaBoxscoreName": "岡本和",
+      "boxscoreName": "K.Okamoto",
+      "batSide": "R"
+    },
+    "pitcher": {
+      "id": "33735153",
+      "jaBoxscoreName": "サイスニード",
+      "boxscoreName": "Sneed",
+      "pitchHand": "R"
+    },
+    "number": 8,
+    "inning": 6,
+    "halfInning": "top",
+    "outs": 2,
+    "RoB": "---",
+    "count": {
+      "balls": 3,
+      "strikes": 2
+    },
+    "runs": {
+      "road": 0,
+      "home": 0
+    },
+    "bop": 4,
+    "rbi": 1,
+    "whereHit": "7",
+    "venue": {
+      "jaBoxscoreName": "神宮",
+      "boxscoreName": "Jingu",
+      "jaName": "神宮",
+      "name": "Jingu Stadium"
+    },
+    "teams": {
+      "road": {
+        "teamCode": "G",
+        "teamName": "Giants",
+        "score": 1
+      },
+      "home": {
+        "teamCode": "S",
+        "teamName": "Swallows",
+        "score": 3
+      }
+    },
+    "jaText": "レフトソロホームラン（打点1）",
+    "text": "K.Okamoto homers (8) to left field.",
+    "url": "https://npb.jp/scores/2024/0512/s-g-08/playbyplay.html#com6-1"
+  },
+  {
+    "id": "53755153-2024-05",
+    "date": "2024-05-12",
+    "batter": {
+      "id": "53755153",
+      "jaBoxscoreName": "サンタナ",
+      "boxscoreName": "Santana",
+      "batSide": "R"
+    },
+    "pitcher": {
+      "id": "01005136",
+      "jaBoxscoreName": "高橋礼",
+      "boxscoreName": "R.Takahashi",
+      "pitchHand": "R"
+    },
+    "number": 5,
+    "inning": 6,
+    "halfInning": "bottom",
+    "outs": 0,
+    "RoB": "---",
+    "count": {
+      "balls": 2,
+      "strikes": 2
+    },
+    "runs": {
+      "road": 1,
+      "home": 0
+    },
+    "bop": 5,
+    "rbi": 1,
+    "whereHit": "7",
+    "venue": {
+      "jaBoxscoreName": "神宮",
+      "boxscoreName": "Jingu",
+      "jaName": "神宮",
+      "name": "Jingu Stadium"
+    },
+    "teams": {
+      "road": {
+        "teamCode": "G",
+        "teamName": "Giants",
+        "score": 1
+      },
+      "home": {
+        "teamCode": "S",
+        "teamName": "Swallows",
+        "score": 3
+      }
+    },
+    "jaText": "レフトソロホームラン（打点1）",
+    "text": "Santana homers (5) to left field.",
+    "url": "https://npb.jp/scores/2024/0512/s-g-08/playbyplay.html#com6-2"
+  },
+  {
+    "id": "11515139-2024-02",
+    "date": "2024-05-12",
+    "batter": {
+      "id": "11515139",
+      "jaBoxscoreName": "岡",
+      "boxscoreName": "Oka",
+      "batSide": "R"
+    },
+    "pitcher": {
+      "id": "51355153",
+      "jaBoxscoreName": "伊藤",
+      "boxscoreName": "Itoh",
+      "pitchHand": "R"
+    },
+    "number": 2,
+    "inning": 1,
+    "halfInning": "top",
+    "outs": 0,
+    "RoB": "---",
+    "count": {
+      "balls": 1,
+      "strikes": 1
+    },
+    "runs": {
+      "road": 0,
+      "home": 0
+    },
+    "bop": 1,
+    "rbi": 1,
+    "whereHit": "7",
+    "venue": {
+      "jaBoxscoreName": "エスコンＦ",
+      "boxscoreName": "ES CON FIELD",
+      "jaName": "エスコンフィールドＨＯＫＫＡＩＤＯ",
+      "name": "ES CON FIELD HOKKAIDO"
+    },
+    "teams": {
+      "road": {
+        "teamCode": "M",
+        "teamName": "Marines",
+        "score": 5
+      },
+      "home": {
+        "teamCode": "F",
+        "teamName": "Fighters",
+        "score": 6
+      }
+    },
+    "jaText": "レフトソロホームラン（打点1）",
+    "text": "Oka homers (2) to left field.",
+    "url": "https://npb.jp/scores/2024/0512/f-m-09/playbyplay.html#com1-1",
+    "isLeadOff": "Y"
+  },
+  {
+    "id": "11515139-2024-03",
+    "date": "2024-05-12",
+    "batter": {
+      "id": "11515139",
+      "jaBoxscoreName": "岡",
+      "boxscoreName": "Oka",
+      "batSide": "R"
+    },
+    "pitcher": {
+      "id": "51355153",
+      "jaBoxscoreName": "伊藤",
+      "boxscoreName": "Itoh",
+      "pitchHand": "R"
+    },
+    "number": 3,
+    "inning": 6,
+    "halfInning": "top",
+    "outs": 2,
+    "RoB": "---",
+    "count": {
+      "balls": 0,
+      "strikes": 0
+    },
+    "runs": {
+      "road": 3,
+      "home": 3
+    },
+    "bop": 1,
+    "rbi": 1,
+    "whereHit": "7",
+    "venue": {
+      "jaBoxscoreName": "エスコンＦ",
+      "boxscoreName": "ES CON FIELD",
+      "jaName": "エスコンフィールドＨＯＫＫＡＩＤＯ",
+      "name": "ES CON FIELD HOKKAIDO"
+    },
+    "teams": {
+      "road": {
+        "teamCode": "M",
+        "teamName": "Marines",
+        "score": 5
+      },
+      "home": {
+        "teamCode": "F",
+        "teamName": "Fighters",
+        "score": 6
+      }
+    },
+    "jaText": "レフトソロホームラン（打点1）",
+    "text": "Oka homers (3) to left field.",
+    "url": "https://npb.jp/scores/2024/0512/f-m-09/playbyplay.html#com6-1"
+  },
+  {
+    "id": "11815138-2024-04",
+    "date": "2024-05-12",
+    "batter": {
+      "id": "11815138",
+      "jaBoxscoreName": "万波",
+      "boxscoreName": "Mannami",
+      "batSide": "R"
+    },
+    "pitcher": {
+      "id": "11515138",
+      "jaBoxscoreName": "小島",
+      "boxscoreName": "Ojima",
+      "pitchHand": "L"
+    },
+    "number": 4,
+    "inning": 2,
+    "halfInning": "bottom",
+    "outs": 1,
+    "RoB": "---",
+    "count": {
+      "balls": 0,
+      "strikes": 2
+    },
+    "runs": {
+      "road": 1,
+      "home": 1
+    },
+    "bop": 6,
+    "rbi": 1,
+    "whereHit": "7",
+    "venue": {
+      "jaBoxscoreName": "エスコンＦ",
+      "boxscoreName": "ES CON FIELD",
+      "jaName": "エスコンフィールドＨＯＫＫＡＩＤＯ",
+      "name": "ES CON FIELD HOKKAIDO"
+    },
+    "teams": {
+      "road": {
+        "teamCode": "M",
+        "teamName": "Marines",
+        "score": 5
+      },
+      "home": {
+        "teamCode": "F",
+        "teamName": "Fighters",
+        "score": 6
+      }
+    },
+    "jaText": "レフトソロホームラン（打点1）",
+    "text": "Mannami homers (4) to left field.",
+    "url": "https://npb.jp/scores/2024/0512/f-m-09/playbyplay.html#com2-2"
+  },
+  {
+    "id": "81685153-2024-01",
+    "date": "2024-05-12",
+    "batter": {
+      "id": "81685153",
+      "jaBoxscoreName": "長谷川",
+      "boxscoreName": "Hasegawa",
+      "batSide": "R"
+    },
+    "pitcher": {
+      "id": "91795114",
+      "jaBoxscoreName": "岸",
+      "boxscoreName": "Kishi",
+      "pitchHand": "R"
+    },
+    "number": 1,
+    "inning": 4,
+    "halfInning": "bottom",
+    "outs": 2,
+    "RoB": "12-",
+    "count": {
+      "balls": 1,
+      "strikes": 1
+    },
+    "runs": {
+      "road": 1,
+      "home": 2
+    },
+    "bop": 3,
+    "rbi": 3,
+    "whereHit": "7",
+    "venue": {
+      "jaBoxscoreName": "ベルーナドーム",
+      "boxscoreName": "Belluna Dome",
+      "jaName": "ベルーナドーム",
+      "name": "Belluna Dome"
+    },
+    "teams": {
+      "road": {
+        "teamCode": "E",
+        "teamName": "Eagles",
+        "score": 2
+      },
+      "home": {
+        "teamCode": "L",
+        "teamName": "Lions",
+        "score": 6
+      }
+    },
+    "jaText": "レフト3ランホームラン（打点3）",
+    "text": "Hasegawa homers (1) to left field.",
+    "url": "https://npb.jp/scores/2024/0512/l-e-09/playbyplay.html#com4-2"
+  }
+]

@@ -1,0 +1,88 @@
+[
+  {
+    "jaText": "（走者・山本）一塁牽制アウト",
+    "text": "Yamamoto picked off at 1st base.",
+    "pickoff": "Y"
+  },
+  {
+    "jaText": "（走者・牧）二塁盗塁成功",
+    "text": "Maki steals 2nd base.",
+    "pickoff": "",
+    "catcher": {
+      "id": "31735132",
+      "jaBoxscoreName": "木下",
+      "boxscoreName": "Kinoshita"
+    }
+  },
+  {
+    "jaText": "（走者・山本）二塁盗塁成功",
+    "text": "Yamamoto steals 2nd base.",
+    "pickoff": ""
+  },
+  {
+    "jaText": "（走者・林）二塁盗塁成功",
+    "text": "Hayashi steals 2nd base.",
+    "pickoff": "",
+    "catcher": {
+      "id": "41545130",
+      "jaBoxscoreName": "加藤匠",
+      "boxscoreName": "T.Katoh"
+    }
+  },
+  {
+    "jaText": "（走者・西川）二塁盗塁失敗",
+    "text": "Nishikawa caught stealing 2nd base.",
+    "pickoff": ""
+  },
+  {
+    "jaText": "（走者・丸）二塁盗塁成功",
+    "text": "Maru steals 2nd base.",
+    "pickoff": "",
+    "isK": "Y"
+  },
+  {
+    "jaText": "（走者・羽月）二塁盗塁失敗",
+    "text": "Hatsuki caught stealing 2nd base.",
+    "pickoff": "",
+    "catcher": {
+      "id": "91595136",
+      "jaBoxscoreName": "岸田",
+      "boxscoreName": "Kishida"
+    }
+  },
+  {
+    "jaText": "（走者・上川畑）二塁盗塁成功",
+    "text": "Kamikawabata steals 2nd base.",
+    "pickoff": "",
+    "catcher": {
+      "id": "71075151",
+      "jaBoxscoreName": "佐藤",
+      "boxscoreName": "Satoh"
+    }
+  },
+  {
+    "jaText": "（走者・松本剛）二塁盗塁成功",
+    "text": "G.Matsumoto steals 2nd base.",
+    "pickoff": "",
+    "catcher": {
+      "id": "71075151",
+      "jaBoxscoreName": "佐藤",
+      "boxscoreName": "Satoh"
+    }
+  },
+  {
+    "jaText": "（走者・松本剛）三塁盗塁成功",
+    "text": "G.Matsumoto steals 3rd base.",
+    "pickoff": "",
+    "catcher": {
+      "id": "71075151",
+      "jaBoxscoreName": "佐藤",
+      "boxscoreName": "Satoh"
+    }
+  },
+  {
+    "jaText": "（走者・周東）二塁盗塁成功",
+    "text": "Shuto steals 2nd base.",
+    "pickoff": ""
+  }
+]

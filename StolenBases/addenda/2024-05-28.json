@@ -1,0 +1,37 @@
+[
+  {
+    "jaText": "（走者・吉川）二塁盗塁失敗",
+    "text": "Yoshikawa caught stealing 2nd base.",
+    "pickoff": ""
+  },
+  {
+    "jaText": "（走者・立岡）二塁盗塁成功",
+    "text": "Tateoka steals 2nd base.",
+    "pickoff": ""
+  },
+  {
+    "jaText": "（走者・村上）二塁盗塁失敗",
+    "text": "Murakami caught stealing 2nd base.",
+    "pickoff": ""
+  },
+  {
+    "jaText": "（走者・西浦）一塁牽制アウト",
+    "text": "Nishiura picked off at 1st base.",
+    "pickoff": "Y"
+  },
+  {
+    "jaText": "（走者・小園）二塁盗塁成功",
+    "text": "Kozono steals 2nd base.",
+    "pickoff": ""
+  },
+  {
+    "jaText": "（走者・野間）二塁盗塁失敗",
+    "text": "Noma caught stealing 2nd base.",
+    "pickoff": ""
+  },
+  {
+    "jaText": "（走者・羽月）二塁盗塁失敗",
+    "text": "Hatsuki caught stealing 2nd base.",
+    "pickoff": ""
+  }
+]

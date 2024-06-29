@@ -1,0 +1,161 @@
+[
+  {
+    "id": "71375138-2024-01",
+    "date": "2024-05-29",
+    "batter": {
+      "id": "71375138",
+      "jaBoxscoreName": "太田",
+      "boxscoreName": "Ohta",
+      "batSide": "R"
+    },
+    "pitcher": {
+      "id": "43745159",
+      "jaBoxscoreName": "ジャクソン",
+      "boxscoreName": "Jackson",
+      "pitchHand": "R"
+    },
+    "number": 1,
+    "inning": 5,
+    "halfInning": "top",
+    "outs": 2,
+    "RoB": "---",
+    "count": {
+      "balls": 0,
+      "strikes": 1
+    },
+    "runs": {
+      "road": 0,
+      "home": 0
+    },
+    "bop": 8,
+    "rbi": 1,
+    "whereHit": "78",
+    "venue": {
+      "jaBoxscoreName": "横浜",
+      "boxscoreName": "Yokohama",
+      "jaName": "横浜スタジアム",
+      "name": "Yokohama Stadium"
+    },
+    "teams": {
+      "road": {
+        "teamCode": "E",
+        "teamName": "Eagles",
+        "score": 4
+      },
+      "home": {
+        "teamCode": "DB",
+        "teamName": "Baystars",
+        "score": 0
+      }
+    },
+    "jaText": "左中間ソロホームラン（打点1）",
+    "text": "Ohta homers (1) to left center.",
+    "url": "https://npb.jp/scores/2024/0529/db-e-02/playbyplay.html#com5-1"
+  },
+  {
+    "id": "11815138-2024-06",
+    "date": "2024-05-29",
+    "batter": {
+      "id": "11815138",
+      "jaBoxscoreName": "万波",
+      "boxscoreName": "Mannami",
+      "batSide": "R"
+    },
+    "pitcher": {
+      "id": "41345136",
+      "jaBoxscoreName": "大竹",
+      "boxscoreName": "Ohtake",
+      "pitchHand": "L"
+    },
+    "number": 6,
+    "inning": 5,
+    "halfInning": "top",
+    "outs": 2,
+    "RoB": "1--",
+    "count": {
+      "balls": 0,
+      "strikes": 0
+    },
+    "runs": {
+      "road": 2,
+      "home": 1
+    },
+    "bop": 2,
+    "rbi": 2,
+    "whereHit": "7",
+    "venue": {
+      "jaBoxscoreName": "甲子園",
+      "boxscoreName": "Koshien",
+      "jaName": "甲子園",
+      "name": "Hanshin Koshien Stadium"
+    },
+    "teams": {
+      "road": {
+        "teamCode": "F",
+        "teamName": "Fighters",
+        "score": 8
+      },
+      "home": {
+        "teamCode": "T",
+        "teamName": "Tigers",
+        "score": 2
+      }
+    },
+    "jaText": "レフト2ランホームラン（打点2）",
+    "text": "Mannami homers (6) to left field.",
+    "url": "https://npb.jp/scores/2024/0529/t-f-01/playbyplay.html#com5-1"
+  },
+  {
+    "id": "51055155-2024-04",
+    "date": "2024-05-29",
+    "batter": {
+      "id": "51055155",
+      "jaBoxscoreName": "末包",
+      "boxscoreName": "Suekane",
+      "batSide": "R"
+    },
+    "pitcher": {
+      "id": "41045136",
+      "jaBoxscoreName": "田嶋",
+      "boxscoreName": "Tajima",
+      "pitchHand": "L"
+    },
+    "number": 4,
+    "inning": 3,
+    "halfInning": "bottom",
+    "outs": 2,
+    "RoB": "1--",
+    "count": {
+      "balls": 2,
+      "strikes": 1
+    },
+    "runs": {
+      "road": 0,
+      "home": 3
+    },
+    "bop": 5,
+    "rbi": 2,
+    "whereHit": "7",
+    "venue": {
+      "jaBoxscoreName": "マツダスタジアム",
+      "boxscoreName": "Mazda Stadium",
+      "jaName": "MAZDA Zoom-Zoom スタジアム広島",
+      "name": "MAZDA Zoom-Zoom Stadium Hiroshima"
+    },
+    "teams": {
+      "road": {
+        "teamCode": "B",
+        "teamName": "Buffaloes",
+        "score": 0
+      },
+      "home": {
+        "teamCode": "C",
+        "teamName": "Carp",
+        "score": 14
+      }
+    },
+    "jaText": "レフト2ランホームラン（打点2）",
+    "text": "Suekane homers (4) to left field.",
+    "url": "https://npb.jp/scores/2024/0529/c-b-02/playbyplay.html#com3-2"
+  }
+]

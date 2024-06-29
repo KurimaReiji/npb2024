@@ -1,0 +1,194 @@
+[
+  {
+    "date": "2024-06-18",
+    "runner": {
+      "id": "21625135",
+      "jaBoxscoreName": "松本剛",
+      "boxscoreName": "G.Matsumoto"
+    },
+    "batter": {
+      "id": "31835138",
+      "jaBoxscoreName": "水谷",
+      "boxscoreName": "Mizutani",
+      "batSide": "R"
+    },
+    "pitcher": {
+      "id": "41145153",
+      "jaBoxscoreName": "石井",
+      "boxscoreName": "Ishii",
+      "pitchHand": "R"
+    },
+    "catcher": {
+      "id": "21325139",
+      "jaBoxscoreName": "梅野",
+      "boxscoreName": "Umeno"
+    },
+    "scoring": "PickedOff",
+    "base": "1B",
+    "pickoff": "",
+    "inning": 6,
+    "halfInning": "top",
+    "outs": 1,
+    "RoB": "1--",
+    "runs": {
+      "road": 0,
+      "home": 1
+    },
+    "venue": {
+      "jaBoxscoreName": "甲子園",
+      "boxscoreName": "Koshien",
+      "jaName": "甲子園",
+      "name": "Hanshin Koshien Stadium"
+    },
+    "teams": {
+      "road": {
+        "teamCode": "F",
+        "teamName": "Fighters",
+        "score": 1
+      },
+      "home": {
+        "teamCode": "T",
+        "teamName": "Tigers",
+        "score": 2
+      }
+    },
+    "jaText": "（走者・松本剛）一塁牽制アウト",
+    "text": "G.Matsumoto picked off at 1st base.",
+    "url": "https://npb.jp/scores/2024/0618/t-f-03/playbyplay.html#com6-1",
+    "catchers": [
+      {
+        "id": "21325139",
+        "jaBoxscoreName": "梅野",
+        "boxscoreName": "Umeno"
+      }
+    ]
+  },
+  {
+    "date": "2024-06-18",
+    "runner": {
+      "id": "11315153",
+      "jaBoxscoreName": "五十幡",
+      "boxscoreName": "Isobata"
+    },
+    "batter": {
+      "id": "73075159",
+      "jaBoxscoreName": "レイエス",
+      "boxscoreName": "Reyes",
+      "batSide": "R"
+    },
+    "pitcher": {
+      "id": "01705155",
+      "jaBoxscoreName": "桐敷",
+      "boxscoreName": "Kirishiki",
+      "pitchHand": "L"
+    },
+    "catcher": {
+      "id": "21325139",
+      "jaBoxscoreName": "梅野",
+      "boxscoreName": "Umeno"
+    },
+    "scoring": "StolenBase",
+    "base": "2B",
+    "pickoff": "",
+    "inning": 8,
+    "halfInning": "top",
+    "outs": 2,
+    "RoB": "1-3",
+    "runs": {
+      "road": 1,
+      "home": 1
+    },
+    "venue": {
+      "jaBoxscoreName": "甲子園",
+      "boxscoreName": "Koshien",
+      "jaName": "甲子園",
+      "name": "Hanshin Koshien Stadium"
+    },
+    "teams": {
+      "road": {
+        "teamCode": "F",
+        "teamName": "Fighters",
+        "score": 1
+      },
+      "home": {
+        "teamCode": "T",
+        "teamName": "Tigers",
+        "score": 2
+      }
+    },
+    "jaText": "（走者・五十幡）二塁盗塁成功",
+    "text": "Isobata steals 2nd base.",
+    "url": "https://npb.jp/scores/2024/0618/t-f-03/playbyplay.html#com8-1",
+    "catchers": [
+      {
+        "id": "21325139",
+        "jaBoxscoreName": "梅野",
+        "boxscoreName": "Umeno"
+      }
+    ]
+  },
+  {
+    "date": "2024-06-18",
+    "runner": {
+      "id": "63165155",
+      "jaBoxscoreName": "水野",
+      "boxscoreName": "Mizuno"
+    },
+    "batter": {
+      "id": "01505155",
+      "jaBoxscoreName": "上川畑",
+      "boxscoreName": "Kamikawabata",
+      "batSide": "L"
+    },
+    "pitcher": {
+      "id": "31335139",
+      "jaBoxscoreName": "岩崎",
+      "boxscoreName": "Iwazaki",
+      "pitchHand": "L"
+    },
+    "catcher": {
+      "id": "21325139",
+      "jaBoxscoreName": "梅野",
+      "boxscoreName": "Umeno"
+    },
+    "scoring": "CaughtStealing",
+    "base": "2B",
+    "pickoff": "",
+    "inning": 9,
+    "halfInning": "top",
+    "outs": 2,
+    "RoB": "1--",
+    "runs": {
+      "road": 1,
+      "home": 1
+    },
+    "venue": {
+      "jaBoxscoreName": "甲子園",
+      "boxscoreName": "Koshien",
+      "jaName": "甲子園",
+      "name": "Hanshin Koshien Stadium"
+    },
+    "teams": {
+      "road": {
+        "teamCode": "F",
+        "teamName": "Fighters",
+        "score": 1
+      },
+      "home": {
+        "teamCode": "T",
+        "teamName": "Tigers",
+        "score": 2
+      }
+    },
+    "jaText": "（走者・水野）二塁盗塁失敗",
+    "text": "Mizuno caught stealing 2nd base.",
+    "url": "https://npb.jp/scores/2024/0618/t-f-03/playbyplay.html#com9-1",
+    "catchers": [
+      {
+        "id": "21325139",
+        "jaBoxscoreName": "梅野",
+        "boxscoreName": "Umeno"
+      }
+    ]
+  }
+]

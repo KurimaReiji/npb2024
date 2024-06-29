@@ -1,0 +1,57 @@
+[
+  {
+    "jaText": "（走者・オコエ）三塁盗塁成功",
+    "text": "Okoye steals 3rd base.",
+    "pickoff": "",
+    "catcher": {
+      "id": "31735132",
+      "jaBoxscoreName": "木下",
+      "boxscoreName": "Kinoshita"
+    }
+  },
+  {
+    "jaText": "（走者・中田）二塁牽制アウト",
+    "text": "Nakata picked off at 2nd base.",
+    "pickoff": "Y"
+  },
+  {
+    "jaText": "（走者・重信）二塁盗塁成功",
+    "text": "Shigenobu steals 2nd base.",
+    "pickoff": "",
+    "catcher": {
+      "id": "41545130",
+      "jaBoxscoreName": "加藤匠",
+      "boxscoreName": "T.Katoh"
+    }
+  },
+  {
+    "jaText": "（走者・牧）二塁盗塁成功",
+    "text": "Maki steals 2nd base.",
+    "pickoff": ""
+  },
+  {
+    "jaText": "（走者・森）二塁盗塁失敗",
+    "text": "Mori picked off and stealing 2nd base.",
+    "pickoff": "Y",
+    "catcher": {
+      "id": "91995112",
+      "jaBoxscoreName": "炭谷",
+      "boxscoreName": "Sumitani"
+    }
+  },
+  {
+    "jaText": "（走者・児玉）二塁盗塁成功",
+    "text": "Kodama steals 2nd base.",
+    "pickoff": ""
+  },
+  {
+    "jaText": "（走者・宗）一塁牽制アウト",
+    "text": "Mune picked off at 1st base.",
+    "pickoff": "Y",
+    "catcher": {
+      "id": "91995112",
+      "jaBoxscoreName": "炭谷",
+      "boxscoreName": "Sumitani"
+    }
+  }
+]

@@ -1,0 +1,92 @@
+[
+  {
+    "jaText": "（走者・秋山）二塁盗塁成功",
+    "text": "Akiyama steals 2nd base.",
+    "pickoff": ""
+  },
+  {
+    "jaText": "（走者・野間）本塁盗塁成功",
+    "text": "Noma steals home plate.",
+    "pickoff": ""
+  },
+  {
+    "jaText": "（走者・森敬）二塁盗塁成功",
+    "text": "K.Mori steals 2nd base.",
+    "pickoff": ""
+  },
+  {
+    "jaText": "（走者・森敬）二塁盗塁成功",
+    "text": "K.Mori steals 2nd base.",
+    "pickoff": ""
+  },
+  {
+    "jaText": "（走者・羽月）二塁盗塁成功",
+    "text": "Hatsuki steals 2nd base.",
+    "pickoff": ""
+  },
+  {
+    "jaText": "（走者・尾田）二塁盗塁成功",
+    "text": "Oda steals 2nd base.",
+    "pickoff": "",
+    "catcher": {
+      "id": "51255118",
+      "jaBoxscoreName": "中村",
+      "boxscoreName": "Nakamura"
+    }
+  },
+  {
+    "jaText": "（走者・西川）二塁盗塁成功",
+    "text": "Nishikawa steals 2nd base.",
+    "pickoff": ""
+  },
+  {
+    "jaText": "（走者・長野）二塁盗塁失敗",
+    "text": "Chono caught stealing 2nd base.",
+    "pickoff": ""
+  },
+  {
+    "jaText": "（走者・郡司）二塁盗塁成功",
+    "text": "Gunji steals 2nd base.",
+    "pickoff": ""
+  },
+  {
+    "jaText": "（走者・小郷）二塁盗塁成功",
+    "text": "Ogoh steals 2nd base.",
+    "pickoff": ""
+  },
+  {
+    "jaText": "（走者・小深田）二塁盗塁失敗",
+    "text": "Kobukata caught stealing 2nd base.",
+    "pickoff": ""
+  },
+  {
+    "jaText": "（走者・水野）二塁盗塁成功",
+    "text": "Mizuno steals 2nd base.",
+    "pickoff": ""
+  },
+  {
+    "jaText": "（走者・五十幡）二塁盗塁成功",
+    "text": "Isobata steals 2nd base.",
+    "pickoff": ""
+  },
+  {
+    "jaText": "（走者・水野）二塁盗塁成功",
+    "text": "Mizuno steals 2nd base.",
+    "pickoff": ""
+  },
+  {
+    "jaText": "（走者・福田）二塁盗塁成功",
+    "text": "Fukuda steals 2nd base.",
+    "pickoff": ""
+  },
+  {
+    "jaText": "（走者・岡）二塁盗塁成功",
+    "text": "Oka steals 2nd base.",
+    "pickoff": "",
+    "catcher": {
+      "id": "91595133",
+      "jaBoxscoreName": "甲斐",
+      "boxscoreName": "T.Kai"
+    }
+  }
+]

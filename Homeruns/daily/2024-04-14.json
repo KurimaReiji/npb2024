@@ -1,0 +1,267 @@
+[
+  {
+    "id": "81485157-2024-02",
+    "date": "2024-04-14",
+    "batter": {
+      "id": "81485157",
+      "jaBoxscoreName": "萩尾",
+      "boxscoreName": "Hagio",
+      "batSide": "R"
+    },
+    "pitcher": {
+      "id": "93995159",
+      "jaBoxscoreName": "ハッチ",
+      "boxscoreName": "Hatch",
+      "pitchHand": "R"
+    },
+    "number": 2,
+    "inning": 3,
+    "halfInning": "bottom",
+    "outs": 1,
+    "RoB": "1--",
+    "count": {
+      "balls": 0,
+      "strikes": 2
+    },
+    "runs": {
+      "road": 1,
+      "home": 0
+    },
+    "bop": 1,
+    "rbi": 2,
+    "whereHit": "78",
+    "venue": {
+      "jaBoxscoreName": "東京ドーム",
+      "boxscoreName": "Tokyo Dome",
+      "jaName": "東京ドーム",
+      "name": "Tokyo Dome"
+    },
+    "teams": {
+      "road": {
+        "teamCode": "C",
+        "teamName": "Carp",
+        "score": 1
+      },
+      "home": {
+        "teamCode": "G",
+        "teamName": "Giants",
+        "score": 2
+      }
+    },
+    "jaText": "左中間2ランホームラン（打点2）",
+    "text": "Hagio homers (2) to left center.",
+    "url": "https://npb.jp/scores/2024/0414/g-c-03/playbyplay.html#com3-2"
+  },
+  {
+    "id": "41845136-2024-01",
+    "date": "2024-04-14",
+    "batter": {
+      "id": "41845136",
+      "jaBoxscoreName": "村上",
+      "boxscoreName": "Murakami",
+      "batSide": "L"
+    },
+    "pitcher": {
+      "id": "01305138",
+      "jaBoxscoreName": "大貫",
+      "boxscoreName": "Ohnuki",
+      "pitchHand": "R"
+    },
+    "number": 1,
+    "inning": 1,
+    "halfInning": "top",
+    "outs": 1,
+    "RoB": "---",
+    "count": {
+      "balls": 3,
+      "strikes": 1
+    },
+    "runs": {
+      "road": 0,
+      "home": 0
+    },
+    "bop": 2,
+    "rbi": 1,
+    "whereHit": "8",
+    "venue": {
+      "jaBoxscoreName": "横浜",
+      "boxscoreName": "Yokohama",
+      "jaName": "横浜スタジアム",
+      "name": "Yokohama Stadium"
+    },
+    "teams": {
+      "road": {
+        "teamCode": "S",
+        "teamName": "Swallows",
+        "score": 9
+      },
+      "home": {
+        "teamCode": "DB",
+        "teamName": "Baystars",
+        "score": 0
+      }
+    },
+    "jaText": "センターソロホームラン（打点1）",
+    "text": "Murakami homers (1) to center field.",
+    "url": "https://npb.jp/scores/2024/0414/db-s-03/playbyplay.html#com1-1"
+  },
+  {
+    "id": "51155118-2024-01",
+    "date": "2024-04-14",
+    "batter": {
+      "id": "51155118",
+      "jaBoxscoreName": "浅村",
+      "boxscoreName": "Asamura",
+      "batSide": "R"
+    },
+    "pitcher": {
+      "id": "31035151",
+      "jaBoxscoreName": "佐々木",
+      "boxscoreName": "Sasaki",
+      "pitchHand": "R"
+    },
+    "number": 1,
+    "inning": 1,
+    "halfInning": "bottom",
+    "outs": 2,
+    "RoB": "---",
+    "count": {
+      "balls": 2,
+      "strikes": 1
+    },
+    "runs": {
+      "road": 5,
+      "home": 0
+    },
+    "bop": 3,
+    "rbi": 1,
+    "whereHit": "7",
+    "venue": {
+      "jaBoxscoreName": "楽天モバイル",
+      "boxscoreName": "Rakuten Mobile",
+      "jaName": "楽天モバイルパーク宮城",
+      "name": "Rakuten Mobile Park Miyagi"
+    },
+    "teams": {
+      "road": {
+        "teamCode": "M",
+        "teamName": "Marines",
+        "score": 9
+      },
+      "home": {
+        "teamCode": "E",
+        "teamName": "Eagles",
+        "score": 2
+      }
+    },
+    "jaText": "レフトソロホームラン（打点1）",
+    "text": "Asamura homers (1) to left field.",
+    "url": "https://npb.jp/scores/2024/0414/e-m-03/playbyplay.html#com1-2"
+  },
+  {
+    "id": "53555159-2024-02",
+    "date": "2024-04-14",
+    "batter": {
+      "id": "53555159",
+      "jaBoxscoreName": "アギラー",
+      "boxscoreName": "Aguilar",
+      "batSide": "R"
+    },
+    "pitcher": {
+      "id": "01305157",
+      "jaBoxscoreName": "大津",
+      "boxscoreName": "Ohtsu",
+      "pitchHand": "R"
+    },
+    "number": 2,
+    "inning": 7,
+    "halfInning": "bottom",
+    "outs": 1,
+    "RoB": "---",
+    "count": {
+      "balls": 1,
+      "strikes": 0
+    },
+    "runs": {
+      "road": 4,
+      "home": 0
+    },
+    "bop": 4,
+    "rbi": 1,
+    "whereHit": "7",
+    "venue": {
+      "jaBoxscoreName": "ベルーナドーム",
+      "boxscoreName": "Belluna Dome",
+      "jaName": "ベルーナドーム",
+      "name": "Belluna Dome"
+    },
+    "teams": {
+      "road": {
+        "teamCode": "H",
+        "teamName": "Hawks",
+        "score": 4
+      },
+      "home": {
+        "teamCode": "L",
+        "teamName": "Lions",
+        "score": 1
+      }
+    },
+    "jaText": "レフトソロホームラン（打点1）",
+    "text": "Aguilar homers (2) to left field.",
+    "url": "https://npb.jp/scores/2024/0414/l-h-03/playbyplay.html#com7-2"
+  },
+  {
+    "id": "73975136-2024-01",
+    "date": "2024-04-14",
+    "batter": {
+      "id": "73975136",
+      "jaBoxscoreName": "マルティネス",
+      "boxscoreName": "Martinez",
+      "batSide": "R"
+    },
+    "pitcher": {
+      "id": "73775157",
+      "jaBoxscoreName": "カスティーヨ",
+      "boxscoreName": "Castillo",
+      "pitchHand": "R"
+    },
+    "number": 1,
+    "inning": 1,
+    "halfInning": "top",
+    "outs": 1,
+    "RoB": "12-",
+    "count": {
+      "balls": 2,
+      "strikes": 1
+    },
+    "runs": {
+      "road": 0,
+      "home": 0
+    },
+    "bop": 4,
+    "rbi": 3,
+    "whereHit": "7",
+    "venue": {
+      "jaBoxscoreName": "京セラD大阪",
+      "boxscoreName": "Kyocera Dome",
+      "jaName": "京セラドーム大阪",
+      "name": "Kyocera Dome Osaka"
+    },
+    "teams": {
+      "road": {
+        "teamCode": "F",
+        "teamName": "Fighters",
+        "score": 3
+      },
+      "home": {
+        "teamCode": "B",
+        "teamName": "Buffaloes",
+        "score": 6
+      }
+    },
+    "jaText": "レフト3ランホームラン（打点3）",
+    "text": "Martinez homers (1) to left field.",
+    "url": "https://npb.jp/scores/2024/0414/b-f-03/playbyplay.html#com1-1"
+  }
+]

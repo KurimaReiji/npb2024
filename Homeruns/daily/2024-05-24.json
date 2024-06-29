@@ -1,0 +1,268 @@
+[
+  {
+    "id": "01705138-2024-01",
+    "date": "2024-05-24",
+    "batter": {
+      "id": "01705138",
+      "jaBoxscoreName": "小園",
+      "boxscoreName": "Kozono",
+      "batSide": "L"
+    },
+    "pitcher": {
+      "id": "41145151",
+      "jaBoxscoreName": "伊勢",
+      "boxscoreName": "Ise",
+      "pitchHand": "R"
+    },
+    "number": 1,
+    "inning": 10,
+    "halfInning": "top",
+    "outs": 2,
+    "RoB": "---",
+    "count": {
+      "balls": 0,
+      "strikes": 1
+    },
+    "runs": {
+      "road": 1,
+      "home": 1
+    },
+    "bop": 4,
+    "rbi": 1,
+    "whereHit": "89",
+    "venue": {
+      "jaBoxscoreName": "横浜",
+      "boxscoreName": "Yokohama",
+      "jaName": "横浜スタジアム",
+      "name": "Yokohama Stadium"
+    },
+    "teams": {
+      "road": {
+        "teamCode": "C",
+        "teamName": "Carp",
+        "score": 5
+      },
+      "home": {
+        "teamCode": "DB",
+        "teamName": "Baystars",
+        "score": 2
+      }
+    },
+    "jaText": "右中間ソロホームラン（打点1）",
+    "text": "Kozono homers (1) to right center.",
+    "url": "https://npb.jp/scores/2024/0524/db-c-09/playbyplay.html#com10-1"
+  },
+  {
+    "id": "51055155-2024-03",
+    "date": "2024-05-24",
+    "batter": {
+      "id": "51055155",
+      "jaBoxscoreName": "末包",
+      "boxscoreName": "Suekane",
+      "batSide": "R"
+    },
+    "pitcher": {
+      "id": "41145151",
+      "jaBoxscoreName": "伊勢",
+      "boxscoreName": "Ise",
+      "pitchHand": "R"
+    },
+    "number": 3,
+    "inning": 10,
+    "halfInning": "top",
+    "outs": 2,
+    "RoB": "---",
+    "count": {
+      "balls": 1,
+      "strikes": 2
+    },
+    "runs": {
+      "road": 2,
+      "home": 1
+    },
+    "bop": 5,
+    "rbi": 1,
+    "whereHit": "7",
+    "venue": {
+      "jaBoxscoreName": "横浜",
+      "boxscoreName": "Yokohama",
+      "jaName": "横浜スタジアム",
+      "name": "Yokohama Stadium"
+    },
+    "teams": {
+      "road": {
+        "teamCode": "C",
+        "teamName": "Carp",
+        "score": 5
+      },
+      "home": {
+        "teamCode": "DB",
+        "teamName": "Baystars",
+        "score": 2
+      }
+    },
+    "jaText": "レフトソロホームラン（打点1）",
+    "text": "Suekane homers (3) to left field.",
+    "url": "https://npb.jp/scores/2024/0524/db-c-09/playbyplay.html#com10-1"
+  },
+  {
+    "id": "01405130-2024-01",
+    "date": "2024-05-24",
+    "batter": {
+      "id": "01405130",
+      "jaBoxscoreName": "野間",
+      "boxscoreName": "Noma",
+      "batSide": "L"
+    },
+    "pitcher": {
+      "id": "61165153",
+      "jaBoxscoreName": "石川",
+      "boxscoreName": "Ishikawa",
+      "pitchHand": "L"
+    },
+    "number": 1,
+    "inning": 10,
+    "halfInning": "top",
+    "outs": 2,
+    "RoB": "1--",
+    "count": {
+      "balls": 2,
+      "strikes": 1
+    },
+    "runs": {
+      "road": 3,
+      "home": 1
+    },
+    "bop": 7,
+    "rbi": 2,
+    "whereHit": "9",
+    "venue": {
+      "jaBoxscoreName": "横浜",
+      "boxscoreName": "Yokohama",
+      "jaName": "横浜スタジアム",
+      "name": "Yokohama Stadium"
+    },
+    "teams": {
+      "road": {
+        "teamCode": "C",
+        "teamName": "Carp",
+        "score": 5
+      },
+      "home": {
+        "teamCode": "DB",
+        "teamName": "Baystars",
+        "score": 2
+      }
+    },
+    "jaText": "ライト2ランホームラン（打点2）",
+    "text": "Noma homers (1) to right field.",
+    "url": "https://npb.jp/scores/2024/0524/db-c-09/playbyplay.html#com10-1"
+  },
+  {
+    "id": "41845136-2024-12",
+    "date": "2024-05-24",
+    "batter": {
+      "id": "41845136",
+      "jaBoxscoreName": "村上",
+      "boxscoreName": "Murakami",
+      "batSide": "L"
+    },
+    "pitcher": {
+      "id": "31635110",
+      "jaBoxscoreName": "涌井",
+      "boxscoreName": "Wakui",
+      "pitchHand": "R"
+    },
+    "number": 12,
+    "inning": 1,
+    "halfInning": "top",
+    "outs": 2,
+    "RoB": "1--",
+    "count": {
+      "balls": 0,
+      "strikes": 0
+    },
+    "runs": {
+      "road": 0,
+      "home": 0
+    },
+    "bop": 4,
+    "rbi": 2,
+    "whereHit": "78",
+    "venue": {
+      "jaBoxscoreName": "バンテリンドーム",
+      "boxscoreName": "Vantelin Dome",
+      "jaName": "バンテリンドーム ナゴヤ",
+      "name": "Vantelin Dome Nagoya"
+    },
+    "teams": {
+      "road": {
+        "teamCode": "S",
+        "teamName": "Swallows",
+        "score": 5
+      },
+      "home": {
+        "teamCode": "D",
+        "teamName": "Dragons",
+        "score": 2
+      }
+    },
+    "jaText": "左中間2ランホームラン（打点2）",
+    "text": "Murakami homers (12) to left center.",
+    "url": "https://npb.jp/scores/2024/0524/d-s-10/playbyplay.html#com1-1"
+  },
+  {
+    "id": "81385138-2024-02",
+    "date": "2024-05-24",
+    "batter": {
+      "id": "81385138",
+      "jaBoxscoreName": "小郷",
+      "boxscoreName": "Ogoh",
+      "batSide": "L"
+    },
+    "pitcher": {
+      "id": "51555157",
+      "jaBoxscoreName": "金村",
+      "boxscoreName": "Kanemura",
+      "pitchHand": "R"
+    },
+    "number": 2,
+    "inning": 1,
+    "halfInning": "bottom",
+    "outs": 0,
+    "RoB": "---",
+    "count": {
+      "balls": 1,
+      "strikes": 2
+    },
+    "runs": {
+      "road": 0,
+      "home": 0
+    },
+    "bop": 1,
+    "rbi": 1,
+    "whereHit": "7",
+    "venue": {
+      "jaBoxscoreName": "楽天モバイル",
+      "boxscoreName": "Rakuten Mobile",
+      "jaName": "楽天モバイルパーク宮城",
+      "name": "Rakuten Mobile Park Miyagi"
+    },
+    "teams": {
+      "road": {
+        "teamCode": "F",
+        "teamName": "Fighters",
+        "score": 4
+      },
+      "home": {
+        "teamCode": "E",
+        "teamName": "Eagles",
+        "score": 3
+      }
+    },
+    "jaText": "レフトソロホームラン（打点1）",
+    "text": "Ogoh homers (2) to left field.",
+    "url": "https://npb.jp/scores/2024/0524/e-f-05/playbyplay.html#com1-2",
+    "isLeadOff": "Y"
+  }
+]

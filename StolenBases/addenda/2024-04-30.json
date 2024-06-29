@@ -1,0 +1,82 @@
+[
+  {
+    "jaText": "（走者・蝦名）二塁盗塁成功",
+    "text": "Ebina steals 2nd base.",
+    "pickoff": "",
+    "catcher": {
+      "id": "31735132",
+      "jaBoxscoreName": "木下",
+      "boxscoreName": "Kinoshita"
+    }
+  },
+  {
+    "jaText": "（走者・大和）二塁盗塁成功",
+    "text": "Maeda steals 2nd base.",
+    "pickoff": "",
+    "catcher": {
+      "id": "31735132",
+      "jaBoxscoreName": "木下",
+      "boxscoreName": "Kinoshita"
+    }
+  },
+  {
+    "jaText": "（走者・石上）二塁盗塁成功",
+    "text": "Ishikami steals 2nd base.",
+    "pickoff": "",
+    "catcher": {
+      "id": "31735132",
+      "jaBoxscoreName": "木下",
+      "boxscoreName": "Kinoshita"
+    }
+  },
+  {
+    "jaText": "（走者・松本剛）二塁盗塁成功",
+    "text": "G.Matsumoto steals 2nd base.",
+    "pickoff": ""
+  },
+  {
+    "jaText": "（走者・細川）二塁盗塁成功",
+    "text": "Hosokawa picked off and steals 2nd base.",
+    "pickoff": "Y"
+  },
+  {
+    "jaText": "（走者・細川）二塁牽制アウト",
+    "text": "Hosokawa picked off at 2nd base.",
+    "pickoff": "Y"
+  },
+  {
+    "jaText": "（走者・五十幡）二塁盗塁失敗",
+    "text": "Isobata caught stealing 2nd base.",
+    "pickoff": ""
+  },
+  {
+    "jaText": "（走者・金子侑）二塁盗塁失敗",
+    "text": "Y.Kaneko picked off and caught stealing 2nd base.",
+    "pickoff": "Y"
+  },
+  {
+    "jaText": "（走者・細川）二塁盗塁成功",
+    "text": "Hosokawa steals 2nd base.",
+    "pickoff": ""
+  },
+  {
+    "jaText": "（走者・宗）二塁盗塁成功",
+    "text": "Mune steals 2nd base.",
+    "pickoff": ""
+  },
+  {
+    "jaText": "（走者・渡部）二塁盗塁成功",
+    "text": "Watanabe steals 2nd base.",
+    "pickoff": ""
+  },
+  {
+    "jaText": "（走者・三森）二塁盗塁成功",
+    "text": "Mimori steals 2nd base.",
+    "pickoff": "",
+    "catcher": {
+      "id": "61165134",
+      "jaBoxscoreName": "石原",
+      "boxscoreName": "Ishihara"
+    }
+  }
+]

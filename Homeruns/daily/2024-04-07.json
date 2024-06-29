@@ -1,0 +1,55 @@
+[
+  {
+    "id": "23525153-2024-01",
+    "date": "2024-04-07",
+    "batter": {
+      "id": "23525153",
+      "jaBoxscoreName": "オスナ",
+      "boxscoreName": "Osuna",
+      "batSide": "R"
+    },
+    "pitcher": {
+      "id": "41745134",
+      "jaBoxscoreName": "才木",
+      "boxscoreName": "Saiki",
+      "pitchHand": "R"
+    },
+    "number": 1,
+    "inning": 1,
+    "halfInning": "bottom",
+    "outs": 1,
+    "RoB": "-2-",
+    "count": {
+      "balls": 1,
+      "strikes": 2
+    },
+    "runs": {
+      "road": 0,
+      "home": 0
+    },
+    "bop": 3,
+    "rbi": 2,
+    "whereHit": "7",
+    "venue": {
+      "jaBoxscoreName": "神宮",
+      "boxscoreName": "Jingu",
+      "jaName": "神宮",
+      "name": "Jingu Stadium"
+    },
+    "teams": {
+      "road": {
+        "teamCode": "T",
+        "teamName": "Tigers",
+        "score": 1
+      },
+      "home": {
+        "teamCode": "S",
+        "teamName": "Swallows",
+        "score": 3
+      }
+    },
+    "jaText": "レフト2ランホームラン（打点2）",
+    "text": "Osuna homers (1) to left field.",
+    "url": "https://npb.jp/scores/2024/0407/s-t-03/playbyplay.html#com1-2"
+  }
+]

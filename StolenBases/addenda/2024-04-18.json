@@ -1,0 +1,22 @@
+[
+  {
+    "jaText": "（走者・村上）二塁盗塁成功",
+    "text": "Murakami steals 2nd base.",
+    "pickoff": "",
+    "catcher": {
+      "id": "61365132",
+      "jaBoxscoreName": "宇佐見",
+      "boxscoreName": "Usami"
+    }
+  },
+  {
+    "jaText": "（走者・近本）二塁盗塁成功",
+    "text": "Chikamoto steals 2nd base.",
+    "pickoff": ""
+  },
+  {
+    "jaText": "（走者・重信）二塁盗塁成功",
+    "text": "Shigenobu steals 2nd base.",
+    "pickoff": ""
+  }
+]

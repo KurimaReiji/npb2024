@@ -1,0 +1,32 @@
+[
+  {
+    "jaText": "（走者・板山）二塁盗塁失敗",
+    "text": "Itayama caught stealing 2nd base.",
+    "pickoff": ""
+  },
+  {
+    "jaText": "（走者・尾田）二塁盗塁失敗",
+    "text": "Oda caught stealing 2nd base.",
+    "pickoff": ""
+  },
+  {
+    "jaText": "（走者・岸）二塁盗塁成功",
+    "text": "Kishi steals 2nd base.",
+    "pickoff": ""
+  },
+  {
+    "jaText": "（走者・和田）二塁盗塁成功",
+    "text": "Wada steals 2nd base.",
+    "pickoff": "",
+    "catcher": {
+      "id": "81385151",
+      "jaBoxscoreName": "海野",
+      "boxscoreName": "Umino"
+    }
+  },
+  {
+    "jaText": "（走者・佐藤直）一塁牽制アウト",
+    "text": "N.Satoh picked off at 1st base.",
+    "pickoff": "Y"
+  }
+]

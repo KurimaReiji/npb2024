@@ -1,0 +1,267 @@
+[
+  {
+    "id": "73375151-2024-02",
+    "date": "2024-05-23",
+    "batter": {
+      "id": "73375151",
+      "jaBoxscoreName": "オースティン",
+      "boxscoreName": "Austin",
+      "batSide": "R"
+    },
+    "pitcher": {
+      "id": "51055132",
+      "jaBoxscoreName": "高橋",
+      "boxscoreName": "Takahashi",
+      "pitchHand": "L"
+    },
+    "number": 2,
+    "inning": 4,
+    "halfInning": "top",
+    "outs": 0,
+    "RoB": "---",
+    "count": {
+      "balls": 0,
+      "strikes": 1
+    },
+    "runs": {
+      "road": 1,
+      "home": 0
+    },
+    "bop": 4,
+    "rbi": 1,
+    "whereHit": "7",
+    "venue": {
+      "jaBoxscoreName": "神宮",
+      "boxscoreName": "Jingu",
+      "jaName": "神宮",
+      "name": "Jingu Stadium"
+    },
+    "teams": {
+      "road": {
+        "teamCode": "DB",
+        "teamName": "Baystars",
+        "score": 5
+      },
+      "home": {
+        "teamCode": "S",
+        "teamName": "Swallows",
+        "score": 3
+      }
+    },
+    "jaText": "レフトソロホームラン（打点1）",
+    "text": "Austin homers (2) to left field.",
+    "url": "https://npb.jp/scores/2024/0523/s-db-11/playbyplay.html#com4-1"
+  },
+  {
+    "id": "41845136-2024-11",
+    "date": "2024-05-23",
+    "batter": {
+      "id": "41845136",
+      "jaBoxscoreName": "村上",
+      "boxscoreName": "Murakami",
+      "batSide": "L"
+    },
+    "pitcher": {
+      "id": "11315130",
+      "jaBoxscoreName": "石田健",
+      "boxscoreName": "K.Ishida",
+      "pitchHand": "L"
+    },
+    "number": 11,
+    "inning": 7,
+    "halfInning": "bottom",
+    "outs": 0,
+    "RoB": "---",
+    "count": {
+      "balls": 1,
+      "strikes": 1
+    },
+    "runs": {
+      "road": 4,
+      "home": 0
+    },
+    "bop": 4,
+    "rbi": 1,
+    "whereHit": "9",
+    "venue": {
+      "jaBoxscoreName": "神宮",
+      "boxscoreName": "Jingu",
+      "jaName": "神宮",
+      "name": "Jingu Stadium"
+    },
+    "teams": {
+      "road": {
+        "teamCode": "DB",
+        "teamName": "Baystars",
+        "score": 5
+      },
+      "home": {
+        "teamCode": "S",
+        "teamName": "Swallows",
+        "score": 3
+      }
+    },
+    "jaText": "ライトソロホームラン（打点1）",
+    "text": "Murakami homers (11) to right field.",
+    "url": "https://npb.jp/scores/2024/0523/s-db-11/playbyplay.html#com7-2"
+  },
+  {
+    "id": "53755153-2024-06",
+    "date": "2024-05-23",
+    "batter": {
+      "id": "53755153",
+      "jaBoxscoreName": "サンタナ",
+      "boxscoreName": "Santana",
+      "batSide": "R"
+    },
+    "pitcher": {
+      "id": "11315130",
+      "jaBoxscoreName": "石田健",
+      "boxscoreName": "K.Ishida",
+      "pitchHand": "L"
+    },
+    "number": 6,
+    "inning": 7,
+    "halfInning": "bottom",
+    "outs": 0,
+    "RoB": "---",
+    "count": {
+      "balls": 2,
+      "strikes": 1
+    },
+    "runs": {
+      "road": 4,
+      "home": 1
+    },
+    "bop": 5,
+    "rbi": 1,
+    "whereHit": "8",
+    "venue": {
+      "jaBoxscoreName": "神宮",
+      "boxscoreName": "Jingu",
+      "jaName": "神宮",
+      "name": "Jingu Stadium"
+    },
+    "teams": {
+      "road": {
+        "teamCode": "DB",
+        "teamName": "Baystars",
+        "score": 5
+      },
+      "home": {
+        "teamCode": "S",
+        "teamName": "Swallows",
+        "score": 3
+      }
+    },
+    "jaText": "センターソロホームラン（打点1）",
+    "text": "Santana homers (6) to center field.",
+    "url": "https://npb.jp/scores/2024/0523/s-db-11/playbyplay.html#com7-2"
+  },
+  {
+    "id": "41645139-2024-01",
+    "date": "2024-05-23",
+    "batter": {
+      "id": "41645139",
+      "jaBoxscoreName": "若月",
+      "boxscoreName": "Wakatsuki",
+      "batSide": "R"
+    },
+    "pitcher": {
+      "id": "61065151",
+      "jaBoxscoreName": "鈴木",
+      "boxscoreName": "Suzuki",
+      "pitchHand": "R"
+    },
+    "number": 1,
+    "inning": 5,
+    "halfInning": "top",
+    "outs": 1,
+    "RoB": "1--",
+    "count": {
+      "balls": 1,
+      "strikes": 0
+    },
+    "runs": {
+      "road": 6,
+      "home": 0
+    },
+    "bop": 9,
+    "rbi": 2,
+    "whereHit": "7",
+    "venue": {
+      "jaBoxscoreName": "エスコンＦ",
+      "boxscoreName": "ES CON FIELD",
+      "jaName": "エスコンフィールドＨＯＫＫＡＩＤＯ",
+      "name": "ES CON FIELD HOKKAIDO"
+    },
+    "teams": {
+      "road": {
+        "teamCode": "B",
+        "teamName": "Buffaloes",
+        "score": 9
+      },
+      "home": {
+        "teamCode": "F",
+        "teamName": "Fighters",
+        "score": 3
+      }
+    },
+    "jaText": "レフト2ランホームラン（打点2）",
+    "text": "Wakatsuki homers (1) to left field.",
+    "url": "https://npb.jp/scores/2024/0523/f-b-12/playbyplay.html#com5-1"
+  },
+  {
+    "id": "73975136-2024-05",
+    "date": "2024-05-23",
+    "batter": {
+      "id": "73975136",
+      "jaBoxscoreName": "マルティネス",
+      "boxscoreName": "Martinez",
+      "batSide": "R"
+    },
+    "pitcher": {
+      "id": "61965136",
+      "jaBoxscoreName": "鈴木",
+      "boxscoreName": "Suzuki",
+      "pitchHand": "R"
+    },
+    "number": 5,
+    "inning": 5,
+    "halfInning": "bottom",
+    "outs": 1,
+    "RoB": "12-",
+    "count": {
+      "balls": 1,
+      "strikes": 2
+    },
+    "runs": {
+      "road": 8,
+      "home": 0
+    },
+    "bop": 4,
+    "rbi": 3,
+    "whereHit": "78",
+    "venue": {
+      "jaBoxscoreName": "エスコンＦ",
+      "boxscoreName": "ES CON FIELD",
+      "jaName": "エスコンフィールドＨＯＫＫＡＩＤＯ",
+      "name": "ES CON FIELD HOKKAIDO"
+    },
+    "teams": {
+      "road": {
+        "teamCode": "B",
+        "teamName": "Buffaloes",
+        "score": 9
+      },
+      "home": {
+        "teamCode": "F",
+        "teamName": "Fighters",
+        "score": 3
+      }
+    },
+    "jaText": "左中間3ランホームラン（打点3）",
+    "text": "Martinez homers (5) to left center.",
+    "url": "https://npb.jp/scores/2024/0523/f-b-12/playbyplay.html#com5-2"
+  }
+]

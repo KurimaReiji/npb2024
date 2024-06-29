@@ -1,0 +1,32 @@
+[
+  {
+    "jaText": "（走者・岡林）二塁盗塁成功",
+    "text": "Okabayashi steals 2nd base.",
+    "pickoff": "",
+    "catcher": {
+      "id": "11915132",
+      "jaBoxscoreName": "坂本",
+      "boxscoreName": "Sakamoto"
+    }
+  },
+  {
+    "jaText": "（走者・上本）二塁盗塁失敗",
+    "text": "Uemoto caught stealing 2nd base.",
+    "pickoff": ""
+  },
+  {
+    "jaText": "（走者・鈴木）二塁盗塁失敗",
+    "text": "Suzuki caught stealing 2nd base.",
+    "pickoff": ""
+  },
+  {
+    "jaText": "（走者・五十幡）二塁盗塁成功",
+    "text": "Isobata steals 2nd base.",
+    "pickoff": ""
+  },
+  {
+    "jaText": "（走者・友杉）二塁盗塁成功",
+    "text": "Tomosugi steals 2nd base.",
+    "pickoff": ""
+  }
+]

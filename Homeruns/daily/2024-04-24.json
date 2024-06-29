@@ -1,0 +1,161 @@
+[
+  {
+    "id": "93795157-2024-01",
+    "date": "2024-04-24",
+    "batter": {
+      "id": "93795157",
+      "jaBoxscoreName": "カリステ",
+      "boxscoreName": "Calixte",
+      "batSide": "R"
+    },
+    "pitcher": {
+      "id": "51155155",
+      "jaBoxscoreName": "赤星",
+      "boxscoreName": "Akahoshi",
+      "pitchHand": "R"
+    },
+    "number": 1,
+    "inning": 1,
+    "halfInning": "top",
+    "outs": 1,
+    "RoB": "1--",
+    "count": {
+      "balls": 2,
+      "strikes": 2
+    },
+    "runs": {
+      "road": 0,
+      "home": 0
+    },
+    "bop": 3,
+    "rbi": 2,
+    "whereHit": "7",
+    "venue": {
+      "jaBoxscoreName": "東京ドーム",
+      "boxscoreName": "Tokyo Dome",
+      "jaName": "東京ドーム",
+      "name": "Tokyo Dome"
+    },
+    "teams": {
+      "road": {
+        "teamCode": "D",
+        "teamName": "Dragons",
+        "score": 3
+      },
+      "home": {
+        "teamCode": "G",
+        "teamName": "Giants",
+        "score": 2
+      }
+    },
+    "jaText": "レフト2ランホームラン（打点2）",
+    "text": "Calixte homers (1) to left field.",
+    "url": "https://npb.jp/scores/2024/0424/g-d-05/playbyplay.html#com1-1"
+  },
+  {
+    "id": "81085115-2024-02",
+    "date": "2024-04-24",
+    "batter": {
+      "id": "81085115",
+      "jaBoxscoreName": "中村剛",
+      "boxscoreName": "T.Nakamura",
+      "batSide": "R"
+    },
+    "pitcher": {
+      "id": "81285112",
+      "jaBoxscoreName": "平野佳",
+      "boxscoreName": "Yo.Hirano",
+      "pitchHand": "R"
+    },
+    "number": 2,
+    "inning": 9,
+    "halfInning": "top",
+    "outs": 0,
+    "RoB": "---",
+    "count": {
+      "balls": 0,
+      "strikes": 1
+    },
+    "runs": {
+      "road": 0,
+      "home": 3
+    },
+    "bop": 3,
+    "rbi": 1,
+    "whereHit": "7",
+    "venue": {
+      "jaBoxscoreName": "京セラD大阪",
+      "boxscoreName": "Kyocera Dome",
+      "jaName": "京セラドーム大阪",
+      "name": "Kyocera Dome Osaka"
+    },
+    "teams": {
+      "road": {
+        "teamCode": "L",
+        "teamName": "Lions",
+        "score": 3
+      },
+      "home": {
+        "teamCode": "B",
+        "teamName": "Buffaloes",
+        "score": 4
+      }
+    },
+    "jaText": "レフトソロホームラン（打点1）",
+    "text": "T.Nakamura homers (2) to left field.",
+    "url": "https://npb.jp/scores/2024/0424/b-l-05/playbyplay.html#com9-1"
+  },
+  {
+    "id": "83085157-2024-01",
+    "date": "2024-04-24",
+    "batter": {
+      "id": "83085157",
+      "jaBoxscoreName": "ゴンザレス",
+      "boxscoreName": "Gonzalez",
+      "batSide": "S"
+    },
+    "pitcher": {
+      "id": "51255159",
+      "jaBoxscoreName": "武内",
+      "boxscoreName": "Takeuchi",
+      "pitchHand": "L"
+    },
+    "number": 1,
+    "inning": 3,
+    "halfInning": "bottom",
+    "outs": 2,
+    "RoB": "---",
+    "count": {
+      "balls": 1,
+      "strikes": 2
+    },
+    "runs": {
+      "road": 0,
+      "home": 0
+    },
+    "bop": 9,
+    "rbi": 1,
+    "whereHit": "7",
+    "venue": {
+      "jaBoxscoreName": "京セラD大阪",
+      "boxscoreName": "Kyocera Dome",
+      "jaName": "京セラドーム大阪",
+      "name": "Kyocera Dome Osaka"
+    },
+    "teams": {
+      "road": {
+        "teamCode": "L",
+        "teamName": "Lions",
+        "score": 3
+      },
+      "home": {
+        "teamCode": "B",
+        "teamName": "Buffaloes",
+        "score": 4
+      }
+    },
+    "jaText": "レフトソロホームラン（打点1）",
+    "text": "Gonzalez homers (1) to left field.",
+    "url": "https://npb.jp/scores/2024/0424/b-l-05/playbyplay.html#com3-2"
+  }
+]

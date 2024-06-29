@@ -1,0 +1,321 @@
+[
+  {
+    "id": "21425116-2024-03",
+    "date": "2024-05-22",
+    "batter": {
+      "id": "21425116",
+      "jaBoxscoreName": "丸",
+      "boxscoreName": "Maru",
+      "batSide": "L"
+    },
+    "pitcher": {
+      "id": "71575132",
+      "jaBoxscoreName": "小笠原",
+      "boxscoreName": "Ogasawara",
+      "pitchHand": "L"
+    },
+    "number": 3,
+    "inning": 1,
+    "halfInning": "bottom",
+    "outs": 0,
+    "RoB": "---",
+    "count": {
+      "balls": 3,
+      "strikes": 1
+    },
+    "runs": {
+      "road": 0,
+      "home": 0
+    },
+    "bop": 1,
+    "rbi": 1,
+    "whereHit": "9",
+    "venue": {
+      "jaBoxscoreName": "東京ドーム",
+      "boxscoreName": "Tokyo Dome",
+      "jaName": "東京ドーム",
+      "name": "Tokyo Dome"
+    },
+    "teams": {
+      "road": {
+        "teamCode": "D",
+        "teamName": "Dragons",
+        "score": 4
+      },
+      "home": {
+        "teamCode": "G",
+        "teamName": "Giants",
+        "score": 2
+      }
+    },
+    "jaText": "ライトソロホームラン（打点1）",
+    "text": "Maru homers (3) to right field.",
+    "url": "https://npb.jp/scores/2024/0522/g-d-11/playbyplay.html#com1-2",
+    "isLeadOff": "Y"
+  },
+  {
+    "id": "41945131-2024-03",
+    "date": "2024-05-22",
+    "batter": {
+      "id": "41945131",
+      "jaBoxscoreName": "筒香",
+      "boxscoreName": "Tsutsugo",
+      "batSide": "L"
+    },
+    "pitcher": {
+      "id": "01705132",
+      "jaBoxscoreName": "小澤",
+      "boxscoreName": "Kozawa",
+      "pitchHand": "R"
+    },
+    "number": 3,
+    "inning": 4,
+    "halfInning": "top",
+    "outs": 1,
+    "RoB": "1--",
+    "count": {
+      "balls": 2,
+      "strikes": 2
+    },
+    "runs": {
+      "road": 0,
+      "home": 0
+    },
+    "bop": 4,
+    "rbi": 2,
+    "whereHit": "89",
+    "venue": {
+      "jaBoxscoreName": "神宮",
+      "boxscoreName": "Jingu",
+      "jaName": "神宮",
+      "name": "Jingu Stadium"
+    },
+    "teams": {
+      "road": {
+        "teamCode": "DB",
+        "teamName": "Baystars",
+        "score": 2
+      },
+      "home": {
+        "teamCode": "S",
+        "teamName": "Swallows",
+        "score": 1
+      }
+    },
+    "jaText": "右中間2ランホームラン（打点2）",
+    "text": "Tsutsugo homers (3) to right center.",
+    "url": "https://npb.jp/scores/2024/0522/s-db-10/playbyplay.html#com4-1"
+  },
+  {
+    "id": "01605136-2024-01",
+    "date": "2024-05-22",
+    "batter": {
+      "id": "01605136",
+      "jaBoxscoreName": "福田",
+      "boxscoreName": "Fukuda",
+      "batSide": "L"
+    },
+    "pitcher": {
+      "id": "51855134",
+      "jaBoxscoreName": "堀",
+      "boxscoreName": "Hori",
+      "pitchHand": "L"
+    },
+    "number": 1,
+    "inning": 8,
+    "halfInning": "top",
+    "outs": 0,
+    "RoB": "123",
+    "count": {
+      "balls": 2,
+      "strikes": 1
+    },
+    "runs": {
+      "road": 0,
+      "home": 4
+    },
+    "bop": 1,
+    "rbi": 4,
+    "whereHit": "9",
+    "venue": {
+      "jaBoxscoreName": "エスコンＦ",
+      "boxscoreName": "ES CON FIELD",
+      "jaName": "エスコンフィールドＨＯＫＫＡＩＤＯ",
+      "name": "ES CON FIELD HOKKAIDO"
+    },
+    "teams": {
+      "road": {
+        "teamCode": "B",
+        "teamName": "Buffaloes",
+        "score": 4
+      },
+      "home": {
+        "teamCode": "F",
+        "teamName": "Fighters",
+        "score": 5
+      }
+    },
+    "jaText": "ライト満塁ホームラン（打点4）",
+    "text": "Fukuda homers (1) to right field.",
+    "url": "https://npb.jp/scores/2024/0522/f-b-11/playbyplay.html#com8-1"
+  },
+  {
+    "id": "51055138-2024-01",
+    "date": "2024-05-22",
+    "batter": {
+      "id": "51055138",
+      "jaBoxscoreName": "田宮",
+      "boxscoreName": "Tamiya",
+      "batSide": "L"
+    },
+    "pitcher": {
+      "id": "73775157",
+      "jaBoxscoreName": "カスティーヨ",
+      "boxscoreName": "Castillo",
+      "pitchHand": "R"
+    },
+    "number": 1,
+    "inning": 4,
+    "halfInning": "bottom",
+    "outs": 0,
+    "RoB": "---",
+    "count": {
+      "balls": 0,
+      "strikes": 0
+    },
+    "runs": {
+      "road": 0,
+      "home": 1
+    },
+    "bop": 6,
+    "rbi": 1,
+    "whereHit": "9",
+    "venue": {
+      "jaBoxscoreName": "エスコンＦ",
+      "boxscoreName": "ES CON FIELD",
+      "jaName": "エスコンフィールドＨＯＫＫＡＩＤＯ",
+      "name": "ES CON FIELD HOKKAIDO"
+    },
+    "teams": {
+      "road": {
+        "teamCode": "B",
+        "teamName": "Buffaloes",
+        "score": 4
+      },
+      "home": {
+        "teamCode": "F",
+        "teamName": "Fighters",
+        "score": 5
+      }
+    },
+    "jaText": "ライトソロホームラン（打点1）",
+    "text": "Tamiya homers (1) to right field.",
+    "url": "https://npb.jp/scores/2024/0522/f-b-11/playbyplay.html#com4-2"
+  },
+  {
+    "id": "21425139-2024-11",
+    "date": "2024-05-22",
+    "batter": {
+      "id": "21425139",
+      "jaBoxscoreName": "山川",
+      "boxscoreName": "Yamakawa",
+      "batSide": "R"
+    },
+    "pitcher": {
+      "id": "21925157",
+      "jaBoxscoreName": "荘司",
+      "boxscoreName": "Shoji",
+      "pitchHand": "R"
+    },
+    "number": 11,
+    "inning": 1,
+    "halfInning": "bottom",
+    "outs": 1,
+    "RoB": "1-3",
+    "count": {
+      "balls": 1,
+      "strikes": 2
+    },
+    "runs": {
+      "road": 0,
+      "home": 0
+    },
+    "bop": 4,
+    "rbi": 3,
+    "whereHit": "7",
+    "venue": {
+      "jaBoxscoreName": "京セラD大阪",
+      "boxscoreName": "Kyocera Dome",
+      "jaName": "京セラドーム大阪",
+      "name": "Kyocera Dome Osaka"
+    },
+    "teams": {
+      "road": {
+        "teamCode": "E",
+        "teamName": "Eagles",
+        "score": 0
+      },
+      "home": {
+        "teamCode": "H",
+        "teamName": "Hawks",
+        "score": 12
+      }
+    },
+    "jaText": "レフト3ランホームラン（打点3）",
+    "text": "Yamakawa homers (11) to left field.",
+    "url": "https://npb.jp/scores/2024/0522/h-e-09/playbyplay.html#com1-2"
+  },
+  {
+    "id": "21425139-2024-12",
+    "date": "2024-05-22",
+    "batter": {
+      "id": "21425139",
+      "jaBoxscoreName": "山川",
+      "boxscoreName": "Yamakawa",
+      "batSide": "R"
+    },
+    "pitcher": {
+      "id": "13115155",
+      "jaBoxscoreName": "松井",
+      "boxscoreName": "Matsui",
+      "pitchHand": "R"
+    },
+    "number": 12,
+    "inning": 2,
+    "halfInning": "bottom",
+    "outs": 1,
+    "RoB": "1--",
+    "count": {
+      "balls": 0,
+      "strikes": 1
+    },
+    "runs": {
+      "road": 0,
+      "home": 5
+    },
+    "bop": 4,
+    "rbi": 2,
+    "whereHit": "7",
+    "venue": {
+      "jaBoxscoreName": "京セラD大阪",
+      "boxscoreName": "Kyocera Dome",
+      "jaName": "京セラドーム大阪",
+      "name": "Kyocera Dome Osaka"
+    },
+    "teams": {
+      "road": {
+        "teamCode": "E",
+        "teamName": "Eagles",
+        "score": 0
+      },
+      "home": {
+        "teamCode": "H",
+        "teamName": "Hawks",
+        "score": 12
+      }
+    },
+    "jaText": "レフト2ランホームラン（打点2）",
+    "text": "Yamakawa homers (12) to left field.",
+    "url": "https://npb.jp/scores/2024/0522/h-e-09/playbyplay.html#com2-2"
+  }
+]

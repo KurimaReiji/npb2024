@@ -1,0 +1,32 @@
+[
+  {
+    "jaText": "（走者・西川）二塁盗塁成功",
+    "text": "Nishikawa steals 2nd base.",
+    "pickoff": "",
+    "catcher": {
+      "id": "81785155",
+      "jaBoxscoreName": "古賀",
+      "boxscoreName": "Koga"
+    }
+  },
+  {
+    "jaText": "（走者・周東）二塁盗塁失敗",
+    "text": "Shuto caught stealing 2nd base.",
+    "pickoff": ""
+  },
+  {
+    "jaText": "（走者・岡林）二塁盗塁成功",
+    "text": "Okabayashi steals 2nd base.",
+    "pickoff": ""
+  },
+  {
+    "jaText": "（走者・緒方）二塁盗塁成功",
+    "text": "R.Ogata steals 2nd base.",
+    "pickoff": ""
+  },
+  {
+    "jaText": "（走者・末包）二塁盗塁失敗",
+    "text": "Suekane caught stealing 2nd base.",
+    "pickoff": ""
+  }
+]

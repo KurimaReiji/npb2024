@@ -1,0 +1,320 @@
+[
+  {
+    "id": "91995151-2024-02",
+    "date": "2024-06-07",
+    "batter": {
+      "id": "91995151",
+      "jaBoxscoreName": "紅林",
+      "boxscoreName": "Kurebayashi",
+      "batSide": "R"
+    },
+    "pitcher": {
+      "id": "41045138",
+      "jaBoxscoreName": "戸郷",
+      "boxscoreName": "Togo",
+      "pitchHand": "R"
+    },
+    "number": 2,
+    "inning": 4,
+    "halfInning": "top",
+    "outs": 0,
+    "RoB": "---",
+    "count": {
+      "balls": 1,
+      "strikes": 1
+    },
+    "runs": {
+      "road": 1,
+      "home": 0
+    },
+    "bop": 5,
+    "rbi": 1,
+    "whereHit": "7",
+    "venue": {
+      "jaBoxscoreName": "東京ドーム",
+      "boxscoreName": "Tokyo Dome",
+      "jaName": "東京ドーム",
+      "name": "Tokyo Dome"
+    },
+    "teams": {
+      "road": {
+        "teamCode": "B",
+        "teamName": "Buffaloes",
+        "score": 2
+      },
+      "home": {
+        "teamCode": "G",
+        "teamName": "Giants",
+        "score": 0
+      }
+    },
+    "jaText": "レフトソロホームラン（打点1）",
+    "text": "Kurebayashi homers (2) to left field.",
+    "url": "https://npb.jp/scores/2024/0607/g-b-01/playbyplay.html#com4-1"
+  },
+  {
+    "id": "31835138-2024-02",
+    "date": "2024-06-07",
+    "batter": {
+      "id": "31835138",
+      "jaBoxscoreName": "水谷",
+      "boxscoreName": "Mizutani",
+      "batSide": "R"
+    },
+    "pitcher": {
+      "id": "03105159",
+      "jaBoxscoreName": "松本健",
+      "boxscoreName": "K.Matsumoto",
+      "pitchHand": "R"
+    },
+    "number": 2,
+    "inning": 1,
+    "halfInning": "top",
+    "outs": 2,
+    "RoB": "---",
+    "count": {
+      "balls": 1,
+      "strikes": 2
+    },
+    "runs": {
+      "road": 0,
+      "home": 0
+    },
+    "bop": 3,
+    "rbi": 1,
+    "whereHit": "7",
+    "venue": {
+      "jaBoxscoreName": "神宮",
+      "boxscoreName": "Jingu",
+      "jaName": "神宮",
+      "name": "Jingu Stadium"
+    },
+    "teams": {
+      "road": {
+        "teamCode": "F",
+        "teamName": "Fighters",
+        "score": 5
+      },
+      "home": {
+        "teamCode": "S",
+        "teamName": "Swallows",
+        "score": 4
+      }
+    },
+    "jaText": "レフトソロホームラン（打点1）",
+    "text": "Mizutani homers (2) to left field.",
+    "url": "https://npb.jp/scores/2024/0607/s-f-01/playbyplay.html#com1-1"
+  },
+  {
+    "id": "73975136-2024-07",
+    "date": "2024-06-07",
+    "batter": {
+      "id": "73975136",
+      "jaBoxscoreName": "マルティネス",
+      "boxscoreName": "Martinez",
+      "batSide": "R"
+    },
+    "pitcher": {
+      "id": "03105159",
+      "jaBoxscoreName": "松本健",
+      "boxscoreName": "K.Matsumoto",
+      "pitchHand": "R"
+    },
+    "number": 7,
+    "inning": 1,
+    "halfInning": "top",
+    "outs": 2,
+    "RoB": "---",
+    "count": {
+      "balls": 0,
+      "strikes": 0
+    },
+    "runs": {
+      "road": 1,
+      "home": 0
+    },
+    "bop": 4,
+    "rbi": 1,
+    "whereHit": "78",
+    "venue": {
+      "jaBoxscoreName": "神宮",
+      "boxscoreName": "Jingu",
+      "jaName": "神宮",
+      "name": "Jingu Stadium"
+    },
+    "teams": {
+      "road": {
+        "teamCode": "F",
+        "teamName": "Fighters",
+        "score": 5
+      },
+      "home": {
+        "teamCode": "S",
+        "teamName": "Swallows",
+        "score": 4
+      }
+    },
+    "jaText": "左中間ソロホームラン（打点1）",
+    "text": "Martinez homers (7) to left center.",
+    "url": "https://npb.jp/scores/2024/0607/s-f-01/playbyplay.html#com1-1"
+  },
+  {
+    "id": "53755153-2024-08",
+    "date": "2024-06-07",
+    "batter": {
+      "id": "53755153",
+      "jaBoxscoreName": "サンタナ",
+      "boxscoreName": "Santana",
+      "batSide": "R"
+    },
+    "pitcher": {
+      "id": "61765139",
+      "jaBoxscoreName": "杉浦",
+      "boxscoreName": "Sugiura",
+      "pitchHand": "R"
+    },
+    "number": 8,
+    "inning": 9,
+    "halfInning": "bottom",
+    "outs": 1,
+    "RoB": "---",
+    "count": {
+      "balls": 1,
+      "strikes": 0
+    },
+    "runs": {
+      "road": 4,
+      "home": 3
+    },
+    "bop": 5,
+    "rbi": 1,
+    "whereHit": "89",
+    "venue": {
+      "jaBoxscoreName": "神宮",
+      "boxscoreName": "Jingu",
+      "jaName": "神宮",
+      "name": "Jingu Stadium"
+    },
+    "teams": {
+      "road": {
+        "teamCode": "F",
+        "teamName": "Fighters",
+        "score": 5
+      },
+      "home": {
+        "teamCode": "S",
+        "teamName": "Swallows",
+        "score": 4
+      }
+    },
+    "jaText": "右中間ソロホームラン（打点1）",
+    "text": "Santana homers (8) to right center.",
+    "url": "https://npb.jp/scores/2024/0607/s-f-01/playbyplay.html#com9-2"
+  },
+  {
+    "id": "91595133-2024-02",
+    "date": "2024-06-07",
+    "batter": {
+      "id": "91595133",
+      "jaBoxscoreName": "甲斐",
+      "boxscoreName": "T.Kai",
+      "batSide": "R"
+    },
+    "pitcher": {
+      "id": "01405139",
+      "jaBoxscoreName": "森唯",
+      "boxscoreName": "Y.Mori",
+      "pitchHand": "R"
+    },
+    "number": 2,
+    "inning": 2,
+    "halfInning": "top",
+    "outs": 1,
+    "RoB": "12-",
+    "count": {
+      "balls": 1,
+      "strikes": 1
+    },
+    "runs": {
+      "road": 0,
+      "home": 0
+    },
+    "bop": 7,
+    "rbi": 3,
+    "whereHit": "7",
+    "venue": {
+      "jaBoxscoreName": "横浜",
+      "boxscoreName": "Yokohama",
+      "jaName": "横浜スタジアム",
+      "name": "Yokohama Stadium"
+    },
+    "teams": {
+      "road": {
+        "teamCode": "H",
+        "teamName": "Hawks",
+        "score": 10
+      },
+      "home": {
+        "teamCode": "DB",
+        "teamName": "Baystars",
+        "score": 1
+      }
+    },
+    "jaText": "レフト3ランホームラン（打点3）",
+    "text": "T.Kai homers (2) to left field.",
+    "url": "https://npb.jp/scores/2024/0607/db-h-01/playbyplay.html#com2-1"
+  },
+  {
+    "id": "73375151-2024-04",
+    "date": "2024-06-07",
+    "batter": {
+      "id": "73375151",
+      "jaBoxscoreName": "オースティン",
+      "boxscoreName": "Austin",
+      "batSide": "R"
+    },
+    "pitcher": {
+      "id": "63965134",
+      "jaBoxscoreName": "モイネロ",
+      "boxscoreName": "Moinelo",
+      "pitchHand": "L"
+    },
+    "number": 4,
+    "inning": 4,
+    "halfInning": "bottom",
+    "outs": 0,
+    "RoB": "---",
+    "count": {
+      "balls": 1,
+      "strikes": 2
+    },
+    "runs": {
+      "road": 8,
+      "home": 0
+    },
+    "bop": 3,
+    "rbi": 1,
+    "whereHit": "7",
+    "venue": {
+      "jaBoxscoreName": "横浜",
+      "boxscoreName": "Yokohama",
+      "jaName": "横浜スタジアム",
+      "name": "Yokohama Stadium"
+    },
+    "teams": {
+      "road": {
+        "teamCode": "H",
+        "teamName": "Hawks",
+        "score": 10
+      },
+      "home": {
+        "teamCode": "DB",
+        "teamName": "Baystars",
+        "score": 1
+      }
+    },
+    "jaText": "レフトソロホームラン（打点1）",
+    "text": "Austin homers (4) to left field.",
+    "url": "https://npb.jp/scores/2024/0607/db-h-01/playbyplay.html#com4-2"
+  }
+]

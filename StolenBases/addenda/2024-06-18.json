@@ -1,0 +1,17 @@
+[
+  {
+    "jaText": "（走者・松本剛）一塁牽制アウト",
+    "text": "G.Matsumoto picked off at 1st base.",
+    "pickoff": "Y"
+  },
+  {
+    "jaText": "（走者・五十幡）二塁盗塁成功",
+    "text": "Isobata steals 2nd base.",
+    "pickoff": ""
+  },
+  {
+    "jaText": "（走者・水野）二塁盗塁失敗",
+    "text": "Mizuno caught stealing 2nd base.",
+    "pickoff": "Y"
+  }
+]

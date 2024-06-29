@@ -1,0 +1,53 @@
+[
+  {
+    "jaText": "（走者・増田大）二塁盗塁成功",
+    "text": "D.Masuda steals 2nd base.",
+    "pickoff": ""
+  },
+  {
+    "jaText": "（走者・板山）二塁盗塁成功",
+    "text": "Itayama steals 2nd base.",
+    "pickoff": ""
+  },
+  {
+    "jaText": "（走者・福永）二塁盗塁失敗",
+    "text": "Fukunaga caught stealing 2nd base.",
+    "pickoff": ""
+  },
+  {
+    "jaText": "（走者・植田）二塁盗塁成功",
+    "text": "Ueda steals 2nd base.",
+    "pickoff": ""
+  },
+  {
+    "jaText": "（走者・小園）二塁盗塁失敗",
+    "text": "Kozono caught stealing 2nd base.",
+    "pickoff": ""
+  },
+  {
+    "jaText": "（走者・中島卓也）二塁盗塁失敗",
+    "text": "Nakashima caught stealing 2nd base.",
+    "pickoff": ""
+  },
+  {
+    "jaText": "（走者・源田）本塁盗塁失敗",
+    "text": "Genda caught stealing home plate.",
+    "pickoff": "",
+    "jaNote": "スクイズ失敗"
+  },
+  {
+    "jaText": "（走者・髙松）二塁盗塁成功",
+    "text": "Takamatsu steals 2nd base.",
+    "pickoff": ""
+  },
+  {
+    "jaText": "（走者・周東）二塁盗塁成功",
+    "text": "Shuto steals 2nd base.",
+    "pickoff": "",
+    "catcher": {
+      "id": "41645139",
+      "jaBoxscoreName": "若月",
+      "boxscoreName": "Wakatsuki"
+    }
+  }
+]

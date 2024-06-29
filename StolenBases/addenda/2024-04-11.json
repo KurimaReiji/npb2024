@@ -1,0 +1,32 @@
+[
+  {
+    "jaText": "（走者・萩尾）二塁盗塁失敗",
+    "text": "Hagio caught stealing 2nd base.",
+    "pickoff": ""
+  },
+  {
+    "jaText": "（走者・佐々木）二塁盗塁成功",
+    "text": "Sasaki steals 2nd base.",
+    "pickoff": ""
+  },
+  {
+    "jaText": "（走者・小深田）二塁盗塁成功",
+    "text": "Kobukata steals 2nd base.",
+    "pickoff": ""
+  },
+  {
+    "jaText": "（走者・小郷）二塁盗塁成功",
+    "text": "Ogoh steals 2nd base.",
+    "pickoff": ""
+  },
+  {
+    "jaText": "（走者・周東）二塁盗塁成功",
+    "text": "Shuto steals 2nd base.",
+    "pickoff": ""
+  },
+  {
+    "jaText": "（走者・田宮）二塁盗塁成功",
+    "text": "Tamiya steals 2nd base.",
+    "pickoff": ""
+  }
+]

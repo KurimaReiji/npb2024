@@ -1,0 +1,72 @@
+[
+  {
+    "jaText": "（走者・度会）一塁牽制アウト",
+    "text": "Watarai picked off at 1st base.",
+    "pickoff": "Y"
+  },
+  {
+    "jaText": "（走者・吉川）二塁盗塁成功",
+    "text": "Yoshikawa steals 2nd base.",
+    "pickoff": "",
+    "catcher": {
+      "id": "61365132",
+      "jaBoxscoreName": "宇佐見",
+      "boxscoreName": "Usami"
+    }
+  },
+  {
+    "jaText": "（走者・門脇）二塁盗塁成功",
+    "text": "Kadowaki steals 2nd base.",
+    "pickoff": "",
+    "catcher": {
+      "id": "61365132",
+      "jaBoxscoreName": "宇佐見",
+      "boxscoreName": "Usami"
+    }
+  },
+  {
+    "jaText": "（走者・山本）二塁盗塁失敗",
+    "text": "Yamamoto caught stealing 2nd base.",
+    "pickoff": "",
+    "catcher": {
+      "id": "91795139",
+      "jaBoxscoreName": "小林",
+      "boxscoreName": "Kobayashi"
+    }
+  },
+  {
+    "jaText": "（走者・福田）二塁盗塁失敗",
+    "text": "Fukuda caught stealing 2nd base.",
+    "pickoff": "",
+    "catcher": {
+      "id": "71375138",
+      "jaBoxscoreName": "太田",
+      "boxscoreName": "Ohta"
+    }
+  },
+  {
+    "jaText": "（走者・ソト）一塁牽制アウト",
+    "text": "Soto picked off at 1st base.",
+    "pickoff": "Y",
+    "catcher": {
+      "id": "81785155",
+      "jaBoxscoreName": "古賀",
+      "boxscoreName": "Koga"
+    }
+  },
+  {
+    "jaText": "（走者・佐藤）二塁盗塁成功",
+    "text": "Satoh steals 2nd base.",
+    "pickoff": "",
+    "catcher": {
+      "id": "81785155",
+      "jaBoxscoreName": "古賀",
+      "boxscoreName": "Koga"
+    }
+  },
+  {
+    "jaText": "（走者・三森）二塁盗塁成功",
+    "text": "Mimori steals 2nd base.",
+    "pickoff": ""
+  }
+]

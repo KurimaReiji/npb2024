@@ -1,0 +1,57 @@
+[
+  {
+    "jaText": "（走者・吉川）二塁盗塁成功",
+    "text": "Yoshikawa steals 2nd base.",
+    "pickoff": ""
+  },
+  {
+    "jaText": "（走者・小園）二塁盗塁失敗",
+    "text": "Kozono picked off and caught stealing 2nd base.",
+    "pickoff": "Y"
+  },
+  {
+    "jaText": "（走者・坂倉）二塁盗塁失敗",
+    "text": "Sakakura caught stealing 2nd base.",
+    "pickoff": ""
+  },
+  {
+    "jaText": "（走者・野間）二塁盗塁成功",
+    "text": "Noma steals 2nd base.",
+    "pickoff": ""
+  },
+  {
+    "jaText": "（走者・小深田）二塁盗塁成功",
+    "text": "Kobukata steals 2nd base.",
+    "pickoff": "",
+    "catcher": {
+      "id": "91995112",
+      "jaBoxscoreName": "炭谷",
+      "boxscoreName": "Sumitani"
+    }
+  },
+  {
+    "jaText": "（走者・髙松）二塁牽制アウト",
+    "text": "Takamatsu picked off at 2nd base.",
+    "pickoff": "Y"
+  },
+  {
+    "jaText": "（走者・古市）二塁盗塁成功",
+    "text": "Furuichi steals 2nd base.",
+    "pickoff": ""
+  },
+  {
+    "jaText": "（走者・周東）二塁盗塁成功",
+    "text": "Shuto steals 2nd base.",
+    "pickoff": ""
+  },
+  {
+    "jaText": "（走者・森）三塁盗塁成功",
+    "text": "Mori picked off and steals 3rd base.",
+    "pickoff": "Y",
+    "catcher": {
+      "id": "81385151",
+      "jaBoxscoreName": "海野",
+      "boxscoreName": "Umino"
+    }
+  }
+]

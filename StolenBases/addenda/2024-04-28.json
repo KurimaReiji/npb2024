@@ -1,0 +1,102 @@
+[
+  {
+    "jaText": "（走者・門脇）二塁盗塁成功",
+    "text": "Kadowaki steals 2nd base.",
+    "pickoff": "",
+    "catcher": {
+      "id": "81185116",
+      "jaBoxscoreName": "伊藤",
+      "boxscoreName": "Itoh"
+    }
+  },
+  {
+    "jaText": "（走者・門脇）二塁盗塁成功",
+    "text": "Kadowaki steals 2nd base.",
+    "pickoff": "",
+    "catcher": {
+      "id": "81185116",
+      "jaBoxscoreName": "伊藤",
+      "boxscoreName": "Itoh"
+    }
+  },
+  {
+    "jaText": "（走者・矢野）二塁盗塁成功",
+    "text": "Yano steals 2nd base.",
+    "pickoff": "",
+    "catcher": {
+      "id": "41545130",
+      "jaBoxscoreName": "加藤匠",
+      "boxscoreName": "T.Katoh"
+    }
+  },
+  {
+    "jaText": "（走者・中野）二塁盗塁失敗",
+    "text": "Nakano caught stealing 2nd base.",
+    "pickoff": ""
+  },
+  {
+    "jaText": "（走者・丸山和）二塁盗塁失敗",
+    "text": "K.Maruyama caught stealing 2nd base.",
+    "pickoff": ""
+  },
+  {
+    "jaText": "（走者・森）二塁盗塁成功",
+    "text": "Mori steals 2nd base.",
+    "pickoff": ""
+  },
+  {
+    "jaText": "（走者・福田）二塁盗塁成功",
+    "text": "Fukuda steals 2nd base.",
+    "pickoff": ""
+  },
+  {
+    "jaText": "（走者・中島卓也）二塁盗塁成功",
+    "text": "Nakashima steals 2nd base.",
+    "pickoff": ""
+  },
+  {
+    "jaText": "（走者・宗）二塁盗塁失敗",
+    "text": "Mune picked off and caught stealing 2nd base.",
+    "pickoff": "Y"
+  },
+  {
+    "jaText": "（走者・野村勇）二塁盗塁成功",
+    "text": "I.Nomura steals 2nd base.",
+    "pickoff": "",
+    "catcher": {
+      "id": "91995112",
+      "jaBoxscoreName": "炭谷",
+      "boxscoreName": "Sumitani"
+    }
+  },
+  {
+    "jaText": "（走者・金子侑）二塁盗塁成功",
+    "text": "Y.Kaneko steals 2nd base.",
+    "pickoff": "",
+    "catcher": {
+      "id": "91595133",
+      "jaBoxscoreName": "甲斐",
+      "boxscoreName": "T.Kai"
+    }
+  },
+  {
+    "jaText": "（走者・山野辺）二塁盗塁失敗",
+    "text": "Yamanobe caught stealing 2nd base.",
+    "pickoff": "",
+    "catcher": {
+      "id": "91595133",
+      "jaBoxscoreName": "甲斐",
+      "boxscoreName": "T.Kai"
+    }
+  },
+  {
+    "jaText": "（走者・源田）二塁盗塁成功",
+    "text": "Genda steals 2nd base.",
+    "pickoff": "",
+    "catcher": {
+      "id": "91595133",
+      "jaBoxscoreName": "甲斐",
+      "boxscoreName": "T.Kai"
+    }
+  }
+]

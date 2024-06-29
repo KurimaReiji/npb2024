@@ -1,0 +1,87 @@
+[
+  {
+    "jaText": "（走者・小園）二塁盗塁失敗",
+    "text": "Kozono caught stealing 2nd base.",
+    "pickoff": ""
+  },
+  {
+    "jaText": "（走者・小園）三塁盗塁成功",
+    "text": "Kozono steals 3rd base.",
+    "pickoff": ""
+  },
+  {
+    "jaText": "（走者・小郷）二塁盗塁成功",
+    "text": "Ogoh steals 2nd base.",
+    "pickoff": ""
+  },
+  {
+    "jaText": "（走者・小園）二塁盗塁失敗",
+    "text": "Kozono caught stealing 2nd base.",
+    "pickoff": ""
+  },
+  {
+    "jaText": "（走者・林）二塁盗塁失敗",
+    "text": "Hayashi caught stealing 2nd base.",
+    "pickoff": "Y",
+    "catcher": {
+      "id": "91995112",
+      "jaBoxscoreName": "炭谷",
+      "boxscoreName": "Sumitani"
+    }
+  },
+  {
+    "jaText": "（走者・友杉）二塁盗塁成功",
+    "text": "Tomosugi steals 2nd base.",
+    "pickoff": "",
+    "catcher": {
+      "id": "61365132",
+      "jaBoxscoreName": "宇佐見",
+      "boxscoreName": "Usami"
+    }
+  },
+  {
+    "jaText": "（走者・茶野）二塁盗塁成功",
+    "text": "Chano steals 2nd base.",
+    "pickoff": "",
+    "catcher": {
+      "id": "51855136",
+      "jaBoxscoreName": "松本直",
+      "boxscoreName": "N.Matsumoto"
+    }
+  },
+  {
+    "jaText": "（走者・茶野）二塁盗塁成功",
+    "text": "Chano steals 2nd base.",
+    "pickoff": "",
+    "catcher": {
+      "id": "51855136",
+      "jaBoxscoreName": "松本直",
+      "boxscoreName": "N.Matsumoto"
+    }
+  },
+  {
+    "jaText": "（走者・佐野）二塁盗塁失敗",
+    "text": "Sano caught stealing 2nd base.",
+    "pickoff": "",
+    "catcher": {
+      "id": "51855136",
+      "jaBoxscoreName": "松本直",
+      "boxscoreName": "N.Matsumoto"
+    }
+  },
+  {
+    "jaText": "（走者・近本）二塁盗塁成功",
+    "text": "Chikamoto steals 2nd base.",
+    "pickoff": ""
+  },
+  {
+    "jaText": "（走者・周東）二塁盗塁成功",
+    "text": "Shuto steals 2nd base.",
+    "pickoff": ""
+  },
+  {
+    "jaText": "（走者・廣瀨）二塁盗塁失敗",
+    "text": "Hirose caught stealing 2nd base.",
+    "pickoff": ""
+  }
+]

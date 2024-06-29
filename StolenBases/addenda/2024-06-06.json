@@ -1,0 +1,32 @@
+[
+  {
+    "jaText": "（走者・吉川）二塁盗塁失敗",
+    "text": "Yoshikawa caught stealing 2nd base.",
+    "pickoff": ""
+  },
+  {
+    "jaText": "（走者・立岡）二塁盗塁成功",
+    "text": "Tateoka steals 2nd base.",
+    "pickoff": ""
+  },
+  {
+    "jaText": "（走者・尾田）二塁盗塁成功",
+    "text": "Oda steals 2nd base.",
+    "pickoff": ""
+  },
+  {
+    "jaText": "（走者・小深田）二塁盗塁失敗",
+    "text": "Kobukata caught stealing 2nd base.",
+    "pickoff": ""
+  },
+  {
+    "jaText": "（走者・水谷）二塁盗塁失敗",
+    "text": "Mizutani caught stealing 2nd base.",
+    "pickoff": "",
+    "catcher": {
+      "id": "21125151",
+      "jaBoxscoreName": "石原",
+      "boxscoreName": "Ishihara"
+    }
+  }
+]

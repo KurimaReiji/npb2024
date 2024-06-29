@@ -1,0 +1,374 @@
+[
+  {
+    "id": "11815138-2024-07",
+    "date": "2024-06-08",
+    "batter": {
+      "id": "11815138",
+      "jaBoxscoreName": "万波",
+      "boxscoreName": "Mannami",
+      "batSide": "R"
+    },
+    "pitcher": {
+      "id": "33735153",
+      "jaBoxscoreName": "サイスニード",
+      "boxscoreName": "Sneed",
+      "pitchHand": "R"
+    },
+    "number": 7,
+    "inning": 3,
+    "halfInning": "top",
+    "outs": 1,
+    "RoB": "---",
+    "count": {
+      "balls": 0,
+      "strikes": 1
+    },
+    "runs": {
+      "road": 0,
+      "home": 0
+    },
+    "bop": 1,
+    "rbi": 1,
+    "whereHit": "7",
+    "venue": {
+      "jaBoxscoreName": "神宮",
+      "boxscoreName": "Jingu",
+      "jaName": "神宮",
+      "name": "Jingu Stadium"
+    },
+    "teams": {
+      "road": {
+        "teamCode": "F",
+        "teamName": "Fighters",
+        "score": 3
+      },
+      "home": {
+        "teamCode": "S",
+        "teamName": "Swallows",
+        "score": 6
+      }
+    },
+    "jaText": "レフトソロホームラン（打点1）",
+    "text": "Mannami homers (7) to left field.",
+    "url": "https://npb.jp/scores/2024/0608/s-f-02/playbyplay.html#com3-1"
+  },
+  {
+    "id": "53755153-2024-09",
+    "date": "2024-06-08",
+    "batter": {
+      "id": "53755153",
+      "jaBoxscoreName": "サンタナ",
+      "boxscoreName": "Santana",
+      "batSide": "R"
+    },
+    "pitcher": {
+      "id": "51555157",
+      "jaBoxscoreName": "金村",
+      "boxscoreName": "Kanemura",
+      "pitchHand": "R"
+    },
+    "number": 9,
+    "inning": 4,
+    "halfInning": "bottom",
+    "outs": 2,
+    "RoB": "12-",
+    "count": {
+      "balls": 2,
+      "strikes": 0
+    },
+    "runs": {
+      "road": 1,
+      "home": 0
+    },
+    "bop": 5,
+    "rbi": 3,
+    "whereHit": "89",
+    "venue": {
+      "jaBoxscoreName": "神宮",
+      "boxscoreName": "Jingu",
+      "jaName": "神宮",
+      "name": "Jingu Stadium"
+    },
+    "teams": {
+      "road": {
+        "teamCode": "F",
+        "teamName": "Fighters",
+        "score": 3
+      },
+      "home": {
+        "teamCode": "S",
+        "teamName": "Swallows",
+        "score": 6
+      }
+    },
+    "jaText": "右中間3ランホームラン（打点3）",
+    "text": "Santana homers (9) to right center.",
+    "url": "https://npb.jp/scores/2024/0608/s-f-02/playbyplay.html#com4-2"
+  },
+  {
+    "id": "51855136-2024-01",
+    "date": "2024-06-08",
+    "batter": {
+      "id": "51855136",
+      "jaBoxscoreName": "松本直",
+      "boxscoreName": "N.Matsumoto",
+      "batSide": "R"
+    },
+    "pitcher": {
+      "id": "61765155",
+      "jaBoxscoreName": "畔柳",
+      "boxscoreName": "Kuroyanagi",
+      "pitchHand": "R"
+    },
+    "number": 1,
+    "inning": 7,
+    "halfInning": "bottom",
+    "outs": 1,
+    "RoB": "12-",
+    "count": {
+      "balls": 0,
+      "strikes": 1
+    },
+    "runs": {
+      "road": 1,
+      "home": 3
+    },
+    "bop": 8,
+    "rbi": 3,
+    "whereHit": "7",
+    "venue": {
+      "jaBoxscoreName": "神宮",
+      "boxscoreName": "Jingu",
+      "jaName": "神宮",
+      "name": "Jingu Stadium"
+    },
+    "teams": {
+      "road": {
+        "teamCode": "F",
+        "teamName": "Fighters",
+        "score": 3
+      },
+      "home": {
+        "teamCode": "S",
+        "teamName": "Swallows",
+        "score": 6
+      }
+    },
+    "jaText": "レフト3ランホームラン（打点3）",
+    "text": "N.Matsumoto homers (1) to left field.",
+    "url": "https://npb.jp/scores/2024/0608/s-f-02/playbyplay.html#com7-2"
+  },
+  {
+    "id": "71475139-2024-01",
+    "date": "2024-06-08",
+    "batter": {
+      "id": "71475139",
+      "jaBoxscoreName": "嶺井",
+      "boxscoreName": "Minei",
+      "batSide": "R"
+    },
+    "pitcher": {
+      "id": "51155136",
+      "jaBoxscoreName": "東",
+      "boxscoreName": "K.Azuma",
+      "pitchHand": "L"
+    },
+    "number": 1,
+    "inning": 7,
+    "halfInning": "top",
+    "outs": 1,
+    "RoB": "1--",
+    "count": {
+      "balls": 2,
+      "strikes": 2
+    },
+    "runs": {
+      "road": 1,
+      "home": 0
+    },
+    "bop": 9,
+    "rbi": 2,
+    "whereHit": "78",
+    "venue": {
+      "jaBoxscoreName": "横浜",
+      "boxscoreName": "Yokohama",
+      "jaName": "横浜スタジアム",
+      "name": "Yokohama Stadium"
+    },
+    "teams": {
+      "road": {
+        "teamCode": "H",
+        "teamName": "Hawks",
+        "score": 5
+      },
+      "home": {
+        "teamCode": "DB",
+        "teamName": "Baystars",
+        "score": 3
+      }
+    },
+    "jaText": "左中間2ランホームラン（打点2）",
+    "text": "Minei homers (1) to left center.",
+    "url": "https://npb.jp/scores/2024/0608/db-h-02/playbyplay.html#com7-1",
+    "isPinchHit": "Y"
+  },
+  {
+    "id": "73375151-2024-05",
+    "date": "2024-06-08",
+    "batter": {
+      "id": "73375151",
+      "jaBoxscoreName": "オースティン",
+      "boxscoreName": "Austin",
+      "batSide": "R"
+    },
+    "pitcher": {
+      "id": "61665130",
+      "jaBoxscoreName": "松本裕",
+      "boxscoreName": "Y.Matsumoto",
+      "pitchHand": "R"
+    },
+    "number": 5,
+    "inning": 8,
+    "halfInning": "bottom",
+    "outs": 0,
+    "RoB": "12-",
+    "count": {
+      "balls": 0,
+      "strikes": 0
+    },
+    "runs": {
+      "road": 3,
+      "home": 0
+    },
+    "bop": 3,
+    "rbi": 3,
+    "whereHit": "8",
+    "venue": {
+      "jaBoxscoreName": "横浜",
+      "boxscoreName": "Yokohama",
+      "jaName": "横浜スタジアム",
+      "name": "Yokohama Stadium"
+    },
+    "teams": {
+      "road": {
+        "teamCode": "H",
+        "teamName": "Hawks",
+        "score": 5
+      },
+      "home": {
+        "teamCode": "DB",
+        "teamName": "Baystars",
+        "score": 3
+      }
+    },
+    "jaText": "センター3ランホームラン（打点3）",
+    "text": "Austin homers (5) to center field.",
+    "url": "https://npb.jp/scores/2024/0608/db-h-02/playbyplay.html#com8-2"
+  },
+  {
+    "id": "81385138-2024-04",
+    "date": "2024-06-08",
+    "batter": {
+      "id": "81385138",
+      "jaBoxscoreName": "小郷",
+      "boxscoreName": "Ogoh",
+      "batSide": "L"
+    },
+    "pitcher": {
+      "id": "93295157",
+      "jaBoxscoreName": "メヒア",
+      "boxscoreName": "Mejia",
+      "pitchHand": "R"
+    },
+    "number": 4,
+    "inning": 2,
+    "halfInning": "top",
+    "outs": 1,
+    "RoB": "123",
+    "count": {
+      "balls": 1,
+      "strikes": 0
+    },
+    "runs": {
+      "road": 2,
+      "home": 2
+    },
+    "bop": 1,
+    "rbi": 4,
+    "whereHit": "9",
+    "venue": {
+      "jaBoxscoreName": "バンテリンドーム",
+      "boxscoreName": "Vantelin Dome",
+      "jaName": "バンテリンドーム ナゴヤ",
+      "name": "Vantelin Dome Nagoya"
+    },
+    "teams": {
+      "road": {
+        "teamCode": "E",
+        "teamName": "Eagles",
+        "score": 7
+      },
+      "home": {
+        "teamCode": "D",
+        "teamName": "Dragons",
+        "score": 2
+      }
+    },
+    "jaText": "ライト満塁ホームラン（打点4）",
+    "text": "Ogoh homers (4) to right field.",
+    "url": "https://npb.jp/scores/2024/0608/d-e-02/playbyplay.html#com2-1"
+  },
+  {
+    "id": "81685157-2024-01",
+    "date": "2024-06-08",
+    "batter": {
+      "id": "81685157",
+      "jaBoxscoreName": "福永",
+      "boxscoreName": "Fukunaga",
+      "batSide": "R"
+    },
+    "pitcher": {
+      "id": "21725159",
+      "jaBoxscoreName": "古謝",
+      "boxscoreName": "Koja",
+      "pitchHand": "L"
+    },
+    "number": 1,
+    "inning": 1,
+    "halfInning": "bottom",
+    "outs": 2,
+    "RoB": "---",
+    "count": {
+      "balls": 2,
+      "strikes": 0
+    },
+    "runs": {
+      "road": 0,
+      "home": 0
+    },
+    "bop": 3,
+    "rbi": 1,
+    "whereHit": "89",
+    "venue": {
+      "jaBoxscoreName": "バンテリンドーム",
+      "boxscoreName": "Vantelin Dome",
+      "jaName": "バンテリンドーム ナゴヤ",
+      "name": "Vantelin Dome Nagoya"
+    },
+    "teams": {
+      "road": {
+        "teamCode": "E",
+        "teamName": "Eagles",
+        "score": 7
+      },
+      "home": {
+        "teamCode": "D",
+        "teamName": "Dragons",
+        "score": 2
+      }
+    },
+    "jaText": "右中間ソロホームラン（打点1）",
+    "text": "Fukunaga homers (1) to right center.",
+    "url": "https://npb.jp/scores/2024/0608/d-e-02/playbyplay.html#com1-2"
+  }
+]

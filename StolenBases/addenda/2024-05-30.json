@@ -1,0 +1,27 @@
+[
+  {
+    "jaText": "（走者・甲斐）二塁盗塁成功",
+    "text": "T.Kai steals 2nd base.",
+    "pickoff": ""
+  },
+  {
+    "jaText": "（走者・並木）二塁盗塁成功",
+    "text": "Namiki steals 2nd base.",
+    "pickoff": ""
+  },
+  {
+    "jaText": "（走者・小郷）一塁牽制アウト",
+    "text": "Ogoh picked off at 1st base.",
+    "pickoff": "Y"
+  },
+  {
+    "jaText": "（走者・蝦名）二塁盗塁失敗",
+    "text": "Ebina picked off and caught stealing 2nd base.",
+    "pickoff": "Y"
+  },
+  {
+    "jaText": "（走者・松本剛）三塁盗塁失敗",
+    "text": "G.Matsumoto caught stealing 3rd base.",
+    "pickoff": ""
+  }
+]

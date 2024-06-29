@@ -1,0 +1,324 @@
+[
+  {
+    "date": "2024-04-04",
+    "runner": {
+      "id": "71075138",
+      "jaBoxscoreName": "近本",
+      "boxscoreName": "Chikamoto"
+    },
+    "batter": {
+      "id": "41445153",
+      "jaBoxscoreName": "中野",
+      "boxscoreName": "Nakano",
+      "batSide": "L"
+    },
+    "pitcher": {
+      "id": "21425153",
+      "jaBoxscoreName": "中川颯",
+      "boxscoreName": "H.Nakagawa",
+      "pitchHand": "R"
+    },
+    "catcher": {},
+    "scoring": "StolenBase",
+    "base": "2B",
+    "pickoff": "",
+    "inning": 3,
+    "halfInning": "bottom",
+    "outs": 1,
+    "RoB": "1--",
+    "runs": {
+      "road": 0,
+      "home": 0
+    },
+    "venue": {
+      "jaBoxscoreName": "京セラD大阪",
+      "boxscoreName": "Kyocera Dome",
+      "jaName": "京セラドーム大阪",
+      "name": "Kyocera Dome Osaka"
+    },
+    "teams": {
+      "road": {
+        "teamCode": "DB",
+        "teamName": "Baystars",
+        "score": 3
+      },
+      "home": {
+        "teamCode": "T",
+        "teamName": "Tigers",
+        "score": 2
+      }
+    },
+    "jaText": "（走者・近本）二塁盗塁成功",
+    "text": "Chikamoto steals 2nd base.",
+    "url": "https://npb.jp/scores/2024/0404/t-db-03/playbyplay.html#com3-2",
+    "catchers": [
+      {
+        "id": "21825157",
+        "jaBoxscoreName": "松尾",
+        "boxscoreName": "Matsuo"
+      },
+      {
+        "id": "81185116",
+        "jaBoxscoreName": "伊藤",
+        "boxscoreName": "Itoh"
+      }
+    ]
+  },
+  {
+    "date": "2024-04-04",
+    "runner": {
+      "id": "51755135",
+      "jaBoxscoreName": "桑原",
+      "boxscoreName": "Kuwahara"
+    },
+    "batter": {
+      "id": "91695157",
+      "jaBoxscoreName": "林",
+      "boxscoreName": "Hayashi",
+      "batSide": "L"
+    },
+    "pitcher": {
+      "id": "51055133",
+      "jaBoxscoreName": "島本",
+      "boxscoreName": "Shimamoto",
+      "pitchHand": "L"
+    },
+    "catcher": {},
+    "scoring": "StolenBase",
+    "base": "2B",
+    "pickoff": "",
+    "inning": 8,
+    "halfInning": "top",
+    "outs": 1,
+    "RoB": "1--",
+    "runs": {
+      "road": 3,
+      "home": 2
+    },
+    "venue": {
+      "jaBoxscoreName": "京セラD大阪",
+      "boxscoreName": "Kyocera Dome",
+      "jaName": "京セラドーム大阪",
+      "name": "Kyocera Dome Osaka"
+    },
+    "teams": {
+      "road": {
+        "teamCode": "DB",
+        "teamName": "Baystars",
+        "score": 3
+      },
+      "home": {
+        "teamCode": "T",
+        "teamName": "Tigers",
+        "score": 2
+      }
+    },
+    "jaText": "（走者・桑原）二塁盗塁成功",
+    "text": "Kuwahara steals 2nd base.",
+    "url": "https://npb.jp/scores/2024/0404/t-db-03/playbyplay.html#com8-1",
+    "catchers": [
+      {
+        "id": "21325139",
+        "jaBoxscoreName": "梅野",
+        "boxscoreName": "Umeno"
+      },
+      {
+        "id": "11915132",
+        "jaBoxscoreName": "坂本",
+        "boxscoreName": "Sakamoto"
+      }
+    ]
+  },
+  {
+    "date": "2024-04-04",
+    "runner": {
+      "id": "31335137",
+      "jaBoxscoreName": "上本",
+      "boxscoreName": "Uemoto"
+    },
+    "batter": {
+      "id": "31135114",
+      "jaBoxscoreName": "會澤",
+      "boxscoreName": "Aizawa",
+      "batSide": "R"
+    },
+    "pitcher": {
+      "id": "51055132",
+      "jaBoxscoreName": "高橋",
+      "boxscoreName": "Takahashi",
+      "pitchHand": "L"
+    },
+    "catcher": {
+      "id": "51255118",
+      "jaBoxscoreName": "中村",
+      "boxscoreName": "Nakamura"
+    },
+    "scoring": "CaughtStealing",
+    "base": "2B",
+    "pickoff": "",
+    "inning": 2,
+    "halfInning": "bottom",
+    "outs": 2,
+    "RoB": "1--",
+    "runs": {
+      "road": 0,
+      "home": 0
+    },
+    "venue": {
+      "jaBoxscoreName": "マツダスタジアム",
+      "boxscoreName": "Mazda Stadium",
+      "jaName": "MAZDA Zoom-Zoom スタジアム広島",
+      "name": "MAZDA Zoom-Zoom Stadium Hiroshima"
+    },
+    "teams": {
+      "road": {
+        "teamCode": "S",
+        "teamName": "Swallows",
+        "score": 3
+      },
+      "home": {
+        "teamCode": "C",
+        "teamName": "Carp",
+        "score": 6
+      }
+    },
+    "jaText": "（走者・上本）二塁盗塁失敗",
+    "text": "Uemoto caught stealing 2nd base.",
+    "url": "https://npb.jp/scores/2024/0404/c-s-02/playbyplay.html#com2-2",
+    "catchers": [
+      {
+        "id": "51255118",
+        "jaBoxscoreName": "中村",
+        "boxscoreName": "Nakamura"
+      }
+    ]
+  },
+  {
+    "date": "2024-04-04",
+    "runner": {
+      "id": "71475138",
+      "jaBoxscoreName": "羽月",
+      "boxscoreName": "Hatsuki"
+    },
+    "batter": {
+      "id": "93395153",
+      "jaBoxscoreName": "矢野",
+      "boxscoreName": "Yano",
+      "batSide": "L"
+    },
+    "pitcher": {
+      "id": "91595135",
+      "jaBoxscoreName": "嘉弥真",
+      "boxscoreName": "Kayama",
+      "pitchHand": "L"
+    },
+    "catcher": {
+      "id": "51255118",
+      "jaBoxscoreName": "中村",
+      "boxscoreName": "Nakamura"
+    },
+    "scoring": "StolenBase",
+    "base": "3B",
+    "pickoff": "",
+    "inning": 8,
+    "halfInning": "bottom",
+    "outs": 2,
+    "RoB": "-2-",
+    "runs": {
+      "road": 3,
+      "home": 3
+    },
+    "venue": {
+      "jaBoxscoreName": "マツダスタジアム",
+      "boxscoreName": "Mazda Stadium",
+      "jaName": "MAZDA Zoom-Zoom スタジアム広島",
+      "name": "MAZDA Zoom-Zoom Stadium Hiroshima"
+    },
+    "teams": {
+      "road": {
+        "teamCode": "S",
+        "teamName": "Swallows",
+        "score": 3
+      },
+      "home": {
+        "teamCode": "C",
+        "teamName": "Carp",
+        "score": 6
+      }
+    },
+    "jaText": "（走者・羽月）三塁盗塁成功",
+    "text": "Hatsuki steals 3rd base.",
+    "url": "https://npb.jp/scores/2024/0404/c-s-02/playbyplay.html#com8-2",
+    "catchers": [
+      {
+        "id": "51255118",
+        "jaBoxscoreName": "中村",
+        "boxscoreName": "Nakamura"
+      }
+    ]
+  },
+  {
+    "date": "2024-04-04",
+    "runner": {
+      "id": "41745135",
+      "jaBoxscoreName": "近藤",
+      "boxscoreName": "Kondoh"
+    },
+    "batter": {
+      "id": "03705155",
+      "jaBoxscoreName": "ウォーカー",
+      "boxscoreName": "Walker",
+      "batSide": "R"
+    },
+    "pitcher": {
+      "id": "13915159",
+      "jaBoxscoreName": "ダイクストラ",
+      "boxscoreName": "Dykstra",
+      "pitchHand": "R"
+    },
+    "catcher": {
+      "id": "71075151",
+      "jaBoxscoreName": "佐藤",
+      "boxscoreName": "Satoh"
+    },
+    "scoring": "StolenBase",
+    "base": "2B",
+    "pickoff": "",
+    "inning": 5,
+    "halfInning": "bottom",
+    "outs": 1,
+    "RoB": "1--",
+    "runs": {
+      "road": 1,
+      "home": 7
+    },
+    "venue": {
+      "jaBoxscoreName": "PayPayドーム",
+      "boxscoreName": "PayPay Dome",
+      "jaName": "福岡PayPayドーム",
+      "name": "Fukuoka PayPay Dome"
+    },
+    "teams": {
+      "road": {
+        "teamCode": "M",
+        "teamName": "Marines",
+        "score": 1
+      },
+      "home": {
+        "teamCode": "H",
+        "teamName": "Hawks",
+        "score": 8
+      }
+    },
+    "jaText": "（走者・近藤）二塁盗塁成功",
+    "text": "Kondoh steals 2nd base.",
+    "url": "https://npb.jp/scores/2024/0404/h-m-03/playbyplay.html#com5-2",
+    "catchers": [
+      {
+        "id": "71075151",
+        "jaBoxscoreName": "佐藤",
+        "boxscoreName": "Satoh"
+      }
+    ]
+  }
+]

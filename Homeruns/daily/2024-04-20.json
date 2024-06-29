@@ -1,0 +1,109 @@
+[
+  {
+    "id": "53755153-2024-01",
+    "date": "2024-04-20",
+    "batter": {
+      "id": "53755153",
+      "jaBoxscoreName": "サンタナ",
+      "boxscoreName": "Santana",
+      "batSide": "R"
+    },
+    "pitcher": {
+      "id": "81585138",
+      "jaBoxscoreName": "上茶谷",
+      "boxscoreName": "Kamichatani",
+      "pitchHand": "R"
+    },
+    "number": 1,
+    "inning": 6,
+    "halfInning": "bottom",
+    "outs": 0,
+    "RoB": "---",
+    "count": {
+      "balls": 3,
+      "strikes": 2
+    },
+    "runs": {
+      "road": 7,
+      "home": 3
+    },
+    "bop": 5,
+    "rbi": 1,
+    "whereHit": "8",
+    "venue": {
+      "jaBoxscoreName": "神宮",
+      "boxscoreName": "Jingu",
+      "jaName": "神宮",
+      "name": "Jingu Stadium"
+    },
+    "teams": {
+      "road": {
+        "teamCode": "DB",
+        "teamName": "Baystars",
+        "score": 7
+      },
+      "home": {
+        "teamCode": "S",
+        "teamName": "Swallows",
+        "score": 4
+      }
+    },
+    "jaText": "センターソロホームラン（打点1）",
+    "text": "Santana homers (1) to center field.",
+    "url": "https://npb.jp/scores/2024/0420/s-db-05/playbyplay.html#com6-2"
+  },
+  {
+    "id": "41345151-2024-01",
+    "date": "2024-04-20",
+    "batter": {
+      "id": "41345151",
+      "jaBoxscoreName": "宇草",
+      "boxscoreName": "Ugusa",
+      "batSide": "L"
+    },
+    "pitcher": {
+      "id": "73975155",
+      "jaBoxscoreName": "ケラー",
+      "boxscoreName": "Keller",
+      "pitchHand": "R"
+    },
+    "number": 1,
+    "inning": 7,
+    "halfInning": "bottom",
+    "outs": 1,
+    "RoB": "---",
+    "count": {
+      "balls": 2,
+      "strikes": 1
+    },
+    "runs": {
+      "road": 2,
+      "home": 5
+    },
+    "bop": 9,
+    "rbi": 1,
+    "whereHit": "9",
+    "venue": {
+      "jaBoxscoreName": "マツダスタジアム",
+      "boxscoreName": "Mazda Stadium",
+      "jaName": "MAZDA Zoom-Zoom スタジアム広島",
+      "name": "MAZDA Zoom-Zoom Stadium Hiroshima"
+    },
+    "teams": {
+      "road": {
+        "teamCode": "G",
+        "teamName": "Giants",
+        "score": 2
+      },
+      "home": {
+        "teamCode": "C",
+        "teamName": "Carp",
+        "score": 6
+      }
+    },
+    "jaText": "ライトソロホームラン（打点1）",
+    "text": "Ugusa homers (1) to right field.",
+    "url": "https://npb.jp/scores/2024/0420/c-g-05/playbyplay.html#com7-2",
+    "isPinchHit": "Y"
+  }
+]

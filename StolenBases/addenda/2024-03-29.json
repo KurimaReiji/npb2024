@@ -1,0 +1,32 @@
+[
+  {
+    "jaText": "（走者・塩見）二塁盗塁成功",
+    "text": "Shiomi steals 2nd base.",
+    "pickoff": ""
+  },
+  {
+    "jaText": "（走者・オースティン）二塁牽制アウト",
+    "text": "Austin picked off at 2nd base.",
+    "pickoff": "Y"
+  },
+  {
+    "jaText": "（走者・金子侑）二塁盗塁成功",
+    "text": "Y.Kaneko steals 2nd base.",
+    "pickoff": ""
+  },
+  {
+    "jaText": "（走者・水野）二塁盗塁失敗",
+    "text": "Mizuno caught stealing 2nd base.",
+    "pickoff": ""
+  },
+  {
+    "jaText": "（走者・田宮）二塁盗塁成功",
+    "text": "Tamiya steals 2nd base.",
+    "pickoff": ""
+  },
+  {
+    "jaText": "（走者・渡部）二塁盗塁成功",
+    "text": "Watanabe steals 2nd base.",
+    "pickoff": ""
+  }
+]

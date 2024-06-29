@@ -1,0 +1,130 @@
+[
+  {
+    "date": "2024-06-27",
+    "runner": {
+      "id": "91995136",
+      "jaBoxscoreName": "島田",
+      "boxscoreName": "Shimada"
+    },
+    "batter": {
+      "id": "41445153",
+      "jaBoxscoreName": "中野",
+      "boxscoreName": "Nakano",
+      "batSide": "L"
+    },
+    "pitcher": {
+      "id": "81185138",
+      "jaBoxscoreName": "梅津",
+      "boxscoreName": "Umetsu",
+      "pitchHand": "R"
+    },
+    "catcher": {
+      "id": "61365132",
+      "jaBoxscoreName": "宇佐見",
+      "boxscoreName": "Usami"
+    },
+    "scoring": "CaughtStealing",
+    "base": "2B",
+    "pickoff": "",
+    "inning": 3,
+    "halfInning": "bottom",
+    "outs": 2,
+    "RoB": "1--",
+    "runs": {
+      "road": 0,
+      "home": 0
+    },
+    "venue": {
+      "jaBoxscoreName": "甲子園",
+      "boxscoreName": "Koshien",
+      "jaName": "甲子園",
+      "name": "Hanshin Koshien Stadium"
+    },
+    "teams": {
+      "road": {
+        "teamCode": "D",
+        "teamName": "Dragons",
+        "score": 1
+      },
+      "home": {
+        "teamCode": "T",
+        "teamName": "Tigers",
+        "score": 8
+      }
+    },
+    "jaText": "（走者・島田）二塁盗塁失敗",
+    "text": "Shimada caught stealing 2nd base.",
+    "url": "https://npb.jp/scores/2024/0627/t-d-12/playbyplay.html#com3-2",
+    "catchers": [
+      {
+        "id": "61365132",
+        "jaBoxscoreName": "宇佐見",
+        "boxscoreName": "Usami"
+      }
+    ]
+  },
+  {
+    "date": "2024-06-27",
+    "runner": {
+      "id": "71475138",
+      "jaBoxscoreName": "羽月",
+      "boxscoreName": "Hatsuki"
+    },
+    "batter": {
+      "id": "31135133",
+      "jaBoxscoreName": "秋山",
+      "boxscoreName": "Akiyama",
+      "batSide": "L"
+    },
+    "pitcher": {
+      "id": "11915153",
+      "jaBoxscoreName": "木澤",
+      "boxscoreName": "Kizawa",
+      "pitchHand": "R"
+    },
+    "catcher": {
+      "id": "51855136",
+      "jaBoxscoreName": "松本直",
+      "boxscoreName": "N.Matsumoto"
+    },
+    "scoring": "CaughtStealing",
+    "base": "2B",
+    "pickoff": "",
+    "inning": 8,
+    "halfInning": "bottom",
+    "outs": 1,
+    "RoB": "1--",
+    "runs": {
+      "road": 3,
+      "home": 2
+    },
+    "venue": {
+      "jaBoxscoreName": "マツダスタジアム",
+      "boxscoreName": "Mazda Stadium",
+      "jaName": "MAZDA Zoom-Zoom スタジアム広島",
+      "name": "MAZDA Zoom-Zoom Stadium Hiroshima"
+    },
+    "teams": {
+      "road": {
+        "teamCode": "S",
+        "teamName": "Swallows",
+        "score": 3
+      },
+      "home": {
+        "teamCode": "C",
+        "teamName": "Carp",
+        "score": 4
+      }
+    },
+    "jaText": "（走者・羽月）二塁盗塁失敗",
+    "text": "Hatsuki caught stealing 2nd base.",
+    "url": "https://npb.jp/scores/2024/0627/c-s-09/playbyplay.html#com8-2",
+    "catchers": [
+      {
+        "id": "51855136",
+        "jaBoxscoreName": "松本直",
+        "boxscoreName": "N.Matsumoto"
+      }
+    ]
+  }
+]

@@ -1,0 +1,62 @@
+[
+  {
+    "jaText": "（走者・細川）二塁盗塁成功",
+    "text": "Hosokawa steals 2nd base.",
+    "pickoff": ""
+  },
+  {
+    "jaText": "（走者・並木）二塁盗塁成功",
+    "text": "Namiki steals 2nd base.",
+    "pickoff": "",
+    "catcher": {
+      "id": "51055138",
+      "jaBoxscoreName": "田宮",
+      "boxscoreName": "Tamiya"
+    }
+  },
+  {
+    "jaText": "（走者・周東）二塁盗塁成功",
+    "text": "Shuto steals 2nd base.",
+    "pickoff": "",
+    "catcher": {
+      "id": "81185116",
+      "jaBoxscoreName": "伊藤",
+      "boxscoreName": "Itoh"
+    }
+  },
+  {
+    "jaText": "（走者・柳町）二塁盗塁成功",
+    "text": "Yanagimachi steals 2nd base.",
+    "pickoff": "",
+    "catcher": {
+      "id": "81185116",
+      "jaBoxscoreName": "伊藤",
+      "boxscoreName": "Itoh"
+    }
+  },
+  {
+    "jaText": "（走者・カリステ）二塁盗塁成功",
+    "text": "Calixte steals 2nd base.",
+    "pickoff": ""
+  },
+  {
+    "jaText": "（走者・山野辺）二塁盗塁成功",
+    "text": "Yamanobe steals 2nd base.",
+    "pickoff": ""
+  },
+  {
+    "jaText": "（走者・末包）二塁盗塁成功",
+    "text": "Suekane steals 2nd base.",
+    "pickoff": ""
+  },
+  {
+    "jaText": "（走者・矢野）二塁盗塁成功",
+    "text": "Yano steals 2nd base.",
+    "pickoff": ""
+  },
+  {
+    "jaText": "（走者・矢野）本塁盗塁失敗",
+    "text": "Yano caught stealing home plate.",
+    "pickoff": ""
+  }
+]

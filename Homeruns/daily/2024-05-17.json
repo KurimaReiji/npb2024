@@ -1,0 +1,214 @@
+[
+  {
+    "id": "41845136-2024-10",
+    "date": "2024-05-17",
+    "batter": {
+      "id": "41845136",
+      "jaBoxscoreName": "村上",
+      "boxscoreName": "Murakami",
+      "batSide": "L"
+    },
+    "pitcher": {
+      "id": "71175132",
+      "jaBoxscoreName": "青柳",
+      "boxscoreName": "Aoyagi",
+      "pitchHand": "R"
+    },
+    "number": 10,
+    "inning": 3,
+    "halfInning": "top",
+    "outs": 2,
+    "RoB": "12-",
+    "count": {
+      "balls": 2,
+      "strikes": 0
+    },
+    "runs": {
+      "road": 1,
+      "home": 0
+    },
+    "bop": 4,
+    "rbi": 3,
+    "whereHit": "89",
+    "venue": {
+      "jaBoxscoreName": "甲子園",
+      "boxscoreName": "Koshien",
+      "jaName": "甲子園",
+      "name": "Hanshin Koshien Stadium"
+    },
+    "teams": {
+      "road": {
+        "teamCode": "S",
+        "teamName": "Swallows",
+        "score": 4
+      },
+      "home": {
+        "teamCode": "T",
+        "teamName": "Tigers",
+        "score": 2
+      }
+    },
+    "jaText": "右中間3ランホームラン（打点3）",
+    "text": "Murakami homers (10) to right center.",
+    "url": "https://npb.jp/scores/2024/0517/t-s-07/playbyplay.html#com3-1"
+  },
+  {
+    "id": "81785155-2024-02",
+    "date": "2024-05-17",
+    "batter": {
+      "id": "81785155",
+      "jaBoxscoreName": "古賀",
+      "boxscoreName": "Koga",
+      "batSide": "R"
+    },
+    "pitcher": {
+      "id": "63965134",
+      "jaBoxscoreName": "モイネロ",
+      "boxscoreName": "Moinelo",
+      "pitchHand": "L"
+    },
+    "number": 2,
+    "inning": 7,
+    "halfInning": "top",
+    "outs": 1,
+    "RoB": "---",
+    "count": {
+      "balls": 2,
+      "strikes": 0
+    },
+    "runs": {
+      "road": 0,
+      "home": 5
+    },
+    "bop": 7,
+    "rbi": 1,
+    "whereHit": "78",
+    "venue": {
+      "jaBoxscoreName": "みずほPayPay",
+      "boxscoreName": "MIZUHO PayPay Dome",
+      "jaName": "みずほPayPayドーム福岡",
+      "name": "MIZUHO PayPay Dome FUKUOKA"
+    },
+    "teams": {
+      "road": {
+        "teamCode": "L",
+        "teamName": "Lions",
+        "score": 2
+      },
+      "home": {
+        "teamCode": "H",
+        "teamName": "Hawks",
+        "score": 6
+      }
+    },
+    "jaText": "左中間ソロホームラン（打点1）",
+    "text": "Koga homers (2) to left center.",
+    "url": "https://npb.jp/scores/2024/0517/h-l-10/playbyplay.html#com7-1"
+  },
+  {
+    "id": "21425139-2024-10",
+    "date": "2024-05-17",
+    "batter": {
+      "id": "21425139",
+      "jaBoxscoreName": "山川",
+      "boxscoreName": "Yamakawa",
+      "batSide": "R"
+    },
+    "pitcher": {
+      "id": "43045155",
+      "jaBoxscoreName": "ボー・タカハシ",
+      "boxscoreName": "B.Takahashi",
+      "pitchHand": "R"
+    },
+    "number": 10,
+    "inning": 3,
+    "halfInning": "bottom",
+    "outs": 1,
+    "RoB": "---",
+    "count": {
+      "balls": 1,
+      "strikes": 2
+    },
+    "runs": {
+      "road": 0,
+      "home": 3
+    },
+    "bop": 4,
+    "rbi": 1,
+    "whereHit": "7",
+    "venue": {
+      "jaBoxscoreName": "みずほPayPay",
+      "boxscoreName": "MIZUHO PayPay Dome",
+      "jaName": "みずほPayPayドーム福岡",
+      "name": "MIZUHO PayPay Dome FUKUOKA"
+    },
+    "teams": {
+      "road": {
+        "teamCode": "L",
+        "teamName": "Lions",
+        "score": 2
+      },
+      "home": {
+        "teamCode": "H",
+        "teamName": "Hawks",
+        "score": 6
+      }
+    },
+    "jaText": "レフトソロホームラン（打点1）",
+    "text": "Yamakawa homers (10) to left field.",
+    "url": "https://npb.jp/scores/2024/0517/h-l-10/playbyplay.html#com3-2"
+  },
+  {
+    "id": "41745135-2024-05",
+    "date": "2024-05-17",
+    "batter": {
+      "id": "41745135",
+      "jaBoxscoreName": "近藤",
+      "boxscoreName": "Kondoh",
+      "batSide": "L"
+    },
+    "pitcher": {
+      "id": "43045155",
+      "jaBoxscoreName": "ボー・タカハシ",
+      "boxscoreName": "B.Takahashi",
+      "pitchHand": "R"
+    },
+    "number": 5,
+    "inning": 5,
+    "halfInning": "bottom",
+    "outs": 2,
+    "RoB": "---",
+    "count": {
+      "balls": 2,
+      "strikes": 2
+    },
+    "runs": {
+      "road": 0,
+      "home": 4
+    },
+    "bop": 5,
+    "rbi": 1,
+    "whereHit": "9",
+    "venue": {
+      "jaBoxscoreName": "みずほPayPay",
+      "boxscoreName": "MIZUHO PayPay Dome",
+      "jaName": "みずほPayPayドーム福岡",
+      "name": "MIZUHO PayPay Dome FUKUOKA"
+    },
+    "teams": {
+      "road": {
+        "teamCode": "L",
+        "teamName": "Lions",
+        "score": 2
+      },
+      "home": {
+        "teamCode": "H",
+        "teamName": "Hawks",
+        "score": 6
+      }
+    },
+    "jaText": "ライトソロホームラン（打点1）",
+    "text": "Kondoh homers (5) to right field.",
+    "url": "https://npb.jp/scores/2024/0517/h-l-10/playbyplay.html#com5-2"
+  }
+]

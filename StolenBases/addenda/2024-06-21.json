@@ -1,0 +1,99 @@
+[
+  {
+    "jaText": "（走者・野間）二塁盗塁失敗",
+    "text": "Noma caught stealing 2nd base.",
+    "pickoff": "",
+    "isK": "Y",
+    "catcher": {
+      "id": "61365132",
+      "jaBoxscoreName": "宇佐見",
+      "boxscoreName": "Usami"
+    }
+  },
+  {
+    "jaText": "（走者・宇草）二塁盗塁成功",
+    "text": "Ugusa steals 2nd base.",
+    "pickoff": "",
+    "catcher": {
+      "id": "61365132",
+      "jaBoxscoreName": "宇佐見",
+      "boxscoreName": "Usami"
+    }
+  },
+  {
+    "jaText": "（走者・羽月）二塁盗塁成功",
+    "text": "Hatsuki steals 2nd base.",
+    "pickoff": "",
+    "catcher": {
+      "id": "41545130",
+      "jaBoxscoreName": "加藤匠",
+      "boxscoreName": "T.Katoh"
+    }
+  },
+  {
+    "jaText": "（走者・近本）二塁盗塁失敗",
+    "text": "Chikamoto caught stealing 2nd base.",
+    "pickoff": ""
+  },
+  {
+    "jaText": "（走者・小郷）二塁盗塁成功",
+    "text": "Ogoh steals 2nd base.",
+    "pickoff": "",
+    "catcher": {
+      "id": "61965130",
+      "jaBoxscoreName": "清水",
+      "boxscoreName": "Shimizu"
+    }
+  },
+  {
+    "jaText": "（走者・小深田）二塁盗塁成功",
+    "text": "Kobukata steals 2nd base.",
+    "pickoff": "",
+    "catcher": {
+      "id": "61965130",
+      "jaBoxscoreName": "清水",
+      "boxscoreName": "Shimizu"
+    }
+  },
+  {
+    "jaText": "（走者・浅村）二塁盗塁失敗",
+    "text": "Asamura caught stealing 2nd base.",
+    "pickoff": "",
+    "isK": "Y",
+    "catcher": {
+      "id": "61965130",
+      "jaBoxscoreName": "清水",
+      "boxscoreName": "Shimizu"
+    }
+  },
+  {
+    "jaText": "（走者・小深田）二塁盗塁失敗",
+    "text": "Kobukata caught stealing 2nd base.",
+    "pickoff": "",
+    "catcher": {
+      "id": "61965130",
+      "jaBoxscoreName": "清水",
+      "boxscoreName": "Shimizu"
+    }
+  },
+  {
+    "jaText": "（走者・村林）二塁盗塁成功",
+    "text": "Murabayashi steals 2nd base.",
+    "pickoff": "",
+    "catcher": {
+      "id": "51055138",
+      "jaBoxscoreName": "田宮",
+      "boxscoreName": "Tamiya"
+    }
+  },
+  {
+    "jaText": "（走者・岡）二塁盗塁成功",
+    "text": "Oka steals 2nd base.",
+    "pickoff": ""
+  },
+  {
+    "jaText": "（走者・周東）二塁盗塁失敗",
+    "text": "Shuto caught stealing 2nd base.",
+    "pickoff": ""
+  }
+]

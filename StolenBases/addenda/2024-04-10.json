@@ -1,0 +1,32 @@
+[
+  {
+    "jaText": "（走者・梶原）二塁盗塁成功",
+    "text": "Kajiwara steals 2nd base.",
+    "pickoff": ""
+  },
+  {
+    "jaText": "（走者・村松）二塁盗塁失敗",
+    "text": "Muramatsu picked off and caught stealing 2nd base.",
+    "pickoff": "Y"
+  },
+  {
+    "jaText": "（走者・堂林）二塁盗塁失敗",
+    "text": "Dohbayashi caught stealing 2nd base.",
+    "pickoff": ""
+  },
+  {
+    "jaText": "（走者・友杉）一塁牽制アウト",
+    "text": "Tomosugi picked off at 1st base.",
+    "pickoff": "Y",
+    "catcher": {
+      "id": "91995112",
+      "jaBoxscoreName": "炭谷",
+      "boxscoreName": "Sumitani"
+    }
+  },
+  {
+    "jaText": "（走者・小深田）二塁盗塁成功",
+    "text": "Kobukata steals 2nd base.",
+    "pickoff": ""
+  }
+]

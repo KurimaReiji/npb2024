@@ -1,0 +1,375 @@
+[
+  {
+    "id": "03505136-2024-06",
+    "date": "2024-06-05",
+    "batter": {
+      "id": "03505136",
+      "jaBoxscoreName": "ソト",
+      "boxscoreName": "Soto",
+      "batSide": "R"
+    },
+    "pitcher": {
+      "id": "21625151",
+      "jaBoxscoreName": "堀田",
+      "boxscoreName": "Hotta",
+      "pitchHand": "R"
+    },
+    "number": 6,
+    "inning": 4,
+    "halfInning": "top",
+    "outs": 0,
+    "RoB": "12-",
+    "count": {
+      "balls": 2,
+      "strikes": 1
+    },
+    "runs": {
+      "road": 0,
+      "home": 0
+    },
+    "bop": 4,
+    "rbi": 3,
+    "whereHit": "9",
+    "venue": {
+      "jaBoxscoreName": "東京ドーム",
+      "boxscoreName": "Tokyo Dome",
+      "jaName": "東京ドーム",
+      "name": "Tokyo Dome"
+    },
+    "teams": {
+      "road": {
+        "teamCode": "M",
+        "teamName": "Marines",
+        "score": 4
+      },
+      "home": {
+        "teamCode": "G",
+        "teamName": "Giants",
+        "score": 3
+      }
+    },
+    "jaText": "ライト3ランホームラン（打点3）",
+    "text": "Soto homers (6) to right field.",
+    "url": "https://npb.jp/scores/2024/0605/g-m-02/playbyplay.html#com4-1"
+  },
+  {
+    "id": "23525153-2024-07",
+    "date": "2024-06-05",
+    "batter": {
+      "id": "23525153",
+      "jaBoxscoreName": "オスナ",
+      "boxscoreName": "Osuna",
+      "batSide": "R"
+    },
+    "pitcher": {
+      "id": "91695134",
+      "jaBoxscoreName": "平井",
+      "boxscoreName": "Hirai",
+      "pitchHand": "R"
+    },
+    "number": 7,
+    "inning": 6,
+    "halfInning": "bottom",
+    "outs": 2,
+    "RoB": "12-",
+    "count": {
+      "balls": 1,
+      "strikes": 0
+    },
+    "runs": {
+      "road": 1,
+      "home": 2
+    },
+    "bop": 7,
+    "rbi": 3,
+    "whereHit": "7",
+    "venue": {
+      "jaBoxscoreName": "神宮",
+      "boxscoreName": "Jingu",
+      "jaName": "神宮",
+      "name": "Jingu Stadium"
+    },
+    "teams": {
+      "road": {
+        "teamCode": "L",
+        "teamName": "Lions",
+        "score": 2
+      },
+      "home": {
+        "teamCode": "S",
+        "teamName": "Swallows",
+        "score": 7
+      }
+    },
+    "jaText": "レフト3ランホームラン（打点3）",
+    "text": "Osuna homers (7) to left field.",
+    "url": "https://npb.jp/scores/2024/0605/s-l-02/playbyplay.html#com6-2"
+  },
+  {
+    "id": "71275151-2024-03",
+    "date": "2024-06-05",
+    "batter": {
+      "id": "71275151",
+      "jaBoxscoreName": "武岡",
+      "boxscoreName": "Takeoka",
+      "batSide": "L"
+    },
+    "pitcher": {
+      "id": "91395159",
+      "jaBoxscoreName": "上田",
+      "boxscoreName": "Ueda",
+      "pitchHand": "R"
+    },
+    "number": 3,
+    "inning": 8,
+    "halfInning": "bottom",
+    "outs": 1,
+    "RoB": "-2-",
+    "count": {
+      "balls": 0,
+      "strikes": 0
+    },
+    "runs": {
+      "road": 2,
+      "home": 5
+    },
+    "bop": 6,
+    "rbi": 2,
+    "whereHit": "9",
+    "venue": {
+      "jaBoxscoreName": "神宮",
+      "boxscoreName": "Jingu",
+      "jaName": "神宮",
+      "name": "Jingu Stadium"
+    },
+    "teams": {
+      "road": {
+        "teamCode": "L",
+        "teamName": "Lions",
+        "score": 2
+      },
+      "home": {
+        "teamCode": "S",
+        "teamName": "Swallows",
+        "score": 7
+      }
+    },
+    "jaText": "ライト2ランホームラン（打点2）",
+    "text": "Takeoka homers (3) to right field.",
+    "url": "https://npb.jp/scores/2024/0605/s-l-02/playbyplay.html#com8-2"
+  },
+  {
+    "id": "91395138-2024-01",
+    "date": "2024-06-05",
+    "batter": {
+      "id": "91395138",
+      "jaBoxscoreName": "太田",
+      "boxscoreName": "Ohta",
+      "batSide": "R"
+    },
+    "pitcher": {
+      "id": "43745159",
+      "jaBoxscoreName": "ジャクソン",
+      "boxscoreName": "Jackson",
+      "pitchHand": "R"
+    },
+    "number": 1,
+    "inning": 5,
+    "halfInning": "top",
+    "outs": 2,
+    "RoB": "1--",
+    "count": {
+      "balls": 3,
+      "strikes": 2
+    },
+    "runs": {
+      "road": 0,
+      "home": 1
+    },
+    "bop": 3,
+    "rbi": 2,
+    "whereHit": "9",
+    "venue": {
+      "jaBoxscoreName": "横浜",
+      "boxscoreName": "Yokohama",
+      "jaName": "横浜スタジアム",
+      "name": "Yokohama Stadium"
+    },
+    "teams": {
+      "road": {
+        "teamCode": "B",
+        "teamName": "Buffaloes",
+        "score": 2
+      },
+      "home": {
+        "teamCode": "DB",
+        "teamName": "Baystars",
+        "score": 1
+      }
+    },
+    "jaText": "ライト2ランホームラン（打点2）",
+    "text": "Ohta homers (1) to right field.",
+    "url": "https://npb.jp/scores/2024/0605/db-b-02/playbyplay.html#com5-1"
+  },
+  {
+    "id": "51555151-2024-03",
+    "date": "2024-06-05",
+    "batter": {
+      "id": "51555151",
+      "jaBoxscoreName": "蝦名",
+      "boxscoreName": "Ebina",
+      "batSide": "R"
+    },
+    "pitcher": {
+      "id": "41045136",
+      "jaBoxscoreName": "田嶋",
+      "boxscoreName": "Tajima",
+      "pitchHand": "L"
+    },
+    "number": 3,
+    "inning": 1,
+    "halfInning": "bottom",
+    "outs": 0,
+    "RoB": "---",
+    "count": {
+      "balls": 0,
+      "strikes": 1
+    },
+    "runs": {
+      "road": 0,
+      "home": 0
+    },
+    "bop": 1,
+    "rbi": 1,
+    "whereHit": "9",
+    "venue": {
+      "jaBoxscoreName": "横浜",
+      "boxscoreName": "Yokohama",
+      "jaName": "横浜スタジアム",
+      "name": "Yokohama Stadium"
+    },
+    "teams": {
+      "road": {
+        "teamCode": "B",
+        "teamName": "Buffaloes",
+        "score": 2
+      },
+      "home": {
+        "teamCode": "DB",
+        "teamName": "Baystars",
+        "score": 1
+      }
+    },
+    "jaText": "ライトソロホームラン（打点1）",
+    "text": "Ebina homers (3) to right field.",
+    "url": "https://npb.jp/scores/2024/0605/db-b-02/playbyplay.html#com1-2",
+    "isLeadOff": "Y"
+  },
+  {
+    "id": "81385138-2024-03",
+    "date": "2024-06-05",
+    "batter": {
+      "id": "81385138",
+      "jaBoxscoreName": "小郷",
+      "boxscoreName": "Ogoh",
+      "batSide": "L"
+    },
+    "pitcher": {
+      "id": "31335139",
+      "jaBoxscoreName": "岩崎",
+      "boxscoreName": "Iwazaki",
+      "pitchHand": "L"
+    },
+    "number": 3,
+    "inning": 9,
+    "halfInning": "top",
+    "outs": 2,
+    "RoB": "-2-",
+    "count": {
+      "balls": 3,
+      "strikes": 1
+    },
+    "runs": {
+      "road": 1,
+      "home": 2
+    },
+    "bop": 1,
+    "rbi": 2,
+    "whereHit": "9",
+    "venue": {
+      "jaBoxscoreName": "甲子園",
+      "boxscoreName": "Koshien",
+      "jaName": "甲子園",
+      "name": "Hanshin Koshien Stadium"
+    },
+    "teams": {
+      "road": {
+        "teamCode": "E",
+        "teamName": "Eagles",
+        "score": 3
+      },
+      "home": {
+        "teamCode": "T",
+        "teamName": "Tigers",
+        "score": 2
+      }
+    },
+    "jaText": "ライト2ランホームラン（打点2）",
+    "text": "Ogoh homers (3) to right field.",
+    "url": "https://npb.jp/scores/2024/0605/t-e-02/playbyplay.html#com9-1"
+  },
+  {
+    "id": "31135133-2024-02",
+    "date": "2024-06-05",
+    "batter": {
+      "id": "31135133",
+      "jaBoxscoreName": "秋山",
+      "boxscoreName": "Akiyama",
+      "batSide": "L"
+    },
+    "pitcher": {
+      "id": "51355153",
+      "jaBoxscoreName": "伊藤",
+      "boxscoreName": "Itoh",
+      "pitchHand": "R"
+    },
+    "number": 2,
+    "inning": 1,
+    "halfInning": "bottom",
+    "outs": 0,
+    "RoB": "---",
+    "count": {
+      "balls": 0,
+      "strikes": 0
+    },
+    "runs": {
+      "road": 0,
+      "home": 0
+    },
+    "bop": 1,
+    "rbi": 1,
+    "whereHit": "8",
+    "venue": {
+      "jaBoxscoreName": "マツダスタジアム",
+      "boxscoreName": "Mazda Stadium",
+      "jaName": "MAZDA Zoom-Zoom スタジアム広島",
+      "name": "MAZDA Zoom-Zoom Stadium Hiroshima"
+    },
+    "teams": {
+      "road": {
+        "teamCode": "F",
+        "teamName": "Fighters",
+        "score": 0
+      },
+      "home": {
+        "teamCode": "C",
+        "teamName": "Carp",
+        "score": 6
+      }
+    },
+    "jaText": "センターソロホームラン（打点1）",
+    "text": "Akiyama homers (2) to center field.",
+    "url": "https://npb.jp/scores/2024/0605/c-f-02/playbyplay.html#com1-2",
+    "isLeadOff": "Y"
+  }
+]

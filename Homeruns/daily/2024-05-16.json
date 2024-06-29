@@ -1,0 +1,55 @@
+[
+  {
+    "id": "61065131-2024-01",
+    "date": "2024-05-16",
+    "batter": {
+      "id": "61065131",
+      "jaBoxscoreName": "原口",
+      "boxscoreName": "Haraguchi",
+      "batSide": "R"
+    },
+    "pitcher": {
+      "id": "81285138",
+      "jaBoxscoreName": "根尾",
+      "boxscoreName": "Neo",
+      "pitchHand": "R"
+    },
+    "number": 1,
+    "inning": 6,
+    "halfInning": "top",
+    "outs": 1,
+    "RoB": "12-",
+    "count": {
+      "balls": 2,
+      "strikes": 0
+    },
+    "runs": {
+      "road": 6,
+      "home": 2
+    },
+    "bop": 4,
+    "rbi": 3,
+    "whereHit": "7",
+    "venue": {
+      "jaBoxscoreName": "バンテリンドーム",
+      "boxscoreName": "Vantelin Dome",
+      "jaName": "バンテリンドーム ナゴヤ",
+      "name": "Vantelin Dome Nagoya"
+    },
+    "teams": {
+      "road": {
+        "teamCode": "T",
+        "teamName": "Tigers",
+        "score": 9
+      },
+      "home": {
+        "teamCode": "D",
+        "teamName": "Dragons",
+        "score": 4
+      }
+    },
+    "jaText": "レフト3ランホームラン（打点3）",
+    "text": "Haraguchi homers (1) to left field.",
+    "url": "https://npb.jp/scores/2024/0516/d-t-09/playbyplay.html#com6-1"
+  }
+]

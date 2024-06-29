@@ -1,0 +1,710 @@
+[
+  {
+    "date": "2024-05-15",
+    "runner": {
+      "id": "51555151",
+      "jaBoxscoreName": "蝦名",
+      "boxscoreName": "Ebina"
+    },
+    "batter": {
+      "id": "51455137",
+      "jaBoxscoreName": "宮﨑",
+      "boxscoreName": "Miyazaki",
+      "batSide": "R"
+    },
+    "pitcher": {
+      "id": "21625151",
+      "jaBoxscoreName": "堀田",
+      "boxscoreName": "Hotta",
+      "pitchHand": "R"
+    },
+    "catcher": {
+      "id": "91595136",
+      "jaBoxscoreName": "岸田",
+      "boxscoreName": "Kishida"
+    },
+    "scoring": "CaughtStealing",
+    "base": "2B",
+    "pickoff": "",
+    "inning": 3,
+    "halfInning": "top",
+    "outs": 2,
+    "RoB": "1--",
+    "runs": {
+      "road": 0,
+      "home": 1
+    },
+    "venue": {
+      "jaBoxscoreName": "福井",
+      "boxscoreName": "Fukui",
+      "jaName": "福井県営",
+      "name": "Fukui Prefectural Baseball Stadium"
+    },
+    "teams": {
+      "road": {
+        "teamCode": "DB",
+        "teamName": "Baystars",
+        "score": 0
+      },
+      "home": {
+        "teamCode": "G",
+        "teamName": "Giants",
+        "score": 4
+      }
+    },
+    "jaText": "（走者・蝦名）二塁盗塁失敗",
+    "text": "Ebina caught stealing 2nd base.",
+    "url": "https://npb.jp/scores/2024/0515/g-db-08/playbyplay.html#com3-1",
+    "catchers": [
+      {
+        "id": "91595136",
+        "jaBoxscoreName": "岸田",
+        "boxscoreName": "Kishida"
+      }
+    ]
+  },
+  {
+    "date": "2024-05-15",
+    "runner": {
+      "id": "73375134",
+      "jaBoxscoreName": "吉川",
+      "boxscoreName": "Yoshikawa"
+    },
+    "batter": {
+      "id": "11515130",
+      "jaBoxscoreName": "岡本和",
+      "boxscoreName": "K.Okamoto",
+      "batSide": "R"
+    },
+    "pitcher": {
+      "id": "11315130",
+      "jaBoxscoreName": "石田健",
+      "boxscoreName": "K.Ishida",
+      "pitchHand": "L"
+    },
+    "catcher": {
+      "id": "41245132",
+      "jaBoxscoreName": "戸柱",
+      "boxscoreName": "Tobashira"
+    },
+    "scoring": "CaughtStealing",
+    "base": "2B",
+    "pickoff": "",
+    "inning": 3,
+    "halfInning": "bottom",
+    "outs": 1,
+    "RoB": "1--",
+    "runs": {
+      "road": 0,
+      "home": 1
+    },
+    "venue": {
+      "jaBoxscoreName": "福井",
+      "boxscoreName": "Fukui",
+      "jaName": "福井県営",
+      "name": "Fukui Prefectural Baseball Stadium"
+    },
+    "teams": {
+      "road": {
+        "teamCode": "DB",
+        "teamName": "Baystars",
+        "score": 0
+      },
+      "home": {
+        "teamCode": "G",
+        "teamName": "Giants",
+        "score": 4
+      }
+    },
+    "jaText": "（走者・吉川）二塁盗塁失敗",
+    "text": "Yoshikawa caught stealing 2nd base.",
+    "url": "https://npb.jp/scores/2024/0515/g-db-08/playbyplay.html#com3-2",
+    "catchers": [
+      {
+        "id": "41245132",
+        "jaBoxscoreName": "戸柱",
+        "boxscoreName": "Tobashira"
+      }
+    ]
+  },
+  {
+    "date": "2024-05-15",
+    "runner": {
+      "id": "41345151",
+      "jaBoxscoreName": "宇草",
+      "boxscoreName": "Ugusa"
+    },
+    "batter": {
+      "id": "61565135",
+      "jaBoxscoreName": "菊池",
+      "boxscoreName": "Kikuchi",
+      "batSide": "R"
+    },
+    "pitcher": {
+      "id": "03105159",
+      "jaBoxscoreName": "松本健",
+      "boxscoreName": "K.Matsumoto",
+      "pitchHand": "R"
+    },
+    "catcher": {
+      "id": "51255118",
+      "jaBoxscoreName": "中村",
+      "boxscoreName": "Nakamura"
+    },
+    "scoring": "StolenBase",
+    "base": "2B",
+    "pickoff": "",
+    "inning": 1,
+    "halfInning": "top",
+    "outs": 1,
+    "RoB": "1--",
+    "runs": {
+      "road": 0,
+      "home": 0
+    },
+    "venue": {
+      "jaBoxscoreName": "松山",
+      "boxscoreName": "Matsuyama",
+      "jaName": "松山坊っちゃんスタジアム",
+      "name": "Botchan Stadium"
+    },
+    "teams": {
+      "road": {
+        "teamCode": "C",
+        "teamName": "Carp",
+        "score": 0
+      },
+      "home": {
+        "teamCode": "S",
+        "teamName": "Swallows",
+        "score": 2
+      }
+    },
+    "jaText": "（走者・宇草）二塁盗塁成功",
+    "text": "Ugusa steals 2nd base.",
+    "url": "https://npb.jp/scores/2024/0515/s-c-06/playbyplay.html#com1-1",
+    "catchers": [
+      {
+        "id": "51255118",
+        "jaBoxscoreName": "中村",
+        "boxscoreName": "Nakamura"
+      }
+    ]
+  },
+  {
+    "date": "2024-05-15",
+    "runner": {
+      "id": "21025157",
+      "jaBoxscoreName": "田中",
+      "boxscoreName": "Tanaka"
+    },
+    "batter": {
+      "id": "93795157",
+      "jaBoxscoreName": "カリステ",
+      "boxscoreName": "Calixte",
+      "batSide": "R"
+    },
+    "pitcher": {
+      "id": "41345136",
+      "jaBoxscoreName": "大竹",
+      "boxscoreName": "Ohtake",
+      "pitchHand": "L"
+    },
+    "catcher": {
+      "id": "11915132",
+      "jaBoxscoreName": "坂本",
+      "boxscoreName": "Sakamoto"
+    },
+    "scoring": "StolenBase",
+    "base": "2B",
+    "pickoff": "",
+    "inning": 3,
+    "halfInning": "bottom",
+    "outs": 1,
+    "RoB": "1--",
+    "runs": {
+      "road": 0,
+      "home": 0
+    },
+    "venue": {
+      "jaBoxscoreName": "バンテリンドーム",
+      "boxscoreName": "Vantelin Dome",
+      "jaName": "バンテリンドーム ナゴヤ",
+      "name": "Vantelin Dome Nagoya"
+    },
+    "teams": {
+      "road": {
+        "teamCode": "T",
+        "teamName": "Tigers",
+        "score": 1
+      },
+      "home": {
+        "teamCode": "D",
+        "teamName": "Dragons",
+        "score": 0
+      }
+    },
+    "jaText": "（走者・田中）二塁盗塁成功",
+    "text": "Tanaka steals 2nd base.",
+    "url": "https://npb.jp/scores/2024/0515/d-t-08/playbyplay.html#com3-2",
+    "catchers": [
+      {
+        "id": "11915132",
+        "jaBoxscoreName": "坂本",
+        "boxscoreName": "Sakamoto"
+      }
+    ]
+  },
+  {
+    "date": "2024-05-15",
+    "runner": {
+      "id": "71075138",
+      "jaBoxscoreName": "近本",
+      "boxscoreName": "Chikamoto"
+    },
+    "batter": {
+      "id": "81685139",
+      "jaBoxscoreName": "渡邉",
+      "boxscoreName": "Watanabe",
+      "batSide": "R"
+    },
+    "pitcher": {
+      "id": "23925134",
+      "jaBoxscoreName": "マルティネス",
+      "boxscoreName": "Martinez",
+      "pitchHand": "R"
+    },
+    "catcher": {
+      "id": "41545130",
+      "jaBoxscoreName": "加藤匠",
+      "boxscoreName": "T.Katoh"
+    },
+    "scoring": "StolenBase",
+    "base": "2B",
+    "pickoff": "",
+    "inning": 9,
+    "halfInning": "top",
+    "outs": 2,
+    "RoB": "1-3",
+    "runs": {
+      "road": 0,
+      "home": 0
+    },
+    "venue": {
+      "jaBoxscoreName": "バンテリンドーム",
+      "boxscoreName": "Vantelin Dome",
+      "jaName": "バンテリンドーム ナゴヤ",
+      "name": "Vantelin Dome Nagoya"
+    },
+    "teams": {
+      "road": {
+        "teamCode": "T",
+        "teamName": "Tigers",
+        "score": 1
+      },
+      "home": {
+        "teamCode": "D",
+        "teamName": "Dragons",
+        "score": 0
+      }
+    },
+    "jaText": "（走者・近本）二塁盗塁成功",
+    "text": "Chikamoto steals 2nd base.",
+    "url": "https://npb.jp/scores/2024/0515/d-t-08/playbyplay.html#com9-1",
+    "catchers": [
+      {
+        "id": "41545130",
+        "jaBoxscoreName": "加藤匠",
+        "boxscoreName": "T.Katoh"
+      }
+    ]
+  },
+  {
+    "date": "2024-05-15",
+    "runner": {
+      "id": "63765159",
+      "jaBoxscoreName": "スティーブンソン",
+      "boxscoreName": "Stevenson"
+    },
+    "batter": {
+      "id": "21625135",
+      "jaBoxscoreName": "松本剛",
+      "boxscoreName": "G.Matsumoto",
+      "batSide": "R"
+    },
+    "pitcher": {
+      "id": "21025155",
+      "jaBoxscoreName": "隅田",
+      "boxscoreName": "Sumida",
+      "pitchHand": "L"
+    },
+    "catcher": {},
+    "scoring": "CaughtStealing",
+    "base": "2B",
+    "pickoff": "",
+    "inning": 2,
+    "halfInning": "bottom",
+    "outs": 2,
+    "RoB": "1-3",
+    "runs": {
+      "road": 0,
+      "home": 3
+    },
+    "venue": {
+      "jaBoxscoreName": "エスコンＦ",
+      "boxscoreName": "ES CON FIELD",
+      "jaName": "エスコンフィールドＨＯＫＫＡＩＤＯ",
+      "name": "ES CON FIELD HOKKAIDO"
+    },
+    "teams": {
+      "road": {
+        "teamCode": "L",
+        "teamName": "Lions",
+        "score": 3
+      },
+      "home": {
+        "teamCode": "F",
+        "teamName": "Fighters",
+        "score": 12
+      }
+    },
+    "jaText": "（走者・スティーブンソン）二塁盗塁失敗",
+    "text": "Stevenson caught stealing 2nd base.",
+    "url": "https://npb.jp/scores/2024/0515/f-l-07/playbyplay.html#com2-2",
+    "catchers": [
+      {
+        "id": "91995112",
+        "jaBoxscoreName": "炭谷",
+        "boxscoreName": "Sumitani"
+      },
+      {
+        "id": "61265151",
+        "jaBoxscoreName": "柘植",
+        "boxscoreName": "Tsuge"
+      }
+    ]
+  },
+  {
+    "date": "2024-05-15",
+    "runner": {
+      "id": "63165155",
+      "jaBoxscoreName": "水野",
+      "boxscoreName": "Mizuno"
+    },
+    "batter": {
+      "id": "63765159",
+      "jaBoxscoreName": "スティーブンソン",
+      "boxscoreName": "Stevenson",
+      "batSide": "L"
+    },
+    "pitcher": {
+      "id": "21025155",
+      "jaBoxscoreName": "隅田",
+      "boxscoreName": "Sumida",
+      "pitchHand": "L"
+    },
+    "catcher": {},
+    "scoring": "StolenBase",
+    "base": "2B",
+    "pickoff": "",
+    "inning": 4,
+    "halfInning": "bottom",
+    "outs": 2,
+    "RoB": "1--",
+    "runs": {
+      "road": 3,
+      "home": 6
+    },
+    "venue": {
+      "jaBoxscoreName": "エスコンＦ",
+      "boxscoreName": "ES CON FIELD",
+      "jaName": "エスコンフィールドＨＯＫＫＡＩＤＯ",
+      "name": "ES CON FIELD HOKKAIDO"
+    },
+    "teams": {
+      "road": {
+        "teamCode": "L",
+        "teamName": "Lions",
+        "score": 3
+      },
+      "home": {
+        "teamCode": "F",
+        "teamName": "Fighters",
+        "score": 12
+      }
+    },
+    "jaText": "（走者・水野）二塁盗塁成功",
+    "text": "Mizuno steals 2nd base.",
+    "url": "https://npb.jp/scores/2024/0515/f-l-07/playbyplay.html#com4-2",
+    "catchers": [
+      {
+        "id": "91995112",
+        "jaBoxscoreName": "炭谷",
+        "boxscoreName": "Sumitani"
+      },
+      {
+        "id": "61265151",
+        "jaBoxscoreName": "柘植",
+        "boxscoreName": "Tsuge"
+      }
+    ]
+  },
+  {
+    "date": "2024-05-15",
+    "runner": {
+      "id": "63765159",
+      "jaBoxscoreName": "スティーブンソン",
+      "boxscoreName": "Stevenson"
+    },
+    "batter": {
+      "id": "21625135",
+      "jaBoxscoreName": "松本剛",
+      "boxscoreName": "G.Matsumoto",
+      "batSide": "R"
+    },
+    "pitcher": {
+      "id": "01205134",
+      "jaBoxscoreName": "田村",
+      "boxscoreName": "Tamura",
+      "pitchHand": "R"
+    },
+    "catcher": {},
+    "scoring": "StolenBase",
+    "base": "2B",
+    "pickoff": "",
+    "inning": 4,
+    "halfInning": "bottom",
+    "outs": 2,
+    "RoB": "1-3",
+    "runs": {
+      "road": 3,
+      "home": 6
+    },
+    "venue": {
+      "jaBoxscoreName": "エスコンＦ",
+      "boxscoreName": "ES CON FIELD",
+      "jaName": "エスコンフィールドＨＯＫＫＡＩＤＯ",
+      "name": "ES CON FIELD HOKKAIDO"
+    },
+    "teams": {
+      "road": {
+        "teamCode": "L",
+        "teamName": "Lions",
+        "score": 3
+      },
+      "home": {
+        "teamCode": "F",
+        "teamName": "Fighters",
+        "score": 12
+      }
+    },
+    "jaText": "（走者・スティーブンソン）二塁盗塁成功",
+    "text": "Stevenson steals 2nd base.",
+    "url": "https://npb.jp/scores/2024/0515/f-l-07/playbyplay.html#com4-2",
+    "catchers": [
+      {
+        "id": "91995112",
+        "jaBoxscoreName": "炭谷",
+        "boxscoreName": "Sumitani"
+      },
+      {
+        "id": "61265151",
+        "jaBoxscoreName": "柘植",
+        "boxscoreName": "Tsuge"
+      }
+    ]
+  },
+  {
+    "date": "2024-05-15",
+    "runner": {
+      "id": "21125134",
+      "jaBoxscoreName": "石井",
+      "boxscoreName": "Ishii"
+    },
+    "batter": {
+      "id": "51055138",
+      "jaBoxscoreName": "田宮",
+      "boxscoreName": "Tamiya",
+      "batSide": "L"
+    },
+    "pitcher": {
+      "id": "91695134",
+      "jaBoxscoreName": "平井",
+      "boxscoreName": "Hirai",
+      "pitchHand": "R"
+    },
+    "catcher": {},
+    "scoring": "StolenBase",
+    "base": "2B",
+    "pickoff": "",
+    "inning": 5,
+    "halfInning": "bottom",
+    "outs": 2,
+    "RoB": "1--",
+    "runs": {
+      "road": 3,
+      "home": 6
+    },
+    "venue": {
+      "jaBoxscoreName": "エスコンＦ",
+      "boxscoreName": "ES CON FIELD",
+      "jaName": "エスコンフィールドＨＯＫＫＡＩＤＯ",
+      "name": "ES CON FIELD HOKKAIDO"
+    },
+    "teams": {
+      "road": {
+        "teamCode": "L",
+        "teamName": "Lions",
+        "score": 3
+      },
+      "home": {
+        "teamCode": "F",
+        "teamName": "Fighters",
+        "score": 12
+      }
+    },
+    "jaText": "（走者・石井）二塁盗塁成功",
+    "text": "Ishii steals 2nd base.",
+    "url": "https://npb.jp/scores/2024/0515/f-l-07/playbyplay.html#com5-2",
+    "catchers": [
+      {
+        "id": "91995112",
+        "jaBoxscoreName": "炭谷",
+        "boxscoreName": "Sumitani"
+      },
+      {
+        "id": "61265151",
+        "jaBoxscoreName": "柘植",
+        "boxscoreName": "Tsuge"
+      }
+    ]
+  },
+  {
+    "date": "2024-05-15",
+    "runner": {
+      "id": "11015138",
+      "jaBoxscoreName": "辰己",
+      "boxscoreName": "R.Tatsumi"
+    },
+    "batter": {
+      "id": "61165134",
+      "jaBoxscoreName": "石原",
+      "boxscoreName": "Ishihara",
+      "batSide": "R"
+    },
+    "pitcher": {
+      "id": "61165139",
+      "jaBoxscoreName": "石川",
+      "boxscoreName": "Ishikawa",
+      "pitchHand": "R"
+    },
+    "catcher": {
+      "id": "91595133",
+      "jaBoxscoreName": "甲斐",
+      "boxscoreName": "T.Kai"
+    },
+    "scoring": "StolenBase",
+    "base": "2B",
+    "pickoff": "",
+    "inning": 4,
+    "halfInning": "bottom",
+    "outs": 0,
+    "RoB": "1--",
+    "runs": {
+      "road": 2,
+      "home": 2
+    },
+    "venue": {
+      "jaBoxscoreName": "楽天モバイル",
+      "boxscoreName": "Rakuten Mobile",
+      "jaName": "楽天モバイルパーク宮城",
+      "name": "Rakuten Mobile Park Miyagi"
+    },
+    "teams": {
+      "road": {
+        "teamCode": "H",
+        "teamName": "Hawks",
+        "score": 7
+      },
+      "home": {
+        "teamCode": "E",
+        "teamName": "Eagles",
+        "score": 3
+      }
+    },
+    "jaText": "（走者・辰己）二塁盗塁成功",
+    "text": "R.Tatsumi steals 2nd base.",
+    "url": "https://npb.jp/scores/2024/0515/e-h-07/playbyplay.html#com4-2",
+    "catchers": [
+      {
+        "id": "91595133",
+        "jaBoxscoreName": "甲斐",
+        "boxscoreName": "T.Kai"
+      }
+    ]
+  },
+  {
+    "date": "2024-05-15",
+    "runner": {
+      "id": "63565155",
+      "jaBoxscoreName": "渡部",
+      "boxscoreName": "Watanabe"
+    },
+    "batter": {
+      "id": "81085138",
+      "jaBoxscoreName": "頓宮",
+      "boxscoreName": "Tongu",
+      "batSide": "R"
+    },
+    "pitcher": {
+      "id": "81985133",
+      "jaBoxscoreName": "澤村",
+      "boxscoreName": "Sawamura",
+      "pitchHand": "R"
+    },
+    "catcher": {
+      "id": "41945137",
+      "jaBoxscoreName": "田村",
+      "boxscoreName": "Tamura"
+    },
+    "scoring": "StolenBase",
+    "base": "2B",
+    "pickoff": "",
+    "inning": 9,
+    "halfInning": "bottom",
+    "outs": 2,
+    "RoB": "1--",
+    "runs": {
+      "road": 1,
+      "home": 0
+    },
+    "venue": {
+      "jaBoxscoreName": "那覇",
+      "boxscoreName": "Naha",
+      "jaName": "沖縄セルラースタジアム那覇",
+      "name": "Okinawa Cellular Stadium Naha"
+    },
+    "teams": {
+      "road": {
+        "teamCode": "M",
+        "teamName": "Marines",
+        "score": 1
+      },
+      "home": {
+        "teamCode": "B",
+        "teamName": "Buffaloes",
+        "score": 1
+      }
+    },
+    "jaText": "（走者・渡部）二塁盗塁成功",
+    "text": "Watanabe steals 2nd base.",
+    "url": "https://npb.jp/scores/2024/0515/b-m-07/playbyplay.html#com9-2",
+    "catchers": [
+      {
+        "id": "41945137",
+        "jaBoxscoreName": "田村",
+        "boxscoreName": "Tamura"
+      }
+    ]
+  }
+]

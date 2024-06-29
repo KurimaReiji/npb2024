@@ -1,0 +1,32 @@
+[
+  {
+    "jaText": "（走者・立岡）二塁盗塁失敗",
+    "text": "Tateoka caught stealing 2nd base.",
+    "pickoff": ""
+  },
+  {
+    "jaText": "（走者・並木）二塁盗塁成功",
+    "text": "Namiki steals 2nd base.",
+    "pickoff": ""
+  },
+  {
+    "jaText": "（走者・牧）二塁盗塁成功",
+    "text": "Maki steals 2nd base.",
+    "pickoff": ""
+  },
+  {
+    "jaText": "（走者・村林）二塁盗塁成功",
+    "text": "Murabayashi steals 2nd base.",
+    "pickoff": ""
+  },
+  {
+    "jaText": "（走者・小深田）二塁盗塁成功",
+    "text": "Kobukata steals 2nd base.",
+    "pickoff": ""
+  },
+  {
+    "jaText": "（走者・髙松）二塁盗塁失敗",
+    "text": "Takamatsu caught stealing 2nd base.",
+    "pickoff": ""
+  }
+]

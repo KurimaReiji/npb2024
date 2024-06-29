@@ -1,0 +1,33 @@
+[
+  {
+    "jaText": "（走者・中村）二塁牽制アウト",
+    "text": "Nakamura picked off at 2nd base.",
+    "pickoff": "Y"
+  },
+  {
+    "jaText": "（走者・並木）二塁盗塁成功",
+    "text": "Namiki steals 2nd base.",
+    "pickoff": "",
+    "isK": "Y"
+  },
+  {
+    "jaText": "（走者・赤羽）二塁盗塁成功",
+    "text": "Akahane steals 2nd base.",
+    "pickoff": ""
+  },
+  {
+    "jaText": "（走者・度会）二塁盗塁成功",
+    "text": "Watarai steals 2nd base.",
+    "pickoff": ""
+  },
+  {
+    "jaText": "（走者・髙松）二塁盗塁成功",
+    "text": "Takamatsu steals 2nd base.",
+    "pickoff": ""
+  },
+  {
+    "jaText": "（走者・周東）二塁盗塁成功",
+    "text": "Shuto steals 2nd base.",
+    "pickoff": ""
+  }
+]

@@ -1,0 +1,52 @@
+[
+  {
+    "jaText": "（走者・ヘルナンデス）一塁牽制アウト",
+    "text": "Hernandez picked off at 1st base.",
+    "pickoff": "Y"
+  },
+  {
+    "jaText": "（走者・重信）二塁盗塁失敗",
+    "text": "Shigenobu caught stealing 2nd base.",
+    "pickoff": ""
+  },
+  {
+    "jaText": "（走者・京田）二塁盗塁失敗",
+    "text": "Kyoda caught stealing 2nd base.",
+    "pickoff": ""
+  },
+  {
+    "jaText": "（走者・緒方）二塁盗塁成功",
+    "text": "R.Ogata steals 2nd base.",
+    "pickoff": ""
+  },
+  {
+    "jaText": "（走者・辰己）二塁盗塁失敗",
+    "text": "R.Tatsumi picked off and caught stealing 2nd base.",
+    "pickoff": "Y"
+  },
+  {
+    "jaText": "（走者・児玉）二塁盗塁成功",
+    "text": "Kodama steals 2nd base.",
+    "pickoff": "",
+    "catcher": {
+      "id": "71375138",
+      "jaBoxscoreName": "太田",
+      "boxscoreName": "Ohta"
+    }
+  },
+  {
+    "jaText": "（走者・村林）二塁盗塁成功",
+    "text": "Murabayashi steals 2nd base.",
+    "pickoff": ""
+  },
+  {
+    "jaText": "（走者・小川）一塁牽制アウト",
+    "text": "Ogawa picked off at 1st base.",
+    "pickoff": "Y"
+  },
+  {
+    "jaText": "（走者・髙部）二塁盗塁成功",
+    "text": "Takabe steals 2nd base.",
+    "pickoff": ""
+  }
+]

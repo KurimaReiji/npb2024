@@ -1,0 +1,93 @@
+[
+  {
+    "jaText": "（走者・坂倉）二塁盗塁成功",
+    "text": "Sakakura steals 2nd base.",
+    "pickoff": "",
+    "catcher": {
+      "id": "91595136",
+      "jaBoxscoreName": "岸田",
+      "boxscoreName": "Kishida"
+    }
+  },
+  {
+    "jaText": "（走者・長岡）二塁盗塁成功",
+    "text": "Nagaoka steals 2nd base.",
+    "pickoff": ""
+  },
+  {
+    "jaText": "（走者・石上）二塁盗塁成功",
+    "text": "Ishikami steals 2nd base.",
+    "pickoff": "",
+    "catcher": {
+      "id": "51855136",
+      "jaBoxscoreName": "松本直",
+      "boxscoreName": "N.Matsumoto"
+    }
+  },
+  {
+    "jaText": "（走者・牧）二塁盗塁成功",
+    "text": "Maki steals 2nd base.",
+    "pickoff": "",
+    "catcher": {
+      "id": "51855136",
+      "jaBoxscoreName": "松本直",
+      "boxscoreName": "N.Matsumoto"
+    }
+  },
+  {
+    "jaText": "（走者・山本）二塁盗塁成功",
+    "text": "Yamamoto steals 2nd base.",
+    "pickoff": "",
+    "catcher": {
+      "id": "51855136",
+      "jaBoxscoreName": "松本直",
+      "boxscoreName": "N.Matsumoto"
+    }
+  },
+  {
+    "jaText": "（走者・度会）二塁盗塁失敗",
+    "text": "Watarai caught stealing 2nd base.",
+    "pickoff": "",
+    "catcher": {
+      "id": "51855136",
+      "jaBoxscoreName": "松本直",
+      "boxscoreName": "N.Matsumoto"
+    }
+  },
+  {
+    "jaText": "（走者・熊谷）二塁盗塁成功",
+    "text": "Kumagai steals 2nd base.",
+    "pickoff": ""
+  },
+  {
+    "jaText": "（走者・小郷）二塁盗塁成功",
+    "text": "Ogoh steals 2nd base.",
+    "pickoff": "",
+    "isK": "Y"
+  },
+  {
+    "jaText": "（走者・岡）二塁盗塁成功",
+    "text": "Oka steals 2nd base.",
+    "pickoff": ""
+  },
+  {
+    "jaText": "（走者・五十幡）二塁盗塁成功",
+    "text": "Isobata steals 2nd base.",
+    "pickoff": "",
+    "catcher": {
+      "id": "41645139",
+      "jaBoxscoreName": "若月",
+      "boxscoreName": "Wakatsuki"
+    }
+  },
+  {
+    "jaText": "（走者・中島卓也）二塁盗塁失敗",
+    "text": "Nakashima caught stealing 2nd base.",
+    "pickoff": "",
+    "catcher": {
+      "id": "81185139",
+      "jaBoxscoreName": "石川",
+      "boxscoreName": "Ishikawa"
+    }
+  }
+]

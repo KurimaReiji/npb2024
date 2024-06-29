@@ -1,0 +1,37 @@
+[
+  {
+    "jaText": "（走者・村上）三塁盗塁失敗",
+    "text": "Murakami caught stealing 3rd base.",
+    "pickoff": ""
+  },
+  {
+    "jaText": "（走者・重信）二塁盗塁成功",
+    "text": "Shigenobu steals 2nd base.",
+    "pickoff": "",
+    "catcher": {
+      "id": "51255118",
+      "jaBoxscoreName": "中村",
+      "boxscoreName": "Nakamura"
+    }
+  },
+  {
+    "jaText": "（走者・村松）二塁盗塁失敗",
+    "text": "Muramatsu caught stealing 2nd base.",
+    "pickoff": ""
+  },
+  {
+    "jaText": "（走者・佐藤輝）一塁牽制アウト",
+    "text": "T.Sato picked off at 1st base.",
+    "pickoff": "Y"
+  },
+  {
+    "jaText": "（走者・小深田）二塁盗塁失敗",
+    "text": "Kobukata picked off and caught stealing 2nd base.",
+    "pickoff": "Y"
+  },
+  {
+    "jaText": "（走者・周東）二塁盗塁成功",
+    "text": "Shuto steals 2nd base.",
+    "pickoff": ""
+  }
+]

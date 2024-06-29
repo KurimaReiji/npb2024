@@ -1,0 +1,268 @@
+[
+  {
+    "id": "21125151-2024-02",
+    "date": "2024-05-25",
+    "batter": {
+      "id": "21125151",
+      "jaBoxscoreName": "石原",
+      "boxscoreName": "Ishihara",
+      "batSide": "R"
+    },
+    "pitcher": {
+      "id": "41845130",
+      "jaBoxscoreName": "山﨑",
+      "boxscoreName": "Yamasaki",
+      "pitchHand": "R"
+    },
+    "number": 2,
+    "inning": 8,
+    "halfInning": "top",
+    "outs": 2,
+    "RoB": "---",
+    "count": {
+      "balls": 2,
+      "strikes": 2
+    },
+    "runs": {
+      "road": 5,
+      "home": 6
+    },
+    "bop": 9,
+    "rbi": 1,
+    "whereHit": "7",
+    "venue": {
+      "jaBoxscoreName": "横浜",
+      "boxscoreName": "Yokohama",
+      "jaName": "横浜スタジアム",
+      "name": "Yokohama Stadium"
+    },
+    "teams": {
+      "road": {
+        "teamCode": "C",
+        "teamName": "Carp",
+        "score": 9
+      },
+      "home": {
+        "teamCode": "DB",
+        "teamName": "Baystars",
+        "score": 6
+      }
+    },
+    "jaText": "レフトソロホームラン（打点1）",
+    "text": "Ishihara homers (2) to left field.",
+    "url": "https://npb.jp/scores/2024/0525/db-c-10/playbyplay.html#com8-1",
+    "isPinchHit": "Y"
+  },
+  {
+    "id": "33935159-2024-01",
+    "date": "2024-05-25",
+    "batter": {
+      "id": "33935159",
+      "jaBoxscoreName": "ディカーソン",
+      "boxscoreName": "Dickerson",
+      "batSide": "L"
+    },
+    "pitcher": {
+      "id": "33035159",
+      "jaBoxscoreName": "ヤフーレ",
+      "boxscoreName": "Yajure",
+      "pitchHand": "R"
+    },
+    "number": 1,
+    "inning": 2,
+    "halfInning": "bottom",
+    "outs": 0,
+    "RoB": "---",
+    "count": {
+      "balls": 1,
+      "strikes": 0
+    },
+    "runs": {
+      "road": 0,
+      "home": 0
+    },
+    "bop": 5,
+    "rbi": 1,
+    "whereHit": "9",
+    "venue": {
+      "jaBoxscoreName": "バンテリンドーム",
+      "boxscoreName": "Vantelin Dome",
+      "jaName": "バンテリンドーム ナゴヤ",
+      "name": "Vantelin Dome Nagoya"
+    },
+    "teams": {
+      "road": {
+        "teamCode": "S",
+        "teamName": "Swallows",
+        "score": 0
+      },
+      "home": {
+        "teamCode": "D",
+        "teamName": "Dragons",
+        "score": 1
+      }
+    },
+    "jaText": "ライトソロホームラン（打点1）",
+    "text": "Dickerson homers (1) to right field.",
+    "url": "https://npb.jp/scores/2024/0525/d-s-11/playbyplay.html#com2-2"
+  },
+  {
+    "id": "81685139-2024-01",
+    "date": "2024-05-25",
+    "batter": {
+      "id": "81685139",
+      "jaBoxscoreName": "渡邉",
+      "boxscoreName": "Watanabe",
+      "batSide": "R"
+    },
+    "pitcher": {
+      "id": "51155155",
+      "jaBoxscoreName": "赤星",
+      "boxscoreName": "Akahoshi",
+      "pitchHand": "R"
+    },
+    "number": 1,
+    "inning": 4,
+    "halfInning": "bottom",
+    "outs": 0,
+    "RoB": "---",
+    "count": {
+      "balls": 2,
+      "strikes": 0
+    },
+    "runs": {
+      "road": 0,
+      "home": 1
+    },
+    "bop": 5,
+    "rbi": 1,
+    "whereHit": "7",
+    "venue": {
+      "jaBoxscoreName": "甲子園",
+      "boxscoreName": "Koshien",
+      "jaName": "甲子園",
+      "name": "Hanshin Koshien Stadium"
+    },
+    "teams": {
+      "road": {
+        "teamCode": "G",
+        "teamName": "Giants",
+        "score": 0
+      },
+      "home": {
+        "teamCode": "T",
+        "teamName": "Tigers",
+        "score": 3
+      }
+    },
+    "jaText": "レフトソロホームラン（打点1）",
+    "text": "Watanabe homers (1) to left field.",
+    "url": "https://npb.jp/scores/2024/0525/t-g-11/playbyplay.html#com4-2"
+  },
+  {
+    "id": "81085115-2024-06",
+    "date": "2024-05-25",
+    "batter": {
+      "id": "81085115",
+      "jaBoxscoreName": "中村剛",
+      "boxscoreName": "T.Nakamura",
+      "batSide": "R"
+    },
+    "pitcher": {
+      "id": "81985157",
+      "jaBoxscoreName": "曽谷",
+      "boxscoreName": "Sotani",
+      "pitchHand": "L"
+    },
+    "number": 6,
+    "inning": 2,
+    "halfInning": "bottom",
+    "outs": 0,
+    "RoB": "---",
+    "count": {
+      "balls": 2,
+      "strikes": 2
+    },
+    "runs": {
+      "road": 0,
+      "home": 0
+    },
+    "bop": 4,
+    "rbi": 1,
+    "whereHit": "7",
+    "venue": {
+      "jaBoxscoreName": "ベルーナドーム",
+      "boxscoreName": "Belluna Dome",
+      "jaName": "ベルーナドーム",
+      "name": "Belluna Dome"
+    },
+    "teams": {
+      "road": {
+        "teamCode": "B",
+        "teamName": "Buffaloes",
+        "score": 5
+      },
+      "home": {
+        "teamCode": "L",
+        "teamName": "Lions",
+        "score": 6
+      }
+    },
+    "jaText": "レフトソロホームラン（打点1）",
+    "text": "T.Nakamura homers (6) to left field.",
+    "url": "https://npb.jp/scores/2024/0525/l-b-08/playbyplay.html#com2-2"
+  },
+  {
+    "id": "03505136-2024-05",
+    "date": "2024-05-25",
+    "batter": {
+      "id": "03505136",
+      "jaBoxscoreName": "ソト",
+      "boxscoreName": "Soto",
+      "batSide": "R"
+    },
+    "pitcher": {
+      "id": "01305157",
+      "jaBoxscoreName": "大津",
+      "boxscoreName": "Ohtsu",
+      "pitchHand": "R"
+    },
+    "number": 5,
+    "inning": 4,
+    "halfInning": "bottom",
+    "outs": 0,
+    "RoB": "---",
+    "count": {
+      "balls": 2,
+      "strikes": 1
+    },
+    "runs": {
+      "road": 0,
+      "home": 1
+    },
+    "bop": 4,
+    "rbi": 1,
+    "whereHit": "7",
+    "venue": {
+      "jaBoxscoreName": "ZOZOマリン",
+      "boxscoreName": "ZOZO Marine",
+      "jaName": "ZOZOマリンスタジアム",
+      "name": "ZOZO Marine Stadium"
+    },
+    "teams": {
+      "road": {
+        "teamCode": "H",
+        "teamName": "Hawks",
+        "score": 0
+      },
+      "home": {
+        "teamCode": "M",
+        "teamName": "Marines",
+        "score": 2
+      }
+    },
+    "jaText": "レフトソロホームラン（打点1）",
+    "text": "Soto homers (5) to left field.",
+    "url": "https://npb.jp/scores/2024/0525/m-h-08/playbyplay.html#com4-2"
+  }
+]

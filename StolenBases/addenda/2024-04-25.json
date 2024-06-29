@@ -1,0 +1,27 @@
+[
+  {
+    "jaText": "（走者・野間）二塁盗塁失敗",
+    "text": "Noma caught stealing 2nd base.",
+    "pickoff": ""
+  },
+  {
+    "jaText": "（走者・岩田）二塁盗塁成功",
+    "text": "Iwata steals 2nd base.",
+    "pickoff": ""
+  },
+  {
+    "jaText": "（走者・小深田）二塁盗塁成功",
+    "text": "Kobukata steals 2nd base.",
+    "pickoff": ""
+  },
+  {
+    "jaText": "（走者・近藤）二塁盗塁成功",
+    "text": "Kondoh steals 2nd base.",
+    "pickoff": ""
+  },
+  {
+    "jaText": "（走者・川村）二塁盗塁成功",
+    "text": "Kawamura steals 2nd base.",
+    "pickoff": ""
+  }
+]

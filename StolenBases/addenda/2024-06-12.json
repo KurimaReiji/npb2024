@@ -1,0 +1,52 @@
+[
+  {
+    "jaText": "（走者・五十幡）二塁盗塁失敗",
+    "text": "Isobata caught stealing 2nd base.",
+    "pickoff": "Y",
+    "catcher": {
+      "id": "41545130",
+      "jaBoxscoreName": "加藤匠",
+      "boxscoreName": "T.Katoh"
+    }
+  },
+  {
+    "jaText": "（走者・小深田）二塁盗塁成功",
+    "text": "Kobukata steals 2nd base.",
+    "pickoff": ""
+  },
+  {
+    "jaText": "（走者・辰己）二塁盗塁成功",
+    "text": "R.Tatsumi steals 2nd base.",
+    "pickoff": ""
+  },
+  {
+    "jaText": "（走者・太田）二塁盗塁成功",
+    "text": "Ohta steals 2nd base.",
+    "pickoff": ""
+  },
+  {
+    "jaText": "（走者・末包）二塁牽制アウト",
+    "text": "Suekane picked off at 2nd base.",
+    "pickoff": "Y"
+  },
+  {
+    "jaText": "（走者・野間）二塁盗塁失敗",
+    "text": "Noma caught stealing 2nd base.",
+    "pickoff": ""
+  },
+  {
+    "jaText": "（走者・牧）二塁盗塁成功",
+    "text": "Maki steals 2nd base.",
+    "pickoff": ""
+  },
+  {
+    "jaText": "（走者・近藤）一塁牽制アウト",
+    "text": "Kondoh picked off at 1st base.",
+    "pickoff": "Y",
+    "catcher": {
+      "id": "01005159",
+      "jaBoxscoreName": "鈴木",
+      "boxscoreName": "Suzuki"
+    }
+  }
+]

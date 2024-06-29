@@ -1,0 +1,108 @@
+[
+  {
+    "id": "33535159-2024-03",
+    "date": "2024-04-26",
+    "batter": {
+      "id": "33535159",
+      "jaBoxscoreName": "度会",
+      "boxscoreName": "Watarai",
+      "batSide": "L"
+    },
+    "pitcher": {
+      "id": "91095134",
+      "jaBoxscoreName": "高梨",
+      "boxscoreName": "Takanashi",
+      "pitchHand": "L"
+    },
+    "number": 3,
+    "inning": 8,
+    "halfInning": "bottom",
+    "outs": 2,
+    "RoB": "123",
+    "count": {
+      "balls": 3,
+      "strikes": 2
+    },
+    "runs": {
+      "road": 2,
+      "home": 3
+    },
+    "bop": 8,
+    "rbi": 4,
+    "whereHit": "9",
+    "venue": {
+      "jaBoxscoreName": "横浜",
+      "boxscoreName": "Yokohama",
+      "jaName": "横浜スタジアム",
+      "name": "Yokohama Stadium"
+    },
+    "teams": {
+      "road": {
+        "teamCode": "G",
+        "teamName": "Giants",
+        "score": 2
+      },
+      "home": {
+        "teamCode": "DB",
+        "teamName": "Baystars",
+        "score": 7
+      }
+    },
+    "jaText": "ライト満塁ホームラン（打点4）",
+    "text": "Watarai homers (3) to right field.",
+    "url": "https://npb.jp/scores/2024/0426/db-g-04/playbyplay.html#com8-2"
+  },
+  {
+    "id": "43145157-2024-05",
+    "date": "2024-04-26",
+    "batter": {
+      "id": "43145157",
+      "jaBoxscoreName": "森下",
+      "boxscoreName": "Morishita",
+      "batSide": "R"
+    },
+    "pitcher": {
+      "id": "11515137",
+      "jaBoxscoreName": "小川",
+      "boxscoreName": "Ogawa",
+      "pitchHand": "R"
+    },
+    "number": 5,
+    "inning": 4,
+    "halfInning": "bottom",
+    "outs": 2,
+    "RoB": "---",
+    "count": {
+      "balls": 0,
+      "strikes": 0
+    },
+    "runs": {
+      "road": 5,
+      "home": 0
+    },
+    "bop": 3,
+    "rbi": 1,
+    "whereHit": "78",
+    "venue": {
+      "jaBoxscoreName": "甲子園",
+      "boxscoreName": "Koshien",
+      "jaName": "甲子園",
+      "name": "Hanshin Koshien Stadium"
+    },
+    "teams": {
+      "road": {
+        "teamCode": "S",
+        "teamName": "Swallows",
+        "score": 8
+      },
+      "home": {
+        "teamCode": "T",
+        "teamName": "Tigers",
+        "score": 2
+      }
+    },
+    "jaText": "左中間ソロホームラン（打点1）",
+    "text": "Morishita homers (5) to left center.",
+    "url": "https://npb.jp/scores/2024/0426/t-s-04/playbyplay.html#com4-2"
+  }
+]

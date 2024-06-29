@@ -1,0 +1,161 @@
+[
+  {
+    "id": "33235159-2024-02",
+    "date": "2024-06-04",
+    "batter": {
+      "id": "33235159",
+      "jaBoxscoreName": "ヘルナンデス",
+      "boxscoreName": "Hernandez",
+      "batSide": "R"
+    },
+    "pitcher": {
+      "id": "13315132",
+      "jaBoxscoreName": "吉田",
+      "boxscoreName": "Yoshida",
+      "pitchHand": "R"
+    },
+    "number": 2,
+    "inning": 8,
+    "halfInning": "bottom",
+    "outs": 1,
+    "RoB": "12-",
+    "count": {
+      "balls": 2,
+      "strikes": 2
+    },
+    "runs": {
+      "road": 2,
+      "home": 15
+    },
+    "bop": 2,
+    "rbi": 3,
+    "whereHit": "78",
+    "venue": {
+      "jaBoxscoreName": "東京ドーム",
+      "boxscoreName": "Tokyo Dome",
+      "jaName": "東京ドーム",
+      "name": "Tokyo Dome"
+    },
+    "teams": {
+      "road": {
+        "teamCode": "M",
+        "teamName": "Marines",
+        "score": 2
+      },
+      "home": {
+        "teamCode": "G",
+        "teamName": "Giants",
+        "score": 18
+      }
+    },
+    "jaText": "左中間3ランホームラン（打点3）",
+    "text": "Hernandez homers (2) to left center.",
+    "url": "https://npb.jp/scores/2024/0604/g-m-01/playbyplay.html#com8-2"
+  },
+  {
+    "id": "41245130-2024-02",
+    "date": "2024-06-04",
+    "batter": {
+      "id": "41245130",
+      "jaBoxscoreName": "外崎",
+      "boxscoreName": "Tonosaki",
+      "batSide": "R"
+    },
+    "pitcher": {
+      "id": "53555157",
+      "jaBoxscoreName": "吉村",
+      "boxscoreName": "Yoshimura",
+      "pitchHand": "R"
+    },
+    "number": 2,
+    "inning": 7,
+    "halfInning": "top",
+    "outs": 0,
+    "RoB": "---",
+    "count": {
+      "balls": 0,
+      "strikes": 0
+    },
+    "runs": {
+      "road": 0,
+      "home": 1
+    },
+    "bop": 3,
+    "rbi": 1,
+    "whereHit": "7",
+    "venue": {
+      "jaBoxscoreName": "神宮",
+      "boxscoreName": "Jingu",
+      "jaName": "神宮",
+      "name": "Jingu Stadium"
+    },
+    "teams": {
+      "road": {
+        "teamCode": "L",
+        "teamName": "Lions",
+        "score": 3
+      },
+      "home": {
+        "teamCode": "S",
+        "teamName": "Swallows",
+        "score": 4
+      }
+    },
+    "jaText": "レフトソロホームラン（打点1）",
+    "text": "Tonosaki homers (2) to left field.",
+    "url": "https://npb.jp/scores/2024/0604/s-l-01/playbyplay.html#com7-1"
+  },
+  {
+    "id": "51955151-2024-04",
+    "date": "2024-06-04",
+    "batter": {
+      "id": "51955151",
+      "jaBoxscoreName": "岸",
+      "boxscoreName": "Kishi",
+      "batSide": "R"
+    },
+    "pitcher": {
+      "id": "11815134",
+      "jaBoxscoreName": "星",
+      "boxscoreName": "Hoshi",
+      "pitchHand": "R"
+    },
+    "number": 4,
+    "inning": 9,
+    "halfInning": "top",
+    "outs": 0,
+    "RoB": "---",
+    "count": {
+      "balls": 3,
+      "strikes": 1
+    },
+    "runs": {
+      "road": 2,
+      "home": 1
+    },
+    "bop": 5,
+    "rbi": 1,
+    "whereHit": "7",
+    "venue": {
+      "jaBoxscoreName": "神宮",
+      "boxscoreName": "Jingu",
+      "jaName": "神宮",
+      "name": "Jingu Stadium"
+    },
+    "teams": {
+      "road": {
+        "teamCode": "L",
+        "teamName": "Lions",
+        "score": 3
+      },
+      "home": {
+        "teamCode": "S",
+        "teamName": "Swallows",
+        "score": 4
+      }
+    },
+    "jaText": "レフトソロホームラン（打点1）",
+    "text": "Kishi homers (4) to left field.",
+    "url": "https://npb.jp/scores/2024/0604/s-l-01/playbyplay.html#com9-1"
+  }
+]

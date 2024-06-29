@@ -1,0 +1,52 @@
+[
+  {
+    "jaText": "（走者・村松）二塁盗塁成功",
+    "text": "Muramatsu steals 2nd base.",
+    "pickoff": ""
+  },
+  {
+    "jaText": "（走者・濱田）一塁牽制アウト",
+    "text": "Hamada picked off at 1st base.",
+    "pickoff": "Y"
+  },
+  {
+    "jaText": "（走者・林）二塁盗塁失敗",
+    "text": "Hayashi caught stealing 2nd base.",
+    "pickoff": "",
+    "catcher": {
+      "id": "51255118",
+      "jaBoxscoreName": "中村",
+      "boxscoreName": "Nakamura"
+    }
+  },
+  {
+    "jaText": "（走者・蝦名）二塁盗塁失敗",
+    "text": "Ebina caught stealing 2nd base.",
+    "pickoff": "",
+    "catcher": {
+      "id": "51855136",
+      "jaBoxscoreName": "松本直",
+      "boxscoreName": "N.Matsumoto"
+    }
+  },
+  {
+    "jaText": "（走者・大盛）二塁盗塁成功",
+    "text": "Ohmori steals 2nd base.",
+    "pickoff": ""
+  },
+  {
+    "jaText": "（走者・宜保）一塁牽制アウト",
+    "text": "Gibo picked off at 1st base.",
+    "pickoff": "Y"
+  },
+  {
+    "jaText": "（走者・岡）本塁盗塁失敗",
+    "text": "Oka picked off and caught stealing home plate.",
+    "pickoff": "Y"
+  },
+  {
+    "jaText": "（走者・髙部）二塁盗塁成功",
+    "text": "Takabe steals 2nd base.",
+    "pickoff": ""
+  }
+]

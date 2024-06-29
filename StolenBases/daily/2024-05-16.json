@@ -1,0 +1,260 @@
+[
+  {
+    "date": "2024-05-16",
+    "runner": {
+      "id": "41445153",
+      "jaBoxscoreName": "中野",
+      "boxscoreName": "Nakano"
+    },
+    "batter": {
+      "id": "71075138",
+      "jaBoxscoreName": "近本",
+      "boxscoreName": "Chikamoto",
+      "batSide": "L"
+    },
+    "pitcher": {
+      "id": "81185138",
+      "jaBoxscoreName": "梅津",
+      "boxscoreName": "Umetsu",
+      "pitchHand": "R"
+    },
+    "catcher": {
+      "id": "31735132",
+      "jaBoxscoreName": "木下",
+      "boxscoreName": "Kinoshita"
+    },
+    "scoring": "StolenBase",
+    "base": "2B",
+    "pickoff": "",
+    "inning": 1,
+    "halfInning": "top",
+    "outs": 0,
+    "RoB": "1-3",
+    "runs": {
+      "road": 0,
+      "home": 0
+    },
+    "venue": {
+      "jaBoxscoreName": "バンテリンドーム",
+      "boxscoreName": "Vantelin Dome",
+      "jaName": "バンテリンドーム ナゴヤ",
+      "name": "Vantelin Dome Nagoya"
+    },
+    "teams": {
+      "road": {
+        "teamCode": "T",
+        "teamName": "Tigers",
+        "score": 9
+      },
+      "home": {
+        "teamCode": "D",
+        "teamName": "Dragons",
+        "score": 4
+      }
+    },
+    "jaText": "（走者・中野）二塁盗塁成功",
+    "text": "Nakano steals 2nd base.",
+    "url": "https://npb.jp/scores/2024/0516/d-t-09/playbyplay.html#com1-1",
+    "catchers": [
+      {
+        "id": "31735132",
+        "jaBoxscoreName": "木下",
+        "boxscoreName": "Kinoshita"
+      }
+    ]
+  },
+  {
+    "date": "2024-05-16",
+    "runner": {
+      "id": "31335151",
+      "jaBoxscoreName": "井上",
+      "boxscoreName": "Inoue"
+    },
+    "batter": {
+      "id": "61065131",
+      "jaBoxscoreName": "原口",
+      "boxscoreName": "Haraguchi",
+      "batSide": "R"
+    },
+    "pitcher": {
+      "id": "81185138",
+      "jaBoxscoreName": "梅津",
+      "boxscoreName": "Umetsu",
+      "pitchHand": "R"
+    },
+    "catcher": {
+      "id": "31735132",
+      "jaBoxscoreName": "木下",
+      "boxscoreName": "Kinoshita"
+    },
+    "scoring": "StolenBase",
+    "base": "2B",
+    "pickoff": "",
+    "inning": 3,
+    "halfInning": "top",
+    "outs": 2,
+    "RoB": "1--",
+    "runs": {
+      "road": 2,
+      "home": 0
+    },
+    "venue": {
+      "jaBoxscoreName": "バンテリンドーム",
+      "boxscoreName": "Vantelin Dome",
+      "jaName": "バンテリンドーム ナゴヤ",
+      "name": "Vantelin Dome Nagoya"
+    },
+    "teams": {
+      "road": {
+        "teamCode": "T",
+        "teamName": "Tigers",
+        "score": 9
+      },
+      "home": {
+        "teamCode": "D",
+        "teamName": "Dragons",
+        "score": 4
+      }
+    },
+    "jaText": "（走者・井上）二塁盗塁成功",
+    "text": "Inoue steals 2nd base.",
+    "url": "https://npb.jp/scores/2024/0516/d-t-09/playbyplay.html#com3-1",
+    "catchers": [
+      {
+        "id": "31735132",
+        "jaBoxscoreName": "木下",
+        "boxscoreName": "Kinoshita"
+      }
+    ]
+  },
+  {
+    "date": "2024-05-16",
+    "runner": {
+      "id": "21025157",
+      "jaBoxscoreName": "田中",
+      "boxscoreName": "Tanaka"
+    },
+    "batter": {
+      "id": "91195151",
+      "jaBoxscoreName": "石川昂",
+      "boxscoreName": "T.Ishikawa",
+      "batSide": "R"
+    },
+    "pitcher": {
+      "id": "71275118",
+      "jaBoxscoreName": "西勇",
+      "boxscoreName": "Y.Nishi",
+      "pitchHand": "R"
+    },
+    "catcher": {
+      "id": "21325139",
+      "jaBoxscoreName": "梅野",
+      "boxscoreName": "Umeno"
+    },
+    "scoring": "StolenBase",
+    "base": "3B",
+    "isDoubleSteal": "Y",
+    "pickoff": "",
+    "inning": 5,
+    "halfInning": "bottom",
+    "outs": 2,
+    "RoB": "12-",
+    "runs": {
+      "road": 6,
+      "home": 2
+    },
+    "venue": {
+      "jaBoxscoreName": "バンテリンドーム",
+      "boxscoreName": "Vantelin Dome",
+      "jaName": "バンテリンドーム ナゴヤ",
+      "name": "Vantelin Dome Nagoya"
+    },
+    "teams": {
+      "road": {
+        "teamCode": "T",
+        "teamName": "Tigers",
+        "score": 9
+      },
+      "home": {
+        "teamCode": "D",
+        "teamName": "Dragons",
+        "score": 4
+      }
+    },
+    "jaText": "（走者・田中）三塁盗塁成功（ダブルスチール）",
+    "text": "Tanaka steals 3rd base.",
+    "url": "https://npb.jp/scores/2024/0516/d-t-09/playbyplay.html#com5-2",
+    "catchers": [
+      {
+        "id": "21325139",
+        "jaBoxscoreName": "梅野",
+        "boxscoreName": "Umeno"
+      }
+    ]
+  },
+  {
+    "date": "2024-05-16",
+    "runner": {
+      "id": "01305131",
+      "jaBoxscoreName": "大島",
+      "boxscoreName": "Ohshima"
+    },
+    "batter": {
+      "id": "91195151",
+      "jaBoxscoreName": "石川昂",
+      "boxscoreName": "T.Ishikawa",
+      "batSide": "R"
+    },
+    "pitcher": {
+      "id": "71275118",
+      "jaBoxscoreName": "西勇",
+      "boxscoreName": "Y.Nishi",
+      "pitchHand": "R"
+    },
+    "catcher": {
+      "id": "21325139",
+      "jaBoxscoreName": "梅野",
+      "boxscoreName": "Umeno"
+    },
+    "scoring": "StolenBase",
+    "base": "2B",
+    "isDoubleSteal": "Y",
+    "pickoff": "",
+    "inning": 5,
+    "halfInning": "bottom",
+    "outs": 2,
+    "RoB": "12-",
+    "runs": {
+      "road": 6,
+      "home": 2
+    },
+    "venue": {
+      "jaBoxscoreName": "バンテリンドーム",
+      "boxscoreName": "Vantelin Dome",
+      "jaName": "バンテリンドーム ナゴヤ",
+      "name": "Vantelin Dome Nagoya"
+    },
+    "teams": {
+      "road": {
+        "teamCode": "T",
+        "teamName": "Tigers",
+        "score": 9
+      },
+      "home": {
+        "teamCode": "D",
+        "teamName": "Dragons",
+        "score": 4
+      }
+    },
+    "jaText": "（走者・大島）二塁盗塁成功（ダブルスチール）",
+    "text": "Ohshima steals 2nd base.",
+    "url": "https://npb.jp/scores/2024/0516/d-t-09/playbyplay.html#com5-2",
+    "catchers": [
+      {
+        "id": "21325139",
+        "jaBoxscoreName": "梅野",
+        "boxscoreName": "Umeno"
+      }
+    ]
+  }
+]

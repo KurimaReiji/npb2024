@@ -1,0 +1,214 @@
+[
+  {
+    "id": "21325136-2024-01",
+    "date": "2024-06-06",
+    "batter": {
+      "id": "21325136",
+      "jaBoxscoreName": "大城卓",
+      "boxscoreName": "T.Ohshiro",
+      "batSide": "L"
+    },
+    "pitcher": {
+      "id": "01205118",
+      "jaBoxscoreName": "西野",
+      "boxscoreName": "Nishino",
+      "pitchHand": "R"
+    },
+    "number": 1,
+    "inning": 2,
+    "halfInning": "bottom",
+    "outs": 1,
+    "RoB": "12-",
+    "count": {
+      "balls": 1,
+      "strikes": 0
+    },
+    "runs": {
+      "road": 0,
+      "home": 0
+    },
+    "bop": 7,
+    "rbi": 3,
+    "whereHit": "9",
+    "venue": {
+      "jaBoxscoreName": "東京ドーム",
+      "boxscoreName": "Tokyo Dome",
+      "jaName": "東京ドーム",
+      "name": "Tokyo Dome"
+    },
+    "teams": {
+      "road": {
+        "teamCode": "M",
+        "teamName": "Marines",
+        "score": 4
+      },
+      "home": {
+        "teamCode": "G",
+        "teamName": "Giants",
+        "score": 7
+      }
+    },
+    "jaText": "ライト3ランホームラン（打点3）",
+    "text": "T.Ohshiro homers (1) to right field.",
+    "url": "https://npb.jp/scores/2024/0606/g-m-03/playbyplay.html#com2-2"
+  },
+  {
+    "id": "91895133-2024-03",
+    "date": "2024-06-06",
+    "batter": {
+      "id": "91895133",
+      "jaBoxscoreName": "山田",
+      "boxscoreName": "Yamada",
+      "batSide": "R"
+    },
+    "pitcher": {
+      "id": "71075155",
+      "jaBoxscoreName": "菅井",
+      "boxscoreName": "Sugai",
+      "pitchHand": "L"
+    },
+    "number": 3,
+    "inning": 3,
+    "halfInning": "bottom",
+    "outs": 2,
+    "RoB": "---",
+    "count": {
+      "balls": 3,
+      "strikes": 2
+    },
+    "runs": {
+      "road": 0,
+      "home": 1
+    },
+    "bop": 6,
+    "rbi": 1,
+    "whereHit": "7",
+    "venue": {
+      "jaBoxscoreName": "神宮",
+      "boxscoreName": "Jingu",
+      "jaName": "神宮",
+      "name": "Jingu Stadium"
+    },
+    "teams": {
+      "road": {
+        "teamCode": "L",
+        "teamName": "Lions",
+        "score": 1
+      },
+      "home": {
+        "teamCode": "S",
+        "teamName": "Swallows",
+        "score": 3
+      }
+    },
+    "jaText": "レフトソロホームラン（打点1）",
+    "text": "Yamada homers (3) to left field.",
+    "url": "https://npb.jp/scores/2024/0606/s-l-03/playbyplay.html#com3-2"
+  },
+  {
+    "id": "13715132-2024-01",
+    "date": "2024-06-06",
+    "batter": {
+      "id": "13715132",
+      "jaBoxscoreName": "ビシエド",
+      "boxscoreName": "Viciedo",
+      "batSide": "R"
+    },
+    "pitcher": {
+      "id": "61165139",
+      "jaBoxscoreName": "石川",
+      "boxscoreName": "Ishikawa",
+      "pitchHand": "R"
+    },
+    "number": 1,
+    "inning": 4,
+    "halfInning": "bottom",
+    "outs": 0,
+    "RoB": "---",
+    "count": {
+      "balls": 1,
+      "strikes": 0
+    },
+    "runs": {
+      "road": 0,
+      "home": 0
+    },
+    "bop": 6,
+    "rbi": 1,
+    "whereHit": "9",
+    "venue": {
+      "jaBoxscoreName": "バンテリンドーム",
+      "boxscoreName": "Vantelin Dome",
+      "jaName": "バンテリンドーム ナゴヤ",
+      "name": "Vantelin Dome Nagoya"
+    },
+    "teams": {
+      "road": {
+        "teamCode": "H",
+        "teamName": "Hawks",
+        "score": 0
+      },
+      "home": {
+        "teamCode": "D",
+        "teamName": "Dragons",
+        "score": 3
+      }
+    },
+    "jaText": "ライトソロホームラン（打点1）",
+    "text": "Viciedo homers (1) to right field.",
+    "url": "https://npb.jp/scores/2024/0606/d-h-03/playbyplay.html#com4-2"
+  },
+  {
+    "id": "51055155-2024-05",
+    "date": "2024-06-06",
+    "batter": {
+      "id": "51055155",
+      "jaBoxscoreName": "末包",
+      "boxscoreName": "Suekane",
+      "batSide": "R"
+    },
+    "pitcher": {
+      "id": "61065151",
+      "jaBoxscoreName": "鈴木",
+      "boxscoreName": "Suzuki",
+      "pitchHand": "R"
+    },
+    "number": 5,
+    "inning": 1,
+    "halfInning": "bottom",
+    "outs": 2,
+    "RoB": "-2-",
+    "count": {
+      "balls": 0,
+      "strikes": 0
+    },
+    "runs": {
+      "road": 0,
+      "home": 0
+    },
+    "bop": 4,
+    "rbi": 2,
+    "whereHit": "7",
+    "venue": {
+      "jaBoxscoreName": "マツダスタジアム",
+      "boxscoreName": "Mazda Stadium",
+      "jaName": "MAZDA Zoom-Zoom スタジアム広島",
+      "name": "MAZDA Zoom-Zoom Stadium Hiroshima"
+    },
+    "teams": {
+      "road": {
+        "teamCode": "F",
+        "teamName": "Fighters",
+        "score": 1
+      },
+      "home": {
+        "teamCode": "C",
+        "teamName": "Carp",
+        "score": 3
+      }
+    },
+    "jaText": "レフト2ランホームラン（打点2）",
+    "text": "Suekane homers (5) to left field.",
+    "url": "https://npb.jp/scores/2024/0606/c-f-03/playbyplay.html#com1-2"
+  }
+]

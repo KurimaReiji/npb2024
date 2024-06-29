@@ -1,0 +1,104 @@
+[
+  {
+    "jaText": "（走者・北村拓）二塁盗塁失敗",
+    "text": "T.Kitamura caught stealing 2nd base.",
+    "pickoff": ""
+  },
+  {
+    "jaText": "（走者・大山）二塁盗塁失敗",
+    "text": "Ohyama caught stealing 2nd base.",
+    "pickoff": "",
+    "catcher": {
+      "id": "91595136",
+      "jaBoxscoreName": "岸田",
+      "boxscoreName": "Kishida"
+    }
+  },
+  {
+    "jaText": "（走者・関根）二塁盗塁失敗",
+    "text": "Sekine caught stealing 2nd base.",
+    "pickoff": ""
+  },
+  {
+    "jaText": "（走者・小園）二塁盗塁失敗",
+    "text": "Kozono caught stealing 2nd base.",
+    "pickoff": ""
+  },
+  {
+    "jaText": "（走者・坂倉）二塁盗塁成功",
+    "text": "Sakakura steals 2nd base.",
+    "pickoff": "",
+    "isK": "Y"
+  },
+  {
+    "jaText": "（走者・菊池）二塁盗塁失敗",
+    "text": "Kikuchi caught stealing 2nd base.",
+    "pickoff": "",
+    "notes": ["一塁走者 菊池 がスタート！アウトになるもその間に三塁走者 矢野 は本塁生還 広 3-1 デ 3アウト"]
+  },
+  {
+    "jaText": "（走者・宇草）二塁盗塁失敗",
+    "text": "Ugusa caught stealing 2nd base.",
+    "pickoff": ""
+  },
+  {
+    "jaText": "（走者・柳田）二塁盗塁成功",
+    "text": "Yanagita steals 2nd base.",
+    "pickoff": ""
+  },
+  {
+    "jaText": "（走者・水野）二塁盗塁成功",
+    "text": "Mizuno steals 2nd base.",
+    "pickoff": ""
+  },
+  {
+    "jaText": "（走者・中島卓也）二塁盗塁失敗",
+    "text": "Nakashima caught stealing 2nd base.",
+    "pickoff": ""
+  },
+  {
+    "jaText": "（走者・福田）二塁盗塁成功",
+    "text": "Fukuda steals 2nd base.",
+    "pickoff": "",
+    "catcher": {
+      "id": "71375138",
+      "jaBoxscoreName": "太田",
+      "boxscoreName": "Ohta"
+    }
+  },
+  {
+    "jaText": "（走者・紅林）二塁盗塁失敗",
+    "text": "Kurebayashi caught stealing 2nd base.",
+    "pickoff": "",
+    "catcher": {
+      "id": "71375138",
+      "jaBoxscoreName": "太田",
+      "boxscoreName": "Ohta"
+    }
+  },
+  {
+    "jaText": "（走者・村林）二塁盗塁失敗",
+    "text": "Murabayashi caught stealing 2nd base.",
+    "pickoff": ""
+  },
+  {
+    "jaText": "（走者・福田）二塁盗塁成功",
+    "text": "Fukuda steals 2nd base.",
+    "pickoff": "",
+    "catcher": {
+      "id": "71375138",
+      "jaBoxscoreName": "太田",
+      "boxscoreName": "Ohta"
+    }
+  },
+  {
+    "jaText": "（走者・長谷川）二塁盗塁失敗",
+    "text": "Hasegawa caught stealing 2nd base.",
+    "pickoff": ""
+  },
+  {
+    "jaText": "（走者・岸）二塁盗塁失敗",
+    "text": "Kishi caught stealing 2nd base.",
+    "pickoff": ""
+  }
+]

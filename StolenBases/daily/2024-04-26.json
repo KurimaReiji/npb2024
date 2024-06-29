@@ -1,0 +1,66 @@
+[
+  {
+    "date": "2024-04-26",
+    "runner": {
+      "id": "81485157",
+      "jaBoxscoreName": "萩尾",
+      "boxscoreName": "Hagio"
+    },
+    "batter": {
+      "id": "11515157",
+      "jaBoxscoreName": "門脇",
+      "boxscoreName": "Kadowaki",
+      "batSide": "L"
+    },
+    "pitcher": {
+      "id": "51155136",
+      "jaBoxscoreName": "東",
+      "boxscoreName": "K.Azuma",
+      "pitchHand": "L"
+    },
+    "catcher": {
+      "id": "23125136",
+      "jaBoxscoreName": "山本",
+      "boxscoreName": "Yamamoto"
+    },
+    "scoring": "CaughtStealing",
+    "base": "2B",
+    "pickoff": "",
+    "inning": 3,
+    "halfInning": "top",
+    "outs": 2,
+    "RoB": "1--",
+    "runs": {
+      "road": 0,
+      "home": 0
+    },
+    "venue": {
+      "jaBoxscoreName": "横浜",
+      "boxscoreName": "Yokohama",
+      "jaName": "横浜スタジアム",
+      "name": "Yokohama Stadium"
+    },
+    "teams": {
+      "road": {
+        "teamCode": "G",
+        "teamName": "Giants",
+        "score": 2
+      },
+      "home": {
+        "teamCode": "DB",
+        "teamName": "Baystars",
+        "score": 7
+      }
+    },
+    "jaText": "（走者・萩尾）二塁盗塁失敗",
+    "text": "Hagio caught stealing 2nd base.",
+    "url": "https://npb.jp/scores/2024/0426/db-g-04/playbyplay.html#com3-1",
+    "catchers": [
+      {
+        "id": "23125136",
+        "jaBoxscoreName": "山本",
+        "boxscoreName": "Yamamoto"
+      }
+    ]
+  }
+]

@@ -1,0 +1,97 @@
+[
+  {
+    "jaText": "（走者・門脇）二塁盗塁成功",
+    "text": "Kadowaki steals 2nd base.",
+    "pickoff": ""
+  },
+  {
+    "jaText": "（走者・田中）二塁盗塁失敗",
+    "text": "Tanaka picked off and caught stealing 2nd base.",
+    "pickoff": "Y",
+    "catcher": {
+      "id": "91595136",
+      "jaBoxscoreName": "岸田",
+      "boxscoreName": "Kishida"
+    }
+  },
+  {
+    "jaText": "（走者・佐々木）二塁盗塁成功",
+    "text": "Sasaki steals 2nd base.",
+    "pickoff": ""
+  },
+  {
+    "jaText": "（走者・赤羽）二塁盗塁成功",
+    "text": "Akahane picked off and steals 2nd base.",
+    "pickoff": "Y"
+  },
+  {
+    "jaText": "（走者・丸山和）二塁盗塁成功",
+    "text": "K.Maruyama steals 2nd base.",
+    "pickoff": ""
+  },
+  {
+    "jaText": "（走者・佐藤輝）二塁盗塁失敗",
+    "text": "T.Sato caught stealing 2nd base.",
+    "pickoff": "",
+    "catcher": {
+      "id": "61365132",
+      "jaBoxscoreName": "宇佐見",
+      "boxscoreName": "Usami"
+    }
+  },
+  {
+    "jaText": "（走者・岡）二塁盗塁成功",
+    "text": "Oka steals 2nd base.",
+    "pickoff": "",
+    "catcher": {
+      "id": "61165134",
+      "jaBoxscoreName": "石原",
+      "boxscoreName": "Ishihara"
+    }
+  },
+  {
+    "jaText": "（走者・小川）二塁牽制アウト",
+    "text": "Ogawa picked off at 2nd base.",
+    "pickoff": "Y",
+    "catcher": {
+      "id": "61165134",
+      "jaBoxscoreName": "石原",
+      "boxscoreName": "Ishihara"
+    }
+  },
+  {
+    "jaText": "（走者・小郷）二塁盗塁成功",
+    "text": "Ogoh steals 2nd base.",
+    "pickoff": ""
+  },
+  {
+    "jaText": "（走者・周東）二塁盗塁成功",
+    "text": "Shuto steals 2nd base.",
+    "pickoff": "",
+    "catcher": {
+      "id": "81785155",
+      "jaBoxscoreName": "古賀",
+      "boxscoreName": "Koga"
+    }
+  },
+  {
+    "jaText": "（走者・周東）二塁盗塁成功",
+    "text": "Shuto steals 2nd base.",
+    "pickoff": "",
+    "catcher": {
+      "id": "81785155",
+      "jaBoxscoreName": "古賀",
+      "boxscoreName": "Koga"
+    }
+  },
+  {
+    "jaText": "（走者・近藤）二塁盗塁成功",
+    "text": "Kondoh steals 2nd base.",
+    "pickoff": "",
+    "catcher": {
+      "id": "81785155",
+      "jaBoxscoreName": "古賀",
+      "boxscoreName": "Koga"
+    }
+  }
+]

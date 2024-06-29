@@ -1,0 +1,53 @@
+[
+  {
+    "jaText": "（走者・丸山和）二塁盗塁成功",
+    "text": "K.Maruyama steals 2nd base.",
+    "pickoff": ""
+  },
+  {
+    "jaText": "（走者・関根）二塁盗塁失敗",
+    "text": "Sekine picked off and caught stealing 2nd base.",
+    "pickoff": "Y"
+  },
+  {
+    "jaText": "（走者・細川）二塁盗塁失敗",
+    "text": "Hosokawa caught stealing 2nd base.",
+    "pickoff": "",
+    "catcher": {
+      "id": "31135114",
+      "jaBoxscoreName": "會澤",
+      "boxscoreName": "Aizawa"
+    }
+  },
+  {
+    "jaText": "（走者・尾田）二塁盗塁失敗",
+    "text": "Oda caught stealing 2nd base.",
+    "pickoff": "",
+    "catcher": {
+      "id": "11915134",
+      "jaBoxscoreName": "坂倉",
+      "boxscoreName": "Sakakura"
+    }
+  },
+  {
+    "jaText": "（走者・松本剛）二塁盗塁成功",
+    "text": "G.Matsumoto steals 2nd base.",
+    "pickoff": ""
+  },
+  {
+    "jaText": "（走者・松本剛）三塁盗塁成功",
+    "text": "G.Matsumoto steals 3rd base.",
+    "pickoff": ""
+  },
+  {
+    "jaText": "（走者・小郷）本塁盗塁失敗",
+    "text": "Ogoh picked off and caught stealing home plate.",
+    "pickoff": "Y",
+    "notes": ["三塁走者 小郷 は塁を飛び出しておりアウト 2アウト"]
+  },
+  {
+    "jaText": "（走者・三森）二塁盗塁失敗",
+    "text": "Mimori caught stealing 2nd base.",
+    "pickoff": ""
+  }
+]

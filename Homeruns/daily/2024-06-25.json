@@ -1,0 +1,55 @@
+[
+  {
+    "id": "41545114-2024-02",
+    "date": "2024-06-25",
+    "batter": {
+      "id": "41545114",
+      "jaBoxscoreName": "角中",
+      "boxscoreName": "Kakunaka",
+      "batSide": "L"
+    },
+    "pitcher": {
+      "id": "51555153",
+      "jaBoxscoreName": "内",
+      "boxscoreName": "Uchi",
+      "pitchHand": "R"
+    },
+    "number": 2,
+    "inning": 3,
+    "halfInning": "bottom",
+    "outs": 0,
+    "RoB": "1--",
+    "count": {
+      "balls": 0,
+      "strikes": 0
+    },
+    "runs": {
+      "road": 0,
+      "home": 2
+    },
+    "bop": 2,
+    "rbi": 2,
+    "whereHit": "9",
+    "venue": {
+      "jaBoxscoreName": "ZOZOマリン",
+      "boxscoreName": "ZOZO Marine",
+      "jaName": "ZOZOマリンスタジアム",
+      "name": "ZOZO Marine Stadium"
+    },
+    "teams": {
+      "road": {
+        "teamCode": "E",
+        "teamName": "Eagles",
+        "score": 2
+      },
+      "home": {
+        "teamCode": "M",
+        "teamName": "Marines",
+        "score": 10
+      }
+    },
+    "jaText": "ライト2ランホームラン（打点2）",
+    "text": "Kakunaka homers (2) to right field.",
+    "url": "https://npb.jp/scores/2024/0625/m-e-10/playbyplay.html#com3-2"
+  }
+]

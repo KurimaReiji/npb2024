@@ -1,0 +1,22 @@
+[
+  {
+    "jaText": "（走者・中野）二塁盗塁成功",
+    "text": "Nakano steals 2nd base.",
+    "pickoff": ""
+  },
+  {
+    "jaText": "（走者・井上）二塁盗塁成功",
+    "text": "Inoue steals 2nd base.",
+    "pickoff": ""
+  },
+  {
+    "jaText": "（走者・田中）三塁盗塁成功（ダブルスチール）",
+    "text": "Tanaka steals 3rd base.",
+    "pickoff": ""
+  },
+  {
+    "jaText": "（走者・大島）二塁盗塁成功（ダブルスチール）",
+    "text": "Ohshima steals 2nd base.",
+    "pickoff": ""
+  }
+]

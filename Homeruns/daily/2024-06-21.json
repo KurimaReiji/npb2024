@@ -1,0 +1,480 @@
+[
+  {
+    "id": "91895133-2024-05",
+    "date": "2024-06-21",
+    "batter": {
+      "id": "91895133",
+      "jaBoxscoreName": "山田",
+      "boxscoreName": "Yamada",
+      "batSide": "R"
+    },
+    "pitcher": {
+      "id": "41045138",
+      "jaBoxscoreName": "戸郷",
+      "boxscoreName": "Togo",
+      "pitchHand": "R"
+    },
+    "number": 5,
+    "inning": 4,
+    "halfInning": "top",
+    "outs": 2,
+    "RoB": "---",
+    "count": {
+      "balls": 2,
+      "strikes": 1
+    },
+    "runs": {
+      "road": 1,
+      "home": 0
+    },
+    "bop": 6,
+    "rbi": 1,
+    "whereHit": "7",
+    "venue": {
+      "jaBoxscoreName": "東京ドーム",
+      "boxscoreName": "Tokyo Dome",
+      "jaName": "東京ドーム",
+      "name": "Tokyo Dome"
+    },
+    "teams": {
+      "road": {
+        "teamCode": "S",
+        "teamName": "Swallows",
+        "score": 4
+      },
+      "home": {
+        "teamCode": "G",
+        "teamName": "Giants",
+        "score": 2
+      }
+    },
+    "jaText": "レフトソロホームラン（打点1）",
+    "text": "Yamada homers (5) to left field.",
+    "url": "https://npb.jp/scores/2024/0621/g-s-09/playbyplay.html#com4-1"
+  },
+  {
+    "id": "93795157-2024-06",
+    "date": "2024-06-21",
+    "batter": {
+      "id": "93795157",
+      "jaBoxscoreName": "カリステ",
+      "boxscoreName": "Calixte",
+      "batSide": "R"
+    },
+    "pitcher": {
+      "id": "11415134",
+      "jaBoxscoreName": "床田",
+      "boxscoreName": "Tokoda",
+      "pitchHand": "L"
+    },
+    "number": 6,
+    "inning": 3,
+    "halfInning": "bottom",
+    "outs": 0,
+    "RoB": "---",
+    "count": {
+      "balls": 1,
+      "strikes": 0
+    },
+    "runs": {
+      "road": 0,
+      "home": 0
+    },
+    "bop": 1,
+    "rbi": 1,
+    "whereHit": "7",
+    "venue": {
+      "jaBoxscoreName": "バンテリンドーム",
+      "boxscoreName": "Vantelin Dome",
+      "jaName": "バンテリンドーム ナゴヤ",
+      "name": "Vantelin Dome Nagoya"
+    },
+    "teams": {
+      "road": {
+        "teamCode": "C",
+        "teamName": "Carp",
+        "score": 0
+      },
+      "home": {
+        "teamCode": "D",
+        "teamName": "Dragons",
+        "score": 1
+      }
+    },
+    "jaText": "レフトソロホームラン（打点1）",
+    "text": "Calixte homers (6) to left field.",
+    "url": "https://npb.jp/scores/2024/0621/d-c-08/playbyplay.html#com3-2"
+  },
+  {
+    "id": "51155118-2024-06",
+    "date": "2024-06-21",
+    "batter": {
+      "id": "51155118",
+      "jaBoxscoreName": "浅村",
+      "boxscoreName": "Asamura",
+      "batSide": "R"
+    },
+    "pitcher": {
+      "id": "21825130",
+      "jaBoxscoreName": "山﨑福也",
+      "boxscoreName": "Yamasaki",
+      "pitchHand": "L"
+    },
+    "number": 6,
+    "inning": 2,
+    "halfInning": "top",
+    "outs": 0,
+    "RoB": "---",
+    "count": {
+      "balls": 0,
+      "strikes": 0
+    },
+    "runs": {
+      "road": 1,
+      "home": 0
+    },
+    "bop": 6,
+    "rbi": 1,
+    "whereHit": "7",
+    "venue": {
+      "jaBoxscoreName": "エスコンＦ",
+      "boxscoreName": "ES CON FIELD",
+      "jaName": "エスコンフィールドＨＯＫＫＡＩＤＯ",
+      "name": "ES CON FIELD HOKKAIDO"
+    },
+    "teams": {
+      "road": {
+        "teamCode": "E",
+        "teamName": "Eagles",
+        "score": 9
+      },
+      "home": {
+        "teamCode": "F",
+        "teamName": "Fighters",
+        "score": 9
+      }
+    },
+    "jaText": "レフトソロホームラン（打点1）",
+    "text": "Asamura homers (6) to left field.",
+    "url": "https://npb.jp/scores/2024/0621/f-e-08/playbyplay.html#com2-1"
+  },
+  {
+    "id": "63965157-2024-03",
+    "date": "2024-06-21",
+    "batter": {
+      "id": "63965157",
+      "jaBoxscoreName": "フランコ",
+      "boxscoreName": "Franco",
+      "batSide": "R"
+    },
+    "pitcher": {
+      "id": "93795159",
+      "jaBoxscoreName": "ザバラ",
+      "boxscoreName": "Zabala",
+      "pitchHand": "R"
+    },
+    "number": 3,
+    "inning": 8,
+    "halfInning": "top",
+    "outs": 2,
+    "RoB": "123",
+    "count": {
+      "balls": 3,
+      "strikes": 2
+    },
+    "runs": {
+      "road": 3,
+      "home": 8
+    },
+    "bop": 7,
+    "rbi": 4,
+    "whereHit": "78",
+    "venue": {
+      "jaBoxscoreName": "エスコンＦ",
+      "boxscoreName": "ES CON FIELD",
+      "jaName": "エスコンフィールドＨＯＫＫＡＩＤＯ",
+      "name": "ES CON FIELD HOKKAIDO"
+    },
+    "teams": {
+      "road": {
+        "teamCode": "E",
+        "teamName": "Eagles",
+        "score": 9
+      },
+      "home": {
+        "teamCode": "F",
+        "teamName": "Fighters",
+        "score": 9
+      }
+    },
+    "jaText": "左中間満塁ホームラン（打点4）",
+    "text": "Franco homers (3) to left center.",
+    "url": "https://npb.jp/scores/2024/0621/f-e-08/playbyplay.html#com8-1"
+  },
+  {
+    "id": "61165132-2024-02",
+    "date": "2024-06-21",
+    "batter": {
+      "id": "61165132",
+      "jaBoxscoreName": "阿部",
+      "boxscoreName": "Abe",
+      "batSide": "R"
+    },
+    "pitcher": {
+      "id": "81785151",
+      "jaBoxscoreName": "河野",
+      "boxscoreName": "Kawano",
+      "pitchHand": "L"
+    },
+    "number": 2,
+    "inning": 8,
+    "halfInning": "top",
+    "outs": 2,
+    "RoB": "---",
+    "count": {
+      "balls": 1,
+      "strikes": 2
+    },
+    "runs": {
+      "road": 7,
+      "home": 8
+    },
+    "bop": 8,
+    "rbi": 1,
+    "whereHit": "7",
+    "venue": {
+      "jaBoxscoreName": "エスコンＦ",
+      "boxscoreName": "ES CON FIELD",
+      "jaName": "エスコンフィールドＨＯＫＫＡＩＤＯ",
+      "name": "ES CON FIELD HOKKAIDO"
+    },
+    "teams": {
+      "road": {
+        "teamCode": "E",
+        "teamName": "Eagles",
+        "score": 9
+      },
+      "home": {
+        "teamCode": "F",
+        "teamName": "Fighters",
+        "score": 9
+      }
+    },
+    "jaText": "レフトソロホームラン（打点1）",
+    "text": "Abe homers (2) to left field.",
+    "url": "https://npb.jp/scores/2024/0621/f-e-08/playbyplay.html#com8-1",
+    "isPinchHit": "Y"
+  },
+  {
+    "id": "73075159-2024-03",
+    "date": "2024-06-21",
+    "batter": {
+      "id": "73075159",
+      "jaBoxscoreName": "レイエス",
+      "boxscoreName": "Reyes",
+      "batSide": "R"
+    },
+    "pitcher": {
+      "id": "73575132",
+      "jaBoxscoreName": "宋家豪",
+      "boxscoreName": "Sung",
+      "pitchHand": "R"
+    },
+    "number": 3,
+    "inning": 7,
+    "halfInning": "bottom",
+    "outs": 2,
+    "RoB": "123",
+    "count": {
+      "balls": 2,
+      "strikes": 1
+    },
+    "runs": {
+      "road": 3,
+      "home": 4
+    },
+    "bop": 4,
+    "rbi": 4,
+    "whereHit": "9",
+    "venue": {
+      "jaBoxscoreName": "エスコンＦ",
+      "boxscoreName": "ES CON FIELD",
+      "jaName": "エスコンフィールドＨＯＫＫＡＩＤＯ",
+      "name": "ES CON FIELD HOKKAIDO"
+    },
+    "teams": {
+      "road": {
+        "teamCode": "E",
+        "teamName": "Eagles",
+        "score": 9
+      },
+      "home": {
+        "teamCode": "F",
+        "teamName": "Fighters",
+        "score": 9
+      }
+    },
+    "jaText": "ライト満塁ホームラン（打点4）",
+    "text": "Reyes homers (3) to right field.",
+    "url": "https://npb.jp/scores/2024/0621/f-e-08/playbyplay.html#com7-2"
+  },
+  {
+    "id": "91495139-2024-02",
+    "date": "2024-06-21",
+    "batter": {
+      "id": "91495139",
+      "jaBoxscoreName": "森",
+      "boxscoreName": "Mori",
+      "batSide": "L"
+    },
+    "pitcher": {
+      "id": "31335134",
+      "jaBoxscoreName": "今井",
+      "boxscoreName": "Imai",
+      "pitchHand": "R"
+    },
+    "number": 2,
+    "inning": 8,
+    "halfInning": "bottom",
+    "outs": 2,
+    "RoB": "---",
+    "count": {
+      "balls": 3,
+      "strikes": 2
+    },
+    "runs": {
+      "road": 0,
+      "home": 1
+    },
+    "bop": 2,
+    "rbi": 1,
+    "whereHit": "9",
+    "venue": {
+      "jaBoxscoreName": "京セラD大阪",
+      "boxscoreName": "Kyocera Dome",
+      "jaName": "京セラドーム大阪",
+      "name": "Kyocera Dome Osaka"
+    },
+    "teams": {
+      "road": {
+        "teamCode": "L",
+        "teamName": "Lions",
+        "score": 0
+      },
+      "home": {
+        "teamCode": "B",
+        "teamName": "Buffaloes",
+        "score": 2
+      }
+    },
+    "jaText": "ライトソロホームラン（打点1）",
+    "text": "Mori homers (2) to right field.",
+    "url": "https://npb.jp/scores/2024/0621/b-l-10/playbyplay.html#com8-2"
+  },
+  {
+    "id": "31335131-2024-03",
+    "date": "2024-06-21",
+    "batter": {
+      "id": "31335131",
+      "jaBoxscoreName": "今宮",
+      "boxscoreName": "Imamiya",
+      "batSide": "R"
+    },
+    "pitcher": {
+      "id": "11515138",
+      "jaBoxscoreName": "小島",
+      "boxscoreName": "Ojima",
+      "pitchHand": "L"
+    },
+    "number": 3,
+    "inning": 1,
+    "halfInning": "bottom",
+    "outs": 1,
+    "RoB": "---",
+    "count": {
+      "balls": 2,
+      "strikes": 2
+    },
+    "runs": {
+      "road": 0,
+      "home": 0
+    },
+    "bop": 2,
+    "rbi": 1,
+    "whereHit": "7",
+    "venue": {
+      "jaBoxscoreName": "北九州",
+      "boxscoreName": "Kitakyushu",
+      "jaName": "北九州市民",
+      "name": "Kitakyushu Citizens Baseball Stadium"
+    },
+    "teams": {
+      "road": {
+        "teamCode": "M",
+        "teamName": "Marines",
+        "score": 4
+      },
+      "home": {
+        "teamCode": "H",
+        "teamName": "Hawks",
+        "score": 9
+      }
+    },
+    "jaText": "レフトソロホームラン（打点1）",
+    "text": "Imamiya homers (3) to left field.",
+    "url": "https://npb.jp/scores/2024/0621/h-m-10/playbyplay.html#com1-2"
+  },
+  {
+    "id": "61665159-2024-02",
+    "date": "2024-06-21",
+    "batter": {
+      "id": "61665159",
+      "jaBoxscoreName": "廣瀨",
+      "boxscoreName": "Hirose",
+      "batSide": "R"
+    },
+    "pitcher": {
+      "id": "11515138",
+      "jaBoxscoreName": "小島",
+      "boxscoreName": "Ojima",
+      "pitchHand": "L"
+    },
+    "number": 2,
+    "inning": 4,
+    "halfInning": "bottom",
+    "outs": 0,
+    "RoB": "---",
+    "count": {
+      "balls": 1,
+      "strikes": 1
+    },
+    "runs": {
+      "road": 3,
+      "home": 4
+    },
+    "bop": 8,
+    "rbi": 1,
+    "whereHit": "9",
+    "venue": {
+      "jaBoxscoreName": "北九州",
+      "boxscoreName": "Kitakyushu",
+      "jaName": "北九州市民",
+      "name": "Kitakyushu Citizens Baseball Stadium"
+    },
+    "teams": {
+      "road": {
+        "teamCode": "M",
+        "teamName": "Marines",
+        "score": 4
+      },
+      "home": {
+        "teamCode": "H",
+        "teamName": "Hawks",
+        "score": 9
+      }
+    },
+    "jaText": "ライトソロホームラン（打点1）",
+    "text": "Hirose homers (2) to right field.",
+    "url": "https://npb.jp/scores/2024/0621/h-m-10/playbyplay.html#com4-2"
+  }
+]

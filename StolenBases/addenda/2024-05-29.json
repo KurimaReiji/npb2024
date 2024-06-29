@@ -1,0 +1,52 @@
+[
+  {
+    "jaText": "（走者・重信）二塁盗塁成功",
+    "text": "Shigenobu picked off and steals 2nd base.",
+    "pickoff": "Y"
+  },
+  {
+    "jaText": "（走者・増田大）二塁盗塁成功",
+    "text": "D.Masuda steals 2nd base.",
+    "pickoff": ""
+  },
+  {
+    "jaText": "（走者・湯浅）二塁盗塁失敗",
+    "text": "Yuasa caught stealing 2nd base.",
+    "pickoff": ""
+  },
+  {
+    "jaText": "（走者・小郷）二塁盗塁成功",
+    "text": "Ogoh steals 2nd base.",
+    "pickoff": ""
+  },
+  {
+    "jaText": "（走者・辰己）二塁盗塁成功",
+    "text": "R.Tatsumi steals 2nd base.",
+    "pickoff": ""
+  },
+  {
+    "jaText": "（走者・岡林）二塁盗塁失敗",
+    "text": "Okabayashi picked off and caught stealing 2nd base.",
+    "pickoff": "Y"
+  },
+  {
+    "jaText": "（走者・福永）二塁盗塁成功",
+    "text": "Fukunaga steals 2nd base.",
+    "pickoff": ""
+  },
+  {
+    "jaText": "（走者・中野）二塁盗塁失敗",
+    "text": "Nakano caught stealing 2nd base.",
+    "pickoff": ""
+  },
+  {
+    "jaText": "（走者・マルティネス）一塁牽制アウト",
+    "text": "Martinez picked off at 1st base.",
+    "pickoff": ""
+  },
+  {
+    "jaText": "（走者・五十幡）二塁盗塁成功",
+    "text": "Isobata steals 2nd base.",
+    "pickoff": ""
+  }
+]

@@ -1,0 +1,267 @@
+[
+  {
+    "id": "61565114-2024-01",
+    "date": "2024-03-29",
+    "batter": {
+      "id": "61565114",
+      "jaBoxscoreName": "梶谷",
+      "boxscoreName": "Kajitani",
+      "batSide": "L"
+    },
+    "pitcher": {
+      "id": "71175132",
+      "jaBoxscoreName": "青柳",
+      "boxscoreName": "Aoyagi",
+      "pitchHand": "R"
+    },
+    "number": 1,
+    "inning": 5,
+    "halfInning": "bottom",
+    "outs": 2,
+    "RoB": "-2-",
+    "count": {
+      "balls": 3,
+      "strikes": 2
+    },
+    "runs": {
+      "road": 0,
+      "home": 1
+    },
+    "bop": 3,
+    "rbi": 2,
+    "whereHit": "9",
+    "venue": {
+      "jaBoxscoreName": "東京ドーム",
+      "boxscoreName": "Tokyo Dome",
+      "jaName": "東京ドーム",
+      "name": "Tokyo Dome"
+    },
+    "teams": {
+      "road": {
+        "teamCode": "T",
+        "teamName": "Tigers",
+        "score": 0
+      },
+      "home": {
+        "teamCode": "G",
+        "teamName": "Giants",
+        "score": 4
+      }
+    },
+    "jaText": "ライト2ランホームラン（打点2）",
+    "text": "Kajitani homers (1) to right field.",
+    "url": "https://npb.jp/scores/2024/0329/g-t-01/playbyplay.html#com5-2"
+  },
+  {
+    "id": "61065116-2024-01",
+    "date": "2024-03-29",
+    "batter": {
+      "id": "61065116",
+      "jaBoxscoreName": "中田",
+      "boxscoreName": "Nakata",
+      "batSide": "R"
+    },
+    "pitcher": {
+      "id": "33735153",
+      "jaBoxscoreName": "サイスニード",
+      "boxscoreName": "Sneed",
+      "pitchHand": "R"
+    },
+    "number": 1,
+    "inning": 5,
+    "halfInning": "top",
+    "outs": 2,
+    "RoB": "---",
+    "count": {
+      "balls": 1,
+      "strikes": 0
+    },
+    "runs": {
+      "road": 1,
+      "home": 1
+    },
+    "bop": 4,
+    "rbi": 1,
+    "whereHit": "7",
+    "venue": {
+      "jaBoxscoreName": "神宮",
+      "boxscoreName": "Jingu",
+      "jaName": "神宮",
+      "name": "Jingu Stadium"
+    },
+    "teams": {
+      "road": {
+        "teamCode": "D",
+        "teamName": "Dragons",
+        "score": 4
+      },
+      "home": {
+        "teamCode": "S",
+        "teamName": "Swallows",
+        "score": 7
+      }
+    },
+    "jaText": "レフトソロホームラン（打点1）",
+    "text": "Nakata homers (1) to left field.",
+    "url": "https://npb.jp/scores/2024/0329/s-d-01/playbyplay.html#com5-1"
+  },
+  {
+    "id": "33535159-2024-01",
+    "date": "2024-03-29",
+    "batter": {
+      "id": "33535159",
+      "jaBoxscoreName": "度会",
+      "boxscoreName": "Watarai",
+      "batSide": "L"
+    },
+    "pitcher": {
+      "id": "71775139",
+      "jaBoxscoreName": "九里",
+      "boxscoreName": "Kuri",
+      "pitchHand": "R"
+    },
+    "number": 1,
+    "inning": 3,
+    "halfInning": "bottom",
+    "outs": 1,
+    "RoB": "12-",
+    "count": {
+      "balls": 0,
+      "strikes": 0
+    },
+    "runs": {
+      "road": 3,
+      "home": 0
+    },
+    "bop": 1,
+    "rbi": 3,
+    "whereHit": "89",
+    "venue": {
+      "jaBoxscoreName": "横浜",
+      "boxscoreName": "Yokohama",
+      "jaName": "横浜スタジアム",
+      "name": "Yokohama Stadium"
+    },
+    "teams": {
+      "road": {
+        "teamCode": "C",
+        "teamName": "Carp",
+        "score": 3
+      },
+      "home": {
+        "teamCode": "DB",
+        "teamName": "Baystars",
+        "score": 4
+      }
+    },
+    "jaText": "右中間3ランホームラン（打点3）",
+    "text": "Watarai homers (1) to right center.",
+    "url": "https://npb.jp/scores/2024/0329/db-c-01/playbyplay.html#com3-2"
+  },
+  {
+    "id": "73075159-2024-01",
+    "date": "2024-03-29",
+    "batter": {
+      "id": "73075159",
+      "jaBoxscoreName": "レイエス",
+      "boxscoreName": "Reyes",
+      "batSide": "R"
+    },
+    "pitcher": {
+      "id": "01705131",
+      "jaBoxscoreName": "国吉",
+      "boxscoreName": "Kuniyoshi",
+      "pitchHand": "R"
+    },
+    "number": 1,
+    "inning": 6,
+    "halfInning": "top",
+    "outs": 2,
+    "RoB": "---",
+    "count": {
+      "balls": 0,
+      "strikes": 1
+    },
+    "runs": {
+      "road": 3,
+      "home": 0
+    },
+    "bop": 6,
+    "rbi": 1,
+    "whereHit": "78",
+    "venue": {
+      "jaBoxscoreName": "ZOZOマリン",
+      "boxscoreName": "ZOZO Marine",
+      "jaName": "ZOZOマリンスタジアム",
+      "name": "ZOZO Marine Stadium"
+    },
+    "teams": {
+      "road": {
+        "teamCode": "F",
+        "teamName": "Fighters",
+        "score": 4
+      },
+      "home": {
+        "teamCode": "M",
+        "teamName": "Marines",
+        "score": 1
+      }
+    },
+    "jaText": "左中間ソロホームラン（打点1）",
+    "text": "Reyes homers (1) to left center.",
+    "url": "https://npb.jp/scores/2024/0329/m-f-01/playbyplay.html#com6-1"
+  },
+  {
+    "id": "21425139-2024-01",
+    "date": "2024-03-29",
+    "batter": {
+      "id": "21425139",
+      "jaBoxscoreName": "山川",
+      "boxscoreName": "Yamakawa",
+      "batSide": "R"
+    },
+    "pitcher": {
+      "id": "71875151",
+      "jaBoxscoreName": "宮城",
+      "boxscoreName": "Miyagi",
+      "pitchHand": "L"
+    },
+    "number": 1,
+    "inning": 7,
+    "halfInning": "top",
+    "outs": 0,
+    "RoB": "---",
+    "count": {
+      "balls": 1,
+      "strikes": 1
+    },
+    "runs": {
+      "road": 1,
+      "home": 1
+    },
+    "bop": 4,
+    "rbi": 1,
+    "whereHit": "89",
+    "venue": {
+      "jaBoxscoreName": "京セラD大阪",
+      "boxscoreName": "Kyocera Dome",
+      "jaName": "京セラドーム大阪",
+      "name": "Kyocera Dome Osaka"
+    },
+    "teams": {
+      "road": {
+        "teamCode": "H",
+        "teamName": "Hawks",
+        "score": 3
+      },
+      "home": {
+        "teamCode": "B",
+        "teamName": "Buffaloes",
+        "score": 1
+      }
+    },
+    "jaText": "右中間ソロホームラン（打点1）",
+    "text": "Yamakawa homers (1) to right center.",
+    "url": "https://npb.jp/scores/2024/0329/b-h-01/playbyplay.html#com7-1"
+  }
+]

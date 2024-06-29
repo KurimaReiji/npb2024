@@ -1,0 +1,57 @@
+[
+  {
+    "jaText": "（走者・堂林）三塁盗塁失敗",
+    "text": "Dohbayashi caught stealing 3rd base.",
+    "pickoff": ""
+  },
+  {
+    "jaText": "（走者・矢野）三塁盗塁成功",
+    "text": "Yano steals 3rd base.",
+    "pickoff": ""
+  },
+  {
+    "jaText": "（走者・宮﨑）二塁盗塁失敗",
+    "text": "Miyazaki caught stealing 2nd base.",
+    "pickoff": "",
+    "catcher": {
+      "id": "51255118",
+      "jaBoxscoreName": "中村",
+      "boxscoreName": "Nakamura"
+    }
+  },
+  {
+    "jaText": "（走者・岡）二塁盗塁成功",
+    "text": "Oka steals 2nd base.",
+    "pickoff": "",
+    "catcher": {
+      "id": "71375138",
+      "jaBoxscoreName": "太田",
+      "boxscoreName": "Ohta"
+    }
+  },
+  {
+    "jaText": "（走者・小深田）二塁盗塁成功",
+    "text": "Kobukata steals 2nd base.",
+    "pickoff": ""
+  },
+  {
+    "jaText": "（走者・源田）二塁盗塁失敗",
+    "text": "Genda caught stealing 2nd base.",
+    "pickoff": ""
+  },
+  {
+    "jaText": "（走者・周東）二塁盗塁失敗",
+    "text": "Shuto caught stealing 2nd base.",
+    "pickoff": ""
+  },
+  {
+    "jaText": "（走者・五十幡）二塁盗塁成功",
+    "text": "Isobata steals 2nd base.",
+    "pickoff": ""
+  },
+  {
+    "jaText": "（走者・渡部）二塁盗塁失敗",
+    "text": "Watanabe caught stealing 2nd base.",
+    "pickoff": ""
+  }
+]

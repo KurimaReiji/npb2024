@@ -1,0 +1,215 @@
+[
+  {
+    "id": "51055155-2024-01",
+    "date": "2024-05-19",
+    "batter": {
+      "id": "51055155",
+      "jaBoxscoreName": "末包",
+      "boxscoreName": "Suekane",
+      "batSide": "R"
+    },
+    "pitcher": {
+      "id": "01005136",
+      "jaBoxscoreName": "高橋礼",
+      "boxscoreName": "R.Takahashi",
+      "pitchHand": "R"
+    },
+    "number": 1,
+    "inning": 1,
+    "halfInning": "bottom",
+    "outs": 2,
+    "RoB": "12-",
+    "count": {
+      "balls": 1,
+      "strikes": 0
+    },
+    "runs": {
+      "road": 3,
+      "home": 1
+    },
+    "bop": 6,
+    "rbi": 3,
+    "whereHit": "78",
+    "venue": {
+      "jaBoxscoreName": "マツダスタジアム",
+      "boxscoreName": "Mazda Stadium",
+      "jaName": "MAZDA Zoom-Zoom スタジアム広島",
+      "name": "MAZDA Zoom-Zoom Stadium Hiroshima"
+    },
+    "teams": {
+      "road": {
+        "teamCode": "G",
+        "teamName": "Giants",
+        "score": 3
+      },
+      "home": {
+        "teamCode": "C",
+        "teamName": "Carp",
+        "score": 9
+      }
+    },
+    "jaText": "左中間3ランホームラン（打点3）",
+    "text": "Suekane homers (1) to left center.",
+    "url": "https://npb.jp/scores/2024/0519/c-g-09/playbyplay.html#com1-2"
+  },
+  {
+    "id": "61565135-2024-02",
+    "date": "2024-05-19",
+    "batter": {
+      "id": "61565135",
+      "jaBoxscoreName": "菊池",
+      "boxscoreName": "Kikuchi",
+      "batSide": "R"
+    },
+    "pitcher": {
+      "id": "21825153",
+      "jaBoxscoreName": "平内",
+      "boxscoreName": "Heinai",
+      "pitchHand": "R"
+    },
+    "number": 2,
+    "inning": 6,
+    "halfInning": "bottom",
+    "outs": 2,
+    "RoB": "---",
+    "count": {
+      "balls": 3,
+      "strikes": 2
+    },
+    "runs": {
+      "road": 3,
+      "home": 8
+    },
+    "bop": 3,
+    "rbi": 1,
+    "whereHit": "7",
+    "venue": {
+      "jaBoxscoreName": "マツダスタジアム",
+      "boxscoreName": "Mazda Stadium",
+      "jaName": "MAZDA Zoom-Zoom スタジアム広島",
+      "name": "MAZDA Zoom-Zoom Stadium Hiroshima"
+    },
+    "teams": {
+      "road": {
+        "teamCode": "G",
+        "teamName": "Giants",
+        "score": 3
+      },
+      "home": {
+        "teamCode": "C",
+        "teamName": "Carp",
+        "score": 9
+      }
+    },
+    "jaText": "レフトソロホームラン（打点1）",
+    "text": "Kikuchi homers (2) to left field.",
+    "url": "https://npb.jp/scores/2024/0519/c-g-09/playbyplay.html#com6-2"
+  },
+  {
+    "id": "31435138-2024-01",
+    "date": "2024-05-19",
+    "batter": {
+      "id": "31435138",
+      "jaBoxscoreName": "野村",
+      "boxscoreName": "Nomura",
+      "batSide": "R"
+    },
+    "pitcher": {
+      "id": "11515138",
+      "jaBoxscoreName": "小島",
+      "boxscoreName": "Ojima",
+      "pitchHand": "L"
+    },
+    "number": 1,
+    "inning": 7,
+    "halfInning": "top",
+    "outs": 1,
+    "RoB": "---",
+    "count": {
+      "balls": 3,
+      "strikes": 1
+    },
+    "runs": {
+      "road": 1,
+      "home": 3
+    },
+    "bop": 7,
+    "rbi": 1,
+    "whereHit": "7",
+    "venue": {
+      "jaBoxscoreName": "ZOZOマリン",
+      "boxscoreName": "ZOZO Marine",
+      "jaName": "ZOZOマリンスタジアム",
+      "name": "ZOZO Marine Stadium"
+    },
+    "teams": {
+      "road": {
+        "teamCode": "F",
+        "teamName": "Fighters",
+        "score": 3
+      },
+      "home": {
+        "teamCode": "M",
+        "teamName": "Marines",
+        "score": 4
+      }
+    },
+    "jaText": "レフトソロホームラン（打点1）",
+    "text": "Nomura homers (1) to left field.",
+    "url": "https://npb.jp/scores/2024/0519/m-f-12/playbyplay.html#com7-1"
+  },
+  {
+    "id": "11515139-2024-05",
+    "date": "2024-05-19",
+    "batter": {
+      "id": "11515139",
+      "jaBoxscoreName": "岡",
+      "boxscoreName": "Oka",
+      "batSide": "R"
+    },
+    "pitcher": {
+      "id": "81785151",
+      "jaBoxscoreName": "河野",
+      "boxscoreName": "Kawano",
+      "pitchHand": "L"
+    },
+    "number": 5,
+    "inning": 9,
+    "halfInning": "bottom",
+    "outs": 1,
+    "RoB": "---",
+    "count": {
+      "balls": 0,
+      "strikes": 0
+    },
+    "runs": {
+      "road": 3,
+      "home": 3
+    },
+    "bop": 1,
+    "rbi": 1,
+    "whereHit": "7",
+    "venue": {
+      "jaBoxscoreName": "ZOZOマリン",
+      "boxscoreName": "ZOZO Marine",
+      "jaName": "ZOZOマリンスタジアム",
+      "name": "ZOZO Marine Stadium"
+    },
+    "teams": {
+      "road": {
+        "teamCode": "F",
+        "teamName": "Fighters",
+        "score": 3
+      },
+      "home": {
+        "teamCode": "M",
+        "teamName": "Marines",
+        "score": 4
+      }
+    },
+    "jaText": "レフトソロホームラン（打点1）",
+    "text": "Oka homers (5) to left field.",
+    "url": "https://npb.jp/scores/2024/0519/m-f-12/playbyplay.html#com9-2",
+    "isWalkOff": "Y"
+  }
+]

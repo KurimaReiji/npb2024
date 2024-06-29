@@ -1,0 +1,67 @@
+[
+  {
+    "jaText": "（走者・牧）二塁盗塁成功",
+    "text": "Maki steals 2nd base.",
+    "pickoff": ""
+  },
+  {
+    "jaText": "（走者・岡林）二塁盗塁成功",
+    "text": "Okabayashi steals 2nd base.",
+    "pickoff": ""
+  },
+  {
+    "jaText": "（走者・林）二塁盗塁成功",
+    "text": "Hayashi steals 2nd base.",
+    "pickoff": ""
+  },
+  {
+    "jaText": "（走者・林）三塁盗塁成功",
+    "text": "Hayashi steals 3rd base.",
+    "pickoff": ""
+  },
+  {
+    "jaText": "（走者・柴田）二塁盗塁成功",
+    "text": "Shibata steals 2nd base.",
+    "pickoff": ""
+  },
+  {
+    "jaText": "（走者・長岡）二塁牽制アウト",
+    "text": "Nagaoka picked off at 2nd base.",
+    "pickoff": "Y"
+  },
+  {
+    "jaText": "（走者・岸田）三塁盗塁成功",
+    "text": "Kishida steals 3rd base.",
+    "pickoff": ""
+  },
+  {
+    "jaText": "（走者・田宮）二塁盗塁成功",
+    "text": "Tamiya steals 2nd base.",
+    "pickoff": ""
+  },
+  {
+    "jaText": "（走者・岡）二塁盗塁成功",
+    "text": "Oka steals 2nd base.",
+    "pickoff": ""
+  },
+  {
+    "jaText": "（走者・西野）二塁盗塁成功",
+    "text": "Nishino steals 2nd base.",
+    "pickoff": ""
+  },
+  {
+    "jaText": "（走者・周東）三塁盗塁成功（ダブルスチール）",
+    "text": "Shuto steals 3rd base.",
+    "pickoff": ""
+  },
+  {
+    "jaText": "（走者・野村勇）二塁盗塁成功（ダブルスチール）",
+    "text": "I.Nomura steals 2nd base.",
+    "pickoff": ""
+  },
+  {
+    "jaText": "（走者・児玉）二塁盗塁成功",
+    "text": "Kodama steals 2nd base.",
+    "pickoff": ""
+  }
+]

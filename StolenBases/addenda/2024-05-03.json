@@ -1,0 +1,38 @@
+[
+  {
+    "jaText": "（走者・門脇）二塁盗塁失敗",
+    "text": "Kadowaki caught stealing 2nd base.",
+    "pickoff": "",
+    "isK": "Y"
+  },
+  {
+    "jaText": "（走者・岩田）一塁牽制アウト",
+    "text": "Iwata picked off at 1st base.",
+    "pickoff": "Y",
+    "catcher": {
+      "id": "31735132",
+      "jaBoxscoreName": "木下",
+      "boxscoreName": "Kinoshita"
+    }
+  },
+  {
+    "jaText": "（走者・秋山）二塁盗塁失敗",
+    "text": "Akiyama caught stealing 2nd base.",
+    "pickoff": ""
+  },
+  {
+    "jaText": "（走者・小郷）二塁盗塁成功",
+    "text": "Ogoh steals 2nd base.",
+    "pickoff": ""
+  },
+  {
+    "jaText": "（走者・小郷）二塁盗塁成功",
+    "text": "Ogoh steals 2nd base.",
+    "pickoff": ""
+  },
+  {
+    "jaText": "（走者・水野）二塁盗塁失敗",
+    "text": "Mizuno picked off and caught stealing 2nd base. Error by first baseman.",
+    "pickoff": "Y"
+  }
+]

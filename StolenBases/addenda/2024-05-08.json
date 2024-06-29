@@ -1,0 +1,27 @@
+[
+  {
+    "jaText": "（走者・泉口）二塁盗塁成功",
+    "text": "Izuguchi steals 2nd base.",
+    "pickoff": "",
+    "catcher": {
+      "id": "41545130",
+      "jaBoxscoreName": "加藤匠",
+      "boxscoreName": "T.Katoh"
+    }
+  },
+  {
+    "jaText": "（走者・近本）二塁盗塁成功",
+    "text": "Chikamoto steals 2nd base.",
+    "pickoff": ""
+  },
+  {
+    "jaText": "（走者・松本剛）二塁盗塁成功",
+    "text": "G.Matsumoto steals 2nd base.",
+    "pickoff": ""
+  },
+  {
+    "jaText": "（走者・中村晃）二塁盗塁失敗",
+    "text": "A.Nakamura caught stealing 2nd base.",
+    "pickoff": ""
+  }
+]
