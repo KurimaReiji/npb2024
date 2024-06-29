@@ -20,7 +20,7 @@ jobs:
     - name: Check diff
       id: diff
       run: |
-        git add .
+        git add -N .
         git diff --name-only --exit-code
       continue-on-error: true
     - name: Commit and push to GitHub if needed
