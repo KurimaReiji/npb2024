@@ -53,18 +53,10 @@
     "jaText": "（走者・小川）二塁盗塁失敗",
     "text": "Ogawa caught stealing 2nd base.",
     "pickoff": "",
-    "catcher": {},
-    "catchers": [
-      {
-        "id": "41645139",
-        "jaBoxscoreName": "若月",
-        "boxscoreName": "Wakatsuki"
-      },
-      {
-        "id": "81185139",
-        "jaBoxscoreName": "石川",
-        "boxscoreName": "Ishikawa"
-      }
-    ]
+    "catcher": {
+      "id": "41645139",
+      "jaBoxscoreName": "若月",
+      "boxscoreName": "Wakatsuki"
+    }
   }
 ]
