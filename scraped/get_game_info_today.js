@@ -189,7 +189,7 @@ const year = dates[0].slice(0, 4);
 
 const page = await browser.newPage();
 await page.goto(`https://npb.jp/`);
-await page.waitForSelector(`#header_score`, { timeout: 6000 });
+await page.waitForSelector(`#footer_team`, { timeout: 9000 });
 const obj = await page.evaluate(get_linescore_urls, dates[0]);
 console.log(obj);
 if (obj[0].inProgress) {
@@ -207,7 +207,7 @@ for (const { date, urls } of obj) {
     const data = {};
     for (const target of targets) {
       await page.goto(`${url}${target}`);
-      await page.waitForSelector(`.game_info`, { timeout: 6000 });
+      await page.waitForSelector(`.game_info`, { timeout: 9000 });
       console.log(`${url}${target}`);
       data[target] = await page.evaluate(scrapers[target]);
     }
