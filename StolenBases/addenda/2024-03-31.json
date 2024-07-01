@@ -46,8 +46,8 @@
   },
   {
     "jaText": "（走者・森）三塁盗塁成功",
-    "text": "Mori picked off and steals 3rd base.",
-    "pickoff": "Y",
+    "text": "Mori steals 3rd base.",
+    "pickoff": "",
     "catcher": {
       "id": "81385151",
       "jaBoxscoreName": "海野",
