@@ -1,0 +1,50 @@
+[
+  {
+    "jaText": "（走者・丸）二塁盗塁成功",
+    "text": "Maru steals 2nd base.",
+    "pickoff": "",
+    "catcher": {},
+    "catchers": [
+      {
+        "id": "31735132",
+        "jaBoxscoreName": "木下",
+        "boxscoreName": "Kinoshita"
+      },
+      {
+        "id": "61365132",
+        "jaBoxscoreName": "宇佐見",
+        "boxscoreName": "Usami"
+      }
+    ]
+  },
+  {
+    "jaText": "（走者・長岡）二塁盗塁成功",
+    "text": "Nagaoka steals 2nd base.",
+    "pickoff": ""
+  },
+  {
+    "jaText": "（走者・並木）二塁盗塁成功",
+    "text": "Namiki steals 2nd base.",
+    "pickoff": ""
+  },
+  {
+    "jaText": "（走者・島田）二塁盗塁失敗",
+    "text": "Shimada caught stealing 2nd base.",
+    "pickoff": ""
+  },
+  {
+    "jaText": "（走者・石原）一塁牽制アウト",
+    "text": "Ishihara picked off at 1st base.",
+    "pickoff": ""
+  },
+  {
+    "jaText": "（走者・石井）二塁盗塁失敗",
+    "text": "Ishii caught stealing 2nd base.",
+    "pickoff": ""
+  },
+  {
+    "jaText": "（走者・藤原）二塁盗塁成功",
+    "text": "Fujiwara steals 2nd base.",
+    "pickoff": ""
+  }
+]

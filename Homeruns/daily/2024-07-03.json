@@ -1,0 +1,320 @@
+[
+  {
+    "id": "33235159-2024-05",
+    "date": "2024-07-03",
+    "batter": {
+      "id": "33235159",
+      "jaBoxscoreName": "ヘルナンデス",
+      "boxscoreName": "Hernandez",
+      "batSide": "R"
+    },
+    "pitcher": {
+      "id": "31635110",
+      "jaBoxscoreName": "涌井",
+      "boxscoreName": "Wakui",
+      "pitchHand": "R"
+    },
+    "number": 5,
+    "inning": 3,
+    "halfInning": "bottom",
+    "outs": 2,
+    "RoB": "1-3",
+    "count": {
+      "balls": 1,
+      "strikes": 1
+    },
+    "runs": {
+      "road": 0,
+      "home": 0
+    },
+    "bop": 3,
+    "rbi": 3,
+    "whereHit": "7",
+    "venue": {
+      "jaBoxscoreName": "前橋",
+      "boxscoreName": "Maebashi",
+      "jaName": "上毛新聞敷島",
+      "name": "Gunma Shikishima Baseball Stadium"
+    },
+    "teams": {
+      "road": {
+        "teamCode": "D",
+        "teamName": "Dragons",
+        "score": 1
+      },
+      "home": {
+        "teamCode": "G",
+        "teamName": "Giants",
+        "score": 6
+      }
+    },
+    "jaText": "レフト3ランホームラン（打点3）",
+    "text": "Hernandez homers (5) to left field.",
+    "url": "https://npb.jp/scores/2024/0703/g-d-13/playbyplay.html#com3-2"
+  },
+  {
+    "id": "13115153-2024-11",
+    "date": "2024-07-03",
+    "batter": {
+      "id": "13115153",
+      "jaBoxscoreName": "牧",
+      "boxscoreName": "Maki",
+      "batSide": "R"
+    },
+    "pitcher": {
+      "id": "63365153",
+      "jaBoxscoreName": "山野",
+      "boxscoreName": "Yamano",
+      "pitchHand": "L"
+    },
+    "number": 11,
+    "inning": 1,
+    "halfInning": "bottom",
+    "outs": 1,
+    "RoB": "12-",
+    "count": {
+      "balls": 2,
+      "strikes": 1
+    },
+    "runs": {
+      "road": 0,
+      "home": 0
+    },
+    "bop": 4,
+    "rbi": 3,
+    "whereHit": "7",
+    "venue": {
+      "jaBoxscoreName": "横浜",
+      "boxscoreName": "Yokohama",
+      "jaName": "横浜スタジアム",
+      "name": "Yokohama Stadium"
+    },
+    "teams": {
+      "road": {
+        "teamCode": "S",
+        "teamName": "Swallows",
+        "score": 5
+      },
+      "home": {
+        "teamCode": "DB",
+        "teamName": "Baystars",
+        "score": 3
+      }
+    },
+    "jaText": "レフト3ランホームラン（打点3）",
+    "text": "Maki homers (11) to left field.",
+    "url": "https://npb.jp/scores/2024/0703/db-s-13/playbyplay.html#com1-2"
+  },
+  {
+    "id": "41045153-2024-04",
+    "date": "2024-07-03",
+    "batter": {
+      "id": "41045153",
+      "jaBoxscoreName": "佐藤輝",
+      "boxscoreName": "T.Sato",
+      "batSide": "L"
+    },
+    "pitcher": {
+      "id": "71775139",
+      "jaBoxscoreName": "九里",
+      "boxscoreName": "Kuri",
+      "pitchHand": "R"
+    },
+    "number": 4,
+    "inning": 2,
+    "halfInning": "top",
+    "outs": 1,
+    "RoB": "---",
+    "count": {
+      "balls": 0,
+      "strikes": 1
+    },
+    "runs": {
+      "road": 0,
+      "home": 0
+    },
+    "bop": 5,
+    "rbi": 1,
+    "whereHit": "9",
+    "venue": {
+      "jaBoxscoreName": "マツダスタジアム",
+      "boxscoreName": "Mazda Stadium",
+      "jaName": "MAZDA Zoom-Zoom スタジアム広島",
+      "name": "MAZDA Zoom-Zoom Stadium Hiroshima"
+    },
+    "teams": {
+      "road": {
+        "teamCode": "T",
+        "teamName": "Tigers",
+        "score": 2
+      },
+      "home": {
+        "teamCode": "C",
+        "teamName": "Carp",
+        "score": 1
+      }
+    },
+    "jaText": "ライトソロホームラン（打点1）",
+    "text": "T.Sato homers (4) to right field.",
+    "url": "https://npb.jp/scores/2024/0703/c-t-12/playbyplay.html#com2-1"
+  },
+  {
+    "id": "41045153-2024-05",
+    "date": "2024-07-03",
+    "batter": {
+      "id": "41045153",
+      "jaBoxscoreName": "佐藤輝",
+      "boxscoreName": "T.Sato",
+      "batSide": "L"
+    },
+    "pitcher": {
+      "id": "71775139",
+      "jaBoxscoreName": "九里",
+      "boxscoreName": "Kuri",
+      "pitchHand": "R"
+    },
+    "number": 5,
+    "inning": 6,
+    "halfInning": "top",
+    "outs": 2,
+    "RoB": "---",
+    "count": {
+      "balls": 2,
+      "strikes": 1
+    },
+    "runs": {
+      "road": 1,
+      "home": 1
+    },
+    "bop": 5,
+    "rbi": 1,
+    "whereHit": "7",
+    "venue": {
+      "jaBoxscoreName": "マツダスタジアム",
+      "boxscoreName": "Mazda Stadium",
+      "jaName": "MAZDA Zoom-Zoom スタジアム広島",
+      "name": "MAZDA Zoom-Zoom Stadium Hiroshima"
+    },
+    "teams": {
+      "road": {
+        "teamCode": "T",
+        "teamName": "Tigers",
+        "score": 2
+      },
+      "home": {
+        "teamCode": "C",
+        "teamName": "Carp",
+        "score": 1
+      }
+    },
+    "jaText": "レフトソロホームラン（打点1）",
+    "text": "T.Sato homers (5) to left field.",
+    "url": "https://npb.jp/scores/2024/0703/c-t-12/playbyplay.html#com6-1"
+  },
+  {
+    "id": "71075151-2024-02",
+    "date": "2024-07-03",
+    "batter": {
+      "id": "71075151",
+      "jaBoxscoreName": "佐藤",
+      "boxscoreName": "Satoh",
+      "batSide": "L"
+    },
+    "pitcher": {
+      "id": "61865159",
+      "jaBoxscoreName": "細野",
+      "boxscoreName": "Hosono",
+      "pitchHand": "L"
+    },
+    "number": 2,
+    "inning": 2,
+    "halfInning": "top",
+    "outs": 1,
+    "RoB": "12-",
+    "count": {
+      "balls": 0,
+      "strikes": 1
+    },
+    "runs": {
+      "road": 0,
+      "home": 0
+    },
+    "bop": 7,
+    "rbi": 3,
+    "whereHit": "9",
+    "venue": {
+      "jaBoxscoreName": "エスコンＦ",
+      "boxscoreName": "ES CON FIELD",
+      "jaName": "エスコンフィールドＨＯＫＫＡＩＤＯ",
+      "name": "ES CON FIELD HOKKAIDO"
+    },
+    "teams": {
+      "road": {
+        "teamCode": "M",
+        "teamName": "Marines",
+        "score": 9
+      },
+      "home": {
+        "teamCode": "F",
+        "teamName": "Fighters",
+        "score": 6
+      }
+    },
+    "jaText": "ライト3ランホームラン（打点3）",
+    "text": "Satoh homers (2) to right field.",
+    "url": "https://npb.jp/scores/2024/0703/f-m-14/playbyplay.html#com2-1"
+  },
+  {
+    "id": "73075159-2024-05",
+    "date": "2024-07-03",
+    "batter": {
+      "id": "73075159",
+      "jaBoxscoreName": "レイエス",
+      "boxscoreName": "Reyes",
+      "batSide": "R"
+    },
+    "pitcher": {
+      "id": "01005157",
+      "jaBoxscoreName": "田中晴",
+      "boxscoreName": "H.Tanaka",
+      "pitchHand": "R"
+    },
+    "number": 5,
+    "inning": 3,
+    "halfInning": "bottom",
+    "outs": 2,
+    "RoB": "123",
+    "count": {
+      "balls": 0,
+      "strikes": 0
+    },
+    "runs": {
+      "road": 3,
+      "home": 1
+    },
+    "bop": 5,
+    "rbi": 4,
+    "whereHit": "78",
+    "venue": {
+      "jaBoxscoreName": "エスコンＦ",
+      "boxscoreName": "ES CON FIELD",
+      "jaName": "エスコンフィールドＨＯＫＫＡＩＤＯ",
+      "name": "ES CON FIELD HOKKAIDO"
+    },
+    "teams": {
+      "road": {
+        "teamCode": "M",
+        "teamName": "Marines",
+        "score": 9
+      },
+      "home": {
+        "teamCode": "F",
+        "teamName": "Fighters",
+        "score": 6
+      }
+    },
+    "jaText": "左中間満塁ホームラン（打点4）",
+    "text": "Reyes homers (5) to left center.",
+    "url": "https://npb.jp/scores/2024/0703/f-m-14/playbyplay.html#com3-2"
+  }
+]
