@@ -3,19 +3,11 @@
     "jaText": "（走者・丸）二塁盗塁成功",
     "text": "Maru steals 2nd base.",
     "pickoff": "",
-    "catcher": {},
-    "catchers": [
-      {
-        "id": "31735132",
-        "jaBoxscoreName": "木下",
-        "boxscoreName": "Kinoshita"
-      },
-      {
-        "id": "61365132",
-        "jaBoxscoreName": "宇佐見",
-        "boxscoreName": "Usami"
-      }
-    ]
+    "catcher": {
+      "id": "31735132",
+      "jaBoxscoreName": "木下",
+      "boxscoreName": "Kinoshita"
+    }
   },
   {
     "jaText": "（走者・長岡）二塁盗塁成功",
@@ -35,7 +27,7 @@
   {
     "jaText": "（走者・石原）一塁牽制アウト",
     "text": "Ishihara picked off at 1st base.",
-    "pickoff": ""
+    "pickoff": "Y"
   },
   {
     "jaText": "（走者・石井）二塁盗塁失敗",
