@@ -36,21 +36,13 @@
   },
   {
     "jaText": "（走者・髙部）二塁盗塁失敗",
-    "text": "Takabe caught stealing 2nd base.",
-    "pickoff": "",
-    "catcher": {},
-    "catchers": [
-      {
-        "id": "61965130",
-        "jaBoxscoreName": "清水",
-        "boxscoreName": "Shimizu"
-      },
-      {
-        "id": "51055138",
-        "jaBoxscoreName": "田宮",
-        "boxscoreName": "Tamiya"
-      }
-    ]
+    "text": "Takabe picked off and caught stealing 2nd base.",
+    "pickoff": "Y",
+    "catcher": {
+      "id": "61965130",
+      "jaBoxscoreName": "清水",
+      "boxscoreName": "Shimizu"
+    }
   },
   {
     "jaText": "（走者・五十幡）二塁盗塁成功",
@@ -61,54 +53,30 @@
     "jaText": "（走者・山村）二塁盗塁失敗",
     "text": "Yamamura caught stealing 2nd base.",
     "pickoff": "",
-    "catcher": {},
-    "catchers": [
-      {
-        "id": "81385151",
-        "jaBoxscoreName": "海野",
-        "boxscoreName": "Umino"
-      },
-      {
-        "id": "91595133",
-        "jaBoxscoreName": "甲斐",
-        "boxscoreName": "T.Kai"
-      }
-    ]
+    "catcher": {
+      "id": "81385151",
+      "jaBoxscoreName": "海野",
+      "boxscoreName": "Umino"
+    }
   },
   {
     "jaText": "（走者・髙松）二塁盗塁成功",
     "text": "Takamatsu steals 2nd base.",
     "pickoff": "",
-    "catcher": {},
-    "catchers": [
-      {
-        "id": "81385151",
-        "jaBoxscoreName": "海野",
-        "boxscoreName": "Umino"
-      },
-      {
-        "id": "91595133",
-        "jaBoxscoreName": "甲斐",
-        "boxscoreName": "T.Kai"
-      }
-    ]
+    "catcher": {
+      "id": "91595133",
+      "jaBoxscoreName": "甲斐",
+      "boxscoreName": "T.Kai"
+    }
   },
   {
     "jaText": "（走者・西川）二塁盗塁成功",
     "text": "Nishikawa steals 2nd base.",
     "pickoff": "",
-    "catcher": {},
-    "catchers": [
-      {
-        "id": "81385151",
-        "jaBoxscoreName": "海野",
-        "boxscoreName": "Umino"
-      },
-      {
-        "id": "91595133",
-        "jaBoxscoreName": "甲斐",
-        "boxscoreName": "T.Kai"
-      }
-    ]
+    "catcher": {
+      "id": "91595133",
+      "jaBoxscoreName": "甲斐",
+      "boxscoreName": "T.Kai"
+    }
   }
 ]
