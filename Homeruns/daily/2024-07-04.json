@@ -1,0 +1,55 @@
+[
+  {
+    "id": "21325134-2024-06",
+    "date": "2024-07-04",
+    "batter": {
+      "id": "21325134",
+      "jaBoxscoreName": "大山",
+      "boxscoreName": "Ohyama",
+      "batSide": "R"
+    },
+    "pitcher": {
+      "id": "41745155",
+      "jaBoxscoreName": "黒原",
+      "boxscoreName": "Kurohara",
+      "pitchHand": "L"
+    },
+    "number": 6,
+    "inning": 9,
+    "halfInning": "top",
+    "outs": 2,
+    "RoB": "---",
+    "count": {
+      "balls": 3,
+      "strikes": 2
+    },
+    "runs": {
+      "road": 4,
+      "home": 7
+    },
+    "bop": 4,
+    "rbi": 1,
+    "whereHit": "78",
+    "venue": {
+      "jaBoxscoreName": "マツダスタジアム",
+      "boxscoreName": "Mazda Stadium",
+      "jaName": "MAZDA Zoom-Zoom スタジアム広島",
+      "name": "MAZDA Zoom-Zoom Stadium Hiroshima"
+    },
+    "teams": {
+      "road": {
+        "teamCode": "T",
+        "teamName": "Tigers",
+        "score": 5
+      },
+      "home": {
+        "teamCode": "C",
+        "teamName": "Carp",
+        "score": 7
+      }
+    },
+    "jaText": "左中間ソロホームラン（打点1）",
+    "text": "Ohyama homers (6) to left center.",
+    "url": "https://npb.jp/scores/2024/0704/c-t-13/playbyplay.html#com9-1"
+  }
+]
