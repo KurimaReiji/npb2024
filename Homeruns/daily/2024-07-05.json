@@ -1,0 +1,214 @@
+[
+  {
+    "id": "21425116-2024-06",
+    "date": "2024-07-05",
+    "batter": {
+      "id": "21425116",
+      "jaBoxscoreName": "丸",
+      "boxscoreName": "Maru",
+      "batSide": "L"
+    },
+    "pitcher": {
+      "id": "21125137",
+      "jaBoxscoreName": "石山",
+      "boxscoreName": "Ishiyama",
+      "pitchHand": "R"
+    },
+    "number": 6,
+    "inning": 7,
+    "halfInning": "top",
+    "outs": 0,
+    "RoB": "---",
+    "count": {
+      "balls": 0,
+      "strikes": 2
+    },
+    "runs": {
+      "road": 5,
+      "home": 2
+    },
+    "bop": 1,
+    "rbi": 1,
+    "whereHit": "9",
+    "venue": {
+      "jaBoxscoreName": "神宮",
+      "boxscoreName": "Jingu",
+      "jaName": "神宮",
+      "name": "Jingu Stadium"
+    },
+    "teams": {
+      "road": {
+        "teamCode": "G",
+        "teamName": "Giants",
+        "score": 10
+      },
+      "home": {
+        "teamCode": "S",
+        "teamName": "Swallows",
+        "score": 3
+      }
+    },
+    "jaText": "ライトソロホームラン（打点1）",
+    "text": "Maru homers (6) to right field.",
+    "url": "https://npb.jp/scores/2024/0705/s-g-12/playbyplay.html#com7-1"
+  },
+  {
+    "id": "91595136-2024-03",
+    "date": "2024-07-05",
+    "batter": {
+      "id": "91595136",
+      "jaBoxscoreName": "岸田",
+      "boxscoreName": "Kishida",
+      "batSide": "R"
+    },
+    "pitcher": {
+      "id": "51955138",
+      "jaBoxscoreName": "清水",
+      "boxscoreName": "Shimizu",
+      "pitchHand": "R"
+    },
+    "number": 3,
+    "inning": 9,
+    "halfInning": "top",
+    "outs": 2,
+    "RoB": "12-",
+    "count": {
+      "balls": 1,
+      "strikes": 2
+    },
+    "runs": {
+      "road": 7,
+      "home": 3
+    },
+    "bop": 7,
+    "rbi": 3,
+    "whereHit": "7",
+    "venue": {
+      "jaBoxscoreName": "神宮",
+      "boxscoreName": "Jingu",
+      "jaName": "神宮",
+      "name": "Jingu Stadium"
+    },
+    "teams": {
+      "road": {
+        "teamCode": "G",
+        "teamName": "Giants",
+        "score": 10
+      },
+      "home": {
+        "teamCode": "S",
+        "teamName": "Swallows",
+        "score": 3
+      }
+    },
+    "jaText": "レフト3ランホームラン（打点3）",
+    "text": "Kishida homers (3) to left field.",
+    "url": "https://npb.jp/scores/2024/0705/s-g-12/playbyplay.html#com9-1"
+  },
+  {
+    "id": "91895133-2024-06",
+    "date": "2024-07-05",
+    "batter": {
+      "id": "91895133",
+      "jaBoxscoreName": "山田",
+      "boxscoreName": "Yamada",
+      "batSide": "R"
+    },
+    "pitcher": {
+      "id": "41045138",
+      "jaBoxscoreName": "戸郷",
+      "boxscoreName": "Togo",
+      "pitchHand": "R"
+    },
+    "number": 6,
+    "inning": 6,
+    "halfInning": "bottom",
+    "outs": 0,
+    "RoB": "---",
+    "count": {
+      "balls": 0,
+      "strikes": 0
+    },
+    "runs": {
+      "road": 5,
+      "home": 1
+    },
+    "bop": 3,
+    "rbi": 1,
+    "whereHit": "7",
+    "venue": {
+      "jaBoxscoreName": "神宮",
+      "boxscoreName": "Jingu",
+      "jaName": "神宮",
+      "name": "Jingu Stadium"
+    },
+    "teams": {
+      "road": {
+        "teamCode": "G",
+        "teamName": "Giants",
+        "score": 10
+      },
+      "home": {
+        "teamCode": "S",
+        "teamName": "Swallows",
+        "score": 3
+      }
+    },
+    "jaText": "レフトソロホームラン（打点1）",
+    "text": "Yamada homers (6) to left field.",
+    "url": "https://npb.jp/scores/2024/0705/s-g-12/playbyplay.html#com6-2"
+  },
+  {
+    "id": "81985135-2024-02",
+    "date": "2024-07-05",
+    "batter": {
+      "id": "81985135",
+      "jaBoxscoreName": "鈴木大",
+      "boxscoreName": "D.Suzuki",
+      "batSide": "L"
+    },
+    "pitcher": {
+      "id": "11815117",
+      "jaBoxscoreName": "和田",
+      "boxscoreName": "Wada",
+      "pitchHand": "L"
+    },
+    "number": 2,
+    "inning": 4,
+    "halfInning": "top",
+    "outs": 0,
+    "RoB": "1-3",
+    "count": {
+      "balls": 0,
+      "strikes": 0
+    },
+    "runs": {
+      "road": 0,
+      "home": 1
+    },
+    "bop": 5,
+    "rbi": 3,
+    "whereHit": "9",
+    "venue": {
+      "jaBoxscoreName": "みずほPayPay",
+      "boxscoreName": "MIZUHO PayPay Dome",
+      "jaName": "みずほPayPayドーム福岡",
+      "name": "MIZUHO PayPay Dome FUKUOKA"
+    },
+    "teams": {
+      "road": {
+        "teamCode": "E",
+        "teamName": "Eagles",
+        "score": 5
+      },
+      "home": {
+        "teamCode": "H",
+        "teamName": "Hawks",
+        "score": 1
+      }
+    },
+    "jaText": "ライト3ランホームラン（打点3）",
+    "text": "D.Suzuki homers (2) to right field.",
+    "url": "https://npb.jp/scores/2024/0705/h-e-10/playbyplay.html#com4-1"
+  }
+]
