@@ -1,0 +1,31 @@
+[
+  {
+    "playerId": "73275159",
+    "jaRegisteredName": "黃　錦豪",
+    "date": "2024-07-02",
+    "jaEvent": "育成選手登録",
+    "newValue": {
+      "teamCode": "G",
+      "primaryNumber": "041",
+      "primaryPosition": "Pitcher",
+      "jaStatus": "育成選手",
+      "playerId": "73275159",
+      "jaRegisteredName": "黃　錦豪",
+      "batSide": "L",
+      "pitchHand": "L",
+      "height": "184",
+      "weight": "77",
+      "birthDate": "2005-12-04",
+      "jaNotes": "7/2 育成選手登録",
+      "notes": "Registered (Jul. 2).",
+      "jaBoxscoreName": "黃",
+      "boxscoreName": "Huang",
+      "jaFullName": "黃　錦豪",
+      "jaFirstName": "錦豪",
+      "jaLastName": "黃",
+      "fullLFMName": "Huang, Chin-Hao",
+      "firstName": "Chin-Hao",
+      "lastName": "Huang"
+    }
+  }
+]

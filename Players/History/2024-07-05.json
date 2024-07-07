@@ -1,0 +1,39 @@
+[
+  {
+    "playerId": "93095159",
+    "jaRegisteredName": "Ｍ．レイノルズ",
+    "date": "2024-07-05",
+    "jaEvent": "自由契約",
+    "jaEventDetails": "ウエイバー不請求",
+    "newValue": {
+      "teamCode": "",
+      "primaryNumber": "",
+      "primaryPosition": "",
+      "jaStatus": "退団"
+    }
+  },
+  {
+    "playerId": "11415138",
+    "jaRegisteredName": "野村　大樹",
+    "date": "2024-07-05",
+    "jaEvent": "支配下選手登録",
+    "newValue": {
+      "teamCode": "L",
+      "primaryNumber": "67",
+      "primaryPosition": "Infielder",
+      "jaStatus": "支配下選手"
+    }
+  },
+  {
+    "playerId": "41745136",
+    "jaRegisteredName": "齊藤　大将",
+    "date": "2024-07-05",
+    "jaEvent": "育成選手登録",
+    "newValue": {
+      "teamCode": "H",
+      "primaryNumber": "177",
+      "primaryPosition": "Pitcher",
+      "jaStatus": "育成選手"
+    }
+  }
+]

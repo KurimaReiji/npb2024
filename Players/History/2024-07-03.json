@@ -1,0 +1,60 @@
+[
+  {
+    "playerId": "93295159",
+    "jaRegisteredName": "Ａ．マーティン",
+    "date": "2024-07-03",
+    "jaEvent": "育成選手登録",
+    "newValue": {
+      "teamCode": "M",
+      "primaryNumber": "138",
+      "primaryPosition": "Outfielder",
+      "jaStatus": "育成選手",
+      "playerId": "93295159",
+      "jaRegisteredName": "Ａ．マーティン",
+      "batSide": "R",
+      "pitchHand": "R",
+      "height": "188",
+      "weight": "95",
+      "birthDate": "2000-10-14",
+      "jaNotes": "7/3 育成選手登録",
+      "notes": "Registered (Jul. 3).",
+      "jaBoxscoreName": "マーティン",
+      "boxscoreName": "Martin, Andy",
+      "jaFullName": "アンディ・マーティン",
+      "jaFirstName": "アンディ",
+      "jaLastName": "マーティン",
+      "fullLFMName": "Martin, Andy",
+      "firstName": "Andy",
+      "lastName": "Martin"
+    }
+  },
+  {
+    "playerId": "13215157",
+    "jaRegisteredName": "中川　拓真",
+    "date": "2024-07-03",
+    "jaEvent": "支配下選手登録",
+    "newValue": {
+      "teamCode": "S",
+      "primaryNumber": "90",
+      "primaryPosition": "Catcher",
+      "jaStatus": "支配下選手",
+      "playerId": "13215157",
+      "jaRegisteredName": "中川　拓真",
+      "batSide": "R",
+      "pitchHand": "R",
+      "height": "180",
+      "weight": "88",
+      "birthDate": "2002-07-17",
+      "jaNotes": "7/3 支配下選手登録",
+      "notes": "Registered (Jul. 3).",
+      "jaBoxscoreName": "中川",
+      "boxscoreName": "Nakagawa",
+      "jaFullName": "中川　拓真",
+      "jaFirstName": "中川",
+      "jaLastName": "拓真",
+      "fullLFMName": "Nakagawa, Takuma",
+      "firstName": "Takuma",
+      "lastName": "Nakagawa"
+    }
+  }
+]
