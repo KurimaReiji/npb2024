@@ -1,0 +1,57 @@
+[
+  {
+    "playerId": "03205159",
+    "jaRegisteredName": "Ｍ．フォード",
+    "date": "2024-07-08",
+    "jaEvent": "支配下選手登録",
+    "newValue": {
+      "teamCode": "DB",
+      "primaryNumber": "99",
+      "primaryPosition": "Infielder",
+      "jaStatus": "支配下選手",
+      "playerId": "03205159",
+      "jaRegisteredName": "Ｍ．フォード",
+      "batSide": "L",
+      "pitchHand": "R",
+      "height": "183",
+      "weight": "102",
+      "birthDate": "1992-07-04",
+      "jaNotes": "7/8 支配下選手登録",
+      "notes": "Registered (Jul. 8).",
+      "jaBoxscoreName": "フォード",
+      "boxscoreName": "Ford",
+      "jaFullName": "マイク・フォード",
+      "jaFirstName": "マイク",
+      "jaLastName": "フォード",
+      "fullLFMName": "Ford, Mike",
+      "firstName": "Mike",
+      "lastName": "Ford"
+    }
+  },
+  {
+    "playerId": "73175153",
+    "jaRegisteredName": "松木平　優太",
+    "date": "2024-07-08",
+    "jaEvent": "育成選手登録抹消",
+    "jaEventDetails": "支配下選手へ移行",
+    "newValue": {
+      "teamCode": "",
+      "primaryNumber": "",
+      "primaryPosition": "",
+      "jaStatus": ""
+    }
+  },
+  {
+    "playerId": "73175153",
+    "jaRegisteredName": "松木平　優太",
+    "date": "2024-07-08",
+    "jaEvent": "支配下選手登録",
+    "jaEventDetails": "育成選手から移行",
+    "newValue": {
+      "teamCode": "D",
+      "primaryNumber": "69",
+      "primaryPosition": "Pitcher",
+      "jaStatus": "支配下選手"
+    }
+  }
+]
