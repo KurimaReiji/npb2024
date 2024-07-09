@@ -2,7 +2,7 @@
   {
     "jaText": "（走者・龍空）二塁牽制アウト",
     "text": "Tsuchida picked off at 2nd base.",
-    "pickoff": ""
+    "pickoff": "Y"
   },
   {
     "jaText": "（走者・高橋周）二塁盗塁失敗",
@@ -31,39 +31,23 @@
   },
   {
     "jaText": "（走者・門脇）二塁盗塁失敗",
-    "text": "Kadowaki caught stealing 2nd base.",
-    "pickoff": "",
-    "catcher": {},
-    "catchers": [
-      {
-        "id": "31135114",
-        "jaBoxscoreName": "會澤",
-        "boxscoreName": "Aizawa"
-      },
-      {
-        "id": "11915134",
-        "jaBoxscoreName": "坂倉",
-        "boxscoreName": "Sakakura"
-      }
-    ]
+    "text": "Kadowaki picked off and caught stealing 2nd base.",
+    "pickoff": "Y",
+    "catcher": {
+      "id": "11915134",
+      "jaBoxscoreName": "坂倉",
+      "boxscoreName": "Sakakura"
+    }
   },
   {
     "jaText": "（走者・山野辺）二塁盗塁成功",
     "text": "Yamanobe steals 2nd base.",
     "pickoff": "",
-    "catcher": {},
-    "catchers": [
-      {
-        "id": "61065137",
-        "jaBoxscoreName": "伏見",
-        "boxscoreName": "Fushimi"
-      },
-      {
-        "id": "51055138",
-        "jaBoxscoreName": "田宮",
-        "boxscoreName": "Tamiya"
-      }
-    ]
+    "catcher": {
+      "id": "61065137",
+      "jaBoxscoreName": "伏見",
+      "boxscoreName": "Fushimi"
+    }
   },
   {
     "jaText": "（走者・小郷）三塁盗塁成功（ダブルスチール）",
