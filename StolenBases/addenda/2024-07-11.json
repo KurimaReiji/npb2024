@@ -1,0 +1,56 @@
+[
+  {
+    "jaText": "（走者・梶原）二塁盗塁成功",
+    "text": "Kajiwara steals 2nd base.",
+    "pickoff": "",
+    "catcher": {},
+    "catchers": [
+      {
+        "id": "91195138",
+        "jaBoxscoreName": "石橋",
+        "boxscoreName": "Ishibashi"
+      },
+      {
+        "id": "41545130",
+        "jaBoxscoreName": "加藤匠",
+        "boxscoreName": "T.Katoh"
+      }
+    ]
+  },
+  {
+    "jaText": "（走者・森敬）二塁盗塁失敗",
+    "text": "K.Mori caught stealing 2nd base.",
+    "pickoff": "",
+    "catcher": {},
+    "catchers": [
+      {
+        "id": "91195138",
+        "jaBoxscoreName": "石橋",
+        "boxscoreName": "Ishibashi"
+      },
+      {
+        "id": "41545130",
+        "jaBoxscoreName": "加藤匠",
+        "boxscoreName": "T.Katoh"
+      }
+    ]
+  },
+  {
+    "jaText": "（走者・樋口）二塁盗塁成功",
+    "text": "Higuchi steals 2nd base.",
+    "pickoff": "",
+    "catcher": {},
+    "catchers": [
+      {
+        "id": "23125136",
+        "jaBoxscoreName": "山本",
+        "boxscoreName": "Yamamoto"
+      },
+      {
+        "id": "41245132",
+        "jaBoxscoreName": "戸柱",
+        "boxscoreName": "Tobashira"
+      }
+    ]
+  }
+]
