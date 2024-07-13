@@ -6,8 +6,8 @@
   },
   {
     "jaText": "（走者・岡本和）二塁盗塁失敗",
-    "text": "K.Okamoto caught stealing 2nd base.",
-    "pickoff": ""
+    "text": "K.Okamoto picked off and caught stealing 2nd base.",
+    "pickoff": "Y"
   },
   {
     "jaText": "（走者・京田）二塁盗塁成功",

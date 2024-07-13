@@ -12,7 +12,13 @@
   {
     "jaText": "（走者・髙松）二塁盗塁失敗",
     "text": "Takamatsu caught stealing 2nd base.",
-    "pickoff": ""
+    "pickoff": "",
+    "batter": {
+      "id": "11415138",
+      "jaBoxscoreName": "野村大",
+      "boxscoreName": "D.Nomura",
+      "batSide": "R"
+    }
   },
   {
     "jaText": "（走者・太田）二塁盗塁失敗",
