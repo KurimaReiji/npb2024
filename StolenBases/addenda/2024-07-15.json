@@ -1,0 +1,40 @@
+[
+  {
+    "jaText": "（走者・佐藤輝）二塁盗塁失敗",
+    "text": "T.Sato caught stealing 2nd base.",
+    "pickoff": ""
+  },
+  {
+    "jaText": "（走者・小幡）二塁盗塁失敗",
+    "text": "Obata caught stealing 2nd base.",
+    "pickoff": ""
+  },
+  {
+    "jaText": "（走者・村上）二塁盗塁成功",
+    "text": "Murakami steals 2nd base.",
+    "pickoff": "",
+    "catcher": {},
+    "catchers": [
+      {
+        "id": "41545130",
+        "jaBoxscoreName": "加藤匠",
+        "boxscoreName": "T.Katoh"
+      },
+      {
+        "id": "91195138",
+        "jaBoxscoreName": "石橋",
+        "boxscoreName": "Ishibashi"
+      }
+    ]
+  },
+  {
+    "jaText": "（走者・辰己）二塁盗塁成功",
+    "text": "R.Tatsumi steals 2nd base.",
+    "pickoff": ""
+  },
+  {
+    "jaText": "（走者・外崎）二塁盗塁成功",
+    "text": "Tonosaki steals 2nd base.",
+    "pickoff": ""
+  }
+]
