@@ -13,19 +13,11 @@
     "jaText": "（走者・村上）二塁盗塁成功",
     "text": "Murakami steals 2nd base.",
     "pickoff": "",
-    "catcher": {},
-    "catchers": [
-      {
-        "id": "41545130",
-        "jaBoxscoreName": "加藤匠",
-        "boxscoreName": "T.Katoh"
-      },
-      {
-        "id": "91195138",
-        "jaBoxscoreName": "石橋",
-        "boxscoreName": "Ishibashi"
-      }
-    ]
+    "catcher": {
+      "id": "91195138",
+      "jaBoxscoreName": "石橋",
+      "boxscoreName": "Ishibashi"
+    }
   },
   {
     "jaText": "（走者・辰己）二塁盗塁成功",
