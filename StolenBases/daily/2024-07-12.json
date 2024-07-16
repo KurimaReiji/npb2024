@@ -7,10 +7,10 @@
       "boxscoreName": "Martinez"
     },
     "batter": {
-      "id": "51055138",
-      "jaBoxscoreName": "田宮",
-      "boxscoreName": "Tamiya",
-      "batSide": "L"
+      "id": "31435138",
+      "jaBoxscoreName": "野村",
+      "boxscoreName": "Nomura",
+      "batSide": "R"
     },
     "pitcher": {
       "id": "53755138",
@@ -263,9 +263,9 @@
       "boxscoreName": "Oka"
     },
     "batter": {
-      "id": "71075151",
-      "jaBoxscoreName": "佐藤",
-      "boxscoreName": "Satoh",
+      "id": "41645136",
+      "jaBoxscoreName": "藤岡",
+      "boxscoreName": "Fujioka",
       "batSide": "L"
     },
     "pitcher": {

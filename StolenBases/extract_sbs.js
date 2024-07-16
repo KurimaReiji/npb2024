@@ -25,7 +25,7 @@ infiles
         const plays = playByPlay
           .map((p, i, a) => {
             if (p.isRunnerEvent) {
-              Object.assign(p, { batter: a.slice(i + 1).filter(pp => pp.batter).at(0).batter })
+              Object.assign(p, { batter: who_at_plate(i, a) });
             }
             return p;
           })
@@ -151,4 +151,15 @@ function get_en_text(sb) {
   }
 }
 
-// key order
+function who_at_plate(idx, plays) {
+  const prevPlay = plays.slice(idx - 1).filter(pp => pp.batter).at(0);
+  const nextPlay = plays.slice(idx + 1).filter(pp => pp.batter).at(0);
+  const curPlay = plays[idx];
+  if (prevPlay.jaResult.text.includes("三振") && curPlay.outs === prevPlay.outs && curPlay.runners === prevPlay.runners) {
+    return prevPlay.batter;
+  } else {
+    return nextPlay.batter;
+  }
+  // 前の打者が三振の場合、三振の投球で盗塁した可能性があり、その場合は前の打者が打席にいる。
+  // 前の打者とアウトカウントが変化していれば、次の打者が打席にいる。
+}

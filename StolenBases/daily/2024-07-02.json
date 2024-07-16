@@ -7,10 +7,10 @@
       "boxscoreName": "Tanaka"
     },
     "batter": {
-      "id": "03305153",
-      "jaBoxscoreName": "山﨑伊",
-      "boxscoreName": "I.Yamasaki",
-      "batSide": "L"
+      "id": "31835134",
+      "jaBoxscoreName": "細川",
+      "boxscoreName": "Hosokawa",
+      "batSide": "R"
     },
     "pitcher": {
       "id": "03305153",
@@ -264,10 +264,10 @@
       "boxscoreName": "Ogoh"
     },
     "batter": {
-      "id": "91495139",
-      "jaBoxscoreName": "森",
-      "boxscoreName": "Mori",
-      "batSide": "L"
+      "id": "41845132",
+      "jaBoxscoreName": "村林",
+      "boxscoreName": "Murabayashi",
+      "batSide": "R"
     },
     "pitcher": {
       "id": "81985157",

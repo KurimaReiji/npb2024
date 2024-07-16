@@ -71,9 +71,9 @@
       "boxscoreName": "Ohyama"
     },
     "batter": {
-      "id": "21825155",
-      "jaBoxscoreName": "前川",
-      "boxscoreName": "Maegawa",
+      "id": "41045153",
+      "jaBoxscoreName": "佐藤輝",
+      "boxscoreName": "T.Sato",
       "batSide": "L"
     },
     "pitcher": {
@@ -971,9 +971,9 @@
       "boxscoreName": "Kishi"
     },
     "batter": {
-      "id": "03505136",
-      "jaBoxscoreName": "ソト",
-      "boxscoreName": "Soto",
+      "id": "41245130",
+      "jaBoxscoreName": "外崎",
+      "boxscoreName": "Tonosaki",
       "batSide": "R"
     },
     "pitcher": {

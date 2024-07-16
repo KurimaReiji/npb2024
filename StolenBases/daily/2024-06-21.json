@@ -7,10 +7,10 @@
       "boxscoreName": "Noma"
     },
     "batter": {
-      "id": "51055155",
-      "jaBoxscoreName": "末包",
-      "boxscoreName": "Suekane",
-      "batSide": "R"
+      "id": "01705138",
+      "jaBoxscoreName": "小園",
+      "boxscoreName": "Kozono",
+      "batSide": "L"
     },
     "pitcher": {
       "id": "61265153",
@@ -396,9 +396,9 @@
       "boxscoreName": "Asamura"
     },
     "batter": {
-      "id": "71375138",
-      "jaBoxscoreName": "太田",
-      "boxscoreName": "Ohta",
+      "id": "63965157",
+      "jaBoxscoreName": "フランコ",
+      "boxscoreName": "Franco",
       "batSide": "R"
     },
     "pitcher": {
