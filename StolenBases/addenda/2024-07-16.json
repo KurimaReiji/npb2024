@@ -2,47 +2,31 @@
   {
     "jaText": "（走者・野口）二塁牽制アウト",
     "text": "Noguchi picked off at 2nd base.",
-    "pickoff": ""
+    "pickoff": "Y"
   },
   {
     "jaText": "（走者・細川）一塁牽制アウト",
     "text": "Hosokawa picked off at 1st base.",
-    "pickoff": ""
+    "pickoff": "Y"
   },
   {
     "jaText": "（走者・小深田）二塁盗塁失敗",
     "text": "Kobukata caught stealing 2nd base.",
     "pickoff": "",
-    "catcher": {},
-    "catchers": [
-      {
-        "id": "61065137",
-        "jaBoxscoreName": "伏見",
-        "boxscoreName": "Fushimi"
-      },
-      {
-        "id": "51055138",
-        "jaBoxscoreName": "田宮",
-        "boxscoreName": "Tamiya"
-      }
-    ]
+    "catcher": {
+      "id": "61065137",
+      "jaBoxscoreName": "伏見",
+      "boxscoreName": "Fushimi"
+    }
   },
   {
     "jaText": "（走者・田宮）二塁盗塁成功",
     "text": "Tamiya steals 2nd base.",
     "pickoff": "",
-    "catcher": {},
-    "catchers": [
-      {
-        "id": "71375138",
-        "jaBoxscoreName": "太田",
-        "boxscoreName": "Ohta"
-      },
-      {
-        "id": "61165134",
-        "jaBoxscoreName": "石原",
-        "boxscoreName": "Ishihara"
-      }
-    ]
+    "catcher": {
+      "id": "61165134",
+      "jaBoxscoreName": "石原",
+      "boxscoreName": "Ishihara"
+    }
   }
 ]
