@@ -1,0 +1,27 @@
+[
+  {
+    "jaText": "（走者・大山）二塁盗塁失敗",
+    "text": "Ohyama caught stealing 2nd base.",
+    "pickoff": ""
+  },
+  {
+    "jaText": "（走者・五十幡）二塁盗塁成功",
+    "text": "Isobata steals 2nd base.",
+    "pickoff": ""
+  },
+  {
+    "jaText": "（走者・周東）二塁盗塁成功",
+    "text": "Shuto steals 2nd base.",
+    "pickoff": ""
+  },
+  {
+    "jaText": "（走者・小川）二塁盗塁成功",
+    "text": "Ogawa steals 2nd base.",
+    "pickoff": ""
+  },
+  {
+    "jaText": "（走者・川瀬）二塁盗塁成功",
+    "text": "Kawase steals 2nd base.",
+    "pickoff": ""
+  }
+]

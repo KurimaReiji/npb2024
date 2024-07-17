@@ -1,0 +1,322 @@
+[
+  {
+    "date": "2024-07-17",
+    "runner": {
+      "id": "21325134",
+      "jaBoxscoreName": "大山",
+      "boxscoreName": "Ohyama"
+    },
+    "batter": {
+      "id": "11915132",
+      "jaBoxscoreName": "坂本",
+      "boxscoreName": "Sakamoto",
+      "batSide": "R"
+    },
+    "pitcher": {
+      "id": "01105138",
+      "jaBoxscoreName": "泉",
+      "boxscoreName": "Izumi",
+      "pitchHand": "R"
+    },
+    "catcher": {
+      "id": "91595136",
+      "jaBoxscoreName": "岸田",
+      "boxscoreName": "Kishida"
+    },
+    "scoring": "CaughtStealing",
+    "base": "2B",
+    "pickoff": "",
+    "inning": 6,
+    "halfInning": "top",
+    "outs": 1,
+    "RoB": "1--",
+    "runs": {
+      "road": 3,
+      "home": 4
+    },
+    "venue": {
+      "jaBoxscoreName": "東京ドーム",
+      "boxscoreName": "Tokyo Dome",
+      "jaName": "東京ドーム",
+      "name": "Tokyo Dome"
+    },
+    "teams": {
+      "road": {
+        "teamCode": "T",
+        "teamName": "Tigers",
+        "score": 3
+      },
+      "home": {
+        "teamCode": "G",
+        "teamName": "Giants",
+        "score": 4
+      }
+    },
+    "jaText": "（走者・大山）二塁盗塁失敗",
+    "text": "Ohyama caught stealing 2nd base.",
+    "url": "https://npb.jp/scores/2024/0717/g-t-15/playbyplay.html#com6-1",
+    "catchers": [
+      {
+        "id": "91595136",
+        "jaBoxscoreName": "岸田",
+        "boxscoreName": "Kishida"
+      }
+    ]
+  },
+  {
+    "date": "2024-07-17",
+    "runner": {
+      "id": "11315153",
+      "jaBoxscoreName": "五十幡",
+      "boxscoreName": "Isobata"
+    },
+    "batter": {
+      "id": "11815138",
+      "jaBoxscoreName": "万波",
+      "boxscoreName": "Mannami",
+      "batSide": "R"
+    },
+    "pitcher": {
+      "id": "21725159",
+      "jaBoxscoreName": "古謝",
+      "boxscoreName": "Koja",
+      "pitchHand": "L"
+    },
+    "catcher": {
+      "id": "71375138",
+      "jaBoxscoreName": "太田",
+      "boxscoreName": "Ohta"
+    },
+    "scoring": "StolenBase",
+    "base": "2B",
+    "pickoff": "",
+    "inning": 8,
+    "halfInning": "bottom",
+    "outs": 0,
+    "RoB": "1--",
+    "runs": {
+      "road": 1,
+      "home": 2
+    },
+    "venue": {
+      "jaBoxscoreName": "エスコンＦ",
+      "boxscoreName": "ES CON FIELD",
+      "jaName": "エスコンフィールドＨＯＫＫＡＩＤＯ",
+      "name": "ES CON FIELD HOKKAIDO"
+    },
+    "teams": {
+      "road": {
+        "teamCode": "E",
+        "teamName": "Eagles",
+        "score": 2
+      },
+      "home": {
+        "teamCode": "F",
+        "teamName": "Fighters",
+        "score": 6
+      }
+    },
+    "jaText": "（走者・五十幡）二塁盗塁成功",
+    "text": "Isobata steals 2nd base.",
+    "url": "https://npb.jp/scores/2024/0717/f-e-13/playbyplay.html#com8-2",
+    "catchers": [
+      {
+        "id": "71375138",
+        "jaBoxscoreName": "太田",
+        "boxscoreName": "Ohta"
+      }
+    ]
+  },
+  {
+    "date": "2024-07-17",
+    "runner": {
+      "id": "21925136",
+      "jaBoxscoreName": "周東",
+      "boxscoreName": "Shuto"
+    },
+    "batter": {
+      "id": "31335131",
+      "jaBoxscoreName": "今宮",
+      "boxscoreName": "Imamiya",
+      "batSide": "R"
+    },
+    "pitcher": {
+      "id": "31635153",
+      "jaBoxscoreName": "中森",
+      "boxscoreName": "Nakamori",
+      "pitchHand": "R"
+    },
+    "catcher": {
+      "id": "71075151",
+      "jaBoxscoreName": "佐藤",
+      "boxscoreName": "Satoh"
+    },
+    "scoring": "StolenBase",
+    "base": "2B",
+    "pickoff": "",
+    "inning": 5,
+    "halfInning": "bottom",
+    "outs": 0,
+    "RoB": "1--",
+    "runs": {
+      "road": 3,
+      "home": 2
+    },
+    "venue": {
+      "jaBoxscoreName": "みずほPayPay",
+      "boxscoreName": "MIZUHO PayPay Dome",
+      "jaName": "みずほPayPayドーム福岡",
+      "name": "MIZUHO PayPay Dome FUKUOKA"
+    },
+    "teams": {
+      "road": {
+        "teamCode": "M",
+        "teamName": "Marines",
+        "score": 4
+      },
+      "home": {
+        "teamCode": "H",
+        "teamName": "Hawks",
+        "score": 6
+      }
+    },
+    "jaText": "（走者・周東）二塁盗塁成功",
+    "text": "Shuto steals 2nd base.",
+    "url": "https://npb.jp/scores/2024/0717/h-m-15/playbyplay.html#com5-2",
+    "catchers": [
+      {
+        "id": "71075151",
+        "jaBoxscoreName": "佐藤",
+        "boxscoreName": "Satoh"
+      }
+    ]
+  },
+  {
+    "date": "2024-07-17",
+    "runner": {
+      "id": "11715153",
+      "jaBoxscoreName": "小川",
+      "boxscoreName": "Ogawa"
+    },
+    "batter": {
+      "id": "71075151",
+      "jaBoxscoreName": "佐藤",
+      "boxscoreName": "Satoh",
+      "batSide": "L"
+    },
+    "pitcher": {
+      "id": "33435157",
+      "jaBoxscoreName": "ヘルナンデス",
+      "boxscoreName": "Hernandez",
+      "pitchHand": "L"
+    },
+    "catcher": {
+      "id": "91595133",
+      "jaBoxscoreName": "甲斐",
+      "boxscoreName": "T.Kai"
+    },
+    "scoring": "StolenBase",
+    "base": "2B",
+    "pickoff": "",
+    "inning": 8,
+    "halfInning": "top",
+    "outs": 1,
+    "RoB": "1--",
+    "runs": {
+      "road": 3,
+      "home": 4
+    },
+    "venue": {
+      "jaBoxscoreName": "みずほPayPay",
+      "boxscoreName": "MIZUHO PayPay Dome",
+      "jaName": "みずほPayPayドーム福岡",
+      "name": "MIZUHO PayPay Dome FUKUOKA"
+    },
+    "teams": {
+      "road": {
+        "teamCode": "M",
+        "teamName": "Marines",
+        "score": 4
+      },
+      "home": {
+        "teamCode": "H",
+        "teamName": "Hawks",
+        "score": 6
+      }
+    },
+    "jaText": "（走者・小川）二塁盗塁成功",
+    "text": "Ogawa steals 2nd base.",
+    "url": "https://npb.jp/scores/2024/0717/h-m-15/playbyplay.html#com8-1",
+    "catchers": [
+      {
+        "id": "91595133",
+        "jaBoxscoreName": "甲斐",
+        "boxscoreName": "T.Kai"
+      }
+    ]
+  },
+  {
+    "date": "2024-07-17",
+    "runner": {
+      "id": "11715132",
+      "jaBoxscoreName": "川瀬",
+      "boxscoreName": "Kawase"
+    },
+    "batter": {
+      "id": "91595133",
+      "jaBoxscoreName": "甲斐",
+      "boxscoreName": "T.Kai",
+      "batSide": "R"
+    },
+    "pitcher": {
+      "id": "01205138",
+      "jaBoxscoreName": "中村稔",
+      "boxscoreName": "T.Nakamura",
+      "pitchHand": "L"
+    },
+    "catcher": {
+      "id": "71075151",
+      "jaBoxscoreName": "佐藤",
+      "boxscoreName": "Satoh"
+    },
+    "scoring": "StolenBase",
+    "base": "2B",
+    "pickoff": "",
+    "inning": 8,
+    "halfInning": "bottom",
+    "outs": 2,
+    "RoB": "1-3",
+    "runs": {
+      "road": 3,
+      "home": 4
+    },
+    "venue": {
+      "jaBoxscoreName": "みずほPayPay",
+      "boxscoreName": "MIZUHO PayPay Dome",
+      "jaName": "みずほPayPayドーム福岡",
+      "name": "MIZUHO PayPay Dome FUKUOKA"
+    },
+    "teams": {
+      "road": {
+        "teamCode": "M",
+        "teamName": "Marines",
+        "score": 4
+      },
+      "home": {
+        "teamCode": "H",
+        "teamName": "Hawks",
+        "score": 6
+      }
+    },
+    "jaText": "（走者・川瀬）二塁盗塁成功",
+    "text": "Kawase steals 2nd base.",
+    "url": "https://npb.jp/scores/2024/0717/h-m-15/playbyplay.html#com8-2",
+    "catchers": [
+      {
+        "id": "71075151",
+        "jaBoxscoreName": "佐藤",
+        "boxscoreName": "Satoh"
+      }
+    ]
+  }
+]
