@@ -1,0 +1,452 @@
+[
+  {
+    "date": "2024-07-19",
+    "runner": {
+      "id": "31335159",
+      "jaBoxscoreName": "井上",
+      "boxscoreName": "Inoue"
+    },
+    "batter": {
+      "id": "33535159",
+      "jaBoxscoreName": "度会",
+      "boxscoreName": "Watarai",
+      "batSide": "L"
+    },
+    "pitcher": {
+      "id": "41945139",
+      "jaBoxscoreName": "田口",
+      "boxscoreName": "Taguchi",
+      "pitchHand": "L"
+    },
+    "catcher": {
+      "id": "51255118",
+      "jaBoxscoreName": "中村",
+      "boxscoreName": "Nakamura"
+    },
+    "scoring": "PickedOff",
+    "base": "1B",
+    "pickoff": "",
+    "inning": 9,
+    "halfInning": "top",
+    "outs": 0,
+    "RoB": "1--",
+    "runs": {
+      "road": 8,
+      "home": 6
+    },
+    "venue": {
+      "jaBoxscoreName": "神宮",
+      "boxscoreName": "Jingu",
+      "jaName": "神宮",
+      "name": "Jingu Stadium"
+    },
+    "teams": {
+      "road": {
+        "teamCode": "DB",
+        "teamName": "Baystars",
+        "score": 8
+      },
+      "home": {
+        "teamCode": "S",
+        "teamName": "Swallows",
+        "score": 7
+      }
+    },
+    "jaText": "（走者・井上）一塁牽制アウト",
+    "text": "Inoue picked off at 1st base.",
+    "url": "https://npb.jp/scores/2024/0719/s-db-15/playbyplay.html#com9-1",
+    "catchers": [
+      {
+        "id": "51255118",
+        "jaBoxscoreName": "中村",
+        "boxscoreName": "Nakamura"
+      }
+    ]
+  },
+  {
+    "date": "2024-07-19",
+    "runner": {
+      "id": "51955151",
+      "jaBoxscoreName": "岸",
+      "boxscoreName": "Kishi"
+    },
+    "batter": {
+      "id": "71075136",
+      "jaBoxscoreName": "高木",
+      "boxscoreName": "Takagi",
+      "batSide": "L"
+    },
+    "pitcher": {
+      "id": "53755138",
+      "jaBoxscoreName": "スチュワート・ジュニア",
+      "boxscoreName": "Stewart",
+      "pitchHand": "R"
+    },
+    "catcher": {
+      "id": "91595133",
+      "jaBoxscoreName": "甲斐",
+      "boxscoreName": "T.Kai"
+    },
+    "scoring": "CaughtStealing",
+    "base": "2B",
+    "pickoff": "",
+    "inning": 2,
+    "halfInning": "bottom",
+    "outs": 2,
+    "RoB": "1--",
+    "runs": {
+      "road": 0,
+      "home": 0
+    },
+    "venue": {
+      "jaBoxscoreName": "ベルーナドーム",
+      "boxscoreName": "Belluna Dome",
+      "jaName": "ベルーナドーム",
+      "name": "Belluna Dome"
+    },
+    "teams": {
+      "road": {
+        "teamCode": "H",
+        "teamName": "Hawks",
+        "score": 4
+      },
+      "home": {
+        "teamCode": "L",
+        "teamName": "Lions",
+        "score": 0
+      }
+    },
+    "jaText": "（走者・岸）二塁盗塁失敗",
+    "text": "Kishi caught stealing 2nd base.",
+    "url": "https://npb.jp/scores/2024/0719/l-h-15/playbyplay.html#com2-2",
+    "catchers": [
+      {
+        "id": "91595133",
+        "jaBoxscoreName": "甲斐",
+        "boxscoreName": "T.Kai"
+      }
+    ]
+  },
+  {
+    "date": "2024-07-19",
+    "runner": {
+      "id": "61465133",
+      "jaBoxscoreName": "牧原大",
+      "boxscoreName": "T.Makihara"
+    },
+    "batter": {
+      "id": "91595133",
+      "jaBoxscoreName": "甲斐",
+      "boxscoreName": "T.Kai",
+      "batSide": "R"
+    },
+    "pitcher": {
+      "id": "51255159",
+      "jaBoxscoreName": "武内",
+      "boxscoreName": "Takeuchi",
+      "pitchHand": "L"
+    },
+    "catcher": {},
+    "scoring": "StolenBase",
+    "base": "2B",
+    "pickoff": "",
+    "inning": 4,
+    "halfInning": "top",
+    "outs": 2,
+    "RoB": "1--",
+    "runs": {
+      "road": 1,
+      "home": 0
+    },
+    "venue": {
+      "jaBoxscoreName": "ベルーナドーム",
+      "boxscoreName": "Belluna Dome",
+      "jaName": "ベルーナドーム",
+      "name": "Belluna Dome"
+    },
+    "teams": {
+      "road": {
+        "teamCode": "H",
+        "teamName": "Hawks",
+        "score": 4
+      },
+      "home": {
+        "teamCode": "L",
+        "teamName": "Lions",
+        "score": 0
+      }
+    },
+    "jaText": "（走者・牧原大）二塁盗塁成功",
+    "text": "T.Makihara steals 2nd base.",
+    "url": "https://npb.jp/scores/2024/0719/l-h-15/playbyplay.html#com4-1",
+    "catchers": [
+      {
+        "id": "91995112",
+        "jaBoxscoreName": "炭谷",
+        "boxscoreName": "Sumitani"
+      },
+      {
+        "id": "81785155",
+        "jaBoxscoreName": "古賀",
+        "boxscoreName": "Koga"
+      }
+    ]
+  },
+  {
+    "date": "2024-07-19",
+    "runner": {
+      "id": "11415138",
+      "jaBoxscoreName": "野村大",
+      "boxscoreName": "D.Nomura"
+    },
+    "batter": {
+      "id": "71075136",
+      "jaBoxscoreName": "高木",
+      "boxscoreName": "Takagi",
+      "batSide": "L"
+    },
+    "pitcher": {
+      "id": "53755138",
+      "jaBoxscoreName": "スチュワート・ジュニア",
+      "boxscoreName": "Stewart",
+      "pitchHand": "R"
+    },
+    "catcher": {
+      "id": "91595133",
+      "jaBoxscoreName": "甲斐",
+      "boxscoreName": "T.Kai"
+    },
+    "scoring": "StolenBase",
+    "base": "2B",
+    "pickoff": "",
+    "inning": 5,
+    "halfInning": "bottom",
+    "outs": 1,
+    "RoB": "1--",
+    "runs": {
+      "road": 2,
+      "home": 0
+    },
+    "venue": {
+      "jaBoxscoreName": "ベルーナドーム",
+      "boxscoreName": "Belluna Dome",
+      "jaName": "ベルーナドーム",
+      "name": "Belluna Dome"
+    },
+    "teams": {
+      "road": {
+        "teamCode": "H",
+        "teamName": "Hawks",
+        "score": 4
+      },
+      "home": {
+        "teamCode": "L",
+        "teamName": "Lions",
+        "score": 0
+      }
+    },
+    "jaText": "（走者・野村大）二塁盗塁成功",
+    "text": "D.Nomura steals 2nd base.",
+    "url": "https://npb.jp/scores/2024/0719/l-h-15/playbyplay.html#com5-2",
+    "catchers": [
+      {
+        "id": "91595133",
+        "jaBoxscoreName": "甲斐",
+        "boxscoreName": "T.Kai"
+      }
+    ]
+  },
+  {
+    "date": "2024-07-19",
+    "runner": {
+      "id": "41245130",
+      "jaBoxscoreName": "外崎",
+      "boxscoreName": "Tonosaki"
+    },
+    "batter": {
+      "id": "91995112",
+      "jaBoxscoreName": "炭谷",
+      "boxscoreName": "Sumitani",
+      "batSide": "R"
+    },
+    "pitcher": {
+      "id": "53755138",
+      "jaBoxscoreName": "スチュワート・ジュニア",
+      "boxscoreName": "Stewart",
+      "pitchHand": "R"
+    },
+    "catcher": {
+      "id": "91595133",
+      "jaBoxscoreName": "甲斐",
+      "boxscoreName": "T.Kai"
+    },
+    "scoring": "StolenBase",
+    "base": "2B",
+    "pickoff": "",
+    "inning": 5,
+    "halfInning": "bottom",
+    "outs": 2,
+    "RoB": "1-3",
+    "runs": {
+      "road": 2,
+      "home": 0
+    },
+    "venue": {
+      "jaBoxscoreName": "ベルーナドーム",
+      "boxscoreName": "Belluna Dome",
+      "jaName": "ベルーナドーム",
+      "name": "Belluna Dome"
+    },
+    "teams": {
+      "road": {
+        "teamCode": "H",
+        "teamName": "Hawks",
+        "score": 4
+      },
+      "home": {
+        "teamCode": "L",
+        "teamName": "Lions",
+        "score": 0
+      }
+    },
+    "jaText": "（走者・外崎）二塁盗塁成功",
+    "text": "Tonosaki steals 2nd base.",
+    "url": "https://npb.jp/scores/2024/0719/l-h-15/playbyplay.html#com5-2",
+    "catchers": [
+      {
+        "id": "91595133",
+        "jaBoxscoreName": "甲斐",
+        "boxscoreName": "T.Kai"
+      }
+    ]
+  },
+  {
+    "date": "2024-07-19",
+    "runner": {
+      "id": "81585153",
+      "jaBoxscoreName": "緒方",
+      "boxscoreName": "R.Ogata"
+    },
+    "batter": {
+      "id": "11715155",
+      "jaBoxscoreName": "川村",
+      "boxscoreName": "Kawamura",
+      "batSide": "L"
+    },
+    "pitcher": {
+      "id": "31835132",
+      "jaBoxscoreName": "本田",
+      "boxscoreName": "Honda",
+      "pitchHand": "R"
+    },
+    "catcher": {},
+    "scoring": "StolenBase",
+    "base": "2B",
+    "pickoff": "",
+    "inning": 8,
+    "halfInning": "top",
+    "outs": 2,
+    "RoB": "1--",
+    "runs": {
+      "road": 4,
+      "home": 0
+    },
+    "venue": {
+      "jaBoxscoreName": "ベルーナドーム",
+      "boxscoreName": "Belluna Dome",
+      "jaName": "ベルーナドーム",
+      "name": "Belluna Dome"
+    },
+    "teams": {
+      "road": {
+        "teamCode": "H",
+        "teamName": "Hawks",
+        "score": 4
+      },
+      "home": {
+        "teamCode": "L",
+        "teamName": "Lions",
+        "score": 0
+      }
+    },
+    "jaText": "（走者・緒方）二塁盗塁成功",
+    "text": "R.Ogata steals 2nd base.",
+    "url": "https://npb.jp/scores/2024/0719/l-h-15/playbyplay.html#com8-1",
+    "catchers": [
+      {
+        "id": "91995112",
+        "jaBoxscoreName": "炭谷",
+        "boxscoreName": "Sumitani"
+      },
+      {
+        "id": "81785155",
+        "jaBoxscoreName": "古賀",
+        "boxscoreName": "Koga"
+      }
+    ]
+  },
+  {
+    "date": "2024-07-19",
+    "runner": {
+      "id": "11215151",
+      "jaBoxscoreName": "髙部",
+      "boxscoreName": "Takabe"
+    },
+    "batter": {
+      "id": "71275157",
+      "jaBoxscoreName": "友杉",
+      "boxscoreName": "Tomosugi",
+      "batSide": "R"
+    },
+    "pitcher": {
+      "id": "41545132",
+      "jaBoxscoreName": "加藤貴",
+      "boxscoreName": "T.Katoh",
+      "pitchHand": "L"
+    },
+    "catcher": {
+      "id": "51055138",
+      "jaBoxscoreName": "田宮",
+      "boxscoreName": "Tamiya"
+    },
+    "scoring": "CaughtStealing",
+    "base": "2B",
+    "pickoff": "",
+    "inning": 7,
+    "halfInning": "bottom",
+    "outs": 1,
+    "RoB": "1--",
+    "runs": {
+      "road": 0,
+      "home": 0
+    },
+    "venue": {
+      "jaBoxscoreName": "ZOZOマリン",
+      "boxscoreName": "ZOZO Marine",
+      "jaName": "ZOZOマリンスタジアム",
+      "name": "ZOZO Marine Stadium"
+    },
+    "teams": {
+      "road": {
+        "teamCode": "F",
+        "teamName": "Fighters",
+        "score": 2
+      },
+      "home": {
+        "teamCode": "M",
+        "teamName": "Marines",
+        "score": 1
+      }
+    },
+    "jaText": "（走者・髙部）二塁盗塁失敗",
+    "text": "Takabe caught stealing 2nd base.",
+    "url": "https://npb.jp/scores/2024/0719/m-f-16/playbyplay.html#com7-2",
+    "catchers": [
+      {
+        "id": "51055138",
+        "jaBoxscoreName": "田宮",
+        "boxscoreName": "Tamiya"
+      }
+    ]
+  }
+]
