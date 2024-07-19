@@ -2,7 +2,7 @@
   {
     "jaText": "（走者・井上）一塁牽制アウト",
     "text": "Inoue picked off at 1st base.",
-    "pickoff": ""
+    "pickoff": "Y"
   },
   {
     "jaText": "（走者・岸）二塁盗塁失敗",
@@ -13,19 +13,11 @@
     "jaText": "（走者・牧原大）二塁盗塁成功",
     "text": "T.Makihara steals 2nd base.",
     "pickoff": "",
-    "catcher": {},
-    "catchers": [
-      {
-        "id": "91995112",
-        "jaBoxscoreName": "炭谷",
-        "boxscoreName": "Sumitani"
-      },
-      {
-        "id": "81785155",
-        "jaBoxscoreName": "古賀",
-        "boxscoreName": "Koga"
-      }
-    ]
+    "catcher": {
+      "id": "91995112",
+      "jaBoxscoreName": "炭谷",
+      "boxscoreName": "Sumitani"
+    }
   },
   {
     "jaText": "（走者・野村大）二塁盗塁成功",
@@ -41,19 +33,11 @@
     "jaText": "（走者・緒方）二塁盗塁成功",
     "text": "R.Ogata steals 2nd base.",
     "pickoff": "",
-    "catcher": {},
-    "catchers": [
-      {
-        "id": "91995112",
-        "jaBoxscoreName": "炭谷",
-        "boxscoreName": "Sumitani"
-      },
-      {
-        "id": "81785155",
-        "jaBoxscoreName": "古賀",
-        "boxscoreName": "Koga"
-      }
-    ]
+    "catcher": {
+      "id": "91995112",
+      "jaBoxscoreName": "炭谷",
+      "boxscoreName": "Sumitani"
+    }
   },
   {
     "jaText": "（走者・髙部）二塁盗塁失敗",
