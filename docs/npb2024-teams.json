@@ -12,7 +12,7 @@
     "jaTeamCode": "神",
     "jaVenue": "阪神甲子園球場",
     "league": "Central",
-    "website": "http://hanshintigers.jp/",
+    "website": "https://hanshintigers.jp/",
     "since": "1935-12-10"
   },
   {
@@ -28,7 +28,7 @@
     "jaTeamCode": "広",
     "jaVenue": "MAZDA Zoom-Zoom スタジアム広島",
     "league": "Central",
-    "website": "http://www.carp.co.jp/",
+    "website": "https://www.carp.co.jp/",
     "since": "1949-12-05"
   },
   {
@@ -39,12 +39,12 @@
     "venue": "Yokohama Stadium",
     "jaTeamName": "ベイスターズ",
     "jaFranchiseName": "横浜DeNA",
-    "jaShortFranchiseName": "横浜",
+    "jaShortFranchiseName": "DeNA",
     "jaOfficialName": "横浜DeNAベイスターズ",
     "jaTeamCode": "デ",
     "jaVenue": "横浜スタジアム",
     "league": "Central",
-    "website": "http://www.baystars.co.jp/",
+    "website": "https://www.baystars.co.jp/",
     "since": "1949-12-15"
   },
   {
@@ -60,7 +60,7 @@
     "jaTeamCode": "巨",
     "jaVenue": "東京ドーム",
     "league": "Central",
-    "website": "http://www.giants.jp/",
+    "website": "https://www.giants.jp/",
     "since": "1934-12-26"
   },
   {
@@ -76,7 +76,7 @@
     "jaTeamCode": "ヤ",
     "jaVenue": "明治神宮野球場",
     "league": "Central",
-    "website": "http://www.yakult-swallows.co.jp/",
+    "website": "https://www.yakult-swallows.co.jp/",
     "since": "1950-01-12"
   },
   {
@@ -92,7 +92,7 @@
     "jaTeamCode": "中",
     "jaVenue": "バンテリンドーム ナゴヤ",
     "league": "Central",
-    "website": "http://dragons.jp/",
+    "website": "https://dragons.jp/",
     "since": "1936-01-15"
   },
   {
@@ -108,7 +108,7 @@
     "jaTeamCode": "オ",
     "jaVenue": "京セラドーム大阪",
     "league": "Pacific",
-    "website": "http://www.buffaloes.co.jp/",
+    "website": "https://www.buffaloes.co.jp/",
     "since": "1936-01-23"
   },
   {
@@ -124,7 +124,7 @@
     "jaTeamCode": "ロ",
     "jaVenue": "千葉マリンスタジアム",
     "league": "Pacific",
-    "website": "http://www.marines.co.jp/",
+    "website": "https://www.marines.co.jp/",
     "since": "1949-11-26"
   },
   {
@@ -140,7 +140,7 @@
     "jaTeamCode": "ソ",
     "jaVenue": "福岡PayPayドーム",
     "league": "Pacific",
-    "website": "http://www.softbankhawks.co.jp/",
+    "website": "https://www.softbankhawks.co.jp/",
     "since": "1938-02-22"
   },
   {
@@ -156,7 +156,7 @@
     "jaTeamCode": "楽",
     "jaVenue": "楽天モバイルパーク宮城",
     "league": "Pacific",
-    "website": "http://www.rakuteneagles.jp/",
+    "website": "https://www.rakuteneagles.jp/",
     "since": "2004-11-02"
   },
   {
@@ -172,7 +172,7 @@
     "jaTeamCode": "西",
     "jaVenue": "ベルーナドーム",
     "league": "Pacific",
-    "website": "http://www.seibulions.jp/",
+    "website": "https://www.seibulions.jp/",
     "since": "1949-11-26"
   },
   {
@@ -188,7 +188,7 @@
     "jaTeamCode": "日",
     "jaVenue": "エスコンフィールドHOKKAIDO",
     "league": "Pacific",
-    "website": "http://www.fighters.co.jp/",
+    "website": "https://www.fighters.co.jp/",
     "since": "1945-11-06"
   }
 ]
