@@ -8,7 +8,8 @@ const to_uniq = (acc, cur, idx, ary) => {
 };
 
 const get_linescore_urls = (date) => {
-  const scheduled = [...document.querySelectorAll("#header_score .state")];
+  const scheduled = [...document.querySelectorAll("#header_score .state")]
+    .filter((div) => !/[cpew]l-/.test(div.closest("a").href));
   const inProgress = scheduled
     .filter(el => el.textContent.includes("回"));
 
