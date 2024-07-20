@@ -13,19 +13,11 @@
     "jaText": "（走者・吉川）二塁盗塁成功",
     "text": "Yoshikawa steals 2nd base.",
     "pickoff": "",
-    "catcher": {},
-    "catchers": [
-      {
-        "id": "41545130",
-        "jaBoxscoreName": "加藤匠",
-        "boxscoreName": "T.Katoh"
-      },
-      {
-        "id": "91195138",
-        "jaBoxscoreName": "石橋",
-        "boxscoreName": "Ishibashi"
-      }
-    ]
+    "catcher": {
+      "id": "41545130",
+      "jaBoxscoreName": "加藤匠",
+      "boxscoreName": "T.Katoh"
+    }
   },
   {
     "jaText": "（走者・野間）二塁盗塁成功",
@@ -36,87 +28,40 @@
     "jaText": "（走者・周東）二塁盗塁失敗",
     "text": "Shuto caught stealing 2nd base.",
     "pickoff": "",
-    "catcher": {},
-    "catchers": [
-      {
-        "id": "81785155",
-        "jaBoxscoreName": "古賀",
-        "boxscoreName": "Koga"
-      },
-      {
-        "id": "91995112",
-        "jaBoxscoreName": "炭谷",
-        "boxscoreName": "Sumitani"
-      }
-    ]
+    "catcher": {
+      "id": "81785155",
+      "jaBoxscoreName": "古賀",
+      "boxscoreName": "Koga"
+    }
   },
   {
     "jaText": "（走者・西川）二塁盗塁成功",
     "text": "Nishikawa steals 2nd base.",
     "pickoff": "",
-    "catcher": {},
-    "catchers": [
-      {
-        "id": "61165134",
-        "jaBoxscoreName": "石原",
-        "boxscoreName": "Ishihara"
-      },
-      {
-        "id": "71375138",
-        "jaBoxscoreName": "太田",
-        "boxscoreName": "Ohta"
-      },
-      {
-        "id": "31235130",
-        "jaBoxscoreName": "田中貴",
-        "boxscoreName": "Tanaka"
-      }
-    ]
+    "catcher": {
+      "id": "61165134",
+      "jaBoxscoreName": "石原",
+      "boxscoreName": "Ishihara"
+    }
   },
   {
     "jaText": "（走者・頓宮）一塁牽制アウト",
     "text": "Tongu picked off at 1st base.",
-    "pickoff": "",
-    "catcher": {},
-    "catchers": [
-      {
-        "id": "61165134",
-        "jaBoxscoreName": "石原",
-        "boxscoreName": "Ishihara"
-      },
-      {
-        "id": "71375138",
-        "jaBoxscoreName": "太田",
-        "boxscoreName": "Ohta"
-      },
-      {
-        "id": "31235130",
-        "jaBoxscoreName": "田中貴",
-        "boxscoreName": "Tanaka"
-      }
-    ]
+    "pickoff": "Y",
+    "catcher": {
+      "id": "61165134",
+      "jaBoxscoreName": "石原",
+      "boxscoreName": "Ishihara"
+    }
   },
   {
     "jaText": "（走者・福田）二塁盗塁失敗",
     "text": "Fukuda caught stealing 2nd base.",
     "pickoff": "",
-    "catcher": {},
-    "catchers": [
-      {
-        "id": "61165134",
-        "jaBoxscoreName": "石原",
-        "boxscoreName": "Ishihara"
-      },
-      {
-        "id": "71375138",
-        "jaBoxscoreName": "太田",
-        "boxscoreName": "Ohta"
-      },
-      {
-        "id": "31235130",
-        "jaBoxscoreName": "田中貴",
-        "boxscoreName": "Tanaka"
-      }
-    ]
+    "catcher": {
+      "id": "71375138",
+      "jaBoxscoreName": "太田",
+      "boxscoreName": "Ohta"
+    }
   }
 ]
