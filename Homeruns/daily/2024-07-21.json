@@ -1,0 +1,797 @@
+[
+  {
+    "id": "13115153-2024-14",
+    "date": "2024-07-21",
+    "batter": {
+      "id": "13115153",
+      "jaBoxscoreName": "牧",
+      "boxscoreName": "Maki",
+      "batSide": "R"
+    },
+    "pitcher": {
+      "id": "31735151",
+      "jaBoxscoreName": "奥川",
+      "boxscoreName": "Okugawa",
+      "pitchHand": "R"
+    },
+    "number": 14,
+    "inning": 2,
+    "halfInning": "top",
+    "outs": 0,
+    "RoB": "---",
+    "count": {
+      "balls": 2,
+      "strikes": 1
+    },
+    "runs": {
+      "road": 0,
+      "home": 1
+    },
+    "bop": 4,
+    "rbi": 1,
+    "whereHit": "78",
+    "venue": {
+      "jaBoxscoreName": "神宮",
+      "boxscoreName": "Jingu",
+      "jaName": "神宮",
+      "name": "Jingu Stadium"
+    },
+    "teams": {
+      "road": {
+        "teamCode": "DB",
+        "teamName": "Baystars",
+        "score": 7
+      },
+      "home": {
+        "teamCode": "S",
+        "teamName": "Swallows",
+        "score": 8
+      }
+    },
+    "jaText": "左中間ソロホームラン（打点1）",
+    "text": "Maki homers (14) to left center.",
+    "url": "https://npb.jp/scores/2024/0721/s-db-17/playbyplay.html#com2-1"
+  },
+  {
+    "id": "51455137-2024-08",
+    "date": "2024-07-21",
+    "batter": {
+      "id": "51455137",
+      "jaBoxscoreName": "宮﨑",
+      "boxscoreName": "Miyazaki",
+      "batSide": "R"
+    },
+    "pitcher": {
+      "id": "31735151",
+      "jaBoxscoreName": "奥川",
+      "boxscoreName": "Okugawa",
+      "pitchHand": "R"
+    },
+    "number": 8,
+    "inning": 2,
+    "halfInning": "top",
+    "outs": 0,
+    "RoB": "---",
+    "count": {
+      "balls": 1,
+      "strikes": 0
+    },
+    "runs": {
+      "road": 1,
+      "home": 1
+    },
+    "bop": 5,
+    "rbi": 1,
+    "whereHit": "78",
+    "venue": {
+      "jaBoxscoreName": "神宮",
+      "boxscoreName": "Jingu",
+      "jaName": "神宮",
+      "name": "Jingu Stadium"
+    },
+    "teams": {
+      "road": {
+        "teamCode": "DB",
+        "teamName": "Baystars",
+        "score": 7
+      },
+      "home": {
+        "teamCode": "S",
+        "teamName": "Swallows",
+        "score": 8
+      }
+    },
+    "jaText": "左中間ソロホームラン（打点1）",
+    "text": "Miyazaki homers (8) to left center.",
+    "url": "https://npb.jp/scores/2024/0721/s-db-17/playbyplay.html#com2-1"
+  },
+  {
+    "id": "73375151-2024-15",
+    "date": "2024-07-21",
+    "batter": {
+      "id": "73375151",
+      "jaBoxscoreName": "オースティン",
+      "boxscoreName": "Austin",
+      "batSide": "R"
+    },
+    "pitcher": {
+      "id": "11915153",
+      "jaBoxscoreName": "木澤",
+      "boxscoreName": "Kizawa",
+      "pitchHand": "R"
+    },
+    "number": 15,
+    "inning": 9,
+    "halfInning": "top",
+    "outs": 0,
+    "RoB": "-2-",
+    "count": {
+      "balls": 0,
+      "strikes": 1
+    },
+    "runs": {
+      "road": 3,
+      "home": 5
+    },
+    "bop": 2,
+    "rbi": 2,
+    "whereHit": "7",
+    "venue": {
+      "jaBoxscoreName": "神宮",
+      "boxscoreName": "Jingu",
+      "jaName": "神宮",
+      "name": "Jingu Stadium"
+    },
+    "teams": {
+      "road": {
+        "teamCode": "DB",
+        "teamName": "Baystars",
+        "score": 7
+      },
+      "home": {
+        "teamCode": "S",
+        "teamName": "Swallows",
+        "score": 8
+      }
+    },
+    "jaText": "レフト2ランホームラン（打点2）",
+    "text": "Austin homers (15) to left field.",
+    "url": "https://npb.jp/scores/2024/0721/s-db-17/playbyplay.html#com9-1"
+  },
+  {
+    "id": "91995134-2024-05",
+    "date": "2024-07-21",
+    "batter": {
+      "id": "91995134",
+      "jaBoxscoreName": "佐野",
+      "boxscoreName": "Sano",
+      "batSide": "L"
+    },
+    "pitcher": {
+      "id": "01705132",
+      "jaBoxscoreName": "小澤",
+      "boxscoreName": "Kozawa",
+      "pitchHand": "R"
+    },
+    "number": 5,
+    "inning": 11,
+    "halfInning": "top",
+    "outs": 2,
+    "RoB": "1--",
+    "count": {
+      "balls": 0,
+      "strikes": 1
+    },
+    "runs": {
+      "road": 5,
+      "home": 5
+    },
+    "bop": 3,
+    "rbi": 2,
+    "whereHit": "78",
+    "venue": {
+      "jaBoxscoreName": "神宮",
+      "boxscoreName": "Jingu",
+      "jaName": "神宮",
+      "name": "Jingu Stadium"
+    },
+    "teams": {
+      "road": {
+        "teamCode": "DB",
+        "teamName": "Baystars",
+        "score": 7
+      },
+      "home": {
+        "teamCode": "S",
+        "teamName": "Swallows",
+        "score": 8
+      }
+    },
+    "jaText": "左中間2ランホームラン（打点2）",
+    "text": "Sano homers (5) to left center.",
+    "url": "https://npb.jp/scores/2024/0721/s-db-17/playbyplay.html#com11-1"
+  },
+  {
+    "id": "51155153-2024-01",
+    "date": "2024-07-21",
+    "batter": {
+      "id": "51155153",
+      "jaBoxscoreName": "赤羽",
+      "boxscoreName": "Akahane",
+      "batSide": "R"
+    },
+    "pitcher": {
+      "id": "03505159",
+      "jaBoxscoreName": "ウィック",
+      "boxscoreName": "Wick",
+      "pitchHand": "R"
+    },
+    "number": 1,
+    "inning": 7,
+    "halfInning": "bottom",
+    "outs": 1,
+    "RoB": "---",
+    "count": {
+      "balls": 2,
+      "strikes": 1
+    },
+    "runs": {
+      "road": 3,
+      "home": 4
+    },
+    "bop": 2,
+    "rbi": 1,
+    "whereHit": "7",
+    "venue": {
+      "jaBoxscoreName": "神宮",
+      "boxscoreName": "Jingu",
+      "jaName": "神宮",
+      "name": "Jingu Stadium"
+    },
+    "teams": {
+      "road": {
+        "teamCode": "DB",
+        "teamName": "Baystars",
+        "score": 7
+      },
+      "home": {
+        "teamCode": "S",
+        "teamName": "Swallows",
+        "score": 8
+      }
+    },
+    "jaText": "レフトソロホームラン（打点1）",
+    "text": "Akahane homers (1) to left field.",
+    "url": "https://npb.jp/scores/2024/0721/s-db-17/playbyplay.html#com7-2"
+  },
+  {
+    "id": "53555153-2024-01",
+    "date": "2024-07-21",
+    "batter": {
+      "id": "53555153",
+      "jaBoxscoreName": "若林",
+      "boxscoreName": "Wakabayashi",
+      "batSide": "R"
+    },
+    "pitcher": {
+      "id": "21225137",
+      "jaBoxscoreName": "松葉",
+      "boxscoreName": "Matsuba",
+      "pitchHand": "L"
+    },
+    "number": 1,
+    "inning": 5,
+    "halfInning": "top",
+    "outs": 0,
+    "RoB": "1--",
+    "count": {
+      "balls": 0,
+      "strikes": 0
+    },
+    "runs": {
+      "road": 0,
+      "home": 0
+    },
+    "bop": 6,
+    "rbi": 2,
+    "whereHit": "7",
+    "venue": {
+      "jaBoxscoreName": "バンテリンドーム",
+      "boxscoreName": "Vantelin Dome",
+      "jaName": "バンテリンドーム ナゴヤ",
+      "name": "Vantelin Dome Nagoya"
+    },
+    "teams": {
+      "road": {
+        "teamCode": "G",
+        "teamName": "Giants",
+        "score": 4
+      },
+      "home": {
+        "teamCode": "D",
+        "teamName": "Dragons",
+        "score": 1
+      }
+    },
+    "jaText": "レフト2ランホームラン（打点2）",
+    "text": "Wakabayashi homers (1) to left field.",
+    "url": "https://npb.jp/scores/2024/0721/d-g-16/playbyplay.html#com5-1"
+  },
+  {
+    "id": "61065116-2024-04",
+    "date": "2024-07-21",
+    "batter": {
+      "id": "61065116",
+      "jaBoxscoreName": "中田",
+      "boxscoreName": "Nakata",
+      "batSide": "R"
+    },
+    "pitcher": {
+      "id": "41745137",
+      "jaBoxscoreName": "菅野",
+      "boxscoreName": "Sugano",
+      "pitchHand": "R"
+    },
+    "number": 4,
+    "inning": 6,
+    "halfInning": "bottom",
+    "outs": 2,
+    "RoB": "---",
+    "count": {
+      "balls": 1,
+      "strikes": 1
+    },
+    "runs": {
+      "road": 4,
+      "home": 0
+    },
+    "bop": 4,
+    "rbi": 1,
+    "whereHit": "7",
+    "venue": {
+      "jaBoxscoreName": "バンテリンドーム",
+      "boxscoreName": "Vantelin Dome",
+      "jaName": "バンテリンドーム ナゴヤ",
+      "name": "Vantelin Dome Nagoya"
+    },
+    "teams": {
+      "road": {
+        "teamCode": "G",
+        "teamName": "Giants",
+        "score": 4
+      },
+      "home": {
+        "teamCode": "D",
+        "teamName": "Dragons",
+        "score": 1
+      }
+    },
+    "jaText": "レフトソロホームラン（打点1）",
+    "text": "Nakata homers (4) to left field.",
+    "url": "https://npb.jp/scores/2024/0721/d-g-16/playbyplay.html#com6-2"
+  },
+  {
+    "id": "21325134-2024-07",
+    "date": "2024-07-21",
+    "batter": {
+      "id": "21325134",
+      "jaBoxscoreName": "大山",
+      "boxscoreName": "Ohyama",
+      "batSide": "R"
+    },
+    "pitcher": {
+      "id": "71575134",
+      "jaBoxscoreName": "矢崎",
+      "boxscoreName": "Yasaki",
+      "pitchHand": "R"
+    },
+    "number": 7,
+    "inning": 6,
+    "halfInning": "bottom",
+    "outs": 2,
+    "RoB": "--3",
+    "count": {
+      "balls": 2,
+      "strikes": 0
+    },
+    "runs": {
+      "road": 2,
+      "home": 10
+    },
+    "bop": 5,
+    "rbi": 2,
+    "whereHit": "7",
+    "venue": {
+      "jaBoxscoreName": "甲子園",
+      "boxscoreName": "Koshien",
+      "jaName": "甲子園",
+      "name": "Hanshin Koshien Stadium"
+    },
+    "teams": {
+      "road": {
+        "teamCode": "C",
+        "teamName": "Carp",
+        "score": 3
+      },
+      "home": {
+        "teamCode": "T",
+        "teamName": "Tigers",
+        "score": 12
+      }
+    },
+    "jaText": "レフト2ランホームラン（打点2）",
+    "text": "Ohyama homers (7) to left field.",
+    "url": "https://npb.jp/scores/2024/0721/t-c-16/playbyplay.html#com6-2"
+  },
+  {
+    "id": "41545136-2024-02",
+    "date": "2024-07-21",
+    "batter": {
+      "id": "41545136",
+      "jaBoxscoreName": "清宮",
+      "boxscoreName": "Kiyomiya",
+      "batSide": "L"
+    },
+    "pitcher": {
+      "id": "73775159",
+      "jaBoxscoreName": "コルデロ",
+      "boxscoreName": "Cordero",
+      "pitchHand": "R"
+    },
+    "number": 2,
+    "inning": 7,
+    "halfInning": "top",
+    "outs": 2,
+    "RoB": "---",
+    "count": {
+      "balls": 0,
+      "strikes": 0
+    },
+    "runs": {
+      "road": 6,
+      "home": 6
+    },
+    "bop": 6,
+    "rbi": 1,
+    "whereHit": "9",
+    "venue": {
+      "jaBoxscoreName": "ZOZOマリン",
+      "boxscoreName": "ZOZO Marine",
+      "jaName": "ZOZOマリンスタジアム",
+      "name": "ZOZO Marine Stadium"
+    },
+    "teams": {
+      "road": {
+        "teamCode": "F",
+        "teamName": "Fighters",
+        "score": 10
+      },
+      "home": {
+        "teamCode": "M",
+        "teamName": "Marines",
+        "score": 6
+      }
+    },
+    "jaText": "ライトソロホームラン（打点1）",
+    "text": "Kiyomiya homers (2) to right field.",
+    "url": "https://npb.jp/scores/2024/0721/m-f-18/playbyplay.html#com7-1"
+  },
+  {
+    "id": "41545136-2024-03",
+    "date": "2024-07-21",
+    "batter": {
+      "id": "41545136",
+      "jaBoxscoreName": "清宮",
+      "boxscoreName": "Kiyomiya",
+      "batSide": "L"
+    },
+    "pitcher": {
+      "id": "71675135",
+      "jaBoxscoreName": "益田",
+      "boxscoreName": "Masuda",
+      "pitchHand": "R"
+    },
+    "number": 3,
+    "inning": 9,
+    "halfInning": "top",
+    "outs": 2,
+    "RoB": "-2-",
+    "count": {
+      "balls": 0,
+      "strikes": 0
+    },
+    "runs": {
+      "road": 8,
+      "home": 6
+    },
+    "bop": 6,
+    "rbi": 2,
+    "whereHit": "9",
+    "venue": {
+      "jaBoxscoreName": "ZOZOマリン",
+      "boxscoreName": "ZOZO Marine",
+      "jaName": "ZOZOマリンスタジアム",
+      "name": "ZOZO Marine Stadium"
+    },
+    "teams": {
+      "road": {
+        "teamCode": "F",
+        "teamName": "Fighters",
+        "score": 10
+      },
+      "home": {
+        "teamCode": "M",
+        "teamName": "Marines",
+        "score": 6
+      }
+    },
+    "jaText": "ライト2ランホームラン（打点2）",
+    "text": "Kiyomiya homers (3) to right field.",
+    "url": "https://npb.jp/scores/2024/0721/m-f-18/playbyplay.html#com9-1"
+  },
+  {
+    "id": "03505136-2024-12",
+    "date": "2024-07-21",
+    "batter": {
+      "id": "03505136",
+      "jaBoxscoreName": "ソト",
+      "boxscoreName": "Soto",
+      "batSide": "R"
+    },
+    "pitcher": {
+      "id": "51355153",
+      "jaBoxscoreName": "伊藤",
+      "boxscoreName": "Itoh",
+      "pitchHand": "R"
+    },
+    "number": 12,
+    "inning": 5,
+    "halfInning": "bottom",
+    "outs": 1,
+    "RoB": "1-3",
+    "count": {
+      "balls": 0,
+      "strikes": 0
+    },
+    "runs": {
+      "road": 4,
+      "home": 2
+    },
+    "bop": 4,
+    "rbi": 3,
+    "whereHit": "7",
+    "venue": {
+      "jaBoxscoreName": "ZOZOマリン",
+      "boxscoreName": "ZOZO Marine",
+      "jaName": "ZOZOマリンスタジアム",
+      "name": "ZOZO Marine Stadium"
+    },
+    "teams": {
+      "road": {
+        "teamCode": "F",
+        "teamName": "Fighters",
+        "score": 10
+      },
+      "home": {
+        "teamCode": "M",
+        "teamName": "Marines",
+        "score": 6
+      }
+    },
+    "jaText": "レフト3ランホームラン（打点3）",
+    "text": "Soto homers (12) to left field.",
+    "url": "https://npb.jp/scores/2024/0721/m-f-18/playbyplay.html#com5-2"
+  },
+  {
+    "id": "31635138-2024-01",
+    "date": "2024-07-21",
+    "batter": {
+      "id": "31635138",
+      "jaBoxscoreName": "藤原",
+      "boxscoreName": "Fujiwara",
+      "batSide": "L"
+    },
+    "pitcher": {
+      "id": "03105136",
+      "jaBoxscoreName": "山本拓",
+      "boxscoreName": "T.Yamamoto",
+      "pitchHand": "R"
+    },
+    "number": 1,
+    "inning": 6,
+    "halfInning": "bottom",
+    "outs": 1,
+    "RoB": "---",
+    "count": {
+      "balls": 3,
+      "strikes": 1
+    },
+    "runs": {
+      "road": 4,
+      "home": 5
+    },
+    "bop": 9,
+    "rbi": 1,
+    "whereHit": "89",
+    "venue": {
+      "jaBoxscoreName": "ZOZOマリン",
+      "boxscoreName": "ZOZO Marine",
+      "jaName": "ZOZOマリンスタジアム",
+      "name": "ZOZO Marine Stadium"
+    },
+    "teams": {
+      "road": {
+        "teamCode": "F",
+        "teamName": "Fighters",
+        "score": 10
+      },
+      "home": {
+        "teamCode": "M",
+        "teamName": "Marines",
+        "score": 6
+      }
+    },
+    "jaText": "右中間ソロホームラン（打点1）",
+    "text": "Fujiwara homers (1) to right center.",
+    "url": "https://npb.jp/scores/2024/0721/m-f-18/playbyplay.html#com6-2"
+  },
+  {
+    "id": "81985135-2024-03",
+    "date": "2024-07-21",
+    "batter": {
+      "id": "81985135",
+      "jaBoxscoreName": "鈴木大",
+      "boxscoreName": "D.Suzuki",
+      "batSide": "L"
+    },
+    "pitcher": {
+      "id": "51055151",
+      "jaBoxscoreName": "佐藤",
+      "boxscoreName": "Satoh",
+      "pitchHand": "L"
+    },
+    "number": 3,
+    "inning": 1,
+    "halfInning": "top",
+    "outs": 1,
+    "RoB": "12-",
+    "count": {
+      "balls": 0,
+      "strikes": 0
+    },
+    "runs": {
+      "road": 1,
+      "home": 0
+    },
+    "bop": 5,
+    "rbi": 3,
+    "whereHit": "9",
+    "venue": {
+      "jaBoxscoreName": "ほっと神戸",
+      "boxscoreName": "Hotto Kobe",
+      "jaName": "ほっともっとフィールド神戸",
+      "name": "Hotto Motto Field Kobe"
+    },
+    "teams": {
+      "road": {
+        "teamCode": "E",
+        "teamName": "Eagles",
+        "score": 12
+      },
+      "home": {
+        "teamCode": "B",
+        "teamName": "Buffaloes",
+        "score": 5
+      }
+    },
+    "jaText": "ライト3ランホームラン（打点3）",
+    "text": "D.Suzuki homers (3) to right field.",
+    "url": "https://npb.jp/scores/2024/0721/b-e-15/playbyplay.html#com1-1"
+  },
+  {
+    "id": "51155118-2024-09",
+    "date": "2024-07-21",
+    "batter": {
+      "id": "51155118",
+      "jaBoxscoreName": "浅村",
+      "boxscoreName": "Asamura",
+      "batSide": "R"
+    },
+    "pitcher": {
+      "id": "43345153",
+      "jaBoxscoreName": "山下",
+      "boxscoreName": "Yamashita",
+      "pitchHand": "R"
+    },
+    "number": 9,
+    "inning": 7,
+    "halfInning": "top",
+    "outs": 0,
+    "RoB": "---",
+    "count": {
+      "balls": 2,
+      "strikes": 1
+    },
+    "runs": {
+      "road": 8,
+      "home": 4
+    },
+    "bop": 4,
+    "rbi": 1,
+    "whereHit": "7",
+    "venue": {
+      "jaBoxscoreName": "ほっと神戸",
+      "boxscoreName": "Hotto Kobe",
+      "jaName": "ほっともっとフィールド神戸",
+      "name": "Hotto Motto Field Kobe"
+    },
+    "teams": {
+      "road": {
+        "teamCode": "E",
+        "teamName": "Eagles",
+        "score": 12
+      },
+      "home": {
+        "teamCode": "B",
+        "teamName": "Buffaloes",
+        "score": 5
+      }
+    },
+    "jaText": "レフトソロホームラン（打点1）",
+    "text": "Asamura homers (9) to left field.",
+    "url": "https://npb.jp/scores/2024/0721/b-e-15/playbyplay.html#com7-1"
+  },
+  {
+    "id": "61965132-2024-05",
+    "date": "2024-07-21",
+    "batter": {
+      "id": "61965132",
+      "jaBoxscoreName": "杉本",
+      "boxscoreName": "Sugimoto",
+      "batSide": "R"
+    },
+    "pitcher": {
+      "id": "71875153",
+      "jaBoxscoreName": "藤井",
+      "boxscoreName": "Fujii",
+      "pitchHand": "L"
+    },
+    "number": 5,
+    "inning": 2,
+    "halfInning": "bottom",
+    "outs": 1,
+    "RoB": "-2-",
+    "count": {
+      "balls": 0,
+      "strikes": 0
+    },
+    "runs": {
+      "road": 6,
+      "home": 0
+    },
+    "bop": 6,
+    "rbi": 2,
+    "whereHit": "7",
+    "venue": {
+      "jaBoxscoreName": "ほっと神戸",
+      "boxscoreName": "Hotto Kobe",
+      "jaName": "ほっともっとフィールド神戸",
+      "name": "Hotto Motto Field Kobe"
+    },
+    "teams": {
+      "road": {
+        "teamCode": "E",
+        "teamName": "Eagles",
+        "score": 12
+      },
+      "home": {
+        "teamCode": "B",
+        "teamName": "Buffaloes",
+        "score": 5
+      }
+    },
+    "jaText": "レフト2ランホームラン（打点2）",
+    "text": "Sugimoto homers (5) to left field.",
+    "url": "https://npb.jp/scores/2024/0721/b-e-15/playbyplay.html#com2-2"
+  }
+]
