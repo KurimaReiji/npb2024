@@ -1,23 +1,9 @@
 import { existsSync, readFileSync, writeFileSync } from "fs";
+import { get_venues, get_players, to_uniq } from "../docs/js/utils.js";
 
 const teams = JSON.parse(readFileSync("../docs/npb2024-teams.json", "utf-8"));
-const baystars = teams.find(({ teamName }) => teamName === "Baystars")
-baystars.jaShortFranchiseName = "DeNA";
 const toTeamName = (t) => teams.find(({ jaShortFranchiseName }) => jaShortFranchiseName === t).teamName;
 const toTeamCode = (t) => teams.find(({ jaShortFranchiseName }) => jaShortFranchiseName === t).teamCode;
-
-const venues = JSON.parse(readFileSync("../docs/npb2024-stadiums.json", "utf-8"));
-// PayPay until 2024-04-21
-// MIZUHO PayPay after 2024-04-27
-const paypay = venues.find((v) => v.jaBoxscoreName === "PayPayドーム");
-const mpay = structuredClone(paypay);
-Object.assign(mpay, {
-  jaBoxscoreName: "みずほPayPay",
-  boxscoreName: "MIZUHO PayPay Dome",
-  jaName: "みずほPayPayドーム福岡",
-  name: "MIZUHO PayPay Dome FUKUOKA",
-});
-venues.push(mpay);
 
 const dic = {
   "1塁": "1--",
@@ -144,25 +130,6 @@ const addRuns = (linescore) => (obj, idx, ary) => {
     obj.runs.road = linescore[0].tds.slice(0, obj.inning.inning - 1).reduce((a, c) => a + nxToNumber(c), 0) + runs;
   } else if (obj.inning.halfInning === "bottom") {
     obj.runs.home = linescore[1].tds.slice(0, obj.inning.inning - 1).reduce((a, c) => a + nxToNumber(c), 0) + runs;
-  }
-  return obj;
-}
-
-const xaddRuns = (linescore) => (obj, idx, ary) => {
-  if (idx === 0) {
-    Object.assign(obj, { road: { runs: 0 }, home: { runs: 0 } });
-    return obj;
-  }
-  obj.road = { ...ary[idx - 1].road };
-  obj.home = { ...ary[idx - 1].home };
-
-  const isSkippable = [obj.isPitcherEvent, obj.isRunnerEvent, obj.isNoteEvent].some((s) => s === "Y");
-  if (isSkippable) return obj;
-  const runs = obj.pa.inn - obj.outs - count_runners(obj.runners) - 1;
-  if (obj.inning.halfInning === "top") {
-    obj.road.runs = linescore[0].tds.slice(0, obj.inning.inning - 1).reduce((a, c) => a + nxToNumber(c), 0) + runs;
-  } else if (obj.inning.halfInning === "bottom") {
-    obj.home.runs = linescore[1].tds.slice(0, obj.inning.inning - 1).reduce((a, c) => a + nxToNumber(c), 0) + runs;
   }
   return obj;
 }
@@ -313,18 +280,22 @@ const getHomeruns = (homeruns) => {
 const infiles = process.argv.slice(2);
 infiles
   .filter((infile) => existsSync(infile))
-  .forEach((infile) => {
+  .forEach(async (infile) => {
     const inputs = JSON.parse(readFileSync(infile, "utf-8"));
+    const date = infile.match(/2024-\d+-\d+/)[0];
+
+    const venues = await get_venues(date);
+    const players = await get_players(date);
+
     const data = inputs
       .map((objs) => {
         const obj = objs["index.html"];
         const box = objs["box.html"];
-        const date = toDate(obj.date);
         const { status, startTime, endTime, duration, attendanece } = parseGameInfo(obj.gameInfo);
         const venue = venues.find((v) => v.jaBoxscoreName === obj.place.replace(/　/g, ""));
 
         return {
-          date,
+          date: toDate(obj.date),
           pathname: obj.pathname.replace("index.html", ""),
           jaTitle: obj.title.replace(/\s{2,}/g, " "),
           teams: {
@@ -354,11 +325,15 @@ infiles
           teamStats: linescoreToTeamStats(obj.linescore),
 
           innings: linescoreToInnings(obj.linescore),
+          players: [box.road.batting, box.road.pitching, box.home.batting, box.home.pitching].flat().flat()
+            .filter((p) => p.jaBoxscoreName)
+            .map((p) => p.id)
+            .reduce(to_uniq, [])
+            .map((id) => players[id])
         }
       })
       ;
     const output = JSON.stringify(data, null, 2);
-    const date = infile.match(/2024-\d+-\d+/)[0];
     const outfile = `./daily/${date}.json`;
     console.log(outfile);
     writeFileSync(outfile, output);
