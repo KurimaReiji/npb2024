@@ -3,16 +3,23 @@
     "id": "61065131-2024-01",
     "date": "2024-05-16",
     "batter": {
-      "id": "61065131",
       "jaBoxscoreName": "原口",
+      "playerId": "61065131",
       "boxscoreName": "Haraguchi",
-      "batSide": "R"
+      "batSide": "R",
+      "teamCode": "T",
+      "primaryNumber": "94",
+      "jaRegisteredName": "原口　文仁",
+      "fullLFMName": "Haraguchi, Fumihito"
     },
     "pitcher": {
-      "id": "81285138",
       "jaBoxscoreName": "根尾",
       "boxscoreName": "Neo",
-      "pitchHand": "R"
+      "pitchHand": "R",
+      "teamCode": "D",
+      "primaryNumber": "7",
+      "jaRegisteredName": "根尾　昂",
+      "fullLFMName": "Neo, Akira"
     },
     "number": 1,
     "inning": 6,

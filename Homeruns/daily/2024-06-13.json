@@ -3,16 +3,23 @@
     "id": "91095135-2024-01",
     "date": "2024-06-13",
     "batter": {
-      "id": "91095135",
       "jaBoxscoreName": "高橋周",
+      "playerId": "91095135",
       "boxscoreName": "S.Takahashi",
-      "batSide": "L"
+      "batSide": "L",
+      "teamCode": "D",
+      "primaryNumber": "3",
+      "jaRegisteredName": "高橋　周平",
+      "fullLFMName": "Takahashi, Shuhei"
     },
     "pitcher": {
-      "id": "81685155",
       "jaBoxscoreName": "福島",
       "boxscoreName": "Fukushima",
-      "pitchHand": "R"
+      "pitchHand": "R",
+      "teamCode": "F",
+      "primaryNumber": "94",
+      "jaRegisteredName": "福島　蓮",
+      "fullLFMName": "Fukushima, Ren"
     },
     "number": 1,
     "inning": 1,
@@ -56,16 +63,23 @@
     "id": "93795157-2024-05",
     "date": "2024-06-13",
     "batter": {
-      "id": "93795157",
       "jaBoxscoreName": "カリステ",
+      "playerId": "93795157",
       "boxscoreName": "Calixte",
-      "batSide": "R"
+      "batSide": "R",
+      "teamCode": "D",
+      "primaryNumber": "99",
+      "jaRegisteredName": "Ｏ．カリステ",
+      "fullLFMName": "Calixte, Orlando"
     },
     "pitcher": {
-      "id": "61065136",
       "jaBoxscoreName": "田中瑛",
       "boxscoreName": "E.Tanaka",
-      "pitchHand": "R"
+      "pitchHand": "R",
+      "teamCode": "F",
+      "primaryNumber": "93",
+      "jaRegisteredName": "田中　瑛斗",
+      "fullLFMName": "Tanaka, Eito"
     },
     "number": 5,
     "inning": 5,
@@ -109,16 +123,23 @@
     "id": "41945131-2024-06",
     "date": "2024-06-13",
     "batter": {
-      "id": "41945131",
       "jaBoxscoreName": "筒香",
+      "playerId": "41945131",
       "boxscoreName": "Tsutsugo",
-      "batSide": "L"
+      "batSide": "L",
+      "teamCode": "DB",
+      "primaryNumber": "25",
+      "jaRegisteredName": "筒香　嘉智",
+      "fullLFMName": "Tsutsugo, Yoshitomo"
     },
     "pitcher": {
-      "id": "01205118",
       "jaBoxscoreName": "西野",
       "boxscoreName": "Nishino",
-      "pitchHand": "R"
+      "pitchHand": "R",
+      "teamCode": "M",
+      "primaryNumber": "29",
+      "jaRegisteredName": "西野　勇士",
+      "fullLFMName": "Nishino, Yuji"
     },
     "number": 6,
     "inning": 2,
@@ -162,16 +183,23 @@
     "id": "13115153-2024-08",
     "date": "2024-06-13",
     "batter": {
-      "id": "13115153",
       "jaBoxscoreName": "牧",
+      "playerId": "13115153",
       "boxscoreName": "Maki",
-      "batSide": "R"
+      "batSide": "R",
+      "teamCode": "DB",
+      "primaryNumber": "2",
+      "jaRegisteredName": "牧　秀悟",
+      "fullLFMName": "Maki, Shugo"
     },
     "pitcher": {
-      "id": "01205118",
       "jaBoxscoreName": "西野",
       "boxscoreName": "Nishino",
-      "pitchHand": "R"
+      "pitchHand": "R",
+      "teamCode": "M",
+      "primaryNumber": "29",
+      "jaRegisteredName": "西野　勇士",
+      "fullLFMName": "Nishino, Yuji"
     },
     "number": 8,
     "inning": 4,
@@ -215,16 +243,23 @@
     "id": "61065131-2024-02",
     "date": "2024-06-13",
     "batter": {
-      "id": "61065131",
       "jaBoxscoreName": "原口",
+      "playerId": "61065131",
       "boxscoreName": "Haraguchi",
-      "batSide": "R"
+      "batSide": "R",
+      "teamCode": "T",
+      "primaryNumber": "94",
+      "jaRegisteredName": "原口　文仁",
+      "fullLFMName": "Haraguchi, Fumihito"
     },
     "pitcher": {
-      "id": "21725157",
       "jaBoxscoreName": "才木",
       "boxscoreName": "Saiki",
-      "pitchHand": "R"
+      "pitchHand": "R",
+      "teamCode": "B",
+      "primaryNumber": "95",
+      "jaRegisteredName": "才木　海翔",
+      "fullLFMName": "Saiki, Kaito"
     },
     "number": 2,
     "inning": 7,
@@ -268,16 +303,23 @@
     "id": "91895133-2024-04",
     "date": "2024-06-13",
     "batter": {
-      "id": "91895133",
       "jaBoxscoreName": "山田",
+      "playerId": "91895133",
       "boxscoreName": "Yamada",
-      "batSide": "R"
+      "batSide": "R",
+      "teamCode": "S",
+      "primaryNumber": "1",
+      "jaRegisteredName": "山田　哲人",
+      "fullLFMName": "Yamada, Tetsuto"
     },
     "pitcher": {
-      "id": "01505151",
       "jaBoxscoreName": "大関",
       "boxscoreName": "Ohzeki",
-      "pitchHand": "L"
+      "pitchHand": "L",
+      "teamCode": "H",
+      "primaryNumber": "47",
+      "jaRegisteredName": "大関　友久",
+      "fullLFMName": "Ohzeki, Tomohisa"
     },
     "number": 4,
     "inning": 4,
@@ -297,7 +339,7 @@
     "whereHit": "7",
     "venue": {
       "jaBoxscoreName": "みずほPayPay",
-      "boxscoreName": "MIZUHO PayPay Dome",
+      "boxscoreName": "MIZUHO PayPay",
       "jaName": "みずほPayPayドーム福岡",
       "name": "MIZUHO PayPay Dome FUKUOKA"
     },

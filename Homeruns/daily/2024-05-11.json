@@ -3,16 +3,23 @@
     "id": "11515130-2024-06",
     "date": "2024-05-11",
     "batter": {
-      "id": "11515130",
       "jaBoxscoreName": "岡本和",
+      "playerId": "11515130",
       "boxscoreName": "K.Okamoto",
-      "batSide": "R"
+      "batSide": "R",
+      "teamCode": "G",
+      "primaryNumber": "25",
+      "jaRegisteredName": "岡本　和真",
+      "fullLFMName": "Okamoto, Kazuma"
     },
     "pitcher": {
-      "id": "11515137",
       "jaBoxscoreName": "小川",
       "boxscoreName": "Ogawa",
-      "pitchHand": "R"
+      "pitchHand": "R",
+      "teamCode": "S",
+      "primaryNumber": "29",
+      "jaRegisteredName": "小川　泰弘",
+      "fullLFMName": "Ogawa, Yasuhiro"
     },
     "number": 6,
     "inning": 2,
@@ -56,16 +63,23 @@
     "id": "11515130-2024-07",
     "date": "2024-05-11",
     "batter": {
-      "id": "11515130",
       "jaBoxscoreName": "岡本和",
+      "playerId": "11515130",
       "boxscoreName": "K.Okamoto",
-      "batSide": "R"
+      "batSide": "R",
+      "teamCode": "G",
+      "primaryNumber": "25",
+      "jaRegisteredName": "岡本　和真",
+      "fullLFMName": "Okamoto, Kazuma"
     },
     "pitcher": {
-      "id": "11515137",
       "jaBoxscoreName": "小川",
       "boxscoreName": "Ogawa",
-      "pitchHand": "R"
+      "pitchHand": "R",
+      "teamCode": "S",
+      "primaryNumber": "29",
+      "jaRegisteredName": "小川　泰弘",
+      "fullLFMName": "Ogawa, Yasuhiro"
     },
     "number": 7,
     "inning": 4,
@@ -109,16 +123,23 @@
     "id": "51455151-2024-02",
     "date": "2024-05-11",
     "batter": {
-      "id": "51455151",
       "jaBoxscoreName": "長岡",
+      "playerId": "51455151",
       "boxscoreName": "Nagaoka",
-      "batSide": "L"
+      "batSide": "L",
+      "teamCode": "S",
+      "primaryNumber": "7",
+      "jaRegisteredName": "長岡　秀樹",
+      "fullLFMName": "Nagaoka, Hideki"
     },
     "pitcher": {
-      "id": "41745137",
       "jaBoxscoreName": "菅野",
       "boxscoreName": "Sugano",
-      "pitchHand": "R"
+      "pitchHand": "R",
+      "teamCode": "G",
+      "primaryNumber": "18",
+      "jaRegisteredName": "菅野　智之",
+      "fullLFMName": "Sugano, Tomoyuki"
     },
     "number": 2,
     "inning": 4,
@@ -162,16 +183,23 @@
     "id": "71075138-2024-06",
     "date": "2024-05-11",
     "batter": {
-      "id": "71075138",
       "jaBoxscoreName": "近本",
+      "playerId": "71075138",
       "boxscoreName": "Chikamoto",
-      "batSide": "L"
+      "batSide": "L",
+      "teamCode": "T",
+      "primaryNumber": "5",
+      "jaRegisteredName": "近本　光司",
+      "fullLFMName": "Chikamoto, Koji"
     },
     "pitcher": {
-      "id": "21425153",
       "jaBoxscoreName": "中川颯",
       "boxscoreName": "H.Nakagawa",
-      "pitchHand": "R"
+      "pitchHand": "R",
+      "teamCode": "DB",
+      "primaryNumber": "53",
+      "jaRegisteredName": "中川　颯",
+      "fullLFMName": "Nakagawa, Hayate"
     },
     "number": 6,
     "inning": 3,
@@ -215,16 +243,23 @@
     "id": "51555151-2024-01",
     "date": "2024-05-11",
     "batter": {
-      "id": "51555151",
       "jaBoxscoreName": "蝦名",
+      "playerId": "51555151",
       "boxscoreName": "Ebina",
-      "batSide": "R"
+      "batSide": "R",
+      "teamCode": "DB",
+      "primaryNumber": "61",
+      "jaRegisteredName": "蝦名　達夫",
+      "fullLFMName": "Ebina, Tatsuo"
     },
     "pitcher": {
-      "id": "31335139",
       "jaBoxscoreName": "岩崎",
       "boxscoreName": "Iwazaki",
-      "pitchHand": "L"
+      "pitchHand": "L",
+      "teamCode": "T",
+      "primaryNumber": "13",
+      "jaRegisteredName": "岩崎　優",
+      "fullLFMName": "Iwazaki, Suguru"
     },
     "number": 1,
     "inning": 8,
@@ -268,16 +303,23 @@
     "id": "41945131-2024-02",
     "date": "2024-05-11",
     "batter": {
-      "id": "41945131",
       "jaBoxscoreName": "筒香",
+      "playerId": "41945131",
       "boxscoreName": "Tsutsugo",
-      "batSide": "L"
+      "batSide": "L",
+      "teamCode": "DB",
+      "primaryNumber": "25",
+      "jaRegisteredName": "筒香　嘉智",
+      "fullLFMName": "Tsutsugo, Yoshitomo"
     },
     "pitcher": {
-      "id": "31335139",
       "jaBoxscoreName": "岩崎",
       "boxscoreName": "Iwazaki",
-      "pitchHand": "L"
+      "pitchHand": "L",
+      "teamCode": "T",
+      "primaryNumber": "13",
+      "jaRegisteredName": "岩崎　優",
+      "fullLFMName": "Iwazaki, Suguru"
     },
     "number": 2,
     "inning": 8,
@@ -321,16 +363,23 @@
     "id": "13115153-2024-05",
     "date": "2024-05-11",
     "batter": {
-      "id": "13115153",
       "jaBoxscoreName": "牧",
+      "playerId": "13115153",
       "boxscoreName": "Maki",
-      "batSide": "R"
+      "batSide": "R",
+      "teamCode": "DB",
+      "primaryNumber": "2",
+      "jaRegisteredName": "牧　秀悟",
+      "fullLFMName": "Maki, Shugo"
     },
     "pitcher": {
-      "id": "11515155",
       "jaBoxscoreName": "岡留",
       "boxscoreName": "Okadome",
-      "pitchHand": "R"
+      "pitchHand": "R",
+      "teamCode": "T",
+      "primaryNumber": "64",
+      "jaRegisteredName": "岡留　英貴",
+      "fullLFMName": "Okadome, Hidetaka"
     },
     "number": 5,
     "inning": 8,

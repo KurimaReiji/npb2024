@@ -3,16 +3,23 @@
     "id": "73375151-2024-11",
     "date": "2024-07-10",
     "batter": {
-      "id": "73375151",
       "jaBoxscoreName": "オースティン",
+      "playerId": "73375151",
       "boxscoreName": "Austin",
-      "batSide": "R"
+      "batSide": "R",
+      "teamCode": "DB",
+      "primaryNumber": "3",
+      "jaRegisteredName": "Ｔ．オースティン",
+      "fullLFMName": "Austin, Tyler"
     },
     "pitcher": {
-      "id": "73175153",
       "jaBoxscoreName": "松木平",
       "boxscoreName": "Matsukihira",
-      "pitchHand": "R"
+      "pitchHand": "R",
+      "teamCode": "D",
+      "primaryNumber": "69",
+      "jaRegisteredName": "松木平　優太",
+      "fullLFMName": "Matsukihira, Yuta"
     },
     "number": 11,
     "inning": 3,
@@ -56,16 +63,23 @@
     "id": "73975136-2024-09",
     "date": "2024-07-10",
     "batter": {
-      "id": "73975136",
       "jaBoxscoreName": "マルティネス",
+      "playerId": "73975136",
       "boxscoreName": "Martinez",
-      "batSide": "R"
+      "batSide": "R",
+      "teamCode": "F",
+      "primaryNumber": "2",
+      "jaRegisteredName": "Ａ．マルティネス",
+      "fullLFMName": "Martinez, Ariel"
     },
     "pitcher": {
-      "id": "31835132",
       "jaBoxscoreName": "本田",
       "boxscoreName": "Honda",
-      "pitchHand": "R"
+      "pitchHand": "R",
+      "teamCode": "L",
+      "primaryNumber": "45",
+      "jaRegisteredName": "本田　圭佑",
+      "fullLFMName": "Honda, Keisuke"
     },
     "number": 9,
     "inning": 8,
@@ -109,16 +123,23 @@
     "id": "21425139-2024-14",
     "date": "2024-07-10",
     "batter": {
-      "id": "21425139",
       "jaBoxscoreName": "山川",
+      "playerId": "21425139",
       "boxscoreName": "Yamakawa",
-      "batSide": "R"
+      "batSide": "R",
+      "teamCode": "H",
+      "primaryNumber": "25",
+      "jaRegisteredName": "山川　穂高",
+      "fullLFMName": "Yamakawa, Hotaka"
     },
     "pitcher": {
-      "id": "71875151",
       "jaBoxscoreName": "宮城",
       "boxscoreName": "Miyagi",
-      "pitchHand": "L"
+      "pitchHand": "L",
+      "teamCode": "B",
+      "primaryNumber": "13",
+      "jaRegisteredName": "宮城　大弥",
+      "fullLFMName": "Miyagi, Hiroya"
     },
     "number": 14,
     "inning": 4,
@@ -162,16 +183,23 @@
     "id": "01705130-2024-08",
     "date": "2024-07-10",
     "batter": {
-      "id": "01705130",
       "jaBoxscoreName": "栗原",
+      "playerId": "01705130",
       "boxscoreName": "Kurihara",
-      "batSide": "L"
+      "batSide": "L",
+      "teamCode": "H",
+      "primaryNumber": "24",
+      "jaRegisteredName": "栗原　陵矢",
+      "fullLFMName": "Kurihara, Ryoya"
     },
     "pitcher": {
-      "id": "41745159",
       "jaBoxscoreName": "古田島",
       "boxscoreName": "Kotajima",
-      "pitchHand": "R"
+      "pitchHand": "R",
+      "teamCode": "B",
+      "primaryNumber": "97",
+      "jaRegisteredName": "古田島　成龍",
+      "fullLFMName": "Kotajima, Seiryu"
     },
     "number": 8,
     "inning": 8,

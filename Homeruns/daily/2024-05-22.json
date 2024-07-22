@@ -3,16 +3,23 @@
     "id": "21425116-2024-03",
     "date": "2024-05-22",
     "batter": {
-      "id": "21425116",
       "jaBoxscoreName": "丸",
+      "playerId": "21425116",
       "boxscoreName": "Maru",
-      "batSide": "L"
+      "batSide": "L",
+      "teamCode": "G",
+      "primaryNumber": "8",
+      "jaRegisteredName": "丸　佳浩",
+      "fullLFMName": "Maru, Yoshihiro"
     },
     "pitcher": {
-      "id": "71575132",
       "jaBoxscoreName": "小笠原",
       "boxscoreName": "Ogasawara",
-      "pitchHand": "L"
+      "pitchHand": "L",
+      "teamCode": "D",
+      "primaryNumber": "11",
+      "jaRegisteredName": "小笠原　慎之介",
+      "fullLFMName": "Ogasawara, Shinnosuke"
     },
     "number": 3,
     "inning": 1,
@@ -57,16 +64,23 @@
     "id": "41945131-2024-03",
     "date": "2024-05-22",
     "batter": {
-      "id": "41945131",
       "jaBoxscoreName": "筒香",
+      "playerId": "41945131",
       "boxscoreName": "Tsutsugo",
-      "batSide": "L"
+      "batSide": "L",
+      "teamCode": "DB",
+      "primaryNumber": "25",
+      "jaRegisteredName": "筒香　嘉智",
+      "fullLFMName": "Tsutsugo, Yoshitomo"
     },
     "pitcher": {
-      "id": "01705132",
       "jaBoxscoreName": "小澤",
       "boxscoreName": "Kozawa",
-      "pitchHand": "R"
+      "pitchHand": "R",
+      "teamCode": "S",
+      "primaryNumber": "45",
+      "jaRegisteredName": "小澤　怜史",
+      "fullLFMName": "Kozawa, Reiji"
     },
     "number": 3,
     "inning": 4,
@@ -110,16 +124,23 @@
     "id": "01605136-2024-01",
     "date": "2024-05-22",
     "batter": {
-      "id": "01605136",
       "jaBoxscoreName": "福田",
+      "playerId": "01605136",
       "boxscoreName": "Fukuda",
-      "batSide": "L"
+      "batSide": "L",
+      "teamCode": "B",
+      "primaryNumber": "1",
+      "jaRegisteredName": "福田　周平",
+      "fullLFMName": "Fukuda, Shuhei"
     },
     "pitcher": {
-      "id": "51855134",
       "jaBoxscoreName": "堀",
       "boxscoreName": "Hori",
-      "pitchHand": "L"
+      "pitchHand": "L",
+      "teamCode": "F",
+      "primaryNumber": "34",
+      "jaRegisteredName": "堀　瑞輝",
+      "fullLFMName": "Hori, Mizuki"
     },
     "number": 1,
     "inning": 8,
@@ -163,16 +184,23 @@
     "id": "51055138-2024-01",
     "date": "2024-05-22",
     "batter": {
-      "id": "51055138",
       "jaBoxscoreName": "田宮",
+      "playerId": "51055138",
       "boxscoreName": "Tamiya",
-      "batSide": "L"
+      "batSide": "L",
+      "teamCode": "F",
+      "primaryNumber": "64",
+      "jaRegisteredName": "田宮　裕涼",
+      "fullLFMName": "Tamiya, Yua"
     },
     "pitcher": {
-      "id": "73775157",
       "jaBoxscoreName": "カスティーヨ",
       "boxscoreName": "Castillo",
-      "pitchHand": "R"
+      "pitchHand": "R",
+      "teamCode": "B",
+      "primaryNumber": "54",
+      "jaRegisteredName": "Ｌ．カスティーヨ",
+      "fullLFMName": "Castillo, Luis"
     },
     "number": 1,
     "inning": 4,
@@ -216,16 +244,23 @@
     "id": "21425139-2024-11",
     "date": "2024-05-22",
     "batter": {
-      "id": "21425139",
       "jaBoxscoreName": "山川",
+      "playerId": "21425139",
       "boxscoreName": "Yamakawa",
-      "batSide": "R"
+      "batSide": "R",
+      "teamCode": "H",
+      "primaryNumber": "25",
+      "jaRegisteredName": "山川　穂高",
+      "fullLFMName": "Yamakawa, Hotaka"
     },
     "pitcher": {
-      "id": "21925157",
       "jaBoxscoreName": "荘司",
       "boxscoreName": "Shoji",
-      "pitchHand": "R"
+      "pitchHand": "R",
+      "teamCode": "E",
+      "primaryNumber": "19",
+      "jaRegisteredName": "荘司　康誠",
+      "fullLFMName": "Shoji, Kosei"
     },
     "number": 11,
     "inning": 1,
@@ -269,16 +304,23 @@
     "id": "21425139-2024-12",
     "date": "2024-05-22",
     "batter": {
-      "id": "21425139",
       "jaBoxscoreName": "山川",
+      "playerId": "21425139",
       "boxscoreName": "Yamakawa",
-      "batSide": "R"
+      "batSide": "R",
+      "teamCode": "H",
+      "primaryNumber": "25",
+      "jaRegisteredName": "山川　穂高",
+      "fullLFMName": "Yamakawa, Hotaka"
     },
     "pitcher": {
-      "id": "13115155",
       "jaBoxscoreName": "松井",
       "boxscoreName": "Matsui",
-      "pitchHand": "R"
+      "pitchHand": "R",
+      "teamCode": "E",
+      "primaryNumber": "45",
+      "jaRegisteredName": "松井　友飛",
+      "fullLFMName": "Matsui, Tomotaka"
     },
     "number": 12,
     "inning": 2,

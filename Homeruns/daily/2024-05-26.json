@@ -3,16 +3,23 @@
     "id": "51555151-2024-02",
     "date": "2024-05-26",
     "batter": {
-      "id": "51555151",
       "jaBoxscoreName": "蝦名",
+      "playerId": "51555151",
       "boxscoreName": "Ebina",
-      "batSide": "R"
+      "batSide": "R",
+      "teamCode": "DB",
+      "primaryNumber": "61",
+      "jaRegisteredName": "蝦名　達夫",
+      "fullLFMName": "Ebina, Tatsuo"
     },
     "pitcher": {
-      "id": "31135134",
       "jaBoxscoreName": "アドゥワ",
       "boxscoreName": "Aduwa",
-      "pitchHand": "R"
+      "pitchHand": "R",
+      "teamCode": "C",
+      "primaryNumber": "48",
+      "jaRegisteredName": "アドゥワ　誠",
+      "fullLFMName": "Aduwa, Makoto"
     },
     "number": 2,
     "inning": 1,
@@ -57,16 +64,23 @@
     "id": "11515130-2024-09",
     "date": "2024-05-26",
     "batter": {
-      "id": "11515130",
       "jaBoxscoreName": "岡本和",
+      "playerId": "11515130",
       "boxscoreName": "K.Okamoto",
-      "batSide": "R"
+      "batSide": "R",
+      "teamCode": "G",
+      "primaryNumber": "25",
+      "jaRegisteredName": "岡本　和真",
+      "fullLFMName": "Okamoto, Kazuma"
     },
     "pitcher": {
-      "id": "33735159",
       "jaBoxscoreName": "ゲラ",
       "boxscoreName": "Guerra",
-      "pitchHand": "R"
+      "pitchHand": "R",
+      "teamCode": "T",
+      "primaryNumber": "00",
+      "jaRegisteredName": "Ｊ．ゲラ",
+      "fullLFMName": "Guerra, Javy"
     },
     "number": 9,
     "inning": 9,
@@ -110,16 +124,23 @@
     "id": "91495139-2024-01",
     "date": "2024-05-26",
     "batter": {
-      "id": "91495139",
       "jaBoxscoreName": "森",
+      "playerId": "91495139",
       "boxscoreName": "Mori",
-      "batSide": "L"
+      "batSide": "L",
+      "teamCode": "B",
+      "primaryNumber": "4",
+      "jaRegisteredName": "森　友哉",
+      "fullLFMName": "Mori, Tomoya"
     },
     "pitcher": {
-      "id": "71275137",
       "jaBoxscoreName": "増田",
       "boxscoreName": "Masuda",
-      "pitchHand": "R"
+      "pitchHand": "R",
+      "teamCode": "L",
+      "primaryNumber": "14",
+      "jaRegisteredName": "増田　達至",
+      "fullLFMName": "Masuda, Tatsushi"
     },
     "number": 1,
     "inning": 9,
@@ -163,16 +184,23 @@
     "id": "51955151-2024-03",
     "date": "2024-05-26",
     "batter": {
-      "id": "51955151",
       "jaBoxscoreName": "岸",
+      "playerId": "51955151",
       "boxscoreName": "Kishi",
-      "batSide": "R"
+      "batSide": "R",
+      "teamCode": "L",
+      "primaryNumber": "68",
+      "jaRegisteredName": "岸　潤一郎",
+      "fullLFMName": "Kishi, Junichiro"
     },
     "pitcher": {
-      "id": "43945159",
       "jaBoxscoreName": "マチャド",
       "boxscoreName": "Machado",
-      "pitchHand": "R"
+      "pitchHand": "R",
+      "teamCode": "B",
+      "primaryNumber": "42",
+      "jaRegisteredName": "Ａ．マチャド",
+      "fullLFMName": "Machado, Andres"
     },
     "number": 3,
     "inning": 8,

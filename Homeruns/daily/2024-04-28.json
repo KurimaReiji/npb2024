@@ -3,16 +3,23 @@
     "id": "71475132-2024-01",
     "date": "2024-04-28",
     "batter": {
-      "id": "71475132",
       "jaBoxscoreName": "西川",
+      "playerId": "71475132",
       "boxscoreName": "Nishikawa",
-      "batSide": "L"
+      "batSide": "L",
+      "teamCode": "B",
+      "primaryNumber": "7",
+      "jaRegisteredName": "西川　龍馬",
+      "fullLFMName": "Nishikawa, Ryoma"
     },
     "pitcher": {
-      "id": "41545132",
       "jaBoxscoreName": "加藤貴",
       "boxscoreName": "T.Katoh",
-      "pitchHand": "L"
+      "pitchHand": "L",
+      "teamCode": "F",
+      "primaryNumber": "14",
+      "jaRegisteredName": "加藤　貴之",
+      "fullLFMName": "Katoh, Takayuki"
     },
     "number": 1,
     "inning": 6,
@@ -56,16 +63,23 @@
     "id": "63065155-2024-05",
     "date": "2024-04-28",
     "batter": {
-      "id": "63065155",
       "jaBoxscoreName": "ポランコ",
+      "playerId": "63065155",
       "boxscoreName": "Polanco",
-      "batSide": "L"
+      "batSide": "L",
+      "teamCode": "M",
+      "primaryNumber": "22",
+      "jaRegisteredName": "Ｇ．ポランコ",
+      "fullLFMName": "Polanco, Gregory"
     },
     "pitcher": {
-      "id": "73175159",
       "jaBoxscoreName": "松田",
       "boxscoreName": "Matsuda",
-      "pitchHand": "R"
+      "pitchHand": "R",
+      "teamCode": "E",
+      "primaryNumber": "61",
+      "jaRegisteredName": "松田　啄磨",
+      "fullLFMName": "Matsuda, Takuma"
     },
     "number": 5,
     "inning": 5,
@@ -109,16 +123,23 @@
     "id": "91595133-2024-01",
     "date": "2024-04-28",
     "batter": {
-      "id": "91595133",
       "jaBoxscoreName": "甲斐",
+      "playerId": "91595133",
       "boxscoreName": "T.Kai",
-      "batSide": "R"
+      "batSide": "R",
+      "teamCode": "H",
+      "primaryNumber": "19",
+      "jaRegisteredName": "甲斐　拓也",
+      "fullLFMName": "Kai, Takuya"
     },
     "pitcher": {
-      "id": "21025155",
       "jaBoxscoreName": "隅田",
       "boxscoreName": "Sumida",
-      "pitchHand": "L"
+      "pitchHand": "L",
+      "teamCode": "L",
+      "primaryNumber": "16",
+      "jaRegisteredName": "隅田　知一郎",
+      "fullLFMName": "Sumida, Chihiro"
     },
     "number": 1,
     "inning": 7,
@@ -138,7 +159,7 @@
     "whereHit": "7",
     "venue": {
       "jaBoxscoreName": "みずほPayPay",
-      "boxscoreName": "MIZUHO PayPay Dome",
+      "boxscoreName": "MIZUHO PayPay",
       "jaName": "みずほPayPayドーム福岡",
       "name": "MIZUHO PayPay Dome FUKUOKA"
     },

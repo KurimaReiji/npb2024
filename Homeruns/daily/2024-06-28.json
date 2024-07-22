@@ -3,16 +3,23 @@
     "id": "61965131-2024-01",
     "date": "2024-06-28",
     "batter": {
-      "id": "61965131",
       "jaBoxscoreName": "堂林",
+      "playerId": "61965131",
       "boxscoreName": "Dohbayashi",
-      "batSide": "R"
+      "batSide": "R",
+      "teamCode": "C",
+      "primaryNumber": "7",
+      "jaRegisteredName": "堂林　翔太",
+      "fullLFMName": "Dohbayashi, Shota"
     },
     "pitcher": {
-      "id": "41045138",
       "jaBoxscoreName": "戸郷",
       "boxscoreName": "Togo",
-      "pitchHand": "R"
+      "pitchHand": "R",
+      "teamCode": "G",
+      "primaryNumber": "20",
+      "jaRegisteredName": "戸郷　翔征",
+      "fullLFMName": "Togo, Shosei"
     },
     "number": 1,
     "inning": 5,
@@ -56,16 +63,23 @@
     "id": "21425116-2024-05",
     "date": "2024-06-28",
     "batter": {
-      "id": "21425116",
       "jaBoxscoreName": "丸",
+      "playerId": "21425116",
       "boxscoreName": "Maru",
-      "batSide": "L"
+      "batSide": "L",
+      "teamCode": "G",
+      "primaryNumber": "8",
+      "jaRegisteredName": "丸　佳浩",
+      "fullLFMName": "Maru, Yoshihiro"
     },
     "pitcher": {
-      "id": "91995153",
       "jaBoxscoreName": "栗林",
       "boxscoreName": "Kuribayashi",
-      "pitchHand": "R"
+      "pitchHand": "R",
+      "teamCode": "C",
+      "primaryNumber": "20",
+      "jaRegisteredName": "栗林　良吏",
+      "fullLFMName": "Kuribayashi, Ryoji"
     },
     "number": 5,
     "inning": 10,
@@ -110,16 +124,23 @@
     "id": "81585134-2024-01",
     "date": "2024-06-28",
     "batter": {
-      "id": "81585134",
       "jaBoxscoreName": "京田",
+      "playerId": "81585134",
       "boxscoreName": "Kyoda",
-      "batSide": "L"
+      "batSide": "L",
+      "teamCode": "DB",
+      "primaryNumber": "98",
+      "jaRegisteredName": "京田　陽太",
+      "fullLFMName": "Kyoda, Yota"
     },
     "pitcher": {
-      "id": "91995139",
       "jaBoxscoreName": "祖父江",
       "boxscoreName": "Sobue",
-      "pitchHand": "R"
+      "pitchHand": "R",
+      "teamCode": "D",
+      "primaryNumber": "33",
+      "jaRegisteredName": "祖父江　大輔",
+      "fullLFMName": "Sobue, Daisuke"
     },
     "number": 1,
     "inning": 7,
@@ -163,16 +184,23 @@
     "id": "41745135-2024-12",
     "date": "2024-06-28",
     "batter": {
-      "id": "41745135",
       "jaBoxscoreName": "近藤",
+      "playerId": "41745135",
       "boxscoreName": "Kondoh",
-      "batSide": "L"
+      "batSide": "L",
+      "teamCode": "H",
+      "primaryNumber": "3",
+      "jaRegisteredName": "近藤　健介",
+      "fullLFMName": "Kondoh, Kensuke"
     },
     "pitcher": {
-      "id": "21825130",
       "jaBoxscoreName": "山﨑福也",
       "boxscoreName": "Yamasaki",
-      "pitchHand": "L"
+      "pitchHand": "L",
+      "teamCode": "F",
+      "primaryNumber": "18",
+      "jaRegisteredName": "山﨑　福也",
+      "fullLFMName": "Yamasaki, Sachiya"
     },
     "number": 12,
     "inning": 2,
@@ -216,16 +244,23 @@
     "id": "73975136-2024-08",
     "date": "2024-06-28",
     "batter": {
-      "id": "73975136",
       "jaBoxscoreName": "マルティネス",
+      "playerId": "73975136",
       "boxscoreName": "Martinez",
-      "batSide": "R"
+      "batSide": "R",
+      "teamCode": "F",
+      "primaryNumber": "2",
+      "jaRegisteredName": "Ａ．マルティネス",
+      "fullLFMName": "Martinez, Ariel"
     },
     "pitcher": {
-      "id": "53755138",
       "jaBoxscoreName": "スチュワート・ジュニア",
       "boxscoreName": "Stewart",
-      "pitchHand": "R"
+      "pitchHand": "R",
+      "teamCode": "H",
+      "primaryNumber": "2",
+      "jaRegisteredName": "Ｃ．スチュワート・ジュニア",
+      "fullLFMName": "Stewart, Jr., Carter"
     },
     "number": 8,
     "inning": 2,
@@ -269,16 +304,23 @@
     "id": "41245130-2024-03",
     "date": "2024-06-28",
     "batter": {
-      "id": "41245130",
       "jaBoxscoreName": "外崎",
+      "playerId": "41245130",
       "boxscoreName": "Tonosaki",
-      "batSide": "R"
+      "batSide": "R",
+      "teamCode": "L",
+      "primaryNumber": "5",
+      "jaRegisteredName": "外崎　修汰",
+      "fullLFMName": "Tonosaki, Shuta"
     },
     "pitcher": {
-      "id": "21725159",
       "jaBoxscoreName": "古謝",
       "boxscoreName": "Koja",
-      "pitchHand": "L"
+      "pitchHand": "L",
+      "teamCode": "E",
+      "primaryNumber": "17",
+      "jaRegisteredName": "古謝　樹",
+      "fullLFMName": "Koja, Tatsuki"
     },
     "number": 3,
     "inning": 6,

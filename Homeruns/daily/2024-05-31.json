@@ -3,16 +3,23 @@
     "id": "41945131-2024-04",
     "date": "2024-05-31",
     "batter": {
-      "id": "41945131",
       "jaBoxscoreName": "筒香",
+      "playerId": "41945131",
       "boxscoreName": "Tsutsugo",
-      "batSide": "L"
+      "batSide": "L",
+      "teamCode": "DB",
+      "primaryNumber": "25",
+      "jaRegisteredName": "筒香　嘉智",
+      "fullLFMName": "Tsutsugo, Yoshitomo"
     },
     "pitcher": {
-      "id": "51555157",
       "jaBoxscoreName": "金村",
       "boxscoreName": "Kanemura",
-      "pitchHand": "R"
+      "pitchHand": "R",
+      "teamCode": "F",
+      "primaryNumber": "24",
+      "jaRegisteredName": "金村　尚真",
+      "fullLFMName": "Kanemura, Shoma"
     },
     "number": 4,
     "inning": 4,
@@ -56,16 +63,23 @@
     "id": "73375151-2024-03",
     "date": "2024-05-31",
     "batter": {
-      "id": "73375151",
       "jaBoxscoreName": "オースティン",
+      "playerId": "73375151",
       "boxscoreName": "Austin",
-      "batSide": "R"
+      "batSide": "R",
+      "teamCode": "DB",
+      "primaryNumber": "3",
+      "jaRegisteredName": "Ｔ．オースティン",
+      "fullLFMName": "Austin, Tyler"
     },
     "pitcher": {
-      "id": "31235134",
       "jaBoxscoreName": "田中正",
       "boxscoreName": "S.Tanaka",
-      "pitchHand": "R"
+      "pitchHand": "R",
+      "teamCode": "F",
+      "primaryNumber": "26",
+      "jaRegisteredName": "田中　正義",
+      "fullLFMName": "Tanaka, Seigi"
     },
     "number": 3,
     "inning": 9,
@@ -109,16 +123,23 @@
     "id": "21925151-2024-05",
     "date": "2024-05-31",
     "batter": {
-      "id": "21925151",
       "jaBoxscoreName": "郡司",
+      "playerId": "21925151",
       "boxscoreName": "Gunji",
-      "batSide": "R"
+      "batSide": "R",
+      "teamCode": "F",
+      "primaryNumber": "30",
+      "jaRegisteredName": "郡司　裕也",
+      "fullLFMName": "Gunji, Yuya"
     },
     "pitcher": {
-      "id": "51155136",
       "jaBoxscoreName": "東",
       "boxscoreName": "K.Azuma",
-      "pitchHand": "L"
+      "pitchHand": "L",
+      "teamCode": "DB",
+      "primaryNumber": "11",
+      "jaRegisteredName": "東　克樹",
+      "fullLFMName": "Azuma, Katsuki"
     },
     "number": 5,
     "inning": 4,
@@ -162,16 +183,23 @@
     "id": "63165155-2024-03",
     "date": "2024-05-31",
     "batter": {
-      "id": "63165155",
       "jaBoxscoreName": "水野",
+      "playerId": "63165155",
       "boxscoreName": "Mizuno",
-      "batSide": "L"
+      "batSide": "L",
+      "teamCode": "F",
+      "primaryNumber": "43",
+      "jaRegisteredName": "水野　達稀",
+      "fullLFMName": "Mizuno, Tatsuki"
     },
     "pitcher": {
-      "id": "51155136",
       "jaBoxscoreName": "東",
       "boxscoreName": "K.Azuma",
-      "pitchHand": "L"
+      "pitchHand": "L",
+      "teamCode": "DB",
+      "primaryNumber": "11",
+      "jaRegisteredName": "東　克樹",
+      "fullLFMName": "Azuma, Katsuki"
     },
     "number": 3,
     "inning": 5,
@@ -215,16 +243,23 @@
     "id": "63965157-2024-01",
     "date": "2024-05-31",
     "batter": {
-      "id": "63965157",
       "jaBoxscoreName": "フランコ",
+      "playerId": "63965157",
       "boxscoreName": "Franco",
-      "batSide": "R"
+      "batSide": "R",
+      "teamCode": "E",
+      "primaryNumber": "23",
+      "jaRegisteredName": "Ｍ．フランコ",
+      "fullLFMName": "Franco, Maikel"
     },
     "pitcher": {
-      "id": "11615134",
       "jaBoxscoreName": "長谷川",
       "boxscoreName": "Hasegawa",
-      "pitchHand": "L"
+      "pitchHand": "L",
+      "teamCode": "S",
+      "primaryNumber": "53",
+      "jaRegisteredName": "長谷川　宙輝",
+      "fullLFMName": "Hasegawa, Hiroki"
     },
     "number": 1,
     "inning": 9,
@@ -270,16 +305,23 @@
     "id": "81085115-2024-07",
     "date": "2024-05-31",
     "batter": {
-      "id": "81085115",
       "jaBoxscoreName": "中村剛",
+      "playerId": "81085115",
       "boxscoreName": "T.Nakamura",
-      "batSide": "R"
+      "batSide": "R",
+      "teamCode": "L",
+      "primaryNumber": "60",
+      "jaRegisteredName": "中村　剛也",
+      "fullLFMName": "Nakamura, Takeya"
     },
     "pitcher": {
-      "id": "41045138",
       "jaBoxscoreName": "戸郷",
       "boxscoreName": "Togo",
-      "pitchHand": "R"
+      "pitchHand": "R",
+      "teamCode": "G",
+      "primaryNumber": "20",
+      "jaRegisteredName": "戸郷　翔征",
+      "fullLFMName": "Togo, Shosei"
     },
     "number": 7,
     "inning": 7,
@@ -323,16 +365,23 @@
     "id": "21825155-2024-01",
     "date": "2024-05-31",
     "batter": {
-      "id": "21825155",
       "jaBoxscoreName": "前川",
+      "playerId": "21825155",
       "boxscoreName": "Maegawa",
-      "batSide": "L"
+      "batSide": "L",
+      "teamCode": "T",
+      "primaryNumber": "58",
+      "jaRegisteredName": "前川　右京",
+      "fullLFMName": "Maegawa, Ukyo"
     },
     "pitcher": {
-      "id": "01605133",
       "jaBoxscoreName": "美馬",
       "boxscoreName": "Mima",
-      "pitchHand": "R"
+      "pitchHand": "R",
+      "teamCode": "M",
+      "primaryNumber": "15",
+      "jaRegisteredName": "美馬　学",
+      "fullLFMName": "Mima, Manabu"
     },
     "number": 1,
     "inning": 6,
@@ -376,16 +425,23 @@
     "id": "61565135-2024-03",
     "date": "2024-05-31",
     "batter": {
-      "id": "61565135",
       "jaBoxscoreName": "菊池",
+      "playerId": "61565135",
       "boxscoreName": "Kikuchi",
-      "batSide": "R"
+      "batSide": "R",
+      "teamCode": "C",
+      "primaryNumber": "33",
+      "jaRegisteredName": "菊池　涼介",
+      "fullLFMName": "Kikuchi, Ryosuke"
     },
     "pitcher": {
-      "id": "63965134",
       "jaBoxscoreName": "モイネロ",
       "boxscoreName": "Moinelo",
-      "pitchHand": "L"
+      "pitchHand": "L",
+      "teamCode": "H",
+      "primaryNumber": "35",
+      "jaRegisteredName": "Ｌ．モイネロ",
+      "fullLFMName": "Moinelo, Livan"
     },
     "number": 3,
     "inning": 1,
@@ -405,7 +461,7 @@
     "whereHit": "7",
     "venue": {
       "jaBoxscoreName": "みずほPayPay",
-      "boxscoreName": "MIZUHO PayPay Dome",
+      "boxscoreName": "MIZUHO PayPay",
       "jaName": "みずほPayPayドーム福岡",
       "name": "MIZUHO PayPay Dome FUKUOKA"
     },

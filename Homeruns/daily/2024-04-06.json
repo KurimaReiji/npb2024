@@ -3,16 +3,23 @@
     "id": "71075138-2024-02",
     "date": "2024-04-06",
     "batter": {
-      "id": "71075138",
       "jaBoxscoreName": "近本",
+      "playerId": "71075138",
       "boxscoreName": "Chikamoto",
-      "batSide": "L"
+      "batSide": "L",
+      "teamCode": "T",
+      "primaryNumber": "5",
+      "jaRegisteredName": "近本　光司",
+      "fullLFMName": "Chikamoto, Koji"
     },
     "pitcher": {
-      "id": "53555157",
       "jaBoxscoreName": "吉村",
       "boxscoreName": "Yoshimura",
-      "pitchHand": "R"
+      "pitchHand": "R",
+      "teamCode": "S",
+      "primaryNumber": "21",
+      "jaRegisteredName": "吉村　貢司郎",
+      "fullLFMName": "Yoshimura, Kojiro"
     },
     "number": 2,
     "inning": 4,
@@ -56,16 +63,23 @@
     "id": "41045153-2024-02",
     "date": "2024-04-06",
     "batter": {
-      "id": "41045153",
       "jaBoxscoreName": "佐藤輝",
+      "playerId": "41045153",
       "boxscoreName": "T.Sato",
-      "batSide": "L"
+      "batSide": "L",
+      "teamCode": "T",
+      "primaryNumber": "8",
+      "jaRegisteredName": "佐藤　輝明",
+      "fullLFMName": "Sato, Teruaki"
     },
     "pitcher": {
-      "id": "53555157",
       "jaBoxscoreName": "吉村",
       "boxscoreName": "Yoshimura",
-      "pitchHand": "R"
+      "pitchHand": "R",
+      "teamCode": "S",
+      "primaryNumber": "21",
+      "jaRegisteredName": "吉村　貢司郎",
+      "fullLFMName": "Yoshimura, Kojiro"
     },
     "number": 2,
     "inning": 7,
@@ -109,16 +123,23 @@
     "id": "31835134-2024-03",
     "date": "2024-04-06",
     "batter": {
-      "id": "31835134",
       "jaBoxscoreName": "細川",
+      "playerId": "31835134",
       "boxscoreName": "Hosokawa",
-      "batSide": "R"
+      "batSide": "R",
+      "teamCode": "D",
+      "primaryNumber": "55",
+      "jaRegisteredName": "細川　成也",
+      "fullLFMName": "Hosokawa, Seiya"
     },
     "pitcher": {
-      "id": "93995159",
       "jaBoxscoreName": "ハッチ",
       "boxscoreName": "Hatch",
-      "pitchHand": "R"
+      "pitchHand": "R",
+      "teamCode": "C",
+      "primaryNumber": "42",
+      "jaRegisteredName": "Ｔ．ハッチ",
+      "fullLFMName": "Hatch, Thomas"
     },
     "number": 3,
     "inning": 5,
@@ -162,16 +183,23 @@
     "id": "81785138-2024-01",
     "date": "2024-04-06",
     "batter": {
-      "id": "81785138",
       "jaBoxscoreName": "佐藤龍",
+      "playerId": "81785138",
       "boxscoreName": "R.Satoh",
-      "batSide": "R"
+      "batSide": "R",
+      "teamCode": "L",
+      "primaryNumber": "10",
+      "jaRegisteredName": "佐藤　龍世",
+      "fullLFMName": "Satoh, Ryusei"
     },
     "pitcher": {
-      "id": "41545132",
       "jaBoxscoreName": "加藤貴",
       "boxscoreName": "T.Katoh",
-      "pitchHand": "L"
+      "pitchHand": "L",
+      "teamCode": "F",
+      "primaryNumber": "14",
+      "jaRegisteredName": "加藤　貴之",
+      "fullLFMName": "Katoh, Takayuki"
     },
     "number": 1,
     "inning": 4,
@@ -215,16 +243,23 @@
     "id": "51955151-2024-01",
     "date": "2024-04-06",
     "batter": {
-      "id": "51955151",
       "jaBoxscoreName": "岸",
+      "playerId": "51955151",
       "boxscoreName": "Kishi",
-      "batSide": "R"
+      "batSide": "R",
+      "teamCode": "L",
+      "primaryNumber": "68",
+      "jaRegisteredName": "岸　潤一郎",
+      "fullLFMName": "Kishi, Junichiro"
     },
     "pitcher": {
-      "id": "41545132",
       "jaBoxscoreName": "加藤貴",
       "boxscoreName": "T.Katoh",
-      "pitchHand": "L"
+      "pitchHand": "L",
+      "teamCode": "F",
+      "primaryNumber": "14",
+      "jaRegisteredName": "加藤　貴之",
+      "fullLFMName": "Katoh, Takayuki"
     },
     "number": 1,
     "inning": 4,
@@ -268,16 +303,23 @@
     "id": "31835133-2024-01",
     "date": "2024-04-06",
     "batter": {
-      "id": "31835133",
       "jaBoxscoreName": "柳田",
+      "playerId": "31835133",
       "boxscoreName": "Yanagita",
-      "batSide": "L"
+      "batSide": "L",
+      "teamCode": "H",
+      "primaryNumber": "9",
+      "jaRegisteredName": "柳田　悠岐",
+      "fullLFMName": "Yanagita, Yuki"
     },
     "pitcher": {
-      "id": "13015155",
       "jaBoxscoreName": "ターリー",
       "boxscoreName": "Turley",
-      "pitchHand": "L"
+      "pitchHand": "L",
+      "teamCode": "E",
+      "primaryNumber": "20",
+      "jaRegisteredName": "Ｎ．ターリー",
+      "fullLFMName": "Turley, Nik"
     },
     "number": 1,
     "inning": 8,

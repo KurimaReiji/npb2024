@@ -3,16 +3,23 @@
     "id": "21025157-2024-01",
     "date": "2024-05-21",
     "batter": {
-      "id": "21025157",
       "jaBoxscoreName": "田中",
+      "playerId": "21025157",
       "boxscoreName": "Tanaka",
-      "batSide": "R"
+      "batSide": "R",
+      "teamCode": "D",
+      "primaryNumber": "2",
+      "jaRegisteredName": "田中　幹也",
+      "fullLFMName": "Tanaka, Mikiya"
     },
     "pitcher": {
-      "id": "03305153",
       "jaBoxscoreName": "山﨑伊",
       "boxscoreName": "I.Yamasaki",
-      "pitchHand": "R"
+      "pitchHand": "R",
+      "teamCode": "G",
+      "primaryNumber": "19",
+      "jaRegisteredName": "山﨑　伊織",
+      "fullLFMName": "Yamasaki, Iori"
     },
     "number": 1,
     "inning": 7,
@@ -56,16 +63,23 @@
     "id": "91995134-2024-02",
     "date": "2024-05-21",
     "batter": {
-      "id": "91995134",
       "jaBoxscoreName": "佐野",
+      "playerId": "91995134",
       "boxscoreName": "Sano",
-      "batSide": "L"
+      "batSide": "L",
+      "teamCode": "DB",
+      "primaryNumber": "7",
+      "jaRegisteredName": "佐野　恵太",
+      "fullLFMName": "Sano, Keita"
     },
     "pitcher": {
-      "id": "11515137",
       "jaBoxscoreName": "小川",
       "boxscoreName": "Ogawa",
-      "pitchHand": "R"
+      "pitchHand": "R",
+      "teamCode": "S",
+      "primaryNumber": "29",
+      "jaRegisteredName": "小川　泰弘",
+      "fullLFMName": "Ogawa, Yasuhiro"
     },
     "number": 2,
     "inning": 3,
@@ -109,16 +123,23 @@
     "id": "51455137-2024-03",
     "date": "2024-05-21",
     "batter": {
-      "id": "51455137",
       "jaBoxscoreName": "宮﨑",
+      "playerId": "51455137",
       "boxscoreName": "Miyazaki",
-      "batSide": "R"
+      "batSide": "R",
+      "teamCode": "DB",
+      "primaryNumber": "51",
+      "jaRegisteredName": "宮﨑　敏郎",
+      "fullLFMName": "Miyazaki, Toshiro"
     },
     "pitcher": {
-      "id": "11515137",
       "jaBoxscoreName": "小川",
       "boxscoreName": "Ogawa",
-      "pitchHand": "R"
+      "pitchHand": "R",
+      "teamCode": "S",
+      "primaryNumber": "29",
+      "jaRegisteredName": "小川　泰弘",
+      "fullLFMName": "Ogawa, Yasuhiro"
     },
     "number": 3,
     "inning": 3,
@@ -162,16 +183,23 @@
     "id": "51055155-2024-02",
     "date": "2024-05-21",
     "batter": {
-      "id": "51055155",
       "jaBoxscoreName": "末包",
+      "playerId": "51055155",
       "boxscoreName": "Suekane",
-      "batSide": "R"
+      "batSide": "R",
+      "teamCode": "C",
+      "primaryNumber": "52",
+      "jaRegisteredName": "末包　昇大",
+      "fullLFMName": "Suekane, Shota"
     },
     "pitcher": {
-      "id": "13315153",
       "jaBoxscoreName": "村上",
       "boxscoreName": "Murakami",
-      "pitchHand": "R"
+      "pitchHand": "R",
+      "teamCode": "T",
+      "primaryNumber": "41",
+      "jaRegisteredName": "村上　頌樹",
+      "fullLFMName": "Murakami, Shoki"
     },
     "number": 2,
     "inning": 3,
@@ -215,16 +243,23 @@
     "id": "63165155-2024-02",
     "date": "2024-05-21",
     "batter": {
-      "id": "63165155",
       "jaBoxscoreName": "水野",
+      "playerId": "63165155",
       "boxscoreName": "Mizuno",
-      "batSide": "L"
+      "batSide": "L",
+      "teamCode": "F",
+      "primaryNumber": "43",
+      "jaRegisteredName": "水野　達稀",
+      "fullLFMName": "Mizuno, Tatsuki"
     },
     "pitcher": {
-      "id": "43545159",
       "jaBoxscoreName": "エスピノーザ",
       "boxscoreName": "Espinoza",
-      "pitchHand": "R"
+      "pitchHand": "R",
+      "teamCode": "B",
+      "primaryNumber": "00",
+      "jaRegisteredName": "Ａ．エスピノーザ",
+      "fullLFMName": "Espinoza, Anderson"
     },
     "number": 2,
     "inning": 4,
@@ -268,16 +303,23 @@
     "id": "01705130-2024-01",
     "date": "2024-05-21",
     "batter": {
-      "id": "01705130",
       "jaBoxscoreName": "栗原",
+      "playerId": "01705130",
       "boxscoreName": "Kurihara",
-      "batSide": "L"
+      "batSide": "L",
+      "teamCode": "H",
+      "primaryNumber": "24",
+      "jaRegisteredName": "栗原　陵矢",
+      "fullLFMName": "Kurihara, Ryoya"
     },
     "pitcher": {
-      "id": "83085155",
       "jaBoxscoreName": "ポンセ",
       "boxscoreName": "Ponce",
-      "pitchHand": "R"
+      "pitchHand": "R",
+      "teamCode": "E",
+      "primaryNumber": "13",
+      "jaRegisteredName": "Ｃ．ポンセ",
+      "fullLFMName": "Ponce, Cody"
     },
     "number": 1,
     "inning": 3,
@@ -297,7 +339,7 @@
     "whereHit": "9",
     "venue": {
       "jaBoxscoreName": "みずほPayPay",
-      "boxscoreName": "MIZUHO PayPay Dome",
+      "boxscoreName": "MIZUHO PayPay",
       "jaName": "みずほPayPayドーム福岡",
       "name": "MIZUHO PayPay Dome FUKUOKA"
     },
@@ -321,16 +363,23 @@
     "id": "01705130-2024-02",
     "date": "2024-05-21",
     "batter": {
-      "id": "01705130",
       "jaBoxscoreName": "栗原",
+      "playerId": "01705130",
       "boxscoreName": "Kurihara",
-      "batSide": "L"
+      "batSide": "L",
+      "teamCode": "H",
+      "primaryNumber": "24",
+      "jaRegisteredName": "栗原　陵矢",
+      "fullLFMName": "Kurihara, Ryoya"
     },
     "pitcher": {
-      "id": "23525155",
       "jaBoxscoreName": "吉川",
       "boxscoreName": "Yoshikawa",
-      "pitchHand": "R"
+      "pitchHand": "R",
+      "teamCode": "E",
+      "primaryNumber": "71",
+      "jaRegisteredName": "吉川　雄大",
+      "fullLFMName": "Yoshikawa, Kazuki"
     },
     "number": 2,
     "inning": 5,
@@ -350,7 +399,7 @@
     "whereHit": "9",
     "venue": {
       "jaBoxscoreName": "みずほPayPay",
-      "boxscoreName": "MIZUHO PayPay Dome",
+      "boxscoreName": "MIZUHO PayPay",
       "jaName": "みずほPayPayドーム福岡",
       "name": "MIZUHO PayPay Dome FUKUOKA"
     },
@@ -374,16 +423,23 @@
     "id": "81385151-2024-01",
     "date": "2024-05-21",
     "batter": {
-      "id": "81385151",
       "jaBoxscoreName": "海野",
+      "playerId": "81385151",
       "boxscoreName": "Umino",
-      "batSide": "R"
+      "batSide": "R",
+      "teamCode": "H",
+      "primaryNumber": "62",
+      "jaRegisteredName": "海野　隆司",
+      "fullLFMName": "Umino, Takashi"
     },
     "pitcher": {
-      "id": "61465155",
       "jaBoxscoreName": "西垣",
       "boxscoreName": "Nishigaki",
-      "pitchHand": "R"
+      "pitchHand": "R",
+      "teamCode": "E",
+      "primaryNumber": "49",
+      "jaRegisteredName": "西垣　雅矢",
+      "fullLFMName": "Nishigaki, Masaya"
     },
     "number": 1,
     "inning": 8,
@@ -403,7 +459,7 @@
     "whereHit": "7",
     "venue": {
       "jaBoxscoreName": "みずほPayPay",
-      "boxscoreName": "MIZUHO PayPay Dome",
+      "boxscoreName": "MIZUHO PayPay",
       "jaName": "みずほPayPayドーム福岡",
       "name": "MIZUHO PayPay Dome FUKUOKA"
     },

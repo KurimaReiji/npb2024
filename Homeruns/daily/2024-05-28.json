@@ -3,16 +3,23 @@
     "id": "01705130-2024-03",
     "date": "2024-05-28",
     "batter": {
-      "id": "01705130",
       "jaBoxscoreName": "栗原",
+      "playerId": "01705130",
       "boxscoreName": "Kurihara",
-      "batSide": "L"
+      "batSide": "L",
+      "teamCode": "H",
+      "primaryNumber": "24",
+      "jaRegisteredName": "栗原　陵矢",
+      "fullLFMName": "Kurihara, Ryoya"
     },
     "pitcher": {
-      "id": "03305153",
       "jaBoxscoreName": "山﨑伊",
       "boxscoreName": "I.Yamasaki",
-      "pitchHand": "R"
+      "pitchHand": "R",
+      "teamCode": "G",
+      "primaryNumber": "19",
+      "jaRegisteredName": "山﨑　伊織",
+      "fullLFMName": "Yamasaki, Iori"
     },
     "number": 3,
     "inning": 5,
@@ -56,16 +63,23 @@
     "id": "41545114-2024-01",
     "date": "2024-05-28",
     "batter": {
-      "id": "41545114",
       "jaBoxscoreName": "角中",
+      "playerId": "41545114",
       "boxscoreName": "Kakunaka",
-      "batSide": "L"
+      "batSide": "L",
+      "teamCode": "M",
+      "primaryNumber": "3",
+      "jaRegisteredName": "角中　勝也",
+      "fullLFMName": "Kakunaka, Katsuya"
     },
     "pitcher": {
-      "id": "53555157",
       "jaBoxscoreName": "吉村",
       "boxscoreName": "Yoshimura",
-      "pitchHand": "R"
+      "pitchHand": "R",
+      "teamCode": "S",
+      "primaryNumber": "21",
+      "jaRegisteredName": "吉村　貢司郎",
+      "fullLFMName": "Yoshimura, Kojiro"
     },
     "number": 1,
     "inning": 3,
@@ -109,16 +123,23 @@
     "id": "71075151-2024-01",
     "date": "2024-05-28",
     "batter": {
-      "id": "71075151",
       "jaBoxscoreName": "佐藤",
+      "playerId": "71075151",
       "boxscoreName": "Satoh",
-      "batSide": "L"
+      "batSide": "L",
+      "teamCode": "M",
+      "primaryNumber": "32",
+      "jaRegisteredName": "佐藤　都志也",
+      "fullLFMName": "Satoh, Toshiya"
     },
     "pitcher": {
-      "id": "53555157",
       "jaBoxscoreName": "吉村",
       "boxscoreName": "Yoshimura",
-      "pitchHand": "R"
+      "pitchHand": "R",
+      "teamCode": "S",
+      "primaryNumber": "21",
+      "jaRegisteredName": "吉村　貢司郎",
+      "fullLFMName": "Yoshimura, Kojiro"
     },
     "number": 1,
     "inning": 3,
@@ -162,16 +183,23 @@
     "id": "51455151-2024-03",
     "date": "2024-05-28",
     "batter": {
-      "id": "51455151",
       "jaBoxscoreName": "長岡",
+      "playerId": "51455151",
       "boxscoreName": "Nagaoka",
-      "batSide": "L"
+      "batSide": "L",
+      "teamCode": "S",
+      "primaryNumber": "7",
+      "jaRegisteredName": "長岡　秀樹",
+      "fullLFMName": "Nagaoka, Hideki"
     },
     "pitcher": {
-      "id": "11515138",
       "jaBoxscoreName": "小島",
       "boxscoreName": "Ojima",
-      "pitchHand": "L"
+      "pitchHand": "L",
+      "teamCode": "M",
+      "primaryNumber": "14",
+      "jaRegisteredName": "小島　和哉",
+      "fullLFMName": "Ojima, Kazuya"
     },
     "number": 3,
     "inning": 1,
@@ -215,16 +243,23 @@
     "id": "53755153-2024-07",
     "date": "2024-05-28",
     "batter": {
-      "id": "53755153",
       "jaBoxscoreName": "サンタナ",
+      "playerId": "53755153",
       "boxscoreName": "Santana",
-      "batSide": "R"
+      "batSide": "R",
+      "teamCode": "S",
+      "primaryNumber": "25",
+      "jaRegisteredName": "Ｄ．サンタナ",
+      "fullLFMName": "Santana, Domingo"
     },
     "pitcher": {
-      "id": "11515138",
       "jaBoxscoreName": "小島",
       "boxscoreName": "Ojima",
-      "pitchHand": "L"
+      "pitchHand": "L",
+      "teamCode": "M",
+      "primaryNumber": "14",
+      "jaRegisteredName": "小島　和哉",
+      "fullLFMName": "Ojima, Kazuya"
     },
     "number": 7,
     "inning": 5,
@@ -268,16 +303,23 @@
     "id": "33935159-2024-02",
     "date": "2024-05-28",
     "batter": {
-      "id": "33935159",
       "jaBoxscoreName": "ディカーソン",
+      "playerId": "33935159",
       "boxscoreName": "Dickerson",
-      "batSide": "L"
+      "batSide": "L",
+      "teamCode": "D",
+      "primaryNumber": "94",
+      "jaRegisteredName": "Ａ．ディカーソン",
+      "fullLFMName": "Dickerson, Alex"
     },
     "pitcher": {
-      "id": "31335134",
       "jaBoxscoreName": "今井",
       "boxscoreName": "Imai",
-      "pitchHand": "R"
+      "pitchHand": "R",
+      "teamCode": "L",
+      "primaryNumber": "48",
+      "jaRegisteredName": "今井　達也",
+      "fullLFMName": "Imai, Tatsuya"
     },
     "number": 2,
     "inning": 4,

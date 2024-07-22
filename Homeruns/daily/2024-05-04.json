@@ -3,16 +3,23 @@
     "id": "41845136-2024-08",
     "date": "2024-05-04",
     "batter": {
-      "id": "41845136",
       "jaBoxscoreName": "村上",
+      "playerId": "41845136",
       "boxscoreName": "Murakami",
-      "batSide": "L"
+      "batSide": "L",
+      "teamCode": "S",
+      "primaryNumber": "55",
+      "jaRegisteredName": "村上　宗隆",
+      "fullLFMName": "Murakami, Munetaka"
     },
     "pitcher": {
-      "id": "83285157",
       "jaBoxscoreName": "フェリス",
       "boxscoreName": "Feliz",
-      "pitchHand": "R"
+      "pitchHand": "R",
+      "teamCode": "D",
+      "primaryNumber": "93",
+      "jaRegisteredName": "Ｍ．フェリス",
+      "fullLFMName": "Feliz, Michael"
     },
     "number": 8,
     "inning": 6,
@@ -56,16 +63,23 @@
     "id": "01405116-2024-01",
     "date": "2024-05-04",
     "batter": {
-      "id": "01405116",
       "jaBoxscoreName": "松山",
+      "playerId": "01405116",
       "boxscoreName": "Matsuyama",
-      "batSide": "L"
+      "batSide": "L",
+      "teamCode": "C",
+      "primaryNumber": "55",
+      "jaRegisteredName": "松山　竜平",
+      "fullLFMName": "Matsuyama, Ryuhei"
     },
     "pitcher": {
-      "id": "81285155",
       "jaBoxscoreName": "徳山",
       "boxscoreName": "Tokuyama",
-      "pitchHand": "R"
+      "pitchHand": "R",
+      "teamCode": "DB",
+      "primaryNumber": "15",
+      "jaRegisteredName": "徳山　壮磨",
+      "fullLFMName": "Tokuyama, Souma"
     },
     "number": 1,
     "inning": 7,
@@ -110,16 +124,23 @@
     "id": "03505136-2024-02",
     "date": "2024-05-04",
     "batter": {
-      "id": "03505136",
       "jaBoxscoreName": "ソト",
+      "playerId": "03505136",
       "boxscoreName": "Soto",
-      "batSide": "R"
+      "batSide": "R",
+      "teamCode": "M",
+      "primaryNumber": "99",
+      "jaRegisteredName": "Ｎ．ソト",
+      "fullLFMName": "Soto, Neftali"
     },
     "pitcher": {
-      "id": "51555153",
       "jaBoxscoreName": "内",
       "boxscoreName": "Uchi",
-      "pitchHand": "R"
+      "pitchHand": "R",
+      "teamCode": "E",
+      "primaryNumber": "69",
+      "jaRegisteredName": "内　星龍",
+      "fullLFMName": "Uchi, Seiryu"
     },
     "number": 2,
     "inning": 8,

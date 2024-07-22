@@ -3,16 +3,23 @@
     "id": "11515130-2024-14",
     "date": "2024-07-06",
     "batter": {
-      "id": "11515130",
       "jaBoxscoreName": "岡本和",
+      "playerId": "11515130",
       "boxscoreName": "K.Okamoto",
-      "batSide": "R"
+      "batSide": "R",
+      "teamCode": "G",
+      "primaryNumber": "25",
+      "jaRegisteredName": "岡本　和真",
+      "fullLFMName": "Okamoto, Kazuma"
     },
     "pitcher": {
-      "id": "51055132",
       "jaBoxscoreName": "高橋",
       "boxscoreName": "Takahashi",
-      "pitchHand": "L"
+      "pitchHand": "L",
+      "teamCode": "S",
+      "primaryNumber": "47",
+      "jaRegisteredName": "高橋　奎二",
+      "fullLFMName": "Takahashi, Keiji"
     },
     "number": 14,
     "inning": 1,
@@ -56,16 +63,23 @@
     "id": "33235159-2024-06",
     "date": "2024-07-06",
     "batter": {
-      "id": "33235159",
       "jaBoxscoreName": "ヘルナンデス",
+      "playerId": "33235159",
       "boxscoreName": "Hernandez",
-      "batSide": "R"
+      "batSide": "R",
+      "teamCode": "G",
+      "primaryNumber": "42",
+      "jaRegisteredName": "Ｅ．ヘルナンデス",
+      "fullLFMName": "Hernandez, Elier"
     },
     "pitcher": {
-      "id": "11815134",
       "jaBoxscoreName": "星",
       "boxscoreName": "Hoshi",
-      "pitchHand": "R"
+      "pitchHand": "R",
+      "teamCode": "S",
+      "primaryNumber": "24",
+      "jaRegisteredName": "星　知弥",
+      "fullLFMName": "Hoshi, Tomoya"
     },
     "number": 6,
     "inning": 7,
@@ -109,16 +123,23 @@
     "id": "21525136-2024-01",
     "date": "2024-07-06",
     "batter": {
-      "id": "21525136",
       "jaBoxscoreName": "北村拓",
+      "playerId": "21525136",
       "boxscoreName": "T.Kitamura",
-      "batSide": "R"
+      "batSide": "R",
+      "teamCode": "S",
+      "primaryNumber": "38",
+      "jaRegisteredName": "北村　拓己",
+      "fullLFMName": "Kitamura, Takumi"
     },
     "pitcher": {
-      "id": "03705157",
       "jaBoxscoreName": "グリフィン",
       "boxscoreName": "Griffin",
-      "pitchHand": "L"
+      "pitchHand": "L",
+      "teamCode": "G",
+      "primaryNumber": "29",
+      "jaRegisteredName": "Ｆ．グリフィン",
+      "fullLFMName": "Griffin, Foster"
     },
     "number": 1,
     "inning": 6,
@@ -163,16 +184,23 @@
     "id": "91395132-2024-01",
     "date": "2024-07-06",
     "batter": {
-      "id": "91395132",
       "jaBoxscoreName": "板山",
+      "playerId": "91395132",
       "boxscoreName": "Itayama",
-      "batSide": "L"
+      "batSide": "L",
+      "teamCode": "D",
+      "primaryNumber": "63",
+      "jaRegisteredName": "板山　祐太郎",
+      "fullLFMName": "Itayama, Yutaro"
     },
     "pitcher": {
-      "id": "61365139",
       "jaBoxscoreName": "大瀬良",
       "boxscoreName": "Ohsera",
-      "pitchHand": "R"
+      "pitchHand": "R",
+      "teamCode": "C",
+      "primaryNumber": "14",
+      "jaRegisteredName": "大瀬良　大地",
+      "fullLFMName": "Ohsera, Daichi"
     },
     "number": 1,
     "inning": 4,
@@ -216,16 +244,23 @@
     "id": "73375151-2024-09",
     "date": "2024-07-06",
     "batter": {
-      "id": "73375151",
       "jaBoxscoreName": "オースティン",
+      "playerId": "73375151",
       "boxscoreName": "Austin",
-      "batSide": "R"
+      "batSide": "R",
+      "teamCode": "DB",
+      "primaryNumber": "3",
+      "jaRegisteredName": "Ｔ．オースティン",
+      "fullLFMName": "Austin, Tyler"
     },
     "pitcher": {
-      "id": "71375153",
       "jaBoxscoreName": "伊藤将",
       "boxscoreName": "M.Itoh",
-      "pitchHand": "L"
+      "pitchHand": "L",
+      "teamCode": "T",
+      "primaryNumber": "27",
+      "jaRegisteredName": "伊藤　将司",
+      "fullLFMName": "Itoh, Masashi"
     },
     "number": 9,
     "inning": 4,
@@ -269,16 +304,23 @@
     "id": "01905151-2024-01",
     "date": "2024-07-06",
     "batter": {
-      "id": "01905151",
       "jaBoxscoreName": "黒川",
+      "playerId": "01905151",
       "boxscoreName": "Kurokawa",
-      "batSide": "L"
+      "batSide": "L",
+      "teamCode": "E",
+      "primaryNumber": "24",
+      "jaRegisteredName": "黒川　史陽",
+      "fullLFMName": "Kurokawa, Fumiya"
     },
     "pitcher": {
-      "id": "01305157",
       "jaBoxscoreName": "大津",
       "boxscoreName": "Ohtsu",
-      "pitchHand": "R"
+      "pitchHand": "R",
+      "teamCode": "H",
+      "primaryNumber": "26",
+      "jaRegisteredName": "大津　亮介",
+      "fullLFMName": "Ohtsu, Ryosuke"
     },
     "number": 1,
     "inning": 5,
@@ -298,7 +340,7 @@
     "whereHit": "89",
     "venue": {
       "jaBoxscoreName": "みずほPayPay",
-      "boxscoreName": "MIZUHO PayPay Dome",
+      "boxscoreName": "MIZUHO PayPay",
       "jaName": "みずほPayPayドーム福岡",
       "name": "MIZUHO PayPay Dome FUKUOKA"
     },

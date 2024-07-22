@@ -3,16 +3,23 @@
     "id": "11515130-2024-08",
     "date": "2024-05-12",
     "batter": {
-      "id": "11515130",
       "jaBoxscoreName": "岡本和",
+      "playerId": "11515130",
       "boxscoreName": "K.Okamoto",
-      "batSide": "R"
+      "batSide": "R",
+      "teamCode": "G",
+      "primaryNumber": "25",
+      "jaRegisteredName": "岡本　和真",
+      "fullLFMName": "Okamoto, Kazuma"
     },
     "pitcher": {
-      "id": "33735153",
       "jaBoxscoreName": "サイスニード",
       "boxscoreName": "Sneed",
-      "pitchHand": "R"
+      "pitchHand": "R",
+      "teamCode": "S",
+      "primaryNumber": "54",
+      "jaRegisteredName": "サイスニード",
+      "fullLFMName": "Sneed, Cy"
     },
     "number": 8,
     "inning": 6,
@@ -56,16 +63,23 @@
     "id": "53755153-2024-05",
     "date": "2024-05-12",
     "batter": {
-      "id": "53755153",
       "jaBoxscoreName": "サンタナ",
+      "playerId": "53755153",
       "boxscoreName": "Santana",
-      "batSide": "R"
+      "batSide": "R",
+      "teamCode": "S",
+      "primaryNumber": "25",
+      "jaRegisteredName": "Ｄ．サンタナ",
+      "fullLFMName": "Santana, Domingo"
     },
     "pitcher": {
-      "id": "01005136",
       "jaBoxscoreName": "高橋礼",
       "boxscoreName": "R.Takahashi",
-      "pitchHand": "R"
+      "pitchHand": "R",
+      "teamCode": "G",
+      "primaryNumber": "28",
+      "jaRegisteredName": "高橋　礼",
+      "fullLFMName": "Takahashi, Rei"
     },
     "number": 5,
     "inning": 6,
@@ -109,16 +123,23 @@
     "id": "11515139-2024-02",
     "date": "2024-05-12",
     "batter": {
-      "id": "11515139",
       "jaBoxscoreName": "岡",
+      "playerId": "11515139",
       "boxscoreName": "Oka",
-      "batSide": "R"
+      "batSide": "R",
+      "teamCode": "M",
+      "primaryNumber": "25",
+      "jaRegisteredName": "岡　大海",
+      "fullLFMName": "Oka, Hiromi"
     },
     "pitcher": {
-      "id": "51355153",
       "jaBoxscoreName": "伊藤",
       "boxscoreName": "Itoh",
-      "pitchHand": "R"
+      "pitchHand": "R",
+      "teamCode": "F",
+      "primaryNumber": "17",
+      "jaRegisteredName": "伊藤　大海",
+      "fullLFMName": "Itoh, Hiromi"
     },
     "number": 2,
     "inning": 1,
@@ -163,16 +184,23 @@
     "id": "11515139-2024-03",
     "date": "2024-05-12",
     "batter": {
-      "id": "11515139",
       "jaBoxscoreName": "岡",
+      "playerId": "11515139",
       "boxscoreName": "Oka",
-      "batSide": "R"
+      "batSide": "R",
+      "teamCode": "M",
+      "primaryNumber": "25",
+      "jaRegisteredName": "岡　大海",
+      "fullLFMName": "Oka, Hiromi"
     },
     "pitcher": {
-      "id": "51355153",
       "jaBoxscoreName": "伊藤",
       "boxscoreName": "Itoh",
-      "pitchHand": "R"
+      "pitchHand": "R",
+      "teamCode": "F",
+      "primaryNumber": "17",
+      "jaRegisteredName": "伊藤　大海",
+      "fullLFMName": "Itoh, Hiromi"
     },
     "number": 3,
     "inning": 6,
@@ -216,16 +244,23 @@
     "id": "11815138-2024-04",
     "date": "2024-05-12",
     "batter": {
-      "id": "11815138",
       "jaBoxscoreName": "万波",
+      "playerId": "11815138",
       "boxscoreName": "Mannami",
-      "batSide": "R"
+      "batSide": "R",
+      "teamCode": "F",
+      "primaryNumber": "66",
+      "jaRegisteredName": "万波　中正",
+      "fullLFMName": "Mannami, Chusei"
     },
     "pitcher": {
-      "id": "11515138",
       "jaBoxscoreName": "小島",
       "boxscoreName": "Ojima",
-      "pitchHand": "L"
+      "pitchHand": "L",
+      "teamCode": "M",
+      "primaryNumber": "14",
+      "jaRegisteredName": "小島　和哉",
+      "fullLFMName": "Ojima, Kazuya"
     },
     "number": 4,
     "inning": 2,
@@ -269,16 +304,23 @@
     "id": "81685153-2024-01",
     "date": "2024-05-12",
     "batter": {
-      "id": "81685153",
       "jaBoxscoreName": "長谷川",
+      "playerId": "81685153",
       "boxscoreName": "Hasegawa",
-      "batSide": "R"
+      "batSide": "R",
+      "teamCode": "L",
+      "primaryNumber": "63",
+      "jaRegisteredName": "長谷川　信哉",
+      "fullLFMName": "Hasegawa, Shinya"
     },
     "pitcher": {
-      "id": "91795114",
       "jaBoxscoreName": "岸",
       "boxscoreName": "Kishi",
-      "pitchHand": "R"
+      "pitchHand": "R",
+      "teamCode": "E",
+      "primaryNumber": "11",
+      "jaRegisteredName": "岸　孝之",
+      "fullLFMName": "Kishi, Takayuki"
     },
     "number": 1,
     "inning": 4,

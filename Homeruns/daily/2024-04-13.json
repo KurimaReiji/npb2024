@@ -3,16 +3,23 @@
     "id": "21425139-2024-02",
     "date": "2024-04-13",
     "batter": {
-      "id": "21425139",
       "jaBoxscoreName": "山川",
+      "playerId": "21425139",
       "boxscoreName": "Yamakawa",
-      "batSide": "R"
+      "batSide": "R",
+      "teamCode": "H",
+      "primaryNumber": "25",
+      "jaRegisteredName": "山川　穂高",
+      "fullLFMName": "Yamakawa, Hotaka"
     },
     "pitcher": {
-      "id": "63165153",
       "jaBoxscoreName": "水上",
       "boxscoreName": "Mizukami",
-      "pitchHand": "R"
+      "pitchHand": "R",
+      "teamCode": "L",
+      "primaryNumber": "69",
+      "jaRegisteredName": "水上　由伸",
+      "fullLFMName": "Mizukami, Yoshinobu"
     },
     "number": 2,
     "inning": 6,
@@ -56,16 +63,23 @@
     "id": "21425139-2024-03",
     "date": "2024-04-13",
     "batter": {
-      "id": "21425139",
       "jaBoxscoreName": "山川",
+      "playerId": "21425139",
       "boxscoreName": "Yamakawa",
-      "batSide": "R"
+      "batSide": "R",
+      "teamCode": "H",
+      "primaryNumber": "25",
+      "jaRegisteredName": "山川　穂高",
+      "fullLFMName": "Yamakawa, Hotaka"
     },
     "pitcher": {
-      "id": "23125153",
       "jaBoxscoreName": "豆田",
       "boxscoreName": "Mameda",
-      "pitchHand": "R"
+      "pitchHand": "R",
+      "teamCode": "L",
+      "primaryNumber": "70",
+      "jaRegisteredName": "豆田　泰志",
+      "fullLFMName": "Mameda, Taishi"
     },
     "number": 3,
     "inning": 8,
@@ -109,16 +123,23 @@
     "id": "53555159-2024-01",
     "date": "2024-04-13",
     "batter": {
-      "id": "53555159",
       "jaBoxscoreName": "アギラー",
+      "playerId": "53555159",
       "boxscoreName": "Aguilar",
-      "batSide": "R"
+      "batSide": "R",
+      "teamCode": "L",
+      "primaryNumber": "44",
+      "jaRegisteredName": "Ｊ．アギラー",
+      "fullLFMName": "Aguilar, Jesus"
     },
     "pitcher": {
-      "id": "73375159",
       "jaBoxscoreName": "村田",
       "boxscoreName": "Murata",
-      "pitchHand": "R"
+      "pitchHand": "R",
+      "teamCode": "H",
+      "primaryNumber": "34",
+      "jaRegisteredName": "村田　賢一",
+      "fullLFMName": "Murata, Kenichi"
     },
     "number": 1,
     "inning": 9,
@@ -162,16 +183,23 @@
     "id": "81085138-2024-01",
     "date": "2024-04-13",
     "batter": {
-      "id": "81085138",
       "jaBoxscoreName": "頓宮",
+      "playerId": "81085138",
       "boxscoreName": "Tongu",
-      "batSide": "R"
+      "batSide": "R",
+      "teamCode": "B",
+      "primaryNumber": "44",
+      "jaRegisteredName": "頓宮　裕真",
+      "fullLFMName": "Tongu, Yuma"
     },
     "pitcher": {
-      "id": "01505136",
       "jaBoxscoreName": "北浦",
       "boxscoreName": "Kitaura",
-      "pitchHand": "L"
+      "pitchHand": "L",
+      "teamCode": "F",
+      "primaryNumber": "63",
+      "jaRegisteredName": "北浦　竜次",
+      "fullLFMName": "Kitaura, Ryuji"
     },
     "number": 1,
     "inning": 7,

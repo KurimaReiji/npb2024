@@ -3,16 +3,23 @@
     "id": "21325134-2024-06",
     "date": "2024-07-04",
     "batter": {
-      "id": "21325134",
       "jaBoxscoreName": "大山",
+      "playerId": "21325134",
       "boxscoreName": "Ohyama",
-      "batSide": "R"
+      "batSide": "R",
+      "teamCode": "T",
+      "primaryNumber": "3",
+      "jaRegisteredName": "大山　悠輔",
+      "fullLFMName": "Ohyama, Yusuke"
     },
     "pitcher": {
-      "id": "41745155",
       "jaBoxscoreName": "黒原",
       "boxscoreName": "Kurohara",
-      "pitchHand": "L"
+      "pitchHand": "L",
+      "teamCode": "C",
+      "primaryNumber": "24",
+      "jaRegisteredName": "黒原　拓未",
+      "fullLFMName": "Kurohara, Takumi"
     },
     "number": 6,
     "inning": 9,

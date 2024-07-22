@@ -1,7 +1,5 @@
 import { existsSync, readFileSync, writeFileSync } from "fs";
 
-const playerdb = JSON.parse(readFileSync("../docs/npb2024-players.json", "utf-8"));
-
 const infiles = process.argv.slice(2);
 infiles
   .filter((infile) => existsSync(infile))
@@ -19,15 +17,36 @@ infiles
           Object.assign(meta.teams[team], { score: obj.boxscore.teamStats[team].batting.runs });
         });
         const homeruns = [obj.homeruns.road, obj.homeruns.home].flat().map((hr) => Object.assign({}, hr, meta));
-        return { homeruns, playByPlay: obj.playByPlay };
+        return { homeruns, playByPlay: obj.playByPlay, playerdb: obj.players };
       })
-      .map(({ homeruns, playByPlay }) => {
+      .map(({ homeruns, playByPlay, playerdb }) => {
         return homeruns.map((hr) => {
           const play = playByPlay.find((p) => p.jaResult?.text.includes("ホームラン") && p.batter.id === hr.batter.id && p.inning.inning === hr.inning && p.inning.halfInning === hr.halfInning); // never multi hr in a inning
           let isWalkOff;
           if (hr.halfInning === "bottom" && hr.inning > 8 && play.runs.road < (play.runs.home + hr.rbi)) {
             isWalkOff = "Y";
           }
+          const batter = playerdb.find((p) => p.playerId === hr.batter.id);
+          const pitcher = playerdb.find((p) => p.playerId === hr.pitcher.id);
+          Object.assign(hr.batter, {
+            id: undefined,
+            playerId: batter.playerId,
+            boxscoreName: batter.boxscoreName,
+            batSide: batter.batSide,
+            teamCode: batter.teamCode,
+            primaryNumber: batter.primaryNumber,
+            jaRegisteredName: batter.jaRegisteredName,
+            fullLFMName: batter.fullLFMName,
+          });
+          Object.assign(hr.pitcher, {
+            id: undefined,
+            boxscoreName: pitcher.boxscoreName,
+            pitchHand: pitcher.pitchHand,
+            teamCode: pitcher.teamCode,
+            primaryNumber: pitcher.primaryNumber,
+            jaRegisteredName: pitcher.jaRegisteredName,
+            fullLFMName: pitcher.fullLFMName,
+          });
           return Object.assign({}, hr, {
             bop: play.pa[hr.halfInning] % 9 || 9,
             outs: play.outs,
@@ -42,19 +61,6 @@ infiles
         });
       })
       .flat()
-      .map((hr) => {
-        const batter = playerdb.find((p) => p.playerId === hr.batter.id);
-        const pitcher = playerdb.find((p) => p.playerId === hr.pitcher.id);
-        Object.assign(hr.batter, {
-          boxscoreName: batter.boxscoreName,
-          batSide: batter.batSide,
-        });
-        Object.assign(hr.pitcher, {
-          boxscoreName: pitcher.boxscoreName,
-          pitchHand: pitcher.pitchHand,
-        });
-        return hr;
-      })
       .map((hr) => {
         const whereHit = get_where(hr.jaText);
         const url = `https://npb.jp${hr.pathname}playbyplay.html#com${hr.inning}-${hr.halfInning === "top" ? 1 : 2}`;

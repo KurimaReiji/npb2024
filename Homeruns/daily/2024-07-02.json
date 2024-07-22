@@ -3,16 +3,23 @@
     "id": "81685157-2024-02",
     "date": "2024-07-02",
     "batter": {
-      "id": "81685157",
       "jaBoxscoreName": "福永",
+      "playerId": "81685157",
       "boxscoreName": "Fukunaga",
-      "batSide": "R"
+      "batSide": "R",
+      "teamCode": "D",
+      "primaryNumber": "68",
+      "jaRegisteredName": "福永　裕基",
+      "fullLFMName": "Fukunaga, Hiroki"
     },
     "pitcher": {
-      "id": "03305153",
       "jaBoxscoreName": "山﨑伊",
       "boxscoreName": "I.Yamasaki",
-      "pitchHand": "R"
+      "pitchHand": "R",
+      "teamCode": "G",
+      "primaryNumber": "19",
+      "jaRegisteredName": "山﨑　伊織",
+      "fullLFMName": "Yamasaki, Iori"
     },
     "number": 2,
     "inning": 5,
@@ -56,16 +63,23 @@
     "id": "11215151-2024-01",
     "date": "2024-07-02",
     "batter": {
-      "id": "11215151",
       "jaBoxscoreName": "髙部",
+      "playerId": "11215151",
       "boxscoreName": "Takabe",
-      "batSide": "L"
+      "batSide": "L",
+      "teamCode": "M",
+      "primaryNumber": "38",
+      "jaRegisteredName": "髙部　瑛斗",
+      "fullLFMName": "Takabe, Akito"
     },
     "pitcher": {
-      "id": "51555157",
       "jaBoxscoreName": "金村",
       "boxscoreName": "Kanemura",
-      "pitchHand": "R"
+      "pitchHand": "R",
+      "teamCode": "F",
+      "primaryNumber": "24",
+      "jaRegisteredName": "金村　尚真",
+      "fullLFMName": "Kanemura, Shoma"
     },
     "number": 1,
     "inning": 2,
@@ -109,16 +123,23 @@
     "id": "03505136-2024-09",
     "date": "2024-07-02",
     "batter": {
-      "id": "03505136",
       "jaBoxscoreName": "ソト",
+      "playerId": "03505136",
       "boxscoreName": "Soto",
-      "batSide": "R"
+      "batSide": "R",
+      "teamCode": "M",
+      "primaryNumber": "99",
+      "jaRegisteredName": "Ｎ．ソト",
+      "fullLFMName": "Soto, Neftali"
     },
     "pitcher": {
-      "id": "51555157",
       "jaBoxscoreName": "金村",
       "boxscoreName": "Kanemura",
-      "pitchHand": "R"
+      "pitchHand": "R",
+      "teamCode": "F",
+      "primaryNumber": "24",
+      "jaRegisteredName": "金村　尚真",
+      "fullLFMName": "Kanemura, Shoma"
     },
     "number": 9,
     "inning": 6,
@@ -162,16 +183,23 @@
     "id": "21925151-2024-07",
     "date": "2024-07-02",
     "batter": {
-      "id": "21925151",
       "jaBoxscoreName": "郡司",
+      "playerId": "21925151",
       "boxscoreName": "Gunji",
-      "batSide": "R"
+      "batSide": "R",
+      "teamCode": "F",
+      "primaryNumber": "30",
+      "jaRegisteredName": "郡司　裕也",
+      "fullLFMName": "Gunji, Yuya"
     },
     "pitcher": {
-      "id": "33935134",
       "jaBoxscoreName": "メルセデス",
       "boxscoreName": "Mercedes",
-      "pitchHand": "L"
+      "pitchHand": "L",
+      "teamCode": "M",
+      "primaryNumber": "42",
+      "jaRegisteredName": "Ｃ．Ｃ．メルセデス",
+      "fullLFMName": "Mercedes, Cristopher Crisostomo"
     },
     "number": 7,
     "inning": 4,
@@ -215,16 +243,23 @@
     "id": "01505155-2024-01",
     "date": "2024-07-02",
     "batter": {
-      "id": "01505155",
       "jaBoxscoreName": "上川畑",
+      "playerId": "01505155",
       "boxscoreName": "Kamikawabata",
-      "batSide": "L"
+      "batSide": "L",
+      "teamCode": "F",
+      "primaryNumber": "4",
+      "jaRegisteredName": "上川畑　大悟",
+      "fullLFMName": "Kamikawabata, Daigo"
     },
     "pitcher": {
-      "id": "33935134",
       "jaBoxscoreName": "メルセデス",
       "boxscoreName": "Mercedes",
-      "pitchHand": "L"
+      "pitchHand": "L",
+      "teamCode": "M",
+      "primaryNumber": "42",
+      "jaRegisteredName": "Ｃ．Ｃ．メルセデス",
+      "fullLFMName": "Mercedes, Cristopher Crisostomo"
     },
     "number": 1,
     "inning": 5,
@@ -268,16 +303,23 @@
     "id": "61965132-2024-03",
     "date": "2024-07-02",
     "batter": {
-      "id": "61965132",
       "jaBoxscoreName": "杉本",
+      "playerId": "61965132",
       "boxscoreName": "Sugimoto",
-      "batSide": "R"
+      "batSide": "R",
+      "teamCode": "B",
+      "primaryNumber": "99",
+      "jaRegisteredName": "杉本　裕太郎",
+      "fullLFMName": "Sugimoto, Yutaro"
     },
     "pitcher": {
-      "id": "51555153",
       "jaBoxscoreName": "内",
       "boxscoreName": "Uchi",
-      "pitchHand": "R"
+      "pitchHand": "R",
+      "teamCode": "E",
+      "primaryNumber": "69",
+      "jaRegisteredName": "内　星龍",
+      "fullLFMName": "Uchi, Seiryu"
     },
     "number": 3,
     "inning": 5,
@@ -321,16 +363,23 @@
     "id": "51455136-2024-01",
     "date": "2024-07-02",
     "batter": {
-      "id": "51455136",
       "jaBoxscoreName": "西川",
+      "playerId": "51455136",
       "boxscoreName": "Nishikawa",
-      "batSide": "L"
+      "batSide": "L",
+      "teamCode": "L",
+      "primaryNumber": "51",
+      "jaRegisteredName": "西川　愛也",
+      "fullLFMName": "Nishikawa, Manaya"
     },
     "pitcher": {
-      "id": "51155130",
       "jaBoxscoreName": "有原",
       "boxscoreName": "Arihara",
-      "pitchHand": "R"
+      "pitchHand": "R",
+      "teamCode": "H",
+      "primaryNumber": "17",
+      "jaRegisteredName": "有原　航平",
+      "fullLFMName": "Arihara, Kohei"
     },
     "number": 1,
     "inning": 7,
@@ -374,16 +423,23 @@
     "id": "21425139-2024-13",
     "date": "2024-07-02",
     "batter": {
-      "id": "21425139",
       "jaBoxscoreName": "山川",
+      "playerId": "21425139",
       "boxscoreName": "Yamakawa",
-      "batSide": "R"
+      "batSide": "R",
+      "teamCode": "H",
+      "primaryNumber": "25",
+      "jaRegisteredName": "山川　穂高",
+      "fullLFMName": "Yamakawa, Hotaka"
     },
     "pitcher": {
-      "id": "41945155",
       "jaBoxscoreName": "佐藤隼",
       "boxscoreName": "S.Sato",
-      "pitchHand": "L"
+      "pitchHand": "L",
+      "teamCode": "L",
+      "primaryNumber": "19",
+      "jaRegisteredName": "佐藤　隼輔",
+      "fullLFMName": "Sato, Shunsuke"
     },
     "number": 13,
     "inning": 6,

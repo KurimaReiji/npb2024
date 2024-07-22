@@ -3,16 +3,23 @@
     "id": "01705130-2024-04",
     "date": "2024-06-09",
     "batter": {
-      "id": "01705130",
       "jaBoxscoreName": "栗原",
+      "playerId": "01705130",
       "boxscoreName": "Kurihara",
-      "batSide": "L"
+      "batSide": "L",
+      "teamCode": "H",
+      "primaryNumber": "24",
+      "jaRegisteredName": "栗原　陵矢",
+      "fullLFMName": "Kurihara, Ryoya"
     },
     "pitcher": {
-      "id": "93195134",
       "jaBoxscoreName": "森原",
       "boxscoreName": "Morihara",
-      "pitchHand": "R"
+      "pitchHand": "R",
+      "teamCode": "DB",
+      "primaryNumber": "45",
+      "jaRegisteredName": "森原　康平",
+      "fullLFMName": "Morihara, Kohei"
     },
     "number": 4,
     "inning": 9,
@@ -56,16 +63,23 @@
     "id": "13115153-2024-07",
     "date": "2024-06-09",
     "batter": {
-      "id": "13115153",
       "jaBoxscoreName": "牧",
+      "playerId": "13115153",
       "boxscoreName": "Maki",
-      "batSide": "R"
+      "batSide": "R",
+      "teamCode": "DB",
+      "primaryNumber": "2",
+      "jaRegisteredName": "牧　秀悟",
+      "fullLFMName": "Maki, Shugo"
     },
     "pitcher": {
-      "id": "11815117",
       "jaBoxscoreName": "和田",
       "boxscoreName": "Wada",
-      "pitchHand": "L"
+      "pitchHand": "L",
+      "teamCode": "H",
+      "primaryNumber": "21",
+      "jaRegisteredName": "和田　毅",
+      "fullLFMName": "Wada, Tsuyoshi"
     },
     "number": 7,
     "inning": 1,
@@ -109,16 +123,23 @@
     "id": "41945131-2024-05",
     "date": "2024-06-09",
     "batter": {
-      "id": "41945131",
       "jaBoxscoreName": "筒香",
+      "playerId": "41945131",
       "boxscoreName": "Tsutsugo",
-      "batSide": "L"
+      "batSide": "L",
+      "teamCode": "DB",
+      "primaryNumber": "25",
+      "jaRegisteredName": "筒香　嘉智",
+      "fullLFMName": "Tsutsugo, Yoshitomo"
     },
     "pitcher": {
-      "id": "51655130",
       "jaBoxscoreName": "藤井",
       "boxscoreName": "Fujii",
-      "pitchHand": "R"
+      "pitchHand": "R",
+      "teamCode": "H",
+      "primaryNumber": "48",
+      "jaRegisteredName": "藤井　皓哉",
+      "fullLFMName": "Fujii, Kouya"
     },
     "number": 5,
     "inning": 7,
@@ -162,16 +183,23 @@
     "id": "61165132-2024-01",
     "date": "2024-06-09",
     "batter": {
-      "id": "61165132",
       "jaBoxscoreName": "阿部",
+      "playerId": "61165132",
       "boxscoreName": "Abe",
-      "batSide": "R"
+      "batSide": "R",
+      "teamCode": "E",
+      "primaryNumber": "4",
+      "jaRegisteredName": "阿部　寿樹",
+      "fullLFMName": "Abe, Toshiki"
     },
     "pitcher": {
-      "id": "21225137",
       "jaBoxscoreName": "松葉",
       "boxscoreName": "Matsuba",
-      "pitchHand": "L"
+      "pitchHand": "L",
+      "teamCode": "D",
+      "primaryNumber": "38",
+      "jaRegisteredName": "松葉　貴大",
+      "fullLFMName": "Matsuba, Takahiro"
     },
     "number": 1,
     "inning": 2,

@@ -3,16 +3,23 @@
     "id": "73375151-2024-12",
     "date": "2024-07-13",
     "batter": {
-      "id": "73375151",
       "jaBoxscoreName": "オースティン",
+      "playerId": "73375151",
       "boxscoreName": "Austin",
-      "batSide": "R"
+      "batSide": "R",
+      "teamCode": "DB",
+      "primaryNumber": "3",
+      "jaRegisteredName": "Ｔ．オースティン",
+      "fullLFMName": "Austin, Tyler"
     },
     "pitcher": {
-      "id": "03705157",
       "jaBoxscoreName": "グリフィン",
       "boxscoreName": "Griffin",
-      "pitchHand": "L"
+      "pitchHand": "L",
+      "teamCode": "G",
+      "primaryNumber": "29",
+      "jaRegisteredName": "Ｆ．グリフィン",
+      "fullLFMName": "Griffin, Foster"
     },
     "number": 12,
     "inning": 4,
@@ -56,16 +63,23 @@
     "id": "73375134-2024-03",
     "date": "2024-07-13",
     "batter": {
-      "id": "73375134",
       "jaBoxscoreName": "吉川",
+      "playerId": "73375134",
       "boxscoreName": "Yoshikawa",
-      "batSide": "L"
+      "batSide": "L",
+      "teamCode": "G",
+      "primaryNumber": "2",
+      "jaRegisteredName": "吉川　尚輝",
+      "fullLFMName": "Yoshikawa, Naoki"
     },
     "pitcher": {
-      "id": "33535157",
       "jaBoxscoreName": "吉野",
       "boxscoreName": "Yoshino",
-      "pitchHand": "R"
+      "pitchHand": "R",
+      "teamCode": "DB",
+      "primaryNumber": "24",
+      "jaRegisteredName": "吉野　光樹",
+      "fullLFMName": "Yoshino, Teruki"
     },
     "number": 3,
     "inning": 3,
@@ -109,16 +123,23 @@
     "id": "91095135-2024-02",
     "date": "2024-07-13",
     "batter": {
-      "id": "91095135",
       "jaBoxscoreName": "高橋周",
+      "playerId": "91095135",
       "boxscoreName": "S.Takahashi",
-      "batSide": "L"
+      "batSide": "L",
+      "teamCode": "D",
+      "primaryNumber": "3",
+      "jaRegisteredName": "高橋　周平",
+      "fullLFMName": "Takahashi, Shuhei"
     },
     "pitcher": {
-      "id": "71375153",
       "jaBoxscoreName": "伊藤将",
       "boxscoreName": "M.Itoh",
-      "pitchHand": "L"
+      "pitchHand": "L",
+      "teamCode": "T",
+      "primaryNumber": "27",
+      "jaRegisteredName": "伊藤　将司",
+      "fullLFMName": "Itoh, Masashi"
     },
     "number": 2,
     "inning": 2,
@@ -162,16 +183,23 @@
     "id": "21125151-2024-03",
     "date": "2024-07-13",
     "batter": {
-      "id": "21125151",
       "jaBoxscoreName": "石原",
+      "playerId": "21125151",
       "boxscoreName": "Ishihara",
-      "batSide": "R"
+      "batSide": "R",
+      "teamCode": "C",
+      "primaryNumber": "32",
+      "jaRegisteredName": "石原　貴規",
+      "fullLFMName": "Ishihara, Tomoki"
     },
     "pitcher": {
-      "id": "41945139",
       "jaBoxscoreName": "田口",
       "boxscoreName": "Taguchi",
-      "pitchHand": "L"
+      "pitchHand": "L",
+      "teamCode": "S",
+      "primaryNumber": "34",
+      "jaRegisteredName": "田口　麗斗",
+      "fullLFMName": "Taguchi, Kazuto"
     },
     "number": 3,
     "inning": 11,
@@ -216,16 +244,23 @@
     "id": "73075159-2024-06",
     "date": "2024-07-13",
     "batter": {
-      "id": "73075159",
       "jaBoxscoreName": "レイエス",
+      "playerId": "73075159",
       "boxscoreName": "Reyes",
-      "batSide": "R"
+      "batSide": "R",
+      "teamCode": "F",
+      "primaryNumber": "99",
+      "jaRegisteredName": "Ｆ．レイエス",
+      "fullLFMName": "Reyes, Franmil"
     },
     "pitcher": {
-      "id": "01305157",
       "jaBoxscoreName": "大津",
       "boxscoreName": "Ohtsu",
-      "pitchHand": "R"
+      "pitchHand": "R",
+      "teamCode": "H",
+      "primaryNumber": "26",
+      "jaRegisteredName": "大津　亮介",
+      "fullLFMName": "Ohtsu, Ryosuke"
     },
     "number": 6,
     "inning": 2,
@@ -269,16 +304,23 @@
     "id": "03505136-2024-10",
     "date": "2024-07-13",
     "batter": {
-      "id": "03505136",
       "jaBoxscoreName": "ソト",
+      "playerId": "03505136",
       "boxscoreName": "Soto",
-      "batSide": "R"
+      "batSide": "R",
+      "teamCode": "M",
+      "primaryNumber": "99",
+      "jaRegisteredName": "Ｎ．ソト",
+      "fullLFMName": "Soto, Neftali"
     },
     "pitcher": {
-      "id": "73775157",
       "jaBoxscoreName": "カスティーヨ",
       "boxscoreName": "Castillo",
-      "pitchHand": "R"
+      "pitchHand": "R",
+      "teamCode": "B",
+      "primaryNumber": "54",
+      "jaRegisteredName": "Ｌ．カスティーヨ",
+      "fullLFMName": "Castillo, Luis"
     },
     "number": 10,
     "inning": 3,

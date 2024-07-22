@@ -3,16 +3,23 @@
     "id": "21325136-2024-01",
     "date": "2024-06-06",
     "batter": {
-      "id": "21325136",
       "jaBoxscoreName": "大城卓",
+      "playerId": "21325136",
       "boxscoreName": "T.Ohshiro",
-      "batSide": "L"
+      "batSide": "L",
+      "teamCode": "G",
+      "primaryNumber": "24",
+      "jaRegisteredName": "大城　卓三",
+      "fullLFMName": "Ohshiro, Takumi"
     },
     "pitcher": {
-      "id": "01205118",
       "jaBoxscoreName": "西野",
       "boxscoreName": "Nishino",
-      "pitchHand": "R"
+      "pitchHand": "R",
+      "teamCode": "M",
+      "primaryNumber": "29",
+      "jaRegisteredName": "西野　勇士",
+      "fullLFMName": "Nishino, Yuji"
     },
     "number": 1,
     "inning": 2,
@@ -56,16 +63,23 @@
     "id": "91895133-2024-03",
     "date": "2024-06-06",
     "batter": {
-      "id": "91895133",
       "jaBoxscoreName": "山田",
+      "playerId": "91895133",
       "boxscoreName": "Yamada",
-      "batSide": "R"
+      "batSide": "R",
+      "teamCode": "S",
+      "primaryNumber": "1",
+      "jaRegisteredName": "山田　哲人",
+      "fullLFMName": "Yamada, Tetsuto"
     },
     "pitcher": {
-      "id": "71075155",
       "jaBoxscoreName": "菅井",
       "boxscoreName": "Sugai",
-      "pitchHand": "L"
+      "pitchHand": "L",
+      "teamCode": "L",
+      "primaryNumber": "71",
+      "jaRegisteredName": "菅井　信也",
+      "fullLFMName": "Sugai, Shinya"
     },
     "number": 3,
     "inning": 3,
@@ -109,16 +123,23 @@
     "id": "13715132-2024-01",
     "date": "2024-06-06",
     "batter": {
-      "id": "13715132",
       "jaBoxscoreName": "ビシエド",
+      "playerId": "13715132",
       "boxscoreName": "Viciedo",
-      "batSide": "R"
+      "batSide": "R",
+      "teamCode": "D",
+      "primaryNumber": "66",
+      "jaRegisteredName": "Ｄ．ビシエド",
+      "fullLFMName": "Viciedo, Dayan"
     },
     "pitcher": {
-      "id": "61165139",
       "jaBoxscoreName": "石川",
       "boxscoreName": "Ishikawa",
-      "pitchHand": "R"
+      "pitchHand": "R",
+      "teamCode": "H",
+      "primaryNumber": "29",
+      "jaRegisteredName": "石川　柊太",
+      "fullLFMName": "Ishikawa, Shuta"
     },
     "number": 1,
     "inning": 4,
@@ -162,16 +183,23 @@
     "id": "51055155-2024-05",
     "date": "2024-06-06",
     "batter": {
-      "id": "51055155",
       "jaBoxscoreName": "末包",
+      "playerId": "51055155",
       "boxscoreName": "Suekane",
-      "batSide": "R"
+      "batSide": "R",
+      "teamCode": "C",
+      "primaryNumber": "52",
+      "jaRegisteredName": "末包　昇大",
+      "fullLFMName": "Suekane, Shota"
     },
     "pitcher": {
-      "id": "61065151",
       "jaBoxscoreName": "鈴木",
       "boxscoreName": "Suzuki",
-      "pitchHand": "R"
+      "pitchHand": "R",
+      "teamCode": "F",
+      "primaryNumber": "47",
+      "jaRegisteredName": "鈴木　健矢",
+      "fullLFMName": "Suzuki, Kenya"
     },
     "number": 5,
     "inning": 1,

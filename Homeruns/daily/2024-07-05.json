@@ -3,16 +3,23 @@
     "id": "21425116-2024-06",
     "date": "2024-07-05",
     "batter": {
-      "id": "21425116",
       "jaBoxscoreName": "丸",
+      "playerId": "21425116",
       "boxscoreName": "Maru",
-      "batSide": "L"
+      "batSide": "L",
+      "teamCode": "G",
+      "primaryNumber": "8",
+      "jaRegisteredName": "丸　佳浩",
+      "fullLFMName": "Maru, Yoshihiro"
     },
     "pitcher": {
-      "id": "21125137",
       "jaBoxscoreName": "石山",
       "boxscoreName": "Ishiyama",
-      "pitchHand": "R"
+      "pitchHand": "R",
+      "teamCode": "S",
+      "primaryNumber": "12",
+      "jaRegisteredName": "石山　泰稚",
+      "fullLFMName": "Ishiyama, Taichi"
     },
     "number": 6,
     "inning": 7,
@@ -56,16 +63,23 @@
     "id": "91595136-2024-03",
     "date": "2024-07-05",
     "batter": {
-      "id": "91595136",
       "jaBoxscoreName": "岸田",
+      "playerId": "91595136",
       "boxscoreName": "Kishida",
-      "batSide": "R"
+      "batSide": "R",
+      "teamCode": "G",
+      "primaryNumber": "27",
+      "jaRegisteredName": "岸田　行倫",
+      "fullLFMName": "Kishida, Yukinori"
     },
     "pitcher": {
-      "id": "51955138",
       "jaBoxscoreName": "清水",
       "boxscoreName": "Shimizu",
-      "pitchHand": "R"
+      "pitchHand": "R",
+      "teamCode": "S",
+      "primaryNumber": "17",
+      "jaRegisteredName": "清水　昇",
+      "fullLFMName": "Shimizu, Noboru"
     },
     "number": 3,
     "inning": 9,
@@ -109,16 +123,23 @@
     "id": "91895133-2024-06",
     "date": "2024-07-05",
     "batter": {
-      "id": "91895133",
       "jaBoxscoreName": "山田",
+      "playerId": "91895133",
       "boxscoreName": "Yamada",
-      "batSide": "R"
+      "batSide": "R",
+      "teamCode": "S",
+      "primaryNumber": "1",
+      "jaRegisteredName": "山田　哲人",
+      "fullLFMName": "Yamada, Tetsuto"
     },
     "pitcher": {
-      "id": "41045138",
       "jaBoxscoreName": "戸郷",
       "boxscoreName": "Togo",
-      "pitchHand": "R"
+      "pitchHand": "R",
+      "teamCode": "G",
+      "primaryNumber": "20",
+      "jaRegisteredName": "戸郷　翔征",
+      "fullLFMName": "Togo, Shosei"
     },
     "number": 6,
     "inning": 6,
@@ -162,16 +183,23 @@
     "id": "81985135-2024-02",
     "date": "2024-07-05",
     "batter": {
-      "id": "81985135",
       "jaBoxscoreName": "鈴木大",
+      "playerId": "81985135",
       "boxscoreName": "D.Suzuki",
-      "batSide": "L"
+      "batSide": "L",
+      "teamCode": "E",
+      "primaryNumber": "7",
+      "jaRegisteredName": "鈴木　大地",
+      "fullLFMName": "Suzuki, Daichi"
     },
     "pitcher": {
-      "id": "11815117",
       "jaBoxscoreName": "和田",
       "boxscoreName": "Wada",
-      "pitchHand": "L"
+      "pitchHand": "L",
+      "teamCode": "H",
+      "primaryNumber": "21",
+      "jaRegisteredName": "和田　毅",
+      "fullLFMName": "Wada, Tsuyoshi"
     },
     "number": 2,
     "inning": 4,
@@ -191,7 +219,7 @@
     "whereHit": "9",
     "venue": {
       "jaBoxscoreName": "みずほPayPay",
-      "boxscoreName": "MIZUHO PayPay Dome",
+      "boxscoreName": "MIZUHO PayPay",
       "jaName": "みずほPayPayドーム福岡",
       "name": "MIZUHO PayPay Dome FUKUOKA"
     },

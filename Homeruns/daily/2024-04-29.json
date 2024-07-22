@@ -3,16 +3,23 @@
     "id": "91895133-2024-01",
     "date": "2024-04-29",
     "batter": {
-      "id": "91895133",
       "jaBoxscoreName": "山田",
+      "playerId": "91895133",
       "boxscoreName": "Yamada",
-      "batSide": "R"
+      "batSide": "R",
+      "teamCode": "S",
+      "primaryNumber": "1",
+      "jaRegisteredName": "山田　哲人",
+      "fullLFMName": "Yamada, Tetsuto"
     },
     "pitcher": {
-      "id": "03705157",
       "jaBoxscoreName": "グリフィン",
       "boxscoreName": "Griffin",
-      "pitchHand": "L"
+      "pitchHand": "L",
+      "teamCode": "G",
+      "primaryNumber": "29",
+      "jaRegisteredName": "Ｆ．グリフィン",
+      "fullLFMName": "Griffin, Foster"
     },
     "number": 1,
     "inning": 3,
@@ -56,16 +63,23 @@
     "id": "41845136-2024-05",
     "date": "2024-04-29",
     "batter": {
-      "id": "41845136",
       "jaBoxscoreName": "村上",
+      "playerId": "41845136",
       "boxscoreName": "Murakami",
-      "batSide": "L"
+      "batSide": "L",
+      "teamCode": "S",
+      "primaryNumber": "55",
+      "jaRegisteredName": "村上　宗隆",
+      "fullLFMName": "Murakami, Munetaka"
     },
     "pitcher": {
-      "id": "03705157",
       "jaBoxscoreName": "グリフィン",
       "boxscoreName": "Griffin",
-      "pitchHand": "L"
+      "pitchHand": "L",
+      "teamCode": "G",
+      "primaryNumber": "29",
+      "jaRegisteredName": "Ｆ．グリフィン",
+      "fullLFMName": "Griffin, Foster"
     },
     "number": 5,
     "inning": 4,
@@ -109,16 +123,23 @@
     "id": "31735132-2024-01",
     "date": "2024-04-29",
     "batter": {
-      "id": "31735132",
       "jaBoxscoreName": "木下",
+      "playerId": "31735132",
       "boxscoreName": "Kinoshita",
-      "batSide": "R"
+      "batSide": "R",
+      "teamCode": "D",
+      "primaryNumber": "35",
+      "jaRegisteredName": "木下　拓哉",
+      "fullLFMName": "Kinoshita, Takuya"
     },
     "pitcher": {
-      "id": "01405139",
       "jaBoxscoreName": "森唯",
       "boxscoreName": "Y.Mori",
-      "pitchHand": "R"
+      "pitchHand": "R",
+      "teamCode": "DB",
+      "primaryNumber": "38",
+      "jaRegisteredName": "森　唯斗",
+      "fullLFMName": "Mori, Yuito"
     },
     "number": 1,
     "inning": 5,
@@ -162,16 +183,23 @@
     "id": "31835134-2024-06",
     "date": "2024-04-29",
     "batter": {
-      "id": "31835134",
       "jaBoxscoreName": "細川",
+      "playerId": "31835134",
       "boxscoreName": "Hosokawa",
-      "batSide": "R"
+      "batSide": "R",
+      "teamCode": "D",
+      "primaryNumber": "55",
+      "jaRegisteredName": "細川　成也",
+      "fullLFMName": "Hosokawa, Seiya"
     },
     "pitcher": {
-      "id": "01405139",
       "jaBoxscoreName": "森唯",
       "boxscoreName": "Y.Mori",
-      "pitchHand": "R"
+      "pitchHand": "R",
+      "teamCode": "DB",
+      "primaryNumber": "38",
+      "jaRegisteredName": "森　唯斗",
+      "fullLFMName": "Mori, Yuito"
     },
     "number": 6,
     "inning": 6,
@@ -215,16 +243,23 @@
     "id": "41645136-2024-02",
     "date": "2024-04-29",
     "batter": {
-      "id": "41645136",
       "jaBoxscoreName": "藤岡",
+      "playerId": "41645136",
       "boxscoreName": "Fujioka",
-      "batSide": "L"
+      "batSide": "L",
+      "teamCode": "M",
+      "primaryNumber": "7",
+      "jaRegisteredName": "藤岡　裕大",
+      "fullLFMName": "Fujioka, Yudai"
     },
     "pitcher": {
-      "id": "21925157",
       "jaBoxscoreName": "荘司",
       "boxscoreName": "Shoji",
-      "pitchHand": "R"
+      "pitchHand": "R",
+      "teamCode": "E",
+      "primaryNumber": "19",
+      "jaRegisteredName": "荘司　康誠",
+      "fullLFMName": "Shoji, Kosei"
     },
     "number": 2,
     "inning": 1,
@@ -268,16 +303,23 @@
     "id": "81085115-2024-03",
     "date": "2024-04-29",
     "batter": {
-      "id": "81085115",
       "jaBoxscoreName": "中村剛",
+      "playerId": "81085115",
       "boxscoreName": "T.Nakamura",
-      "batSide": "R"
+      "batSide": "R",
+      "teamCode": "L",
+      "primaryNumber": "60",
+      "jaRegisteredName": "中村　剛也",
+      "fullLFMName": "Nakamura, Takeya"
     },
     "pitcher": {
-      "id": "53755138",
       "jaBoxscoreName": "スチュワート・ジュニア",
       "boxscoreName": "Stewart",
-      "pitchHand": "R"
+      "pitchHand": "R",
+      "teamCode": "H",
+      "primaryNumber": "2",
+      "jaRegisteredName": "Ｃ．スチュワート・ジュニア",
+      "fullLFMName": "Stewart, Jr., Carter"
     },
     "number": 3,
     "inning": 4,
@@ -297,7 +339,7 @@
     "whereHit": "78",
     "venue": {
       "jaBoxscoreName": "みずほPayPay",
-      "boxscoreName": "MIZUHO PayPay Dome",
+      "boxscoreName": "MIZUHO PayPay",
       "jaName": "みずほPayPayドーム福岡",
       "name": "MIZUHO PayPay Dome FUKUOKA"
     },
@@ -321,16 +363,23 @@
     "id": "01505137-2024-02",
     "date": "2024-04-29",
     "batter": {
-      "id": "01505137",
       "jaBoxscoreName": "金子侑",
+      "playerId": "01505137",
       "boxscoreName": "Y.Kaneko",
-      "batSide": "S"
+      "batSide": "S",
+      "teamCode": "L",
+      "primaryNumber": "7",
+      "jaRegisteredName": "金子　侑司",
+      "fullLFMName": "Kaneko, Yuji"
     },
     "pitcher": {
-      "id": "53755138",
       "jaBoxscoreName": "スチュワート・ジュニア",
       "boxscoreName": "Stewart",
-      "pitchHand": "R"
+      "pitchHand": "R",
+      "teamCode": "H",
+      "primaryNumber": "2",
+      "jaRegisteredName": "Ｃ．スチュワート・ジュニア",
+      "fullLFMName": "Stewart, Jr., Carter"
     },
     "number": 2,
     "inning": 5,
@@ -350,7 +399,7 @@
     "whereHit": "9",
     "venue": {
       "jaBoxscoreName": "みずほPayPay",
-      "boxscoreName": "MIZUHO PayPay Dome",
+      "boxscoreName": "MIZUHO PayPay",
       "jaName": "みずほPayPayドーム福岡",
       "name": "MIZUHO PayPay Dome FUKUOKA"
     },
@@ -374,16 +423,23 @@
     "id": "31835133-2024-02",
     "date": "2024-04-29",
     "batter": {
-      "id": "31835133",
       "jaBoxscoreName": "柳田",
+      "playerId": "31835133",
       "boxscoreName": "Yanagita",
-      "batSide": "L"
+      "batSide": "L",
+      "teamCode": "H",
+      "primaryNumber": "9",
+      "jaRegisteredName": "柳田　悠岐",
+      "fullLFMName": "Yanagita, Yuki"
     },
     "pitcher": {
-      "id": "73575159",
       "jaBoxscoreName": "アブレイユ",
       "boxscoreName": "Abreu",
-      "pitchHand": "R"
+      "pitchHand": "R",
+      "teamCode": "L",
+      "primaryNumber": "54",
+      "jaRegisteredName": "Ａ．アブレイユ",
+      "fullLFMName": "Abreu, Albert"
     },
     "number": 2,
     "inning": 9,
@@ -403,7 +459,7 @@
     "whereHit": "89",
     "venue": {
       "jaBoxscoreName": "みずほPayPay",
-      "boxscoreName": "MIZUHO PayPay Dome",
+      "boxscoreName": "MIZUHO PayPay",
       "jaName": "みずほPayPayドーム福岡",
       "name": "MIZUHO PayPay Dome FUKUOKA"
     },

@@ -3,16 +3,23 @@
     "id": "13115153-2024-13",
     "date": "2024-07-15",
     "batter": {
-      "id": "13115153",
       "jaBoxscoreName": "牧",
+      "playerId": "13115153",
       "boxscoreName": "Maki",
-      "batSide": "R"
+      "batSide": "R",
+      "teamCode": "DB",
+      "primaryNumber": "2",
+      "jaRegisteredName": "牧　秀悟",
+      "fullLFMName": "Maki, Shugo"
     },
     "pitcher": {
-      "id": "31135134",
       "jaBoxscoreName": "アドゥワ",
       "boxscoreName": "Aduwa",
-      "pitchHand": "R"
+      "pitchHand": "R",
+      "teamCode": "C",
+      "primaryNumber": "48",
+      "jaRegisteredName": "アドゥワ　誠",
+      "fullLFMName": "Aduwa, Makoto"
     },
     "number": 13,
     "inning": 4,
@@ -56,16 +63,23 @@
     "id": "63965157-2024-05",
     "date": "2024-07-15",
     "batter": {
-      "id": "63965157",
       "jaBoxscoreName": "フランコ",
+      "playerId": "63965157",
       "boxscoreName": "Franco",
-      "batSide": "R"
+      "batSide": "R",
+      "teamCode": "E",
+      "primaryNumber": "23",
+      "jaRegisteredName": "Ｍ．フランコ",
+      "fullLFMName": "Franco, Maikel"
     },
     "pitcher": {
-      "id": "41345132",
       "jaBoxscoreName": "上原",
       "boxscoreName": "Uehara",
-      "pitchHand": "L"
+      "pitchHand": "L",
+      "teamCode": "F",
+      "primaryNumber": "20",
+      "jaRegisteredName": "上原　健太",
+      "fullLFMName": "Uehara, Kenta"
     },
     "number": 5,
     "inning": 6,
@@ -109,16 +123,23 @@
     "id": "63965157-2024-06",
     "date": "2024-07-15",
     "batter": {
-      "id": "63965157",
       "jaBoxscoreName": "フランコ",
+      "playerId": "63965157",
       "boxscoreName": "Franco",
-      "batSide": "R"
+      "batSide": "R",
+      "teamCode": "E",
+      "primaryNumber": "23",
+      "jaRegisteredName": "Ｍ．フランコ",
+      "fullLFMName": "Franco, Maikel"
     },
     "pitcher": {
-      "id": "21725138",
       "jaBoxscoreName": "齋藤友",
       "boxscoreName": "Saito",
-      "pitchHand": "R"
+      "pitchHand": "R",
+      "teamCode": "F",
+      "primaryNumber": "48",
+      "jaRegisteredName": "齋藤　友貴哉",
+      "fullLFMName": "Saito, Yukiya"
     },
     "number": 6,
     "inning": 8,
@@ -162,16 +183,23 @@
     "id": "11815138-2024-12",
     "date": "2024-07-15",
     "batter": {
-      "id": "11815138",
       "jaBoxscoreName": "万波",
+      "playerId": "11815138",
       "boxscoreName": "Mannami",
-      "batSide": "R"
+      "batSide": "R",
+      "teamCode": "F",
+      "primaryNumber": "66",
+      "jaRegisteredName": "万波　中正",
+      "fullLFMName": "Mannami, Chusei"
     },
     "pitcher": {
-      "id": "31235151",
       "jaBoxscoreName": "瀧中",
       "boxscoreName": "Takinaka",
-      "pitchHand": "R"
+      "pitchHand": "R",
+      "teamCode": "E",
+      "primaryNumber": "57",
+      "jaRegisteredName": "瀧中　瞭太",
+      "fullLFMName": "Takinaka, Ryota"
     },
     "number": 12,
     "inning": 6,
@@ -215,16 +243,23 @@
     "id": "03505136-2024-11",
     "date": "2024-07-15",
     "batter": {
-      "id": "03505136",
       "jaBoxscoreName": "ソト",
+      "playerId": "03505136",
       "boxscoreName": "Soto",
-      "batSide": "R"
+      "batSide": "R",
+      "teamCode": "M",
+      "primaryNumber": "99",
+      "jaRegisteredName": "Ｎ．ソト",
+      "fullLFMName": "Soto, Neftali"
     },
     "pitcher": {
-      "id": "61265139",
       "jaBoxscoreName": "又吉",
       "boxscoreName": "Matayoshi",
-      "pitchHand": "R"
+      "pitchHand": "R",
+      "teamCode": "H",
+      "primaryNumber": "14",
+      "jaRegisteredName": "又吉　克樹",
+      "fullLFMName": "Matayoshi, Katsuki"
     },
     "number": 11,
     "inning": 7,
@@ -244,7 +279,7 @@
     "whereHit": "78",
     "venue": {
       "jaBoxscoreName": "みずほPayPay",
-      "boxscoreName": "MIZUHO PayPay Dome",
+      "boxscoreName": "MIZUHO PayPay",
       "jaName": "みずほPayPayドーム福岡",
       "name": "MIZUHO PayPay Dome FUKUOKA"
     },

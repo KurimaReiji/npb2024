@@ -3,16 +3,23 @@
     "id": "51055138-2024-02",
     "date": "2024-06-02",
     "batter": {
-      "id": "51055138",
       "jaBoxscoreName": "田宮",
+      "playerId": "51055138",
       "boxscoreName": "Tamiya",
-      "batSide": "L"
+      "batSide": "L",
+      "teamCode": "F",
+      "primaryNumber": "64",
+      "jaRegisteredName": "田宮　裕涼",
+      "fullLFMName": "Tamiya, Yua"
     },
     "pitcher": {
-      "id": "01305138",
       "jaBoxscoreName": "大貫",
       "boxscoreName": "Ohnuki",
-      "pitchHand": "R"
+      "pitchHand": "R",
+      "teamCode": "DB",
+      "primaryNumber": "16",
+      "jaRegisteredName": "大貫　晋一",
+      "fullLFMName": "Ohnuki, Shinichi"
     },
     "number": 2,
     "inning": 3,
@@ -56,16 +63,23 @@
     "id": "31835138-2024-01",
     "date": "2024-06-02",
     "batter": {
-      "id": "31835138",
       "jaBoxscoreName": "水谷",
+      "playerId": "31835138",
       "boxscoreName": "Mizutani",
-      "batSide": "R"
+      "batSide": "R",
+      "teamCode": "F",
+      "primaryNumber": "53",
+      "jaRegisteredName": "水谷　瞬",
+      "fullLFMName": "Mizutani, Shun"
     },
     "pitcher": {
-      "id": "01305138",
       "jaBoxscoreName": "大貫",
       "boxscoreName": "Ohnuki",
-      "pitchHand": "R"
+      "pitchHand": "R",
+      "teamCode": "DB",
+      "primaryNumber": "16",
+      "jaRegisteredName": "大貫　晋一",
+      "fullLFMName": "Ohnuki, Shinichi"
     },
     "number": 1,
     "inning": 4,
@@ -109,16 +123,23 @@
     "id": "41845136-2024-13",
     "date": "2024-06-02",
     "batter": {
-      "id": "41845136",
       "jaBoxscoreName": "村上",
+      "playerId": "41845136",
       "boxscoreName": "Murakami",
-      "batSide": "L"
+      "batSide": "L",
+      "teamCode": "S",
+      "primaryNumber": "55",
+      "jaRegisteredName": "村上　宗隆",
+      "fullLFMName": "Murakami, Munetaka"
     },
     "pitcher": {
-      "id": "91795114",
       "jaBoxscoreName": "岸",
       "boxscoreName": "Kishi",
-      "pitchHand": "R"
+      "pitchHand": "R",
+      "teamCode": "E",
+      "primaryNumber": "11",
+      "jaRegisteredName": "岸　孝之",
+      "fullLFMName": "Kishi, Takayuki"
     },
     "number": 13,
     "inning": 1,
@@ -162,16 +183,23 @@
     "id": "43145157-2024-06",
     "date": "2024-06-02",
     "batter": {
-      "id": "43145157",
       "jaBoxscoreName": "森下",
+      "playerId": "43145157",
       "boxscoreName": "Morishita",
-      "batSide": "R"
+      "batSide": "R",
+      "teamCode": "T",
+      "primaryNumber": "1",
+      "jaRegisteredName": "森下　翔太",
+      "fullLFMName": "Morishita, Shota"
     },
     "pitcher": {
-      "id": "33935134",
       "jaBoxscoreName": "メルセデス",
       "boxscoreName": "Mercedes",
-      "pitchHand": "L"
+      "pitchHand": "L",
+      "teamCode": "M",
+      "primaryNumber": "42",
+      "jaRegisteredName": "Ｃ．Ｃ．メルセデス",
+      "fullLFMName": "Mercedes, Cristopher Crisostomo"
     },
     "number": 6,
     "inning": 1,
@@ -216,16 +244,23 @@
     "id": "33935159-2024-03",
     "date": "2024-06-02",
     "batter": {
-      "id": "33935159",
       "jaBoxscoreName": "ディカーソン",
+      "playerId": "33935159",
       "boxscoreName": "Dickerson",
-      "batSide": "L"
+      "batSide": "L",
+      "teamCode": "D",
+      "primaryNumber": "94",
+      "jaRegisteredName": "Ａ．ディカーソン",
+      "fullLFMName": "Dickerson, Alex"
     },
     "pitcher": {
-      "id": "61665136",
       "jaBoxscoreName": "本田",
       "boxscoreName": "Honda",
-      "pitchHand": "R"
+      "pitchHand": "R",
+      "teamCode": "B",
+      "primaryNumber": "46",
+      "jaRegisteredName": "本田　仁海",
+      "fullLFMName": "Honda, Hitomi"
     },
     "number": 3,
     "inning": 8,
@@ -269,16 +304,23 @@
     "id": "61965139-2024-02",
     "date": "2024-06-02",
     "batter": {
-      "id": "61965139",
       "jaBoxscoreName": "田中",
+      "playerId": "61965139",
       "boxscoreName": "Tanaka",
-      "batSide": "L"
+      "batSide": "L",
+      "teamCode": "C",
+      "primaryNumber": "2",
+      "jaRegisteredName": "田中　広輔",
+      "fullLFMName": "Tanaka, Kosuke"
     },
     "pitcher": {
-      "id": "33435157",
       "jaBoxscoreName": "ヘルナンデス",
       "boxscoreName": "Hernandez",
-      "pitchHand": "L"
+      "pitchHand": "L",
+      "teamCode": "H",
+      "primaryNumber": "63",
+      "jaRegisteredName": "Ｄ．ヘルナンデス",
+      "fullLFMName": "Hernandez, Darwinzon"
     },
     "number": 2,
     "inning": 9,
@@ -298,7 +340,7 @@
     "whereHit": "9",
     "venue": {
       "jaBoxscoreName": "みずほPayPay",
-      "boxscoreName": "MIZUHO PayPay Dome",
+      "boxscoreName": "MIZUHO PayPay",
       "jaName": "みずほPayPayドーム福岡",
       "name": "MIZUHO PayPay Dome FUKUOKA"
     },
@@ -322,16 +364,23 @@
     "id": "41745135-2024-07",
     "date": "2024-06-02",
     "batter": {
-      "id": "41745135",
       "jaBoxscoreName": "近藤",
+      "playerId": "41745135",
       "boxscoreName": "Kondoh",
-      "batSide": "L"
+      "batSide": "L",
+      "teamCode": "H",
+      "primaryNumber": "3",
+      "jaRegisteredName": "近藤　健介",
+      "fullLFMName": "Kondoh, Kensuke"
     },
     "pitcher": {
-      "id": "31135134",
       "jaBoxscoreName": "アドゥワ",
       "boxscoreName": "Aduwa",
-      "pitchHand": "R"
+      "pitchHand": "R",
+      "teamCode": "C",
+      "primaryNumber": "48",
+      "jaRegisteredName": "アドゥワ　誠",
+      "fullLFMName": "Aduwa, Makoto"
     },
     "number": 7,
     "inning": 2,
@@ -351,7 +400,7 @@
     "whereHit": "9",
     "venue": {
       "jaBoxscoreName": "みずほPayPay",
-      "boxscoreName": "MIZUHO PayPay Dome",
+      "boxscoreName": "MIZUHO PayPay",
       "jaName": "みずほPayPayドーム福岡",
       "name": "MIZUHO PayPay Dome FUKUOKA"
     },
@@ -375,16 +424,23 @@
     "id": "41745135-2024-08",
     "date": "2024-06-02",
     "batter": {
-      "id": "41745135",
       "jaBoxscoreName": "近藤",
+      "playerId": "41745135",
       "boxscoreName": "Kondoh",
-      "batSide": "L"
+      "batSide": "L",
+      "teamCode": "H",
+      "primaryNumber": "3",
+      "jaRegisteredName": "近藤　健介",
+      "fullLFMName": "Kondoh, Kensuke"
     },
     "pitcher": {
-      "id": "31935138",
       "jaBoxscoreName": "島内",
       "boxscoreName": "Shimauchi",
-      "pitchHand": "R"
+      "pitchHand": "R",
+      "teamCode": "C",
+      "primaryNumber": "43",
+      "jaRegisteredName": "島内　颯太郎",
+      "fullLFMName": "Shimauchi, Sotaro"
     },
     "number": 8,
     "inning": 10,
@@ -404,7 +460,7 @@
     "whereHit": "9",
     "venue": {
       "jaBoxscoreName": "みずほPayPay",
-      "boxscoreName": "MIZUHO PayPay Dome",
+      "boxscoreName": "MIZUHO PayPay",
       "jaName": "みずほPayPayドーム福岡",
       "name": "MIZUHO PayPay Dome FUKUOKA"
     },

@@ -3,16 +3,23 @@
     "id": "21425153-2024-01",
     "date": "2024-05-18",
     "batter": {
-      "id": "21425153",
       "jaBoxscoreName": "中川颯",
+      "playerId": "21425153",
       "boxscoreName": "H.Nakagawa",
-      "batSide": "L"
+      "batSide": "L",
+      "teamCode": "DB",
+      "primaryNumber": "53",
+      "jaRegisteredName": "中川　颯",
+      "fullLFMName": "Nakagawa, Hayate"
     },
     "pitcher": {
-      "id": "21225137",
       "jaBoxscoreName": "松葉",
       "boxscoreName": "Matsuba",
-      "pitchHand": "L"
+      "pitchHand": "L",
+      "teamCode": "D",
+      "primaryNumber": "38",
+      "jaRegisteredName": "松葉　貴大",
+      "fullLFMName": "Matsuba, Takahiro"
     },
     "number": 1,
     "inning": 2,
@@ -56,16 +63,23 @@
     "id": "11915134-2024-03",
     "date": "2024-05-18",
     "batter": {
-      "id": "11915134",
       "jaBoxscoreName": "坂倉",
+      "playerId": "11915134",
       "boxscoreName": "Sakakura",
-      "batSide": "L"
+      "batSide": "L",
+      "teamCode": "C",
+      "primaryNumber": "31",
+      "jaRegisteredName": "坂倉　将吾",
+      "fullLFMName": "Sakakura, Shogo"
     },
     "pitcher": {
-      "id": "71375134",
       "jaBoxscoreName": "大江",
       "boxscoreName": "Ohe",
-      "pitchHand": "L"
+      "pitchHand": "L",
+      "teamCode": "G",
+      "primaryNumber": "64",
+      "jaRegisteredName": "大江　竜聖",
+      "fullLFMName": "Ohe, Ryusei"
     },
     "number": 3,
     "inning": 6,
@@ -109,16 +123,23 @@
     "id": "01105135-2024-01",
     "date": "2024-05-18",
     "batter": {
-      "id": "01105135",
       "jaBoxscoreName": "石川慎",
+      "playerId": "01105135",
       "boxscoreName": "S.Ishikawa",
-      "batSide": "R"
+      "batSide": "R",
+      "teamCode": "M",
+      "primaryNumber": "23",
+      "jaRegisteredName": "石川　慎吾",
+      "fullLFMName": "Ishikawa, Shingo"
     },
     "pitcher": {
-      "id": "41545132",
       "jaBoxscoreName": "加藤貴",
       "boxscoreName": "T.Katoh",
-      "pitchHand": "L"
+      "pitchHand": "L",
+      "teamCode": "F",
+      "primaryNumber": "14",
+      "jaRegisteredName": "加藤　貴之",
+      "fullLFMName": "Katoh, Takayuki"
     },
     "number": 1,
     "inning": 6,
@@ -162,16 +183,23 @@
     "id": "53555153-2024-03",
     "date": "2024-05-18",
     "batter": {
-      "id": "53555153",
       "jaBoxscoreName": "若林",
+      "playerId": "53555153",
       "boxscoreName": "Wakabayashi",
-      "batSide": "R"
+      "batSide": "R",
+      "teamCode": "L",
+      "primaryNumber": "35",
+      "jaRegisteredName": "若林　楽人",
+      "fullLFMName": "Wakabayashi, Gakuto"
     },
     "pitcher": {
-      "id": "01305157",
       "jaBoxscoreName": "大津",
       "boxscoreName": "Ohtsu",
-      "pitchHand": "R"
+      "pitchHand": "R",
+      "teamCode": "H",
+      "primaryNumber": "26",
+      "jaRegisteredName": "大津　亮介",
+      "fullLFMName": "Ohtsu, Ryosuke"
     },
     "number": 3,
     "inning": 2,
@@ -191,7 +219,7 @@
     "whereHit": "78",
     "venue": {
       "jaBoxscoreName": "みずほPayPay",
-      "boxscoreName": "MIZUHO PayPay Dome",
+      "boxscoreName": "MIZUHO PayPay",
       "jaName": "みずほPayPayドーム福岡",
       "name": "MIZUHO PayPay Dome FUKUOKA"
     },
@@ -215,16 +243,23 @@
     "id": "41745135-2024-06",
     "date": "2024-05-18",
     "batter": {
-      "id": "41745135",
       "jaBoxscoreName": "近藤",
+      "playerId": "41745135",
       "boxscoreName": "Kondoh",
-      "batSide": "L"
+      "batSide": "L",
+      "teamCode": "H",
+      "primaryNumber": "3",
+      "jaRegisteredName": "近藤　健介",
+      "fullLFMName": "Kondoh, Kensuke"
     },
     "pitcher": {
-      "id": "81685138",
       "jaBoxscoreName": "松本",
       "boxscoreName": "Matsumoto",
-      "pitchHand": "R"
+      "pitchHand": "R",
+      "teamCode": "L",
+      "primaryNumber": "17",
+      "jaRegisteredName": "松本　航",
+      "fullLFMName": "Matsumoto, Wataru"
     },
     "number": 6,
     "inning": 8,
@@ -244,7 +279,7 @@
     "whereHit": "9",
     "venue": {
       "jaBoxscoreName": "みずほPayPay",
-      "boxscoreName": "MIZUHO PayPay Dome",
+      "boxscoreName": "MIZUHO PayPay",
       "jaName": "みずほPayPayドーム福岡",
       "name": "MIZUHO PayPay Dome FUKUOKA"
     },

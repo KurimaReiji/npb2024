@@ -3,16 +3,23 @@
     "id": "81185116-2024-01",
     "date": "2024-06-01",
     "batter": {
-      "id": "81185116",
       "jaBoxscoreName": "伊藤",
+      "playerId": "81185116",
       "boxscoreName": "Itoh",
-      "batSide": "R"
+      "batSide": "R",
+      "teamCode": "DB",
+      "primaryNumber": "29",
+      "jaRegisteredName": "伊藤　光",
+      "fullLFMName": "Itoh, Hikaru"
     },
     "pitcher": {
-      "id": "41545132",
       "jaBoxscoreName": "加藤貴",
       "boxscoreName": "T.Katoh",
-      "pitchHand": "L"
+      "pitchHand": "L",
+      "teamCode": "F",
+      "primaryNumber": "14",
+      "jaRegisteredName": "加藤　貴之",
+      "fullLFMName": "Katoh, Takayuki"
     },
     "number": 1,
     "inning": 2,
@@ -56,16 +63,23 @@
     "id": "13115153-2024-06",
     "date": "2024-06-01",
     "batter": {
-      "id": "13115153",
       "jaBoxscoreName": "牧",
+      "playerId": "13115153",
       "boxscoreName": "Maki",
-      "batSide": "R"
+      "batSide": "R",
+      "teamCode": "DB",
+      "primaryNumber": "2",
+      "jaRegisteredName": "牧　秀悟",
+      "fullLFMName": "Maki, Shugo"
     },
     "pitcher": {
-      "id": "31235134",
       "jaBoxscoreName": "田中正",
       "boxscoreName": "S.Tanaka",
-      "pitchHand": "R"
+      "pitchHand": "R",
+      "teamCode": "F",
+      "primaryNumber": "26",
+      "jaRegisteredName": "田中　正義",
+      "fullLFMName": "Tanaka, Seigi"
     },
     "number": 6,
     "inning": 9,
@@ -109,16 +123,23 @@
     "id": "73975136-2024-06",
     "date": "2024-06-01",
     "batter": {
-      "id": "73975136",
       "jaBoxscoreName": "マルティネス",
+      "playerId": "73975136",
       "boxscoreName": "Martinez",
-      "batSide": "R"
+      "batSide": "R",
+      "teamCode": "F",
+      "primaryNumber": "2",
+      "jaRegisteredName": "Ａ．マルティネス",
+      "fullLFMName": "Martinez, Ariel"
     },
     "pitcher": {
-      "id": "21425153",
       "jaBoxscoreName": "中川颯",
       "boxscoreName": "H.Nakagawa",
-      "pitchHand": "R"
+      "pitchHand": "R",
+      "teamCode": "DB",
+      "primaryNumber": "53",
+      "jaRegisteredName": "中川　颯",
+      "fullLFMName": "Nakagawa, Hayate"
     },
     "number": 6,
     "inning": 4,
@@ -162,16 +183,23 @@
     "id": "41845132-2024-03",
     "date": "2024-06-01",
     "batter": {
-      "id": "41845132",
       "jaBoxscoreName": "村林",
+      "playerId": "41845132",
       "boxscoreName": "Murabayashi",
-      "batSide": "R"
+      "batSide": "R",
+      "teamCode": "E",
+      "primaryNumber": "66",
+      "jaRegisteredName": "村林　一輝",
+      "fullLFMName": "Murabayashi, Itsuki"
     },
     "pitcher": {
-      "id": "33035159",
       "jaBoxscoreName": "ヤフーレ",
       "boxscoreName": "Yajure",
-      "pitchHand": "R"
+      "pitchHand": "R",
+      "teamCode": "S",
+      "primaryNumber": "99",
+      "jaRegisteredName": "Ｍ．ヤフーレ",
+      "fullLFMName": "Yajure, Miguel"
     },
     "number": 3,
     "inning": 3,
@@ -215,16 +243,23 @@
     "id": "33335153-2024-01",
     "date": "2024-06-01",
     "batter": {
-      "id": "33335153",
       "jaBoxscoreName": "元山",
+      "playerId": "33335153",
       "boxscoreName": "Motoyama",
-      "batSide": "L"
+      "batSide": "L",
+      "teamCode": "L",
+      "primaryNumber": "30",
+      "jaRegisteredName": "元山　飛優",
+      "fullLFMName": "Motoyama, Hiyu"
     },
     "pitcher": {
-      "id": "31635159",
       "jaBoxscoreName": "西舘",
       "boxscoreName": "Nishidate",
-      "pitchHand": "R"
+      "pitchHand": "R",
+      "teamCode": "G",
+      "primaryNumber": "17",
+      "jaRegisteredName": "西舘　勇陽",
+      "fullLFMName": "Nishidate, Yuhi"
     },
     "number": 1,
     "inning": 8,

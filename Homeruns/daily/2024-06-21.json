@@ -3,16 +3,23 @@
     "id": "91895133-2024-05",
     "date": "2024-06-21",
     "batter": {
-      "id": "91895133",
       "jaBoxscoreName": "山田",
+      "playerId": "91895133",
       "boxscoreName": "Yamada",
-      "batSide": "R"
+      "batSide": "R",
+      "teamCode": "S",
+      "primaryNumber": "1",
+      "jaRegisteredName": "山田　哲人",
+      "fullLFMName": "Yamada, Tetsuto"
     },
     "pitcher": {
-      "id": "41045138",
       "jaBoxscoreName": "戸郷",
       "boxscoreName": "Togo",
-      "pitchHand": "R"
+      "pitchHand": "R",
+      "teamCode": "G",
+      "primaryNumber": "20",
+      "jaRegisteredName": "戸郷　翔征",
+      "fullLFMName": "Togo, Shosei"
     },
     "number": 5,
     "inning": 4,
@@ -56,16 +63,23 @@
     "id": "93795157-2024-06",
     "date": "2024-06-21",
     "batter": {
-      "id": "93795157",
       "jaBoxscoreName": "カリステ",
+      "playerId": "93795157",
       "boxscoreName": "Calixte",
-      "batSide": "R"
+      "batSide": "R",
+      "teamCode": "D",
+      "primaryNumber": "99",
+      "jaRegisteredName": "Ｏ．カリステ",
+      "fullLFMName": "Calixte, Orlando"
     },
     "pitcher": {
-      "id": "11415134",
       "jaBoxscoreName": "床田",
       "boxscoreName": "Tokoda",
-      "pitchHand": "L"
+      "pitchHand": "L",
+      "teamCode": "C",
+      "primaryNumber": "28",
+      "jaRegisteredName": "床田　寛樹",
+      "fullLFMName": "Tokoda, Hiroki"
     },
     "number": 6,
     "inning": 3,
@@ -109,16 +123,23 @@
     "id": "51155118-2024-06",
     "date": "2024-06-21",
     "batter": {
-      "id": "51155118",
       "jaBoxscoreName": "浅村",
+      "playerId": "51155118",
       "boxscoreName": "Asamura",
-      "batSide": "R"
+      "batSide": "R",
+      "teamCode": "E",
+      "primaryNumber": "3",
+      "jaRegisteredName": "浅村　栄斗",
+      "fullLFMName": "Asamura, Hideto"
     },
     "pitcher": {
-      "id": "21825130",
       "jaBoxscoreName": "山﨑福也",
       "boxscoreName": "Yamasaki",
-      "pitchHand": "L"
+      "pitchHand": "L",
+      "teamCode": "F",
+      "primaryNumber": "18",
+      "jaRegisteredName": "山﨑　福也",
+      "fullLFMName": "Yamasaki, Sachiya"
     },
     "number": 6,
     "inning": 2,
@@ -162,16 +183,23 @@
     "id": "63965157-2024-03",
     "date": "2024-06-21",
     "batter": {
-      "id": "63965157",
       "jaBoxscoreName": "フランコ",
+      "playerId": "63965157",
       "boxscoreName": "Franco",
-      "batSide": "R"
+      "batSide": "R",
+      "teamCode": "E",
+      "primaryNumber": "23",
+      "jaRegisteredName": "Ｍ．フランコ",
+      "fullLFMName": "Franco, Maikel"
     },
     "pitcher": {
-      "id": "93795159",
       "jaBoxscoreName": "ザバラ",
       "boxscoreName": "Zabala",
-      "pitchHand": "R"
+      "pitchHand": "R",
+      "teamCode": "F",
+      "primaryNumber": "42",
+      "jaRegisteredName": "Ａ．ザバラ",
+      "fullLFMName": "Zabala, Aneurys"
     },
     "number": 3,
     "inning": 8,
@@ -215,16 +243,23 @@
     "id": "61165132-2024-02",
     "date": "2024-06-21",
     "batter": {
-      "id": "61165132",
       "jaBoxscoreName": "阿部",
+      "playerId": "61165132",
       "boxscoreName": "Abe",
-      "batSide": "R"
+      "batSide": "R",
+      "teamCode": "E",
+      "primaryNumber": "4",
+      "jaRegisteredName": "阿部　寿樹",
+      "fullLFMName": "Abe, Toshiki"
     },
     "pitcher": {
-      "id": "81785151",
       "jaBoxscoreName": "河野",
       "boxscoreName": "Kawano",
-      "pitchHand": "L"
+      "pitchHand": "L",
+      "teamCode": "F",
+      "primaryNumber": "28",
+      "jaRegisteredName": "河野　竜生",
+      "fullLFMName": "Kawano, Ryusei"
     },
     "number": 2,
     "inning": 8,
@@ -269,16 +304,23 @@
     "id": "73075159-2024-03",
     "date": "2024-06-21",
     "batter": {
-      "id": "73075159",
       "jaBoxscoreName": "レイエス",
+      "playerId": "73075159",
       "boxscoreName": "Reyes",
-      "batSide": "R"
+      "batSide": "R",
+      "teamCode": "F",
+      "primaryNumber": "99",
+      "jaRegisteredName": "Ｆ．レイエス",
+      "fullLFMName": "Reyes, Franmil"
     },
     "pitcher": {
-      "id": "73575132",
       "jaBoxscoreName": "宋家豪",
       "boxscoreName": "Sung",
-      "pitchHand": "R"
+      "pitchHand": "R",
+      "teamCode": "E",
+      "primaryNumber": "43",
+      "jaRegisteredName": "宋　家豪",
+      "fullLFMName": "Sung, Chia-Hao"
     },
     "number": 3,
     "inning": 7,
@@ -322,16 +364,23 @@
     "id": "91495139-2024-02",
     "date": "2024-06-21",
     "batter": {
-      "id": "91495139",
       "jaBoxscoreName": "森",
+      "playerId": "91495139",
       "boxscoreName": "Mori",
-      "batSide": "L"
+      "batSide": "L",
+      "teamCode": "B",
+      "primaryNumber": "4",
+      "jaRegisteredName": "森　友哉",
+      "fullLFMName": "Mori, Tomoya"
     },
     "pitcher": {
-      "id": "31335134",
       "jaBoxscoreName": "今井",
       "boxscoreName": "Imai",
-      "pitchHand": "R"
+      "pitchHand": "R",
+      "teamCode": "L",
+      "primaryNumber": "48",
+      "jaRegisteredName": "今井　達也",
+      "fullLFMName": "Imai, Tatsuya"
     },
     "number": 2,
     "inning": 8,
@@ -375,16 +424,23 @@
     "id": "31335131-2024-03",
     "date": "2024-06-21",
     "batter": {
-      "id": "31335131",
       "jaBoxscoreName": "今宮",
+      "playerId": "31335131",
       "boxscoreName": "Imamiya",
-      "batSide": "R"
+      "batSide": "R",
+      "teamCode": "H",
+      "primaryNumber": "6",
+      "jaRegisteredName": "今宮　健太",
+      "fullLFMName": "Imamiya, Kenta"
     },
     "pitcher": {
-      "id": "11515138",
       "jaBoxscoreName": "小島",
       "boxscoreName": "Ojima",
-      "pitchHand": "L"
+      "pitchHand": "L",
+      "teamCode": "M",
+      "primaryNumber": "14",
+      "jaRegisteredName": "小島　和哉",
+      "fullLFMName": "Ojima, Kazuya"
     },
     "number": 3,
     "inning": 1,
@@ -428,16 +484,23 @@
     "id": "61665159-2024-02",
     "date": "2024-06-21",
     "batter": {
-      "id": "61665159",
       "jaBoxscoreName": "廣瀨",
+      "playerId": "61665159",
       "boxscoreName": "Hirose",
-      "batSide": "R"
+      "batSide": "R",
+      "teamCode": "H",
+      "primaryNumber": "33",
+      "jaRegisteredName": "廣瀨　隆太",
+      "fullLFMName": "Hirose, Ryuta"
     },
     "pitcher": {
-      "id": "11515138",
       "jaBoxscoreName": "小島",
       "boxscoreName": "Ojima",
-      "pitchHand": "L"
+      "pitchHand": "L",
+      "teamCode": "M",
+      "primaryNumber": "14",
+      "jaRegisteredName": "小島　和哉",
+      "fullLFMName": "Ojima, Kazuya"
     },
     "number": 2,
     "inning": 4,

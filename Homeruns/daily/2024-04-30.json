@@ -3,16 +3,23 @@
     "id": "21425116-2024-01",
     "date": "2024-04-30",
     "batter": {
-      "id": "21425116",
       "jaBoxscoreName": "丸",
+      "playerId": "21425116",
       "boxscoreName": "Maru",
-      "batSide": "L"
+      "batSide": "L",
+      "teamCode": "G",
+      "primaryNumber": "8",
+      "jaRegisteredName": "丸　佳浩",
+      "fullLFMName": "Maru, Yoshihiro"
     },
     "pitcher": {
-      "id": "11815134",
       "jaBoxscoreName": "星",
       "boxscoreName": "Hoshi",
-      "pitchHand": "R"
+      "pitchHand": "R",
+      "teamCode": "S",
+      "primaryNumber": "24",
+      "jaRegisteredName": "星　知弥",
+      "fullLFMName": "Hoshi, Tomoya"
     },
     "number": 1,
     "inning": 5,
@@ -56,16 +63,23 @@
     "id": "31135133-2024-01",
     "date": "2024-04-30",
     "batter": {
-      "id": "31135133",
       "jaBoxscoreName": "秋山",
+      "playerId": "31135133",
       "boxscoreName": "Akiyama",
-      "batSide": "L"
+      "batSide": "L",
+      "teamCode": "C",
+      "primaryNumber": "9",
+      "jaRegisteredName": "秋山　翔吾",
+      "fullLFMName": "Akiyama, Shogo"
     },
     "pitcher": {
-      "id": "13315153",
       "jaBoxscoreName": "村上",
       "boxscoreName": "Murakami",
-      "pitchHand": "R"
+      "pitchHand": "R",
+      "teamCode": "T",
+      "primaryNumber": "41",
+      "jaRegisteredName": "村上　頌樹",
+      "fullLFMName": "Murakami, Shoki"
     },
     "number": 1,
     "inning": 1,
@@ -110,16 +124,23 @@
     "id": "21425139-2024-06",
     "date": "2024-04-30",
     "batter": {
-      "id": "21425139",
       "jaBoxscoreName": "山川",
+      "playerId": "21425139",
       "boxscoreName": "Yamakawa",
-      "batSide": "R"
+      "batSide": "R",
+      "teamCode": "H",
+      "primaryNumber": "25",
+      "jaRegisteredName": "山川　穂高",
+      "fullLFMName": "Yamakawa, Hotaka"
     },
     "pitcher": {
-      "id": "83085155",
       "jaBoxscoreName": "ポンセ",
       "boxscoreName": "Ponce",
-      "pitchHand": "R"
+      "pitchHand": "R",
+      "teamCode": "E",
+      "primaryNumber": "13",
+      "jaRegisteredName": "Ｃ．ポンセ",
+      "fullLFMName": "Ponce, Cody"
     },
     "number": 6,
     "inning": 2,
@@ -139,7 +160,7 @@
     "whereHit": "8",
     "venue": {
       "jaBoxscoreName": "みずほPayPay",
-      "boxscoreName": "MIZUHO PayPay Dome",
+      "boxscoreName": "MIZUHO PayPay",
       "jaName": "みずほPayPayドーム福岡",
       "name": "MIZUHO PayPay Dome FUKUOKA"
     },
@@ -163,16 +184,23 @@
     "id": "31835133-2024-03",
     "date": "2024-04-30",
     "batter": {
-      "id": "31835133",
       "jaBoxscoreName": "柳田",
+      "playerId": "31835133",
       "boxscoreName": "Yanagita",
-      "batSide": "L"
+      "batSide": "L",
+      "teamCode": "H",
+      "primaryNumber": "9",
+      "jaRegisteredName": "柳田　悠岐",
+      "fullLFMName": "Yanagita, Yuki"
     },
     "pitcher": {
-      "id": "83085155",
       "jaBoxscoreName": "ポンセ",
       "boxscoreName": "Ponce",
-      "pitchHand": "R"
+      "pitchHand": "R",
+      "teamCode": "E",
+      "primaryNumber": "13",
+      "jaRegisteredName": "Ｃ．ポンセ",
+      "fullLFMName": "Ponce, Cody"
     },
     "number": 3,
     "inning": 5,
@@ -192,7 +220,7 @@
     "whereHit": "9",
     "venue": {
       "jaBoxscoreName": "みずほPayPay",
-      "boxscoreName": "MIZUHO PayPay Dome",
+      "boxscoreName": "MIZUHO PayPay",
       "jaName": "みずほPayPayドーム福岡",
       "name": "MIZUHO PayPay Dome FUKUOKA"
     },

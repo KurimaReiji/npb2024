@@ -3,16 +3,23 @@
     "id": "23525153-2024-01",
     "date": "2024-04-07",
     "batter": {
-      "id": "23525153",
       "jaBoxscoreName": "オスナ",
+      "playerId": "23525153",
       "boxscoreName": "Osuna",
-      "batSide": "R"
+      "batSide": "R",
+      "teamCode": "S",
+      "primaryNumber": "13",
+      "jaRegisteredName": "Ｊ．オスナ",
+      "fullLFMName": "Osuna, Jose"
     },
     "pitcher": {
-      "id": "41745134",
       "jaBoxscoreName": "才木",
       "boxscoreName": "Saiki",
-      "pitchHand": "R"
+      "pitchHand": "R",
+      "teamCode": "T",
+      "primaryNumber": "35",
+      "jaRegisteredName": "才木　浩人",
+      "fullLFMName": "Saiki, Hiroto"
     },
     "number": 1,
     "inning": 1,

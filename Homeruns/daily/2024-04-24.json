@@ -3,16 +3,23 @@
     "id": "93795157-2024-01",
     "date": "2024-04-24",
     "batter": {
-      "id": "93795157",
       "jaBoxscoreName": "カリステ",
+      "playerId": "93795157",
       "boxscoreName": "Calixte",
-      "batSide": "R"
+      "batSide": "R",
+      "teamCode": "D",
+      "primaryNumber": "99",
+      "jaRegisteredName": "Ｏ．カリステ",
+      "fullLFMName": "Calixte, Orlando"
     },
     "pitcher": {
-      "id": "51155155",
       "jaBoxscoreName": "赤星",
       "boxscoreName": "Akahoshi",
-      "pitchHand": "R"
+      "pitchHand": "R",
+      "teamCode": "G",
+      "primaryNumber": "31",
+      "jaRegisteredName": "赤星　優志",
+      "fullLFMName": "Akahoshi, Yuji"
     },
     "number": 1,
     "inning": 1,
@@ -56,16 +63,23 @@
     "id": "81085115-2024-02",
     "date": "2024-04-24",
     "batter": {
-      "id": "81085115",
       "jaBoxscoreName": "中村剛",
+      "playerId": "81085115",
       "boxscoreName": "T.Nakamura",
-      "batSide": "R"
+      "batSide": "R",
+      "teamCode": "L",
+      "primaryNumber": "60",
+      "jaRegisteredName": "中村　剛也",
+      "fullLFMName": "Nakamura, Takeya"
     },
     "pitcher": {
-      "id": "81285112",
       "jaBoxscoreName": "平野佳",
       "boxscoreName": "Yo.Hirano",
-      "pitchHand": "R"
+      "pitchHand": "R",
+      "teamCode": "B",
+      "primaryNumber": "16",
+      "jaRegisteredName": "平野　佳寿",
+      "fullLFMName": "Hirano, Yoshihisa"
     },
     "number": 2,
     "inning": 9,
@@ -109,16 +123,23 @@
     "id": "83085157-2024-01",
     "date": "2024-04-24",
     "batter": {
-      "id": "83085157",
       "jaBoxscoreName": "ゴンザレス",
+      "playerId": "83085157",
       "boxscoreName": "Gonzalez",
-      "batSide": "S"
+      "batSide": "S",
+      "teamCode": "B",
+      "primaryNumber": "8",
+      "jaRegisteredName": "Ｍ．ゴンザレス",
+      "fullLFMName": "Gonzalez, Marwin"
     },
     "pitcher": {
-      "id": "51255159",
       "jaBoxscoreName": "武内",
       "boxscoreName": "Takeuchi",
-      "pitchHand": "L"
+      "pitchHand": "L",
+      "teamCode": "L",
+      "primaryNumber": "21",
+      "jaRegisteredName": "武内　夏暉",
+      "fullLFMName": "Takeuchi, Natsuki"
     },
     "number": 1,
     "inning": 3,

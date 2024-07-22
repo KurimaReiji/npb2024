@@ -3,16 +3,23 @@
     "id": "43145157-2024-03",
     "date": "2024-04-10",
     "batter": {
-      "id": "43145157",
       "jaBoxscoreName": "森下",
+      "playerId": "43145157",
       "boxscoreName": "Morishita",
-      "batSide": "R"
+      "batSide": "R",
+      "teamCode": "T",
+      "primaryNumber": "1",
+      "jaRegisteredName": "森下　翔太",
+      "fullLFMName": "Morishita, Shota"
     },
     "pitcher": {
-      "id": "31135134",
       "jaBoxscoreName": "アドゥワ",
       "boxscoreName": "Aduwa",
-      "pitchHand": "R"
+      "pitchHand": "R",
+      "teamCode": "C",
+      "primaryNumber": "48",
+      "jaRegisteredName": "アドゥワ　誠",
+      "fullLFMName": "Aduwa, Makoto"
     },
     "number": 3,
     "inning": 4,
@@ -56,16 +63,23 @@
     "id": "81085115-2024-01",
     "date": "2024-04-10",
     "batter": {
-      "id": "81085115",
       "jaBoxscoreName": "中村剛",
+      "playerId": "81085115",
       "boxscoreName": "T.Nakamura",
-      "batSide": "R"
+      "batSide": "R",
+      "teamCode": "L",
+      "primaryNumber": "60",
+      "jaRegisteredName": "中村　剛也",
+      "fullLFMName": "Nakamura, Takeya"
     },
     "pitcher": {
-      "id": "23125151",
       "jaBoxscoreName": "横山",
       "boxscoreName": "Yokoyama",
-      "pitchHand": "R"
+      "pitchHand": "R",
+      "teamCode": "M",
+      "primaryNumber": "60",
+      "jaRegisteredName": "横山　陸人",
+      "fullLFMName": "Yokoyama, Rikuto"
     },
     "number": 1,
     "inning": 9,
@@ -109,16 +123,23 @@
     "id": "13915157-2024-02",
     "date": "2024-04-10",
     "batter": {
-      "id": "13915157",
       "jaBoxscoreName": "セデーニョ",
+      "playerId": "13915157",
       "boxscoreName": "Cedeno",
-      "batSide": "R"
+      "batSide": "R",
+      "teamCode": "B",
+      "primaryNumber": "40",
+      "jaRegisteredName": "Ｌ．セデーニョ",
+      "fullLFMName": "Cedeno, Leandro"
     },
     "pitcher": {
-      "id": "91795114",
       "jaBoxscoreName": "岸",
       "boxscoreName": "Kishi",
-      "pitchHand": "R"
+      "pitchHand": "R",
+      "teamCode": "E",
+      "primaryNumber": "11",
+      "jaRegisteredName": "岸　孝之",
+      "fullLFMName": "Kishi, Takayuki"
     },
     "number": 2,
     "inning": 2,
@@ -162,16 +183,23 @@
     "id": "13915157-2024-03",
     "date": "2024-04-10",
     "batter": {
-      "id": "13915157",
       "jaBoxscoreName": "セデーニョ",
+      "playerId": "13915157",
       "boxscoreName": "Cedeno",
-      "batSide": "R"
+      "batSide": "R",
+      "teamCode": "B",
+      "primaryNumber": "40",
+      "jaRegisteredName": "Ｌ．セデーニョ",
+      "fullLFMName": "Cedeno, Leandro"
     },
     "pitcher": {
-      "id": "73575132",
       "jaBoxscoreName": "宋家豪",
       "boxscoreName": "Sung",
-      "pitchHand": "R"
+      "pitchHand": "R",
+      "teamCode": "E",
+      "primaryNumber": "43",
+      "jaRegisteredName": "宋　家豪",
+      "fullLFMName": "Sung, Chia-Hao"
     },
     "number": 3,
     "inning": 8,

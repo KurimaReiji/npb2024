@@ -3,16 +3,23 @@
     "id": "13115153-2024-01",
     "date": "2024-04-17",
     "batter": {
-      "id": "13115153",
       "jaBoxscoreName": "牧",
+      "playerId": "13115153",
       "boxscoreName": "Maki",
-      "batSide": "R"
+      "batSide": "R",
+      "teamCode": "DB",
+      "primaryNumber": "2",
+      "jaRegisteredName": "牧　秀悟",
+      "fullLFMName": "Maki, Shugo"
     },
     "pitcher": {
-      "id": "31135134",
       "jaBoxscoreName": "アドゥワ",
       "boxscoreName": "Aduwa",
-      "pitchHand": "R"
+      "pitchHand": "R",
+      "teamCode": "C",
+      "primaryNumber": "48",
+      "jaRegisteredName": "アドゥワ　誠",
+      "fullLFMName": "Aduwa, Makoto"
     },
     "number": 1,
     "inning": 2,
@@ -56,16 +63,23 @@
     "id": "21125134-2024-01",
     "date": "2024-04-17",
     "batter": {
-      "id": "21125134",
       "jaBoxscoreName": "石井",
+      "playerId": "21125134",
       "boxscoreName": "Ishii",
-      "batSide": "L"
+      "batSide": "L",
+      "teamCode": "F",
+      "primaryNumber": "38",
+      "jaRegisteredName": "石井　一成",
+      "fullLFMName": "Ishii, Kazunari"
     },
     "pitcher": {
-      "id": "01505151",
       "jaBoxscoreName": "大関",
       "boxscoreName": "Ohzeki",
-      "pitchHand": "L"
+      "pitchHand": "L",
+      "teamCode": "H",
+      "primaryNumber": "47",
+      "jaRegisteredName": "大関　友久",
+      "fullLFMName": "Ohzeki, Tomohisa"
     },
     "number": 1,
     "inning": 2,
@@ -109,16 +123,23 @@
     "id": "73975136-2024-02",
     "date": "2024-04-17",
     "batter": {
-      "id": "73975136",
       "jaBoxscoreName": "マルティネス",
+      "playerId": "73975136",
       "boxscoreName": "Martinez",
-      "batSide": "R"
+      "batSide": "R",
+      "teamCode": "F",
+      "primaryNumber": "2",
+      "jaRegisteredName": "Ａ．マルティネス",
+      "fullLFMName": "Martinez, Ariel"
     },
     "pitcher": {
-      "id": "13415155",
       "jaBoxscoreName": "オスナ",
       "boxscoreName": "Osuna",
-      "pitchHand": "R"
+      "pitchHand": "R",
+      "teamCode": "H",
+      "primaryNumber": "54",
+      "jaRegisteredName": "Ｒ．オスナ",
+      "fullLFMName": "Osuna, Roberto"
     },
     "number": 2,
     "inning": 11,
@@ -162,16 +183,23 @@
     "id": "81085138-2024-02",
     "date": "2024-04-17",
     "batter": {
-      "id": "81085138",
       "jaBoxscoreName": "頓宮",
+      "playerId": "81085138",
       "boxscoreName": "Tongu",
-      "batSide": "R"
+      "batSide": "R",
+      "teamCode": "B",
+      "primaryNumber": "44",
+      "jaRegisteredName": "頓宮　裕真",
+      "fullLFMName": "Tongu, Yuma"
     },
     "pitcher": {
-      "id": "91795114",
       "jaBoxscoreName": "岸",
       "boxscoreName": "Kishi",
-      "pitchHand": "R"
+      "pitchHand": "R",
+      "teamCode": "E",
+      "primaryNumber": "11",
+      "jaRegisteredName": "岸　孝之",
+      "fullLFMName": "Kishi, Takayuki"
     },
     "number": 2,
     "inning": 2,

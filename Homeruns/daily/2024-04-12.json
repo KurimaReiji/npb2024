@@ -3,16 +3,23 @@
     "id": "11915134-2024-01",
     "date": "2024-04-12",
     "batter": {
-      "id": "11915134",
       "jaBoxscoreName": "坂倉",
+      "playerId": "11915134",
       "boxscoreName": "Sakakura",
-      "batSide": "L"
+      "batSide": "L",
+      "teamCode": "C",
+      "primaryNumber": "31",
+      "jaRegisteredName": "坂倉　将吾",
+      "fullLFMName": "Sakakura, Shogo"
     },
     "pitcher": {
-      "id": "41045138",
       "jaBoxscoreName": "戸郷",
       "boxscoreName": "Togo",
-      "pitchHand": "R"
+      "pitchHand": "R",
+      "teamCode": "G",
+      "primaryNumber": "20",
+      "jaRegisteredName": "戸郷　翔征",
+      "fullLFMName": "Togo, Shosei"
     },
     "number": 1,
     "inning": 4,
@@ -56,16 +63,23 @@
     "id": "51955114-2024-02",
     "date": "2024-04-12",
     "batter": {
-      "id": "51955114",
       "jaBoxscoreName": "坂本",
+      "playerId": "51955114",
       "boxscoreName": "Sakamoto",
-      "batSide": "R"
+      "batSide": "R",
+      "teamCode": "G",
+      "primaryNumber": "6",
+      "jaRegisteredName": "坂本　勇人",
+      "fullLFMName": "Sakamoto, Hayato"
     },
     "pitcher": {
-      "id": "71775139",
       "jaBoxscoreName": "九里",
       "boxscoreName": "Kuri",
-      "pitchHand": "R"
+      "pitchHand": "R",
+      "teamCode": "C",
+      "primaryNumber": "11",
+      "jaRegisteredName": "九里　亜蓮",
+      "fullLFMName": "Kuri, Aren"
     },
     "number": 2,
     "inning": 2,
@@ -109,16 +123,23 @@
     "id": "11515130-2024-03",
     "date": "2024-04-12",
     "batter": {
-      "id": "11515130",
       "jaBoxscoreName": "岡本和",
+      "playerId": "11515130",
       "boxscoreName": "K.Okamoto",
-      "batSide": "R"
+      "batSide": "R",
+      "teamCode": "G",
+      "primaryNumber": "25",
+      "jaRegisteredName": "岡本　和真",
+      "fullLFMName": "Okamoto, Kazuma"
     },
     "pitcher": {
-      "id": "71775139",
       "jaBoxscoreName": "九里",
       "boxscoreName": "Kuri",
-      "pitchHand": "R"
+      "pitchHand": "R",
+      "teamCode": "C",
+      "primaryNumber": "11",
+      "jaRegisteredName": "九里　亜蓮",
+      "fullLFMName": "Kuri, Aren"
     },
     "number": 3,
     "inning": 4,
@@ -162,16 +183,23 @@
     "id": "63065155-2024-01",
     "date": "2024-04-12",
     "batter": {
-      "id": "63065155",
       "jaBoxscoreName": "ポランコ",
+      "playerId": "63065155",
       "boxscoreName": "Polanco",
-      "batSide": "L"
+      "batSide": "L",
+      "teamCode": "M",
+      "primaryNumber": "22",
+      "jaRegisteredName": "Ｇ．ポランコ",
+      "fullLFMName": "Polanco, Gregory"
     },
     "pitcher": {
-      "id": "31835153",
       "jaBoxscoreName": "早川",
       "boxscoreName": "Hayakawa",
-      "pitchHand": "L"
+      "pitchHand": "L",
+      "teamCode": "E",
+      "primaryNumber": "21",
+      "jaRegisteredName": "早川　隆久",
+      "fullLFMName": "Hayakawa, Takahisa"
     },
     "number": 1,
     "inning": 5,
@@ -215,16 +243,23 @@
     "id": "41145138-2024-01",
     "date": "2024-04-12",
     "batter": {
-      "id": "41145138",
       "jaBoxscoreName": "伊藤裕",
+      "playerId": "41145138",
       "boxscoreName": "Y.Itoh",
-      "batSide": "R"
+      "batSide": "R",
+      "teamCode": "E",
+      "primaryNumber": "39",
+      "jaRegisteredName": "伊藤　裕季也",
+      "fullLFMName": "Itoh, Yukiya"
     },
     "pitcher": {
-      "id": "11515138",
       "jaBoxscoreName": "小島",
       "boxscoreName": "Ojima",
-      "pitchHand": "L"
+      "pitchHand": "L",
+      "teamCode": "M",
+      "primaryNumber": "14",
+      "jaRegisteredName": "小島　和哉",
+      "fullLFMName": "Ojima, Kazuya"
     },
     "number": 1,
     "inning": 4,

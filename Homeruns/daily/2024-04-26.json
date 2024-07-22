@@ -3,16 +3,23 @@
     "id": "33535159-2024-03",
     "date": "2024-04-26",
     "batter": {
-      "id": "33535159",
       "jaBoxscoreName": "度会",
+      "playerId": "33535159",
       "boxscoreName": "Watarai",
-      "batSide": "L"
+      "batSide": "L",
+      "teamCode": "DB",
+      "primaryNumber": "4",
+      "jaRegisteredName": "度会　隆輝",
+      "fullLFMName": "Watarai, Ryuki"
     },
     "pitcher": {
-      "id": "91095134",
       "jaBoxscoreName": "高梨",
       "boxscoreName": "Takanashi",
-      "pitchHand": "L"
+      "pitchHand": "L",
+      "teamCode": "G",
+      "primaryNumber": "53",
+      "jaRegisteredName": "高梨　雄平",
+      "fullLFMName": "Takanashi, Yuhei"
     },
     "number": 3,
     "inning": 8,
@@ -56,16 +63,23 @@
     "id": "43145157-2024-05",
     "date": "2024-04-26",
     "batter": {
-      "id": "43145157",
       "jaBoxscoreName": "森下",
+      "playerId": "43145157",
       "boxscoreName": "Morishita",
-      "batSide": "R"
+      "batSide": "R",
+      "teamCode": "T",
+      "primaryNumber": "1",
+      "jaRegisteredName": "森下　翔太",
+      "fullLFMName": "Morishita, Shota"
     },
     "pitcher": {
-      "id": "11515137",
       "jaBoxscoreName": "小川",
       "boxscoreName": "Ogawa",
-      "pitchHand": "R"
+      "pitchHand": "R",
+      "teamCode": "S",
+      "primaryNumber": "29",
+      "jaRegisteredName": "小川　泰弘",
+      "fullLFMName": "Ogawa, Yasuhiro"
     },
     "number": 5,
     "inning": 4,

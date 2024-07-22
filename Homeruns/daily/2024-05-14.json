@@ -3,16 +3,23 @@
     "id": "91595136-2024-01",
     "date": "2024-05-14",
     "batter": {
-      "id": "91595136",
       "jaBoxscoreName": "岸田",
+      "playerId": "91595136",
       "boxscoreName": "Kishida",
-      "batSide": "R"
+      "batSide": "R",
+      "teamCode": "G",
+      "primaryNumber": "27",
+      "jaRegisteredName": "岸田　行倫",
+      "fullLFMName": "Kishida, Yukinori"
     },
     "pitcher": {
-      "id": "13715159",
       "jaBoxscoreName": "ケイ",
       "boxscoreName": "Kay",
-      "pitchHand": "L"
+      "pitchHand": "L",
+      "teamCode": "DB",
+      "primaryNumber": "69",
+      "jaRegisteredName": "Ａ．ケイ",
+      "fullLFMName": "Kay, Anthony"
     },
     "number": 1,
     "inning": 2,
@@ -56,16 +63,23 @@
     "id": "71275151-2024-02",
     "date": "2024-05-14",
     "batter": {
-      "id": "71275151",
       "jaBoxscoreName": "武岡",
+      "playerId": "71275151",
       "boxscoreName": "Takeoka",
-      "batSide": "L"
+      "batSide": "L",
+      "teamCode": "S",
+      "primaryNumber": "60",
+      "jaRegisteredName": "武岡　龍世",
+      "fullLFMName": "Takeoka, Ryusei"
     },
     "pitcher": {
-      "id": "11415134",
       "jaBoxscoreName": "床田",
       "boxscoreName": "Tokoda",
-      "pitchHand": "L"
+      "pitchHand": "L",
+      "teamCode": "C",
+      "primaryNumber": "28",
+      "jaRegisteredName": "床田　寛樹",
+      "fullLFMName": "Tokoda, Hiroki"
     },
     "number": 2,
     "inning": 7,
@@ -109,16 +123,23 @@
     "id": "61165134-2024-03",
     "date": "2024-05-14",
     "batter": {
-      "id": "61165134",
       "jaBoxscoreName": "石原",
+      "playerId": "61165134",
       "boxscoreName": "Ishihara",
-      "batSide": "R"
+      "batSide": "R",
+      "teamCode": "E",
+      "primaryNumber": "70",
+      "jaRegisteredName": "石原　彪",
+      "fullLFMName": "Ishihara, Tsuyoshi"
     },
     "pitcher": {
-      "id": "51155130",
       "jaBoxscoreName": "有原",
       "boxscoreName": "Arihara",
-      "pitchHand": "R"
+      "pitchHand": "R",
+      "teamCode": "H",
+      "primaryNumber": "17",
+      "jaRegisteredName": "有原　航平",
+      "fullLFMName": "Arihara, Kohei"
     },
     "number": 3,
     "inning": 4,
@@ -162,16 +183,23 @@
     "id": "11515139-2024-04",
     "date": "2024-05-14",
     "batter": {
-      "id": "11515139",
       "jaBoxscoreName": "岡",
+      "playerId": "11515139",
       "boxscoreName": "Oka",
-      "batSide": "R"
+      "batSide": "R",
+      "teamCode": "M",
+      "primaryNumber": "25",
+      "jaRegisteredName": "岡　大海",
+      "fullLFMName": "Oka, Hiromi"
     },
     "pitcher": {
-      "id": "71175136",
       "jaBoxscoreName": "東",
       "boxscoreName": "Azuma",
-      "pitchHand": "R"
+      "pitchHand": "R",
+      "teamCode": "B",
+      "primaryNumber": "12",
+      "jaRegisteredName": "東　晃平",
+      "fullLFMName": "Azuma, Kohei"
     },
     "number": 4,
     "inning": 2,

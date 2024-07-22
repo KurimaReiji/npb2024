@@ -3,16 +3,23 @@
     "id": "11515130-2024-11",
     "date": "2024-06-15",
     "batter": {
-      "id": "11515130",
       "jaBoxscoreName": "岡本和",
+      "playerId": "11515130",
       "boxscoreName": "K.Okamoto",
-      "batSide": "R"
+      "batSide": "R",
+      "teamCode": "G",
+      "primaryNumber": "25",
+      "jaRegisteredName": "岡本　和真",
+      "fullLFMName": "Okamoto, Kazuma"
     },
     "pitcher": {
-      "id": "51555157",
       "jaBoxscoreName": "金村",
       "boxscoreName": "Kanemura",
-      "pitchHand": "R"
+      "pitchHand": "R",
+      "teamCode": "F",
+      "primaryNumber": "24",
+      "jaRegisteredName": "金村　尚真",
+      "fullLFMName": "Kanemura, Shoma"
     },
     "number": 11,
     "inning": 9,
@@ -56,16 +63,23 @@
     "id": "23125136-2024-01",
     "date": "2024-06-15",
     "batter": {
-      "id": "23125136",
       "jaBoxscoreName": "山本",
+      "playerId": "23125136",
       "boxscoreName": "Yamamoto",
-      "batSide": "R"
+      "batSide": "R",
+      "teamCode": "DB",
+      "primaryNumber": "50",
+      "jaRegisteredName": "山本　祐大",
+      "fullLFMName": "Yamamoto, Yuudai"
     },
     "pitcher": {
-      "id": "71075130",
       "jaBoxscoreName": "髙橋光成",
       "boxscoreName": "K.Takahashi",
-      "pitchHand": "R"
+      "pitchHand": "R",
+      "teamCode": "L",
+      "primaryNumber": "13",
+      "jaRegisteredName": "髙橋　光成",
+      "fullLFMName": "Takahashi, Kona"
     },
     "number": 1,
     "inning": 2,
@@ -109,16 +123,23 @@
     "id": "41645136-2024-03",
     "date": "2024-06-15",
     "batter": {
-      "id": "41645136",
       "jaBoxscoreName": "藤岡",
+      "playerId": "41645136",
       "boxscoreName": "Fujioka",
-      "batSide": "L"
+      "batSide": "L",
+      "teamCode": "M",
+      "primaryNumber": "7",
+      "jaRegisteredName": "藤岡　裕大",
+      "fullLFMName": "Fujioka, Yudai"
     },
     "pitcher": {
-      "id": "93295157",
       "jaBoxscoreName": "メヒア",
       "boxscoreName": "Mejia",
-      "pitchHand": "R"
+      "pitchHand": "R",
+      "teamCode": "D",
+      "primaryNumber": "91",
+      "jaRegisteredName": "Ｈ．メヒア",
+      "fullLFMName": "Mejia, Humberto"
     },
     "number": 3,
     "inning": 5,
@@ -162,16 +183,23 @@
     "id": "71475132-2024-02",
     "date": "2024-06-15",
     "batter": {
-      "id": "71475132",
       "jaBoxscoreName": "西川",
+      "playerId": "71475132",
       "boxscoreName": "Nishikawa",
-      "batSide": "L"
+      "batSide": "L",
+      "teamCode": "B",
+      "primaryNumber": "7",
+      "jaRegisteredName": "西川　龍馬",
+      "fullLFMName": "Nishikawa, Ryoma"
     },
     "pitcher": {
-      "id": "33735153",
       "jaBoxscoreName": "サイスニード",
       "boxscoreName": "Sneed",
-      "pitchHand": "R"
+      "pitchHand": "R",
+      "teamCode": "S",
+      "primaryNumber": "54",
+      "jaRegisteredName": "サイスニード",
+      "fullLFMName": "Sneed, Cy"
     },
     "number": 2,
     "inning": 3,
@@ -215,16 +243,23 @@
     "id": "41745135-2024-09",
     "date": "2024-06-15",
     "batter": {
-      "id": "41745135",
       "jaBoxscoreName": "近藤",
+      "playerId": "41745135",
       "boxscoreName": "Kondoh",
-      "batSide": "L"
+      "batSide": "L",
+      "teamCode": "H",
+      "primaryNumber": "3",
+      "jaRegisteredName": "近藤　健介",
+      "fullLFMName": "Kondoh, Kensuke"
     },
     "pitcher": {
-      "id": "03905157",
       "jaBoxscoreName": "ビーズリー",
       "boxscoreName": "Beasley",
-      "pitchHand": "R"
+      "pitchHand": "R",
+      "teamCode": "T",
+      "primaryNumber": "99",
+      "jaRegisteredName": "Ｊ．ビーズリー",
+      "fullLFMName": "Beasley, Jeremy"
     },
     "number": 9,
     "inning": 1,
@@ -244,7 +279,7 @@
     "whereHit": "78",
     "venue": {
       "jaBoxscoreName": "みずほPayPay",
-      "boxscoreName": "MIZUHO PayPay Dome",
+      "boxscoreName": "MIZUHO PayPay",
       "jaName": "みずほPayPayドーム福岡",
       "name": "MIZUHO PayPay Dome FUKUOKA"
     },
@@ -268,16 +303,23 @@
     "id": "91095153-2024-01",
     "date": "2024-06-15",
     "batter": {
-      "id": "91095153",
       "jaBoxscoreName": "笹川",
+      "playerId": "91095153",
       "boxscoreName": "Sasagawa",
-      "batSide": "L"
+      "batSide": "L",
+      "teamCode": "H",
+      "primaryNumber": "44",
+      "jaRegisteredName": "笹川　吉康",
+      "fullLFMName": "Sasagawa, Yoshiyasu"
     },
     "pitcher": {
-      "id": "03905157",
       "jaBoxscoreName": "ビーズリー",
       "boxscoreName": "Beasley",
-      "pitchHand": "R"
+      "pitchHand": "R",
+      "teamCode": "T",
+      "primaryNumber": "99",
+      "jaRegisteredName": "Ｊ．ビーズリー",
+      "fullLFMName": "Beasley, Jeremy"
     },
     "number": 1,
     "inning": 5,
@@ -297,7 +339,7 @@
     "whereHit": "9",
     "venue": {
       "jaBoxscoreName": "みずほPayPay",
-      "boxscoreName": "MIZUHO PayPay Dome",
+      "boxscoreName": "MIZUHO PayPay",
       "jaName": "みずほPayPayドーム福岡",
       "name": "MIZUHO PayPay Dome FUKUOKA"
     },

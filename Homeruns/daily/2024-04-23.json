@@ -3,16 +3,23 @@
     "id": "41345151-2024-02",
     "date": "2024-04-23",
     "batter": {
-      "id": "41345151",
       "jaBoxscoreName": "宇草",
+      "playerId": "41345151",
       "boxscoreName": "Ugusa",
-      "batSide": "L"
+      "batSide": "L",
+      "teamCode": "C",
+      "primaryNumber": "38",
+      "jaRegisteredName": "宇草　孔基",
+      "fullLFMName": "Ugusa, Koki"
     },
     "pitcher": {
-      "id": "53555157",
       "jaBoxscoreName": "吉村",
       "boxscoreName": "Yoshimura",
-      "pitchHand": "R"
+      "pitchHand": "R",
+      "teamCode": "S",
+      "primaryNumber": "21",
+      "jaRegisteredName": "吉村　貢司郎",
+      "fullLFMName": "Yoshimura, Kojiro"
     },
     "number": 2,
     "inning": 7,
@@ -56,16 +63,23 @@
     "id": "61865132-2024-01",
     "date": "2024-04-23",
     "batter": {
-      "id": "61865132",
       "jaBoxscoreName": "茂木",
+      "playerId": "61865132",
       "boxscoreName": "Mogi",
-      "batSide": "L"
+      "batSide": "L",
+      "teamCode": "E",
+      "primaryNumber": "5",
+      "jaRegisteredName": "茂木　栄五郎",
+      "fullLFMName": "Mogi, Eigoro"
     },
     "pitcher": {
-      "id": "51555157",
       "jaBoxscoreName": "金村",
       "boxscoreName": "Kanemura",
-      "pitchHand": "R"
+      "pitchHand": "R",
+      "teamCode": "F",
+      "primaryNumber": "24",
+      "jaRegisteredName": "金村　尚真",
+      "fullLFMName": "Kanemura, Shoma"
     },
     "number": 1,
     "inning": 8,
@@ -110,16 +124,23 @@
     "id": "91895138-2024-02",
     "date": "2024-04-23",
     "batter": {
-      "id": "91895138",
       "jaBoxscoreName": "山口",
+      "playerId": "91895138",
       "boxscoreName": "Yamaguchi",
-      "batSide": "R"
+      "batSide": "R",
+      "teamCode": "M",
+      "primaryNumber": "51",
+      "jaRegisteredName": "山口　航輝",
+      "fullLFMName": "Yamaguchi, Koki"
     },
     "pitcher": {
-      "id": "51155130",
       "jaBoxscoreName": "有原",
       "boxscoreName": "Arihara",
-      "pitchHand": "R"
+      "pitchHand": "R",
+      "teamCode": "H",
+      "primaryNumber": "17",
+      "jaRegisteredName": "有原　航平",
+      "fullLFMName": "Arihara, Kohei"
     },
     "number": 2,
     "inning": 5,
@@ -163,16 +184,23 @@
     "id": "63065155-2024-04",
     "date": "2024-04-23",
     "batter": {
-      "id": "63065155",
       "jaBoxscoreName": "ポランコ",
+      "playerId": "63065155",
       "boxscoreName": "Polanco",
-      "batSide": "L"
+      "batSide": "L",
+      "teamCode": "M",
+      "primaryNumber": "22",
+      "jaRegisteredName": "Ｇ．ポランコ",
+      "fullLFMName": "Polanco, Gregory"
     },
     "pitcher": {
-      "id": "51155130",
       "jaBoxscoreName": "有原",
       "boxscoreName": "Arihara",
-      "pitchHand": "R"
+      "pitchHand": "R",
+      "teamCode": "H",
+      "primaryNumber": "17",
+      "jaRegisteredName": "有原　航平",
+      "fullLFMName": "Arihara, Kohei"
     },
     "number": 4,
     "inning": 7,

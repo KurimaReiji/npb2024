@@ -3,16 +3,23 @@
     "id": "41245130-2024-01",
     "date": "2024-04-04",
     "batter": {
-      "id": "41245130",
       "jaBoxscoreName": "外崎",
+      "playerId": "41245130",
       "boxscoreName": "Tonosaki",
-      "batSide": "R"
+      "batSide": "R",
+      "teamCode": "L",
+      "primaryNumber": "5",
+      "jaRegisteredName": "外崎　修汰",
+      "fullLFMName": "Tonosaki, Shuta"
     },
     "pitcher": {
-      "id": "71175136",
       "jaBoxscoreName": "東",
       "boxscoreName": "Azuma",
-      "pitchHand": "R"
+      "pitchHand": "R",
+      "teamCode": "B",
+      "primaryNumber": "12",
+      "jaRegisteredName": "東　晃平",
+      "fullLFMName": "Azuma, Kohei"
     },
     "number": 1,
     "inning": 7,
@@ -56,16 +63,23 @@
     "id": "41645136-2024-01",
     "date": "2024-04-04",
     "batter": {
-      "id": "41645136",
       "jaBoxscoreName": "藤岡",
+      "playerId": "41645136",
       "boxscoreName": "Fujioka",
-      "batSide": "L"
+      "batSide": "L",
+      "teamCode": "M",
+      "primaryNumber": "7",
+      "jaRegisteredName": "藤岡　裕大",
+      "fullLFMName": "Fujioka, Yudai"
     },
     "pitcher": {
-      "id": "01305157",
       "jaBoxscoreName": "大津",
       "boxscoreName": "Ohtsu",
-      "pitchHand": "R"
+      "pitchHand": "R",
+      "teamCode": "H",
+      "primaryNumber": "26",
+      "jaRegisteredName": "大津　亮介",
+      "fullLFMName": "Ohtsu, Ryosuke"
     },
     "number": 1,
     "inning": 1,
@@ -109,16 +123,23 @@
     "id": "41745135-2024-01",
     "date": "2024-04-04",
     "batter": {
-      "id": "41745135",
       "jaBoxscoreName": "近藤",
+      "playerId": "41745135",
       "boxscoreName": "Kondoh",
-      "batSide": "L"
+      "batSide": "L",
+      "teamCode": "H",
+      "primaryNumber": "3",
+      "jaRegisteredName": "近藤　健介",
+      "fullLFMName": "Kondoh, Kensuke"
     },
     "pitcher": {
-      "id": "01605133",
       "jaBoxscoreName": "美馬",
       "boxscoreName": "Mima",
-      "pitchHand": "R"
+      "pitchHand": "R",
+      "teamCode": "M",
+      "primaryNumber": "15",
+      "jaRegisteredName": "美馬　学",
+      "fullLFMName": "Mima, Manabu"
     },
     "number": 1,
     "inning": 1,
@@ -162,16 +183,23 @@
     "id": "31335131-2024-02",
     "date": "2024-04-04",
     "batter": {
-      "id": "31335131",
       "jaBoxscoreName": "今宮",
+      "playerId": "31335131",
       "boxscoreName": "Imamiya",
-      "batSide": "R"
+      "batSide": "R",
+      "teamCode": "H",
+      "primaryNumber": "6",
+      "jaRegisteredName": "今宮　健太",
+      "fullLFMName": "Imamiya, Kenta"
     },
     "pitcher": {
-      "id": "13915159",
       "jaBoxscoreName": "ダイクストラ",
       "boxscoreName": "Dykstra",
-      "pitchHand": "R"
+      "pitchHand": "R",
+      "teamCode": "M",
+      "primaryNumber": "41",
+      "jaRegisteredName": "Ｊ．ダイクストラ",
+      "fullLFMName": "Dykstra, James"
     },
     "number": 2,
     "inning": 6,

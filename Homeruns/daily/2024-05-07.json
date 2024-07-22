@@ -3,16 +3,23 @@
     "id": "81085115-2024-05",
     "date": "2024-05-07",
     "batter": {
-      "id": "81085115",
       "jaBoxscoreName": "中村剛",
+      "playerId": "81085115",
       "boxscoreName": "T.Nakamura",
-      "batSide": "R"
+      "batSide": "R",
+      "teamCode": "L",
+      "primaryNumber": "60",
+      "jaRegisteredName": "中村　剛也",
+      "fullLFMName": "Nakamura, Takeya"
     },
     "pitcher": {
-      "id": "01705131",
       "jaBoxscoreName": "国吉",
       "boxscoreName": "Kuniyoshi",
-      "pitchHand": "R"
+      "pitchHand": "R",
+      "teamCode": "M",
+      "primaryNumber": "92",
+      "jaRegisteredName": "国吉　佑樹",
+      "fullLFMName": "Kuniyoshi, Yuki"
     },
     "number": 5,
     "inning": 6,
@@ -56,16 +63,23 @@
     "id": "21425139-2024-09",
     "date": "2024-05-07",
     "batter": {
-      "id": "21425139",
       "jaBoxscoreName": "山川",
+      "playerId": "21425139",
       "boxscoreName": "Yamakawa",
-      "batSide": "R"
+      "batSide": "R",
+      "teamCode": "H",
+      "primaryNumber": "25",
+      "jaRegisteredName": "山川　穂高",
+      "fullLFMName": "Yamakawa, Hotaka"
     },
     "pitcher": {
-      "id": "21825130",
       "jaBoxscoreName": "山﨑福也",
       "boxscoreName": "Yamasaki",
-      "pitchHand": "L"
+      "pitchHand": "L",
+      "teamCode": "F",
+      "primaryNumber": "18",
+      "jaRegisteredName": "山﨑　福也",
+      "fullLFMName": "Yamasaki, Sachiya"
     },
     "number": 9,
     "inning": 4,
@@ -85,7 +99,7 @@
     "whereHit": "9",
     "venue": {
       "jaBoxscoreName": "みずほPayPay",
-      "boxscoreName": "MIZUHO PayPay Dome",
+      "boxscoreName": "MIZUHO PayPay",
       "jaName": "みずほPayPayドーム福岡",
       "name": "MIZUHO PayPay Dome FUKUOKA"
     },

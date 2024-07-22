@@ -3,16 +3,23 @@
     "id": "21325134-2024-05",
     "date": "2024-06-30",
     "batter": {
-      "id": "21325134",
       "jaBoxscoreName": "大山",
+      "playerId": "21325134",
       "boxscoreName": "Ohyama",
-      "batSide": "R"
+      "batSide": "R",
+      "teamCode": "T",
+      "primaryNumber": "3",
+      "jaRegisteredName": "大山　悠輔",
+      "fullLFMName": "Ohyama, Yusuke"
     },
     "pitcher": {
-      "id": "33735153",
       "jaBoxscoreName": "サイスニード",
       "boxscoreName": "Sneed",
-      "pitchHand": "R"
+      "pitchHand": "R",
+      "teamCode": "S",
+      "primaryNumber": "54",
+      "jaRegisteredName": "サイスニード",
+      "fullLFMName": "Sneed, Cy"
     },
     "number": 5,
     "inning": 4,
@@ -56,16 +63,23 @@
     "id": "23525153-2024-10",
     "date": "2024-06-30",
     "batter": {
-      "id": "23525153",
       "jaBoxscoreName": "オスナ",
+      "playerId": "23525153",
       "boxscoreName": "Osuna",
-      "batSide": "R"
+      "batSide": "R",
+      "teamCode": "S",
+      "primaryNumber": "13",
+      "jaRegisteredName": "Ｊ．オスナ",
+      "fullLFMName": "Osuna, Jose"
     },
     "pitcher": {
-      "id": "71275118",
       "jaBoxscoreName": "西勇",
       "boxscoreName": "Y.Nishi",
-      "pitchHand": "R"
+      "pitchHand": "R",
+      "teamCode": "T",
+      "primaryNumber": "16",
+      "jaRegisteredName": "西　勇輝",
+      "fullLFMName": "Nishi, Yuki"
     },
     "number": 10,
     "inning": 4,
@@ -109,16 +123,23 @@
     "id": "01705130-2024-07",
     "date": "2024-06-30",
     "batter": {
-      "id": "01705130",
       "jaBoxscoreName": "栗原",
+      "playerId": "01705130",
       "boxscoreName": "Kurihara",
-      "batSide": "L"
+      "batSide": "L",
+      "teamCode": "H",
+      "primaryNumber": "24",
+      "jaRegisteredName": "栗原　陵矢",
+      "fullLFMName": "Kurihara, Ryoya"
     },
     "pitcher": {
-      "id": "41545132",
       "jaBoxscoreName": "加藤貴",
       "boxscoreName": "T.Katoh",
-      "pitchHand": "L"
+      "pitchHand": "L",
+      "teamCode": "F",
+      "primaryNumber": "14",
+      "jaRegisteredName": "加藤　貴之",
+      "fullLFMName": "Katoh, Takayuki"
     },
     "number": 7,
     "inning": 4,
@@ -162,16 +183,23 @@
     "id": "73075159-2024-04",
     "date": "2024-06-30",
     "batter": {
-      "id": "73075159",
       "jaBoxscoreName": "レイエス",
+      "playerId": "73075159",
       "boxscoreName": "Reyes",
-      "batSide": "R"
+      "batSide": "R",
+      "teamCode": "F",
+      "primaryNumber": "99",
+      "jaRegisteredName": "Ｆ．レイエス",
+      "fullLFMName": "Reyes, Franmil"
     },
     "pitcher": {
-      "id": "13415155",
       "jaBoxscoreName": "オスナ",
       "boxscoreName": "Osuna",
-      "pitchHand": "R"
+      "pitchHand": "R",
+      "teamCode": "H",
+      "primaryNumber": "54",
+      "jaRegisteredName": "Ｒ．オスナ",
+      "fullLFMName": "Osuna, Roberto"
     },
     "number": 4,
     "inning": 9,
@@ -215,16 +243,23 @@
     "id": "63065155-2024-10",
     "date": "2024-06-30",
     "batter": {
-      "id": "63065155",
       "jaBoxscoreName": "ポランコ",
+      "playerId": "63065155",
       "boxscoreName": "Polanco",
-      "batSide": "L"
+      "batSide": "L",
+      "teamCode": "M",
+      "primaryNumber": "22",
+      "jaRegisteredName": "Ｇ．ポランコ",
+      "fullLFMName": "Polanco, Gregory"
     },
     "pitcher": {
-      "id": "41845151",
       "jaBoxscoreName": "村西",
       "boxscoreName": "Muranishi",
-      "pitchHand": "R"
+      "pitchHand": "R",
+      "teamCode": "B",
+      "primaryNumber": "22",
+      "jaRegisteredName": "村西　良太",
+      "fullLFMName": "Muranishi, Ryota"
     },
     "number": 10,
     "inning": 8,

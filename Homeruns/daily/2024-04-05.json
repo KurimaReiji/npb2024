@@ -3,16 +3,23 @@
     "id": "73975157-2024-01",
     "date": "2024-04-05",
     "batter": {
-      "id": "73975157",
       "jaBoxscoreName": "ノイジー",
+      "playerId": "73975157",
       "boxscoreName": "Neuse",
-      "batSide": "R"
+      "batSide": "R",
+      "teamCode": "T",
+      "primaryNumber": "7",
+      "jaRegisteredName": "Ｓ．ノイジー",
+      "fullLFMName": "Neuse, Sheldon"
     },
     "pitcher": {
-      "id": "33735153",
       "jaBoxscoreName": "サイスニード",
       "boxscoreName": "Sneed",
-      "pitchHand": "R"
+      "pitchHand": "R",
+      "teamCode": "S",
+      "primaryNumber": "54",
+      "jaRegisteredName": "サイスニード",
+      "fullLFMName": "Sneed, Cy"
     },
     "number": 1,
     "inning": 2,
@@ -56,16 +63,23 @@
     "id": "41045153-2024-01",
     "date": "2024-04-05",
     "batter": {
-      "id": "41045153",
       "jaBoxscoreName": "佐藤輝",
+      "playerId": "41045153",
       "boxscoreName": "T.Sato",
-      "batSide": "L"
+      "batSide": "L",
+      "teamCode": "T",
+      "primaryNumber": "8",
+      "jaRegisteredName": "佐藤　輝明",
+      "fullLFMName": "Sato, Teruaki"
     },
     "pitcher": {
-      "id": "11915153",
       "jaBoxscoreName": "木澤",
       "boxscoreName": "Kizawa",
-      "pitchHand": "R"
+      "pitchHand": "R",
+      "teamCode": "S",
+      "primaryNumber": "20",
+      "jaRegisteredName": "木澤　尚文",
+      "fullLFMName": "Kizawa, Naofumi"
     },
     "number": 1,
     "inning": 10,
@@ -109,16 +123,23 @@
     "id": "51455151-2024-01",
     "date": "2024-04-05",
     "batter": {
-      "id": "51455151",
       "jaBoxscoreName": "長岡",
+      "playerId": "51455151",
       "boxscoreName": "Nagaoka",
-      "batSide": "L"
+      "batSide": "L",
+      "teamCode": "S",
+      "primaryNumber": "7",
+      "jaRegisteredName": "長岡　秀樹",
+      "fullLFMName": "Nagaoka, Hideki"
     },
     "pitcher": {
-      "id": "71675134",
       "jaBoxscoreName": "浜地",
       "boxscoreName": "Hamachi",
-      "pitchHand": "R"
+      "pitchHand": "R",
+      "teamCode": "T",
+      "primaryNumber": "36",
+      "jaRegisteredName": "浜地　真澄",
+      "fullLFMName": "Hamachi, Masumi"
     },
     "number": 1,
     "inning": 8,
@@ -162,16 +183,23 @@
     "id": "53755159-2024-01",
     "date": "2024-04-05",
     "batter": {
-      "id": "53755159",
       "jaBoxscoreName": "コルデロ",
+      "playerId": "53755159",
       "boxscoreName": "Cordero",
-      "batSide": "L"
+      "batSide": "L",
+      "teamCode": "L",
+      "primaryNumber": "55",
+      "jaRegisteredName": "Ｆ．コルデロ",
+      "fullLFMName": "Cordero, Franchy"
     },
     "pitcher": {
-      "id": "51355153",
       "jaBoxscoreName": "伊藤",
       "boxscoreName": "Itoh",
-      "pitchHand": "R"
+      "pitchHand": "R",
+      "teamCode": "F",
+      "primaryNumber": "17",
+      "jaRegisteredName": "伊藤　大海",
+      "fullLFMName": "Itoh, Hiromi"
     },
     "number": 1,
     "inning": 5,

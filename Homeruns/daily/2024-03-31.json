@@ -3,16 +3,23 @@
     "id": "43145157-2024-01",
     "date": "2024-03-31",
     "batter": {
-      "id": "43145157",
       "jaBoxscoreName": "森下",
+      "playerId": "43145157",
       "boxscoreName": "Morishita",
-      "batSide": "R"
+      "batSide": "R",
+      "teamCode": "T",
+      "primaryNumber": "1",
+      "jaRegisteredName": "森下　翔太",
+      "fullLFMName": "Morishita, Shota"
     },
     "pitcher": {
-      "id": "81285132",
       "jaBoxscoreName": "中川",
       "boxscoreName": "Nakagawa",
-      "pitchHand": "L"
+      "pitchHand": "L",
+      "teamCode": "G",
+      "primaryNumber": "41",
+      "jaRegisteredName": "中川　皓太",
+      "fullLFMName": "Nakagawa, Kota"
     },
     "number": 1,
     "inning": 8,
@@ -56,16 +63,23 @@
     "id": "31535138-2024-01",
     "date": "2024-03-31",
     "batter": {
-      "id": "31535138",
       "jaBoxscoreName": "小幡",
+      "playerId": "31535138",
       "boxscoreName": "Obata",
-      "batSide": "L"
+      "batSide": "L",
+      "teamCode": "T",
+      "primaryNumber": "38",
+      "jaRegisteredName": "小幡　竜平",
+      "fullLFMName": "Obata, Ryuhei"
     },
     "pitcher": {
-      "id": "01805157",
       "jaBoxscoreName": "松井",
       "boxscoreName": "Matsui",
-      "pitchHand": "R"
+      "pitchHand": "R",
+      "teamCode": "G",
+      "primaryNumber": "93",
+      "jaRegisteredName": "松井　颯",
+      "fullLFMName": "Matsui, Hayate"
     },
     "number": 1,
     "inning": 9,
@@ -109,16 +123,23 @@
     "id": "61065116-2024-02",
     "date": "2024-03-31",
     "batter": {
-      "id": "61065116",
       "jaBoxscoreName": "中田",
+      "playerId": "61065116",
       "boxscoreName": "Nakata",
-      "batSide": "R"
+      "batSide": "R",
+      "teamCode": "D",
+      "primaryNumber": "6",
+      "jaRegisteredName": "中田　翔",
+      "fullLFMName": "Nakata, Sho"
     },
     "pitcher": {
-      "id": "33035159",
       "jaBoxscoreName": "ヤフーレ",
       "boxscoreName": "Yajure",
-      "pitchHand": "R"
+      "pitchHand": "R",
+      "teamCode": "S",
+      "primaryNumber": "99",
+      "jaRegisteredName": "Ｍ．ヤフーレ",
+      "fullLFMName": "Yajure, Miguel"
     },
     "number": 2,
     "inning": 4,
@@ -162,16 +183,23 @@
     "id": "71975136-2024-01",
     "date": "2024-03-31",
     "batter": {
-      "id": "71975136",
       "jaBoxscoreName": "塩見",
+      "playerId": "71975136",
       "boxscoreName": "Shiomi",
-      "batSide": "R"
+      "batSide": "R",
+      "teamCode": "S",
+      "primaryNumber": "9",
+      "jaRegisteredName": "塩見　泰隆",
+      "fullLFMName": "Shiomi, Yasutaka"
     },
     "pitcher": {
-      "id": "93295157",
       "jaBoxscoreName": "メヒア",
       "boxscoreName": "Mejia",
-      "pitchHand": "R"
+      "pitchHand": "R",
+      "teamCode": "D",
+      "primaryNumber": "91",
+      "jaRegisteredName": "Ｈ．メヒア",
+      "fullLFMName": "Mejia, Humberto"
     },
     "number": 1,
     "inning": 5,
@@ -215,16 +243,23 @@
     "id": "61965139-2024-01",
     "date": "2024-03-31",
     "batter": {
-      "id": "61965139",
       "jaBoxscoreName": "田中",
+      "playerId": "61965139",
       "boxscoreName": "Tanaka",
-      "batSide": "L"
+      "batSide": "L",
+      "teamCode": "C",
+      "primaryNumber": "2",
+      "jaRegisteredName": "田中　広輔",
+      "fullLFMName": "Tanaka, Kosuke"
     },
     "pitcher": {
-      "id": "01305138",
       "jaBoxscoreName": "大貫",
       "boxscoreName": "Ohnuki",
-      "pitchHand": "R"
+      "pitchHand": "R",
+      "teamCode": "DB",
+      "primaryNumber": "16",
+      "jaRegisteredName": "大貫　晋一",
+      "fullLFMName": "Ohnuki, Shinichi"
     },
     "number": 1,
     "inning": 3,
@@ -268,16 +303,23 @@
     "id": "03705155-2024-01",
     "date": "2024-03-31",
     "batter": {
-      "id": "03705155",
       "jaBoxscoreName": "ウォーカー",
+      "playerId": "03705155",
       "boxscoreName": "Walker",
-      "batSide": "R"
+      "batSide": "R",
+      "teamCode": "H",
+      "primaryNumber": "28",
+      "jaRegisteredName": "Ａ．ウォーカー",
+      "fullLFMName": "Walker, Adam"
     },
     "pitcher": {
-      "id": "41045136",
       "jaBoxscoreName": "田嶋",
       "boxscoreName": "Tajima",
-      "pitchHand": "L"
+      "pitchHand": "L",
+      "teamCode": "B",
+      "primaryNumber": "29",
+      "jaRegisteredName": "田嶋　大樹",
+      "fullLFMName": "Tajima, Daiki"
     },
     "number": 1,
     "inning": 5,

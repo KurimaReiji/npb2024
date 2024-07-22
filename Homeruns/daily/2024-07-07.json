@@ -3,16 +3,23 @@
     "id": "21325136-2024-03",
     "date": "2024-07-07",
     "batter": {
-      "id": "21325136",
       "jaBoxscoreName": "大城卓",
+      "playerId": "21325136",
       "boxscoreName": "T.Ohshiro",
-      "batSide": "L"
+      "batSide": "L",
+      "teamCode": "G",
+      "primaryNumber": "24",
+      "jaRegisteredName": "大城　卓三",
+      "fullLFMName": "Ohshiro, Takumi"
     },
     "pitcher": {
-      "id": "33735153",
       "jaBoxscoreName": "サイスニード",
       "boxscoreName": "Sneed",
-      "pitchHand": "R"
+      "pitchHand": "R",
+      "teamCode": "S",
+      "primaryNumber": "54",
+      "jaRegisteredName": "サイスニード",
+      "fullLFMName": "Sneed, Cy"
     },
     "number": 3,
     "inning": 1,
@@ -56,16 +63,23 @@
     "id": "21425116-2024-07",
     "date": "2024-07-07",
     "batter": {
-      "id": "21425116",
       "jaBoxscoreName": "丸",
+      "playerId": "21425116",
       "boxscoreName": "Maru",
-      "batSide": "L"
+      "batSide": "L",
+      "teamCode": "G",
+      "primaryNumber": "8",
+      "jaRegisteredName": "丸　佳浩",
+      "fullLFMName": "Maru, Yoshihiro"
     },
     "pitcher": {
-      "id": "33735153",
       "jaBoxscoreName": "サイスニード",
       "boxscoreName": "Sneed",
-      "pitchHand": "R"
+      "pitchHand": "R",
+      "teamCode": "S",
+      "primaryNumber": "54",
+      "jaRegisteredName": "サイスニード",
+      "fullLFMName": "Sneed, Cy"
     },
     "number": 7,
     "inning": 2,
@@ -109,16 +123,23 @@
     "id": "63065155-2024-11",
     "date": "2024-07-07",
     "batter": {
-      "id": "63065155",
       "jaBoxscoreName": "ポランコ",
+      "playerId": "63065155",
       "boxscoreName": "Polanco",
-      "batSide": "L"
+      "batSide": "L",
+      "teamCode": "M",
+      "primaryNumber": "22",
+      "jaRegisteredName": "Ｇ．ポランコ",
+      "fullLFMName": "Polanco, Gregory"
     },
     "pitcher": {
-      "id": "71075155",
       "jaBoxscoreName": "菅井",
       "boxscoreName": "Sugai",
-      "pitchHand": "L"
+      "pitchHand": "L",
+      "teamCode": "L",
+      "primaryNumber": "71",
+      "jaRegisteredName": "菅井　信也",
+      "fullLFMName": "Sugai, Shinya"
     },
     "number": 11,
     "inning": 6,
@@ -162,16 +183,23 @@
     "id": "71575131-2024-01",
     "date": "2024-07-07",
     "batter": {
-      "id": "71575131",
       "jaBoxscoreName": "荻野",
+      "playerId": "71575131",
       "boxscoreName": "Ogino",
-      "batSide": "R"
+      "batSide": "R",
+      "teamCode": "M",
+      "primaryNumber": "0",
+      "jaRegisteredName": "荻野　貴司",
+      "fullLFMName": "Ogino, Takashi"
     },
     "pitcher": {
-      "id": "71075155",
       "jaBoxscoreName": "菅井",
       "boxscoreName": "Sugai",
-      "pitchHand": "L"
+      "pitchHand": "L",
+      "teamCode": "L",
+      "primaryNumber": "71",
+      "jaRegisteredName": "菅井　信也",
+      "fullLFMName": "Sugai, Shinya"
     },
     "number": 1,
     "inning": 6,
@@ -216,16 +244,23 @@
     "id": "61965132-2024-04",
     "date": "2024-07-07",
     "batter": {
-      "id": "61965132",
       "jaBoxscoreName": "杉本",
+      "playerId": "61965132",
       "boxscoreName": "Sugimoto",
-      "batSide": "R"
+      "batSide": "R",
+      "teamCode": "B",
+      "primaryNumber": "99",
+      "jaRegisteredName": "杉本　裕太郎",
+      "fullLFMName": "Sugimoto, Yutaro"
     },
     "pitcher": {
-      "id": "51355153",
       "jaBoxscoreName": "伊藤",
       "boxscoreName": "Itoh",
-      "pitchHand": "R"
+      "pitchHand": "R",
+      "teamCode": "F",
+      "primaryNumber": "17",
+      "jaRegisteredName": "伊藤　大海",
+      "fullLFMName": "Itoh, Hiromi"
     },
     "number": 4,
     "inning": 6,
@@ -269,16 +304,23 @@
     "id": "41645139-2024-02",
     "date": "2024-07-07",
     "batter": {
-      "id": "41645139",
       "jaBoxscoreName": "若月",
+      "playerId": "41645139",
       "boxscoreName": "Wakatsuki",
-      "batSide": "R"
+      "batSide": "R",
+      "teamCode": "B",
+      "primaryNumber": "2",
+      "jaRegisteredName": "若月　健矢",
+      "fullLFMName": "Wakatsuki, Kenya"
     },
     "pitcher": {
-      "id": "01105134",
       "jaBoxscoreName": "池田",
       "boxscoreName": "Ikeda",
-      "pitchHand": "R"
+      "pitchHand": "R",
+      "teamCode": "F",
+      "primaryNumber": "52",
+      "jaRegisteredName": "池田　隆英",
+      "fullLFMName": "Ikeda, Takahide"
     },
     "number": 2,
     "inning": 8,

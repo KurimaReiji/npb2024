@@ -3,16 +3,23 @@
     "id": "91995151-2024-02",
     "date": "2024-06-07",
     "batter": {
-      "id": "91995151",
       "jaBoxscoreName": "紅林",
+      "playerId": "91995151",
       "boxscoreName": "Kurebayashi",
-      "batSide": "R"
+      "batSide": "R",
+      "teamCode": "B",
+      "primaryNumber": "24",
+      "jaRegisteredName": "紅林　弘太郎",
+      "fullLFMName": "Kurebayashi, Kotaro"
     },
     "pitcher": {
-      "id": "41045138",
       "jaBoxscoreName": "戸郷",
       "boxscoreName": "Togo",
-      "pitchHand": "R"
+      "pitchHand": "R",
+      "teamCode": "G",
+      "primaryNumber": "20",
+      "jaRegisteredName": "戸郷　翔征",
+      "fullLFMName": "Togo, Shosei"
     },
     "number": 2,
     "inning": 4,
@@ -56,16 +63,23 @@
     "id": "31835138-2024-02",
     "date": "2024-06-07",
     "batter": {
-      "id": "31835138",
       "jaBoxscoreName": "水谷",
+      "playerId": "31835138",
       "boxscoreName": "Mizutani",
-      "batSide": "R"
+      "batSide": "R",
+      "teamCode": "F",
+      "primaryNumber": "53",
+      "jaRegisteredName": "水谷　瞬",
+      "fullLFMName": "Mizutani, Shun"
     },
     "pitcher": {
-      "id": "03105159",
       "jaBoxscoreName": "松本健",
       "boxscoreName": "K.Matsumoto",
-      "pitchHand": "R"
+      "pitchHand": "R",
+      "teamCode": "S",
+      "primaryNumber": "28",
+      "jaRegisteredName": "松本　健吾",
+      "fullLFMName": "Matsumoto, Kengo"
     },
     "number": 2,
     "inning": 1,
@@ -109,16 +123,23 @@
     "id": "73975136-2024-07",
     "date": "2024-06-07",
     "batter": {
-      "id": "73975136",
       "jaBoxscoreName": "マルティネス",
+      "playerId": "73975136",
       "boxscoreName": "Martinez",
-      "batSide": "R"
+      "batSide": "R",
+      "teamCode": "F",
+      "primaryNumber": "2",
+      "jaRegisteredName": "Ａ．マルティネス",
+      "fullLFMName": "Martinez, Ariel"
     },
     "pitcher": {
-      "id": "03105159",
       "jaBoxscoreName": "松本健",
       "boxscoreName": "K.Matsumoto",
-      "pitchHand": "R"
+      "pitchHand": "R",
+      "teamCode": "S",
+      "primaryNumber": "28",
+      "jaRegisteredName": "松本　健吾",
+      "fullLFMName": "Matsumoto, Kengo"
     },
     "number": 7,
     "inning": 1,
@@ -162,16 +183,23 @@
     "id": "53755153-2024-08",
     "date": "2024-06-07",
     "batter": {
-      "id": "53755153",
       "jaBoxscoreName": "サンタナ",
+      "playerId": "53755153",
       "boxscoreName": "Santana",
-      "batSide": "R"
+      "batSide": "R",
+      "teamCode": "S",
+      "primaryNumber": "25",
+      "jaRegisteredName": "Ｄ．サンタナ",
+      "fullLFMName": "Santana, Domingo"
     },
     "pitcher": {
-      "id": "61765139",
       "jaBoxscoreName": "杉浦",
       "boxscoreName": "Sugiura",
-      "pitchHand": "R"
+      "pitchHand": "R",
+      "teamCode": "F",
+      "primaryNumber": "22",
+      "jaRegisteredName": "杉浦　稔大",
+      "fullLFMName": "Sugiura, Toshihiro"
     },
     "number": 8,
     "inning": 9,
@@ -215,16 +243,23 @@
     "id": "91595133-2024-02",
     "date": "2024-06-07",
     "batter": {
-      "id": "91595133",
       "jaBoxscoreName": "甲斐",
+      "playerId": "91595133",
       "boxscoreName": "T.Kai",
-      "batSide": "R"
+      "batSide": "R",
+      "teamCode": "H",
+      "primaryNumber": "19",
+      "jaRegisteredName": "甲斐　拓也",
+      "fullLFMName": "Kai, Takuya"
     },
     "pitcher": {
-      "id": "01405139",
       "jaBoxscoreName": "森唯",
       "boxscoreName": "Y.Mori",
-      "pitchHand": "R"
+      "pitchHand": "R",
+      "teamCode": "DB",
+      "primaryNumber": "38",
+      "jaRegisteredName": "森　唯斗",
+      "fullLFMName": "Mori, Yuito"
     },
     "number": 2,
     "inning": 2,
@@ -268,16 +303,23 @@
     "id": "73375151-2024-04",
     "date": "2024-06-07",
     "batter": {
-      "id": "73375151",
       "jaBoxscoreName": "オースティン",
+      "playerId": "73375151",
       "boxscoreName": "Austin",
-      "batSide": "R"
+      "batSide": "R",
+      "teamCode": "DB",
+      "primaryNumber": "3",
+      "jaRegisteredName": "Ｔ．オースティン",
+      "fullLFMName": "Austin, Tyler"
     },
     "pitcher": {
-      "id": "63965134",
       "jaBoxscoreName": "モイネロ",
       "boxscoreName": "Moinelo",
-      "pitchHand": "L"
+      "pitchHand": "L",
+      "teamCode": "H",
+      "primaryNumber": "35",
+      "jaRegisteredName": "Ｌ．モイネロ",
+      "fullLFMName": "Moinelo, Livan"
     },
     "number": 4,
     "inning": 4,

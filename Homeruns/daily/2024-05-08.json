@@ -3,16 +3,23 @@
     "id": "53755153-2024-04",
     "date": "2024-05-08",
     "batter": {
-      "id": "53755153",
       "jaBoxscoreName": "サンタナ",
+      "playerId": "53755153",
       "boxscoreName": "Santana",
-      "batSide": "R"
+      "batSide": "R",
+      "teamCode": "S",
+      "primaryNumber": "25",
+      "jaRegisteredName": "Ｄ．サンタナ",
+      "fullLFMName": "Santana, Domingo"
     },
     "pitcher": {
-      "id": "01405139",
       "jaBoxscoreName": "森唯",
       "boxscoreName": "Y.Mori",
-      "pitchHand": "R"
+      "pitchHand": "R",
+      "teamCode": "DB",
+      "primaryNumber": "38",
+      "jaRegisteredName": "森　唯斗",
+      "fullLFMName": "Mori, Yuito"
     },
     "number": 4,
     "inning": 8,
@@ -56,16 +63,23 @@
     "id": "01405155-2024-01",
     "date": "2024-05-08",
     "batter": {
-      "id": "01405155",
       "jaBoxscoreName": "中村健",
+      "playerId": "01405155",
       "boxscoreName": "K.Nakamura",
-      "batSide": "R"
+      "batSide": "R",
+      "teamCode": "C",
+      "primaryNumber": "50",
+      "jaRegisteredName": "中村　健人",
+      "fullLFMName": "Nakamura, Kento"
     },
     "pitcher": {
-      "id": "41345136",
       "jaBoxscoreName": "大竹",
       "boxscoreName": "Ohtake",
-      "pitchHand": "L"
+      "pitchHand": "L",
+      "teamCode": "T",
+      "primaryNumber": "49",
+      "jaRegisteredName": "大竹　耕太郎",
+      "fullLFMName": "Ohtake, Koutaro"
     },
     "number": 1,
     "inning": 3,
@@ -109,16 +123,23 @@
     "id": "13915157-2024-07",
     "date": "2024-05-08",
     "batter": {
-      "id": "13915157",
       "jaBoxscoreName": "セデーニョ",
+      "playerId": "13915157",
       "boxscoreName": "Cedeno",
-      "batSide": "R"
+      "batSide": "R",
+      "teamCode": "B",
+      "primaryNumber": "40",
+      "jaRegisteredName": "Ｌ．セデーニョ",
+      "fullLFMName": "Cedeno, Leandro"
     },
     "pitcher": {
-      "id": "71875153",
       "jaBoxscoreName": "藤井",
       "boxscoreName": "Fujii",
-      "pitchHand": "L"
+      "pitchHand": "L",
+      "teamCode": "E",
+      "primaryNumber": "47",
+      "jaRegisteredName": "藤井　聖",
+      "fullLFMName": "Fujii, Masaru"
     },
     "number": 7,
     "inning": 2,

@@ -3,16 +3,23 @@
     "id": "31835134-2024-01",
     "date": "2024-04-02",
     "batter": {
-      "id": "31835134",
       "jaBoxscoreName": "細川",
+      "playerId": "31835134",
       "boxscoreName": "Hosokawa",
-      "batSide": "R"
+      "batSide": "R",
+      "teamCode": "D",
+      "primaryNumber": "55",
+      "jaRegisteredName": "細川　成也",
+      "fullLFMName": "Hosokawa, Seiya"
     },
     "pitcher": {
-      "id": "81285132",
       "jaBoxscoreName": "中川",
       "boxscoreName": "Nakagawa",
-      "pitchHand": "L"
+      "pitchHand": "L",
+      "teamCode": "G",
+      "primaryNumber": "41",
+      "jaRegisteredName": "中川　皓太",
+      "fullLFMName": "Nakagawa, Kota"
     },
     "number": 1,
     "inning": 11,
@@ -57,16 +64,23 @@
     "id": "31735138-2024-01",
     "date": "2024-04-02",
     "batter": {
-      "id": "31735138",
       "jaBoxscoreName": "木浪",
+      "playerId": "31735138",
       "boxscoreName": "Kinami",
-      "batSide": "L"
+      "batSide": "L",
+      "teamCode": "T",
+      "primaryNumber": "0",
+      "jaRegisteredName": "木浪　聖也",
+      "fullLFMName": "Kinami, Seiya"
     },
     "pitcher": {
-      "id": "41145151",
       "jaBoxscoreName": "伊勢",
       "boxscoreName": "Ise",
-      "pitchHand": "R"
+      "pitchHand": "R",
+      "teamCode": "DB",
+      "primaryNumber": "13",
+      "jaRegisteredName": "伊勢　大夢",
+      "fullLFMName": "Ise, Hiromu"
     },
     "number": 1,
     "inning": 7,
@@ -110,16 +124,23 @@
     "id": "41845132-2024-01",
     "date": "2024-04-02",
     "batter": {
-      "id": "41845132",
       "jaBoxscoreName": "村林",
+      "playerId": "41845132",
       "boxscoreName": "Murabayashi",
-      "batSide": "R"
+      "batSide": "R",
+      "teamCode": "E",
+      "primaryNumber": "66",
+      "jaRegisteredName": "村林　一輝",
+      "fullLFMName": "Murabayashi, Itsuki"
     },
     "pitcher": {
-      "id": "21825130",
       "jaBoxscoreName": "山﨑福也",
       "boxscoreName": "Yamasaki",
-      "pitchHand": "L"
+      "pitchHand": "L",
+      "teamCode": "F",
+      "primaryNumber": "18",
+      "jaRegisteredName": "山﨑　福也",
+      "fullLFMName": "Yamasaki, Sachiya"
     },
     "number": 1,
     "inning": 5,
@@ -163,16 +184,23 @@
     "id": "61165134-2024-01",
     "date": "2024-04-02",
     "batter": {
-      "id": "61165134",
       "jaBoxscoreName": "石原",
+      "playerId": "61165134",
       "boxscoreName": "Ishihara",
-      "batSide": "R"
+      "batSide": "R",
+      "teamCode": "E",
+      "primaryNumber": "70",
+      "jaRegisteredName": "石原　彪",
+      "fullLFMName": "Ishihara, Tsuyoshi"
     },
     "pitcher": {
-      "id": "23925159",
       "jaBoxscoreName": "マーフィー",
       "boxscoreName": "Murphy",
-      "pitchHand": "R"
+      "pitchHand": "R",
+      "teamCode": "F",
+      "primaryNumber": "31",
+      "jaRegisteredName": "Ｐ．マーフィー",
+      "fullLFMName": "Murphy, Patrick"
     },
     "number": 1,
     "inning": 9,

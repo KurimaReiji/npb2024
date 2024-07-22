@@ -3,16 +3,23 @@
     "id": "41545114-2024-02",
     "date": "2024-06-25",
     "batter": {
-      "id": "41545114",
       "jaBoxscoreName": "角中",
+      "playerId": "41545114",
       "boxscoreName": "Kakunaka",
-      "batSide": "L"
+      "batSide": "L",
+      "teamCode": "M",
+      "primaryNumber": "3",
+      "jaRegisteredName": "角中　勝也",
+      "fullLFMName": "Kakunaka, Katsuya"
     },
     "pitcher": {
-      "id": "51555153",
       "jaBoxscoreName": "内",
       "boxscoreName": "Uchi",
-      "pitchHand": "R"
+      "pitchHand": "R",
+      "teamCode": "E",
+      "primaryNumber": "69",
+      "jaRegisteredName": "内　星龍",
+      "fullLFMName": "Uchi, Seiryu"
     },
     "number": 2,
     "inning": 3,

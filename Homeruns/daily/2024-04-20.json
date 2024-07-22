@@ -3,16 +3,23 @@
     "id": "53755153-2024-01",
     "date": "2024-04-20",
     "batter": {
-      "id": "53755153",
       "jaBoxscoreName": "サンタナ",
+      "playerId": "53755153",
       "boxscoreName": "Santana",
-      "batSide": "R"
+      "batSide": "R",
+      "teamCode": "S",
+      "primaryNumber": "25",
+      "jaRegisteredName": "Ｄ．サンタナ",
+      "fullLFMName": "Santana, Domingo"
     },
     "pitcher": {
-      "id": "81585138",
       "jaBoxscoreName": "上茶谷",
       "boxscoreName": "Kamichatani",
-      "pitchHand": "R"
+      "pitchHand": "R",
+      "teamCode": "DB",
+      "primaryNumber": "27",
+      "jaRegisteredName": "上茶谷　大河",
+      "fullLFMName": "Kamichatani, Taiga"
     },
     "number": 1,
     "inning": 6,
@@ -56,16 +63,23 @@
     "id": "41345151-2024-01",
     "date": "2024-04-20",
     "batter": {
-      "id": "41345151",
       "jaBoxscoreName": "宇草",
+      "playerId": "41345151",
       "boxscoreName": "Ugusa",
-      "batSide": "L"
+      "batSide": "L",
+      "teamCode": "C",
+      "primaryNumber": "38",
+      "jaRegisteredName": "宇草　孔基",
+      "fullLFMName": "Ugusa, Koki"
     },
     "pitcher": {
-      "id": "73975155",
       "jaBoxscoreName": "ケラー",
       "boxscoreName": "Keller",
-      "pitchHand": "R"
+      "pitchHand": "R",
+      "teamCode": "G",
+      "primaryNumber": "33",
+      "jaRegisteredName": "Ｋ．ケラー",
+      "fullLFMName": "Keller, Kyle"
     },
     "number": 1,
     "inning": 7,

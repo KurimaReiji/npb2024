@@ -3,16 +3,23 @@
     "id": "51455137-2024-01",
     "date": "2024-04-16",
     "batter": {
-      "id": "51455137",
       "jaBoxscoreName": "宮﨑",
+      "playerId": "51455137",
       "boxscoreName": "Miyazaki",
-      "batSide": "R"
+      "batSide": "R",
+      "teamCode": "DB",
+      "primaryNumber": "51",
+      "jaRegisteredName": "宮﨑　敏郎",
+      "fullLFMName": "Miyazaki, Toshiro"
     },
     "pitcher": {
-      "id": "11415134",
       "jaBoxscoreName": "床田",
       "boxscoreName": "Tokoda",
-      "pitchHand": "L"
+      "pitchHand": "L",
+      "teamCode": "C",
+      "primaryNumber": "28",
+      "jaRegisteredName": "床田　寛樹",
+      "fullLFMName": "Tokoda, Hiroki"
     },
     "number": 1,
     "inning": 2,
@@ -56,16 +63,23 @@
     "id": "11915134-2024-02",
     "date": "2024-04-16",
     "batter": {
-      "id": "11915134",
       "jaBoxscoreName": "坂倉",
+      "playerId": "11915134",
       "boxscoreName": "Sakakura",
-      "batSide": "L"
+      "batSide": "L",
+      "teamCode": "C",
+      "primaryNumber": "31",
+      "jaRegisteredName": "坂倉　将吾",
+      "fullLFMName": "Sakakura, Shogo"
     },
     "pitcher": {
-      "id": "43745159",
       "jaBoxscoreName": "ジャクソン",
       "boxscoreName": "Jackson",
-      "pitchHand": "R"
+      "pitchHand": "R",
+      "teamCode": "DB",
+      "primaryNumber": "42",
+      "jaRegisteredName": "Ａ．ジャクソン",
+      "fullLFMName": "Jackson, Andre"
     },
     "number": 2,
     "inning": 3,
@@ -109,16 +123,23 @@
     "id": "21125151-2024-01",
     "date": "2024-04-16",
     "batter": {
-      "id": "21125151",
       "jaBoxscoreName": "石原",
+      "playerId": "21125151",
       "boxscoreName": "Ishihara",
-      "batSide": "R"
+      "batSide": "R",
+      "teamCode": "C",
+      "primaryNumber": "32",
+      "jaRegisteredName": "石原　貴規",
+      "fullLFMName": "Ishihara, Tomoki"
     },
     "pitcher": {
-      "id": "93195134",
       "jaBoxscoreName": "森原",
       "boxscoreName": "Morihara",
-      "pitchHand": "R"
+      "pitchHand": "R",
+      "teamCode": "DB",
+      "primaryNumber": "45",
+      "jaRegisteredName": "森原　康平",
+      "fullLFMName": "Morihara, Kohei"
     },
     "number": 1,
     "inning": 8,
@@ -163,16 +184,23 @@
     "id": "21925151-2024-02",
     "date": "2024-04-16",
     "batter": {
-      "id": "21925151",
       "jaBoxscoreName": "郡司",
+      "playerId": "21925151",
       "boxscoreName": "Gunji",
-      "batSide": "R"
+      "batSide": "R",
+      "teamCode": "F",
+      "primaryNumber": "30",
+      "jaRegisteredName": "郡司　裕也",
+      "fullLFMName": "Gunji, Yuya"
     },
     "pitcher": {
-      "id": "51155130",
       "jaBoxscoreName": "有原",
       "boxscoreName": "Arihara",
-      "pitchHand": "R"
+      "pitchHand": "R",
+      "teamCode": "H",
+      "primaryNumber": "17",
+      "jaRegisteredName": "有原　航平",
+      "fullLFMName": "Arihara, Kohei"
     },
     "number": 2,
     "inning": 3,
@@ -216,16 +244,23 @@
     "id": "83385153-2024-01",
     "date": "2024-04-16",
     "batter": {
-      "id": "83385153",
       "jaBoxscoreName": "山村",
+      "playerId": "83385153",
       "boxscoreName": "Yamamura",
-      "batSide": "L"
+      "batSide": "L",
+      "teamCode": "L",
+      "primaryNumber": "32",
+      "jaRegisteredName": "山村　崇嘉",
+      "fullLFMName": "Yamamura, Takayoshi"
     },
     "pitcher": {
-      "id": "91495136",
       "jaBoxscoreName": "西村",
       "boxscoreName": "Nishimura",
-      "pitchHand": "R"
+      "pitchHand": "R",
+      "teamCode": "M",
+      "primaryNumber": "40",
+      "jaRegisteredName": "西村　天裕",
+      "fullLFMName": "Nishimura, Takahiro"
     },
     "number": 1,
     "inning": 7,
@@ -269,16 +304,23 @@
     "id": "63065155-2024-02",
     "date": "2024-04-16",
     "batter": {
-      "id": "63065155",
       "jaBoxscoreName": "ポランコ",
+      "playerId": "63065155",
       "boxscoreName": "Polanco",
-      "batSide": "L"
+      "batSide": "L",
+      "teamCode": "M",
+      "primaryNumber": "22",
+      "jaRegisteredName": "Ｇ．ポランコ",
+      "fullLFMName": "Polanco, Gregory"
     },
     "pitcher": {
-      "id": "31835132",
       "jaBoxscoreName": "本田",
       "boxscoreName": "Honda",
-      "pitchHand": "R"
+      "pitchHand": "R",
+      "teamCode": "L",
+      "primaryNumber": "45",
+      "jaRegisteredName": "本田　圭佑",
+      "fullLFMName": "Honda, Keisuke"
     },
     "number": 2,
     "inning": 7,

@@ -3,16 +3,23 @@
     "id": "11515130-2024-02",
     "date": "2024-04-09",
     "batter": {
-      "id": "11515130",
       "jaBoxscoreName": "岡本和",
+      "playerId": "11515130",
       "boxscoreName": "K.Okamoto",
-      "batSide": "R"
+      "batSide": "R",
+      "teamCode": "G",
+      "primaryNumber": "25",
+      "jaRegisteredName": "岡本　和真",
+      "fullLFMName": "Okamoto, Kazuma"
     },
     "pitcher": {
-      "id": "23525159",
       "jaBoxscoreName": "エスパーダ",
       "boxscoreName": "Espada",
-      "pitchHand": "R"
+      "pitchHand": "R",
+      "teamCode": "S",
+      "primaryNumber": "39",
+      "jaRegisteredName": "Ｊ．エスパーダ",
+      "fullLFMName": "Espada, Jose"
     },
     "number": 2,
     "inning": 7,
@@ -56,16 +63,23 @@
     "id": "41745135-2024-02",
     "date": "2024-04-09",
     "batter": {
-      "id": "41745135",
       "jaBoxscoreName": "近藤",
+      "playerId": "41745135",
       "boxscoreName": "Kondoh",
-      "batSide": "L"
+      "batSide": "L",
+      "teamCode": "H",
+      "primaryNumber": "3",
+      "jaRegisteredName": "近藤　健介",
+      "fullLFMName": "Kondoh, Kensuke"
     },
     "pitcher": {
-      "id": "21825130",
       "jaBoxscoreName": "山﨑福也",
       "boxscoreName": "Yamasaki",
-      "pitchHand": "L"
+      "pitchHand": "L",
+      "teamCode": "F",
+      "primaryNumber": "18",
+      "jaRegisteredName": "山﨑　福也",
+      "fullLFMName": "Yamasaki, Sachiya"
     },
     "number": 2,
     "inning": 3,
