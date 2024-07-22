@@ -6,26 +6,18 @@
   },
   {
     "jaText": "（走者・増田）二塁盗塁失敗",
-    "text": "Masuda caught stealing 2nd base.",
-    "pickoff": ""
+    "text": "Masuda picked off and caught stealing 2nd base.",
+    "pickoff": "Y"
   },
   {
     "jaText": "（走者・ヘルナンデス）二塁盗塁失敗",
-    "text": "Hernandez caught stealing 2nd base.",
-    "pickoff": "",
-    "catcher": {},
-    "catchers": [
-      {
-        "id": "31735132",
-        "jaBoxscoreName": "木下",
-        "boxscoreName": "Kinoshita"
-      },
-      {
-        "id": "41545130",
-        "jaBoxscoreName": "加藤匠",
-        "boxscoreName": "T.Katoh"
-      }
-    ]
+    "text": "Hernandez picked off and caught stealing 2nd base.",
+    "pickoff": "Y",
+    "catcher": {
+      "id": "31735132",
+      "jaBoxscoreName": "木下",
+      "boxscoreName": "Kinoshita"
+    }
   },
   {
     "jaText": "（走者・近本）二塁盗塁失敗",
@@ -41,19 +33,11 @@
     "jaText": "（走者・小川）二塁盗塁成功",
     "text": "Ogawa steals 2nd base.",
     "pickoff": "",
-    "catcher": {},
-    "catchers": [
-      {
-        "id": "51055138",
-        "jaBoxscoreName": "田宮",
-        "boxscoreName": "Tamiya"
-      },
-      {
-        "id": "61065137",
-        "jaBoxscoreName": "伏見",
-        "boxscoreName": "Fushimi"
-      }
-    ]
+    "catcher": {
+      "id": "51055138",
+      "jaBoxscoreName": "田宮",
+      "boxscoreName": "Tamiya"
+    }
   },
   {
     "jaText": "（走者・淺間）二塁盗塁失敗",
@@ -69,36 +53,20 @@
     "jaText": "（走者・村林）二塁盗塁成功",
     "text": "Murabayashi steals 2nd base.",
     "pickoff": "",
-    "catcher": {},
-    "catchers": [
-      {
-        "id": "41645139",
-        "jaBoxscoreName": "若月",
-        "boxscoreName": "Wakatsuki"
-      },
-      {
-        "id": "81185139",
-        "jaBoxscoreName": "石川",
-        "boxscoreName": "Ishikawa"
-      }
-    ]
+    "catcher": {
+      "id": "41645139",
+      "jaBoxscoreName": "若月",
+      "boxscoreName": "Wakatsuki"
+    }
   },
   {
     "jaText": "（走者・小郷）二塁盗塁成功",
     "text": "Ogoh steals 2nd base.",
     "pickoff": "",
-    "catcher": {},
-    "catchers": [
-      {
-        "id": "41645139",
-        "jaBoxscoreName": "若月",
-        "boxscoreName": "Wakatsuki"
-      },
-      {
-        "id": "81185139",
-        "jaBoxscoreName": "石川",
-        "boxscoreName": "Ishikawa"
-      }
-    ]
+    "catcher": {
+      "id": "41645139",
+      "jaBoxscoreName": "若月",
+      "boxscoreName": "Wakatsuki"
+    }
   }
 ]
