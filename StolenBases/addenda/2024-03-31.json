@@ -24,9 +24,27 @@
     "text": "Kobukata steals 2nd base.",
     "pickoff": "",
     "catcher": {
-      "id": "91995112",
+      "playerId": "91995112",
+      "jaRegisteredName": "炭谷　銀仁朗",
+      "teamCode": "L",
+      "primaryNumber": "27",
+      "primaryPosition": "Catcher",
+      "jaStatus": "支配下選手",
+      "batSide": "R",
+      "pitchHand": "R",
+      "height": "181",
+      "weight": "98",
+      "birthDate": "1987-07-19",
+      "jaNotes": "",
+      "notes": "",
       "jaBoxscoreName": "炭谷",
-      "boxscoreName": "Sumitani"
+      "boxscoreName": "Sumitani",
+      "jaFullName": "炭谷　銀仁朗",
+      "jaFirstName": "銀仁朗",
+      "jaLastName": "炭谷",
+      "fullLFMName": "Sumitani, Ginjiro",
+      "firstName": "Ginjiro",
+      "lastName": "Sumitani"
     }
   },
   {
@@ -49,9 +67,27 @@
     "text": "Mori steals 3rd base.",
     "pickoff": "",
     "catcher": {
-      "id": "81385151",
+      "playerId": "81385151",
+      "jaRegisteredName": "海野　隆司",
+      "teamCode": "H",
+      "primaryNumber": "62",
+      "primaryPosition": "Catcher",
+      "jaStatus": "支配下選手",
+      "batSide": "R",
+      "pitchHand": "R",
+      "height": "174",
+      "weight": "84",
+      "birthDate": "1997-07-15",
+      "jaNotes": "",
+      "notes": "",
       "jaBoxscoreName": "海野",
-      "boxscoreName": "Umino"
+      "boxscoreName": "Umino",
+      "jaFullName": "海野　隆司",
+      "jaFirstName": "隆司",
+      "jaLastName": "海野",
+      "fullLFMName": "Umino, Takashi",
+      "firstName": "Takashi",
+      "lastName": "Umino"
     }
   }
 ]

@@ -4,9 +4,27 @@
     "text": "Isobata caught stealing 2nd base.",
     "pickoff": "Y",
     "catcher": {
-      "id": "41545130",
+      "playerId": "41545130",
+      "jaRegisteredName": "加藤　匠馬",
+      "teamCode": "D",
+      "primaryNumber": "49",
+      "primaryPosition": "Catcher",
+      "jaStatus": "支配下選手",
+      "batSide": "R",
+      "pitchHand": "R",
+      "height": "175",
+      "weight": "83",
+      "birthDate": "1992-04-29",
+      "jaNotes": "",
+      "notes": "",
       "jaBoxscoreName": "加藤匠",
-      "boxscoreName": "T.Katoh"
+      "boxscoreName": "T.Katoh",
+      "jaFullName": "加藤　匠馬",
+      "jaFirstName": "匠馬",
+      "jaLastName": "加藤",
+      "fullLFMName": "Katoh, Takuma",
+      "firstName": "Takuma",
+      "lastName": "Katoh"
     }
   },
   {
@@ -44,9 +62,27 @@
     "text": "Kondoh picked off at 1st base.",
     "pickoff": "Y",
     "catcher": {
-      "id": "01005159",
+      "playerId": "01005159",
+      "jaRegisteredName": "鈴木　叶",
+      "teamCode": "S",
+      "primaryNumber": "65",
+      "primaryPosition": "Catcher",
+      "jaStatus": "支配下選手",
+      "batSide": "R",
+      "pitchHand": "R",
+      "height": "181",
+      "weight": "81",
+      "birthDate": "2006-03-21",
+      "jaNotes": "",
+      "notes": "",
       "jaBoxscoreName": "鈴木",
-      "boxscoreName": "Suzuki"
+      "boxscoreName": "Suzuki",
+      "jaFullName": "鈴木　叶",
+      "jaFirstName": "叶",
+      "jaLastName": "鈴木",
+      "fullLFMName": "Suzuki, Kyo",
+      "firstName": "Kyo",
+      "lastName": "Suzuki"
     }
   }
 ]

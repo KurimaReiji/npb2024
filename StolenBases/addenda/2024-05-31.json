@@ -30,9 +30,27 @@
     "text": "Maru caught stealing 2nd base.",
     "pickoff": "Y",
     "catcher": {
-      "id": "81785155",
+      "playerId": "81785155",
+      "jaRegisteredName": "古賀　悠斗",
+      "teamCode": "L",
+      "primaryNumber": "22",
+      "primaryPosition": "Catcher",
+      "jaStatus": "支配下選手",
+      "batSide": "R",
+      "pitchHand": "R",
+      "height": "174",
+      "weight": "86",
+      "birthDate": "1999-09-10",
+      "jaNotes": "",
+      "notes": "",
       "jaBoxscoreName": "古賀",
-      "boxscoreName": "Koga"
+      "boxscoreName": "Koga",
+      "jaFullName": "古賀　悠斗",
+      "jaFirstName": "悠斗",
+      "jaLastName": "古賀",
+      "fullLFMName": "Koga, Yuto",
+      "firstName": "Yuto",
+      "lastName": "Koga"
     }
   },
   {
@@ -40,9 +58,27 @@
     "text": "Yoshikawa steals 2nd base.",
     "pickoff": "",
     "catcher": {
-      "id": "81785155",
+      "playerId": "81785155",
+      "jaRegisteredName": "古賀　悠斗",
+      "teamCode": "L",
+      "primaryNumber": "22",
+      "primaryPosition": "Catcher",
+      "jaStatus": "支配下選手",
+      "batSide": "R",
+      "pitchHand": "R",
+      "height": "174",
+      "weight": "86",
+      "birthDate": "1999-09-10",
+      "jaNotes": "",
+      "notes": "",
       "jaBoxscoreName": "古賀",
-      "boxscoreName": "Koga"
+      "boxscoreName": "Koga",
+      "jaFullName": "古賀　悠斗",
+      "jaFirstName": "悠斗",
+      "jaLastName": "古賀",
+      "fullLFMName": "Koga, Yuto",
+      "firstName": "Yuto",
+      "lastName": "Koga"
     }
   },
   {
@@ -60,9 +96,27 @@
     "text": "Fukunaga steals 2nd base.",
     "pickoff": "",
     "catcher": {
-      "id": "91495139",
+      "playerId": "91495139",
+      "jaRegisteredName": "森　友哉",
+      "teamCode": "B",
+      "primaryNumber": "4",
+      "primaryPosition": "Catcher",
+      "jaStatus": "支配下選手",
+      "batSide": "L",
+      "pitchHand": "R",
+      "height": "170",
+      "weight": "85",
+      "birthDate": "1995-08-08",
+      "jaNotes": "",
+      "notes": "",
       "jaBoxscoreName": "森",
-      "boxscoreName": "Mori"
+      "boxscoreName": "Mori",
+      "jaFullName": "森　友哉",
+      "jaFirstName": "友哉",
+      "jaLastName": "森",
+      "fullLFMName": "Mori, Tomoya",
+      "firstName": "Tomoya",
+      "lastName": "Mori"
     }
   },
   {
@@ -70,9 +124,27 @@
     "text": "Okabayashi steals 2nd base.",
     "pickoff": "",
     "catcher": {
-      "id": "91495139",
+      "playerId": "91495139",
+      "jaRegisteredName": "森　友哉",
+      "teamCode": "B",
+      "primaryNumber": "4",
+      "primaryPosition": "Catcher",
+      "jaStatus": "支配下選手",
+      "batSide": "L",
+      "pitchHand": "R",
+      "height": "170",
+      "weight": "85",
+      "birthDate": "1995-08-08",
+      "jaNotes": "",
+      "notes": "",
       "jaBoxscoreName": "森",
-      "boxscoreName": "Mori"
+      "boxscoreName": "Mori",
+      "jaFullName": "森　友哉",
+      "jaFirstName": "友哉",
+      "jaLastName": "森",
+      "fullLFMName": "Mori, Tomoya",
+      "firstName": "Tomoya",
+      "lastName": "Mori"
     }
   },
   {
@@ -85,9 +157,27 @@
     "text": "Hatsuki caught stealing 2nd base.",
     "pickoff": "",
     "catcher": {
-      "id": "91595133",
+      "playerId": "91595133",
+      "jaRegisteredName": "甲斐　拓也",
+      "teamCode": "H",
+      "primaryNumber": "19",
+      "primaryPosition": "Catcher",
+      "jaStatus": "支配下選手",
+      "batSide": "R",
+      "pitchHand": "R",
+      "height": "170",
+      "weight": "87",
+      "birthDate": "1992-11-05",
+      "jaNotes": "",
+      "notes": "",
       "jaBoxscoreName": "甲斐",
-      "boxscoreName": "T.Kai"
+      "boxscoreName": "T.Kai",
+      "jaFullName": "甲斐　拓也",
+      "jaFirstName": "拓也",
+      "jaLastName": "甲斐",
+      "fullLFMName": "Kai, Takuya",
+      "firstName": "Takuya",
+      "lastName": "Kai"
     }
   },
   {
@@ -95,9 +185,27 @@
     "text": "Hatsuki steals 2nd base.",
     "pickoff": "",
     "catcher": {
-      "id": "91595133",
+      "playerId": "91595133",
+      "jaRegisteredName": "甲斐　拓也",
+      "teamCode": "H",
+      "primaryNumber": "19",
+      "primaryPosition": "Catcher",
+      "jaStatus": "支配下選手",
+      "batSide": "R",
+      "pitchHand": "R",
+      "height": "170",
+      "weight": "87",
+      "birthDate": "1992-11-05",
+      "jaNotes": "",
+      "notes": "",
       "jaBoxscoreName": "甲斐",
-      "boxscoreName": "T.Kai"
+      "boxscoreName": "T.Kai",
+      "jaFullName": "甲斐　拓也",
+      "jaFirstName": "拓也",
+      "jaLastName": "甲斐",
+      "fullLFMName": "Kai, Takuya",
+      "firstName": "Takuya",
+      "lastName": "Kai"
     }
   },
   {
@@ -105,9 +213,27 @@
     "text": "Shuto steals 3rd base.",
     "pickoff": "",
     "catcher": {
-      "id": "31135114",
+      "playerId": "31135114",
+      "jaRegisteredName": "會澤　翼",
+      "teamCode": "C",
+      "primaryNumber": "27",
+      "primaryPosition": "Catcher",
+      "jaStatus": "支配下選手",
+      "batSide": "R",
+      "pitchHand": "R",
+      "height": "175",
+      "weight": "95",
+      "birthDate": "1988-04-13",
+      "jaNotes": "",
+      "notes": "",
       "jaBoxscoreName": "會澤",
-      "boxscoreName": "Aizawa"
+      "boxscoreName": "Aizawa",
+      "jaFullName": "會澤　翼",
+      "jaFirstName": "翼",
+      "jaLastName": "會澤",
+      "fullLFMName": "Aizawa, Tsubasa",
+      "firstName": "Tsubasa",
+      "lastName": "Aizawa"
     }
   },
   {
@@ -115,9 +241,27 @@
     "text": "Futamata steals 2nd base.",
     "pickoff": "",
     "catcher": {
-      "id": "81385151",
+      "playerId": "81385151",
+      "jaRegisteredName": "海野　隆司",
+      "teamCode": "H",
+      "primaryNumber": "62",
+      "primaryPosition": "Catcher",
+      "jaStatus": "支配下選手",
+      "batSide": "R",
+      "pitchHand": "R",
+      "height": "174",
+      "weight": "84",
+      "birthDate": "1997-07-15",
+      "jaNotes": "",
+      "notes": "",
       "jaBoxscoreName": "海野",
-      "boxscoreName": "Umino"
+      "boxscoreName": "Umino",
+      "jaFullName": "海野　隆司",
+      "jaFirstName": "隆司",
+      "jaLastName": "海野",
+      "fullLFMName": "Umino, Takashi",
+      "firstName": "Takashi",
+      "lastName": "Umino"
     }
   }
 ]

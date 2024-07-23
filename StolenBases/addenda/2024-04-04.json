@@ -4,9 +4,27 @@
     "text": "Chikamoto steals 2nd base.",
     "pickoff": "",
     "catcher": {
-      "id": "21825157",
+      "playerId": "21825157",
+      "jaRegisteredName": "松尾　汐恩",
+      "teamCode": "DB",
+      "primaryNumber": "5",
+      "primaryPosition": "Catcher",
+      "jaStatus": "支配下選手",
+      "batSide": "R",
+      "pitchHand": "R",
+      "height": "178",
+      "weight": "82",
+      "birthDate": "2004-07-06",
+      "jaNotes": "",
+      "notes": "",
       "jaBoxscoreName": "松尾",
-      "boxscoreName": "Matsuo"
+      "boxscoreName": "Matsuo",
+      "jaFullName": "松尾　汐恩",
+      "jaFirstName": "汐恩",
+      "jaLastName": "松尾",
+      "fullLFMName": "Matsuo, Shion",
+      "firstName": "Shion",
+      "lastName": "Matsuo"
     }
   },
   {
@@ -14,9 +32,27 @@
     "text": "Kuwahara steals 2nd base.",
     "pickoff": "",
     "catcher": {
-      "id": "21325139",
+      "playerId": "21325139",
+      "jaRegisteredName": "梅野　隆太郎",
+      "teamCode": "T",
+      "primaryNumber": "2",
+      "primaryPosition": "Catcher",
+      "jaStatus": "支配下選手",
+      "batSide": "R",
+      "pitchHand": "R",
+      "height": "173",
+      "weight": "79",
+      "birthDate": "1991-06-17",
+      "jaNotes": "",
+      "notes": "",
       "jaBoxscoreName": "梅野",
-      "boxscoreName": "Umeno"
+      "boxscoreName": "Umeno",
+      "jaFullName": "梅野　隆太郎",
+      "jaFirstName": "隆太郎",
+      "jaLastName": "梅野",
+      "fullLFMName": "Umeno, Ryutaro",
+      "firstName": "Ryutaro",
+      "lastName": "Umeno"
     }
   },
   {

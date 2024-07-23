@@ -9,9 +9,27 @@
     "text": "Maki steals 2nd base.",
     "pickoff": "",
     "catcher": {
-      "id": "31735132",
+      "playerId": "31735132",
+      "jaRegisteredName": "木下　拓哉",
+      "teamCode": "D",
+      "primaryNumber": "35",
+      "primaryPosition": "Catcher",
+      "jaStatus": "支配下選手",
+      "batSide": "R",
+      "pitchHand": "R",
+      "height": "183",
+      "weight": "95",
+      "birthDate": "1991-12-18",
+      "jaNotes": "",
+      "notes": "",
       "jaBoxscoreName": "木下",
-      "boxscoreName": "Kinoshita"
+      "boxscoreName": "Kinoshita",
+      "jaFullName": "木下　拓哉",
+      "jaFirstName": "拓哉",
+      "jaLastName": "木下",
+      "fullLFMName": "Kinoshita, Takuya",
+      "firstName": "Takuya",
+      "lastName": "Kinoshita"
     }
   },
   {
@@ -24,9 +42,27 @@
     "text": "Hayashi steals 2nd base.",
     "pickoff": "",
     "catcher": {
-      "id": "41545130",
+      "playerId": "41545130",
+      "jaRegisteredName": "加藤　匠馬",
+      "teamCode": "D",
+      "primaryNumber": "49",
+      "primaryPosition": "Catcher",
+      "jaStatus": "支配下選手",
+      "batSide": "R",
+      "pitchHand": "R",
+      "height": "175",
+      "weight": "83",
+      "birthDate": "1992-04-29",
+      "jaNotes": "",
+      "notes": "",
       "jaBoxscoreName": "加藤匠",
-      "boxscoreName": "T.Katoh"
+      "boxscoreName": "T.Katoh",
+      "jaFullName": "加藤　匠馬",
+      "jaFirstName": "匠馬",
+      "jaLastName": "加藤",
+      "fullLFMName": "Katoh, Takuma",
+      "firstName": "Takuma",
+      "lastName": "Katoh"
     }
   },
   {
@@ -45,9 +81,27 @@
     "text": "Hatsuki caught stealing 2nd base.",
     "pickoff": "",
     "catcher": {
-      "id": "91595136",
+      "playerId": "91595136",
+      "jaRegisteredName": "岸田　行倫",
+      "teamCode": "G",
+      "primaryNumber": "27",
+      "primaryPosition": "Catcher",
+      "jaStatus": "支配下選手",
+      "batSide": "R",
+      "pitchHand": "R",
+      "height": "176",
+      "weight": "88",
+      "birthDate": "1996-10-10",
+      "jaNotes": "",
+      "notes": "",
       "jaBoxscoreName": "岸田",
-      "boxscoreName": "Kishida"
+      "boxscoreName": "Kishida",
+      "jaFullName": "岸田　行倫",
+      "jaFirstName": "行倫",
+      "jaLastName": "岸田",
+      "fullLFMName": "Kishida, Yukinori",
+      "firstName": "Yukinori",
+      "lastName": "Kishida"
     }
   },
   {
@@ -55,9 +109,27 @@
     "text": "Kamikawabata steals 2nd base.",
     "pickoff": "",
     "catcher": {
-      "id": "71075151",
+      "playerId": "71075151",
+      "jaRegisteredName": "佐藤　都志也",
+      "teamCode": "M",
+      "primaryNumber": "32",
+      "primaryPosition": "Catcher",
+      "jaStatus": "支配下選手",
+      "batSide": "L",
+      "pitchHand": "R",
+      "height": "181",
+      "weight": "86",
+      "birthDate": "1998-01-27",
+      "jaNotes": "",
+      "notes": "",
       "jaBoxscoreName": "佐藤",
-      "boxscoreName": "Satoh"
+      "boxscoreName": "Satoh",
+      "jaFullName": "佐藤　都志也",
+      "jaFirstName": "都志也",
+      "jaLastName": "佐藤",
+      "fullLFMName": "Satoh, Toshiya",
+      "firstName": "Toshiya",
+      "lastName": "Satoh"
     }
   },
   {
@@ -65,9 +137,27 @@
     "text": "G.Matsumoto steals 2nd base.",
     "pickoff": "",
     "catcher": {
-      "id": "71075151",
+      "playerId": "71075151",
+      "jaRegisteredName": "佐藤　都志也",
+      "teamCode": "M",
+      "primaryNumber": "32",
+      "primaryPosition": "Catcher",
+      "jaStatus": "支配下選手",
+      "batSide": "L",
+      "pitchHand": "R",
+      "height": "181",
+      "weight": "86",
+      "birthDate": "1998-01-27",
+      "jaNotes": "",
+      "notes": "",
       "jaBoxscoreName": "佐藤",
-      "boxscoreName": "Satoh"
+      "boxscoreName": "Satoh",
+      "jaFullName": "佐藤　都志也",
+      "jaFirstName": "都志也",
+      "jaLastName": "佐藤",
+      "fullLFMName": "Satoh, Toshiya",
+      "firstName": "Toshiya",
+      "lastName": "Satoh"
     }
   },
   {
@@ -75,9 +165,27 @@
     "text": "G.Matsumoto steals 3rd base.",
     "pickoff": "",
     "catcher": {
-      "id": "71075151",
+      "playerId": "71075151",
+      "jaRegisteredName": "佐藤　都志也",
+      "teamCode": "M",
+      "primaryNumber": "32",
+      "primaryPosition": "Catcher",
+      "jaStatus": "支配下選手",
+      "batSide": "L",
+      "pitchHand": "R",
+      "height": "181",
+      "weight": "86",
+      "birthDate": "1998-01-27",
+      "jaNotes": "",
+      "notes": "",
       "jaBoxscoreName": "佐藤",
-      "boxscoreName": "Satoh"
+      "boxscoreName": "Satoh",
+      "jaFullName": "佐藤　都志也",
+      "jaFirstName": "都志也",
+      "jaLastName": "佐藤",
+      "fullLFMName": "Satoh, Toshiya",
+      "firstName": "Toshiya",
+      "lastName": "Satoh"
     }
   },
   {

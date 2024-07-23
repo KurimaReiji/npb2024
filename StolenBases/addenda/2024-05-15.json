@@ -29,9 +29,27 @@
     "text": "Stevenson picked off and caught stealing 2nd base.",
     "pickoff": "Y",
     "catcher": {
-      "id": "91995112",
+      "playerId": "91995112",
+      "jaRegisteredName": "炭谷　銀仁朗",
+      "teamCode": "L",
+      "primaryNumber": "27",
+      "primaryPosition": "Catcher",
+      "jaStatus": "支配下選手",
+      "batSide": "R",
+      "pitchHand": "R",
+      "height": "181",
+      "weight": "98",
+      "birthDate": "1987-07-19",
+      "jaNotes": "",
+      "notes": "",
       "jaBoxscoreName": "炭谷",
-      "boxscoreName": "Sumitani"
+      "boxscoreName": "Sumitani",
+      "jaFullName": "炭谷　銀仁朗",
+      "jaFirstName": "銀仁朗",
+      "jaLastName": "炭谷",
+      "fullLFMName": "Sumitani, Ginjiro",
+      "firstName": "Ginjiro",
+      "lastName": "Sumitani"
     }
   },
   {
@@ -39,9 +57,27 @@
     "text": "Mizuno steals 2nd base.",
     "pickoff": "",
     "catcher": {
-      "id": "91995112",
+      "playerId": "91995112",
+      "jaRegisteredName": "炭谷　銀仁朗",
+      "teamCode": "L",
+      "primaryNumber": "27",
+      "primaryPosition": "Catcher",
+      "jaStatus": "支配下選手",
+      "batSide": "R",
+      "pitchHand": "R",
+      "height": "181",
+      "weight": "98",
+      "birthDate": "1987-07-19",
+      "jaNotes": "",
+      "notes": "",
       "jaBoxscoreName": "炭谷",
-      "boxscoreName": "Sumitani"
+      "boxscoreName": "Sumitani",
+      "jaFullName": "炭谷　銀仁朗",
+      "jaFirstName": "銀仁朗",
+      "jaLastName": "炭谷",
+      "fullLFMName": "Sumitani, Ginjiro",
+      "firstName": "Ginjiro",
+      "lastName": "Sumitani"
     }
   },
   {
@@ -49,9 +85,27 @@
     "text": "Stevenson steals 2nd base.",
     "pickoff": "",
     "catcher": {
-      "id": "91995112",
+      "playerId": "91995112",
+      "jaRegisteredName": "炭谷　銀仁朗",
+      "teamCode": "L",
+      "primaryNumber": "27",
+      "primaryPosition": "Catcher",
+      "jaStatus": "支配下選手",
+      "batSide": "R",
+      "pitchHand": "R",
+      "height": "181",
+      "weight": "98",
+      "birthDate": "1987-07-19",
+      "jaNotes": "",
+      "notes": "",
       "jaBoxscoreName": "炭谷",
-      "boxscoreName": "Sumitani"
+      "boxscoreName": "Sumitani",
+      "jaFullName": "炭谷　銀仁朗",
+      "jaFirstName": "銀仁朗",
+      "jaLastName": "炭谷",
+      "fullLFMName": "Sumitani, Ginjiro",
+      "firstName": "Ginjiro",
+      "lastName": "Sumitani"
     }
   },
   {
@@ -59,9 +113,27 @@
     "text": "Ishii steals 2nd base.",
     "pickoff": "",
     "catcher": {
-      "id": "91995112",
+      "playerId": "91995112",
+      "jaRegisteredName": "炭谷　銀仁朗",
+      "teamCode": "L",
+      "primaryNumber": "27",
+      "primaryPosition": "Catcher",
+      "jaStatus": "支配下選手",
+      "batSide": "R",
+      "pitchHand": "R",
+      "height": "181",
+      "weight": "98",
+      "birthDate": "1987-07-19",
+      "jaNotes": "",
+      "notes": "",
       "jaBoxscoreName": "炭谷",
-      "boxscoreName": "Sumitani"
+      "boxscoreName": "Sumitani",
+      "jaFullName": "炭谷　銀仁朗",
+      "jaFirstName": "銀仁朗",
+      "jaLastName": "炭谷",
+      "fullLFMName": "Sumitani, Ginjiro",
+      "firstName": "Ginjiro",
+      "lastName": "Sumitani"
     }
   },
   {

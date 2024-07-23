@@ -4,9 +4,27 @@
     "text": "Sakakura steals 2nd base.",
     "pickoff": "",
     "catcher": {
-      "id": "91595136",
+      "playerId": "91595136",
+      "jaRegisteredName": "岸田　行倫",
+      "teamCode": "G",
+      "primaryNumber": "27",
+      "primaryPosition": "Catcher",
+      "jaStatus": "支配下選手",
+      "batSide": "R",
+      "pitchHand": "R",
+      "height": "176",
+      "weight": "88",
+      "birthDate": "1996-10-10",
+      "jaNotes": "",
+      "notes": "",
       "jaBoxscoreName": "岸田",
-      "boxscoreName": "Kishida"
+      "boxscoreName": "Kishida",
+      "jaFullName": "岸田　行倫",
+      "jaFirstName": "行倫",
+      "jaLastName": "岸田",
+      "fullLFMName": "Kishida, Yukinori",
+      "firstName": "Yukinori",
+      "lastName": "Kishida"
     }
   },
   {
@@ -19,9 +37,27 @@
     "text": "Ishikami steals 2nd base.",
     "pickoff": "",
     "catcher": {
-      "id": "51855136",
+      "playerId": "51855136",
+      "jaRegisteredName": "松本　直樹",
+      "teamCode": "S",
+      "primaryNumber": "32",
+      "primaryPosition": "Catcher",
+      "jaStatus": "支配下選手",
+      "batSide": "R",
+      "pitchHand": "R",
+      "height": "177",
+      "weight": "82",
+      "birthDate": "1993-10-17",
+      "jaNotes": "",
+      "notes": "",
       "jaBoxscoreName": "松本直",
-      "boxscoreName": "N.Matsumoto"
+      "boxscoreName": "N.Matsumoto",
+      "jaFullName": "松本　直樹",
+      "jaFirstName": "直樹",
+      "jaLastName": "松本",
+      "fullLFMName": "Matsumoto, Naoki",
+      "firstName": "Naoki",
+      "lastName": "Matsumoto"
     }
   },
   {
@@ -29,9 +65,27 @@
     "text": "Maki steals 2nd base.",
     "pickoff": "",
     "catcher": {
-      "id": "51855136",
+      "playerId": "51855136",
+      "jaRegisteredName": "松本　直樹",
+      "teamCode": "S",
+      "primaryNumber": "32",
+      "primaryPosition": "Catcher",
+      "jaStatus": "支配下選手",
+      "batSide": "R",
+      "pitchHand": "R",
+      "height": "177",
+      "weight": "82",
+      "birthDate": "1993-10-17",
+      "jaNotes": "",
+      "notes": "",
       "jaBoxscoreName": "松本直",
-      "boxscoreName": "N.Matsumoto"
+      "boxscoreName": "N.Matsumoto",
+      "jaFullName": "松本　直樹",
+      "jaFirstName": "直樹",
+      "jaLastName": "松本",
+      "fullLFMName": "Matsumoto, Naoki",
+      "firstName": "Naoki",
+      "lastName": "Matsumoto"
     }
   },
   {
@@ -39,9 +93,27 @@
     "text": "Yamamoto steals 2nd base.",
     "pickoff": "",
     "catcher": {
-      "id": "51855136",
+      "playerId": "51855136",
+      "jaRegisteredName": "松本　直樹",
+      "teamCode": "S",
+      "primaryNumber": "32",
+      "primaryPosition": "Catcher",
+      "jaStatus": "支配下選手",
+      "batSide": "R",
+      "pitchHand": "R",
+      "height": "177",
+      "weight": "82",
+      "birthDate": "1993-10-17",
+      "jaNotes": "",
+      "notes": "",
       "jaBoxscoreName": "松本直",
-      "boxscoreName": "N.Matsumoto"
+      "boxscoreName": "N.Matsumoto",
+      "jaFullName": "松本　直樹",
+      "jaFirstName": "直樹",
+      "jaLastName": "松本",
+      "fullLFMName": "Matsumoto, Naoki",
+      "firstName": "Naoki",
+      "lastName": "Matsumoto"
     }
   },
   {
@@ -49,9 +121,27 @@
     "text": "Watarai caught stealing 2nd base.",
     "pickoff": "",
     "catcher": {
-      "id": "51855136",
+      "playerId": "51855136",
+      "jaRegisteredName": "松本　直樹",
+      "teamCode": "S",
+      "primaryNumber": "32",
+      "primaryPosition": "Catcher",
+      "jaStatus": "支配下選手",
+      "batSide": "R",
+      "pitchHand": "R",
+      "height": "177",
+      "weight": "82",
+      "birthDate": "1993-10-17",
+      "jaNotes": "",
+      "notes": "",
       "jaBoxscoreName": "松本直",
-      "boxscoreName": "N.Matsumoto"
+      "boxscoreName": "N.Matsumoto",
+      "jaFullName": "松本　直樹",
+      "jaFirstName": "直樹",
+      "jaLastName": "松本",
+      "fullLFMName": "Matsumoto, Naoki",
+      "firstName": "Naoki",
+      "lastName": "Matsumoto"
     }
   },
   {
@@ -75,9 +165,27 @@
     "text": "Isobata steals 2nd base.",
     "pickoff": "",
     "catcher": {
-      "id": "41645139",
+      "playerId": "41645139",
+      "jaRegisteredName": "若月　健矢",
+      "teamCode": "B",
+      "primaryNumber": "2",
+      "primaryPosition": "Catcher",
+      "jaStatus": "支配下選手",
+      "batSide": "R",
+      "pitchHand": "R",
+      "height": "180",
+      "weight": "88",
+      "birthDate": "1995-10-04",
+      "jaNotes": "",
+      "notes": "",
       "jaBoxscoreName": "若月",
-      "boxscoreName": "Wakatsuki"
+      "boxscoreName": "Wakatsuki",
+      "jaFullName": "若月　健矢",
+      "jaFirstName": "健矢",
+      "jaLastName": "若月",
+      "fullLFMName": "Wakatsuki, Kenya",
+      "firstName": "Kenya",
+      "lastName": "Wakatsuki"
     }
   },
   {
@@ -85,9 +193,27 @@
     "text": "Nakashima caught stealing 2nd base.",
     "pickoff": "",
     "catcher": {
-      "id": "81185139",
+      "playerId": "81185139",
+      "jaRegisteredName": "石川　亮",
+      "teamCode": "B",
+      "primaryNumber": "37",
+      "primaryPosition": "Catcher",
+      "jaStatus": "支配下選手",
+      "batSide": "R",
+      "pitchHand": "R",
+      "height": "181",
+      "weight": "87",
+      "birthDate": "1995-07-20",
+      "jaNotes": "",
+      "notes": "",
       "jaBoxscoreName": "石川",
-      "boxscoreName": "Ishikawa"
+      "boxscoreName": "Ishikawa",
+      "jaFullName": "石川　亮",
+      "jaFirstName": "亮",
+      "jaLastName": "石川",
+      "fullLFMName": "Ishikawa, Ryo",
+      "firstName": "Ryo",
+      "lastName": "Ishikawa"
     }
   }
 ]

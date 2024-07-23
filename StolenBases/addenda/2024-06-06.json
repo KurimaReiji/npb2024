@@ -24,9 +24,27 @@
     "text": "Mizutani caught stealing 2nd base.",
     "pickoff": "",
     "catcher": {
-      "id": "21125151",
+      "playerId": "21125151",
+      "jaRegisteredName": "石原　貴規",
+      "teamCode": "C",
+      "primaryNumber": "32",
+      "primaryPosition": "Catcher",
+      "jaStatus": "支配下選手",
+      "batSide": "R",
+      "pitchHand": "R",
+      "height": "173",
+      "weight": "85",
+      "birthDate": "1998-02-03",
+      "jaNotes": "",
+      "notes": "",
       "jaBoxscoreName": "石原",
-      "boxscoreName": "Ishihara"
+      "boxscoreName": "Ishihara",
+      "jaFullName": "石原　貴規",
+      "jaFirstName": "貴規",
+      "jaLastName": "石原",
+      "fullLFMName": "Ishihara, Tomoki",
+      "firstName": "Tomoki",
+      "lastName": "Ishihara"
     }
   }
 ]

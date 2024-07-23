@@ -24,9 +24,27 @@
     "text": "Matsubara steals 2nd base.",
     "pickoff": "",
     "catcher": {
-      "id": "11815132",
+      "playerId": "11815132",
+      "jaRegisteredName": "堀内　謙伍",
+      "teamCode": "E",
+      "primaryNumber": "65",
+      "primaryPosition": "Catcher",
+      "jaStatus": "支配下選手",
+      "batSide": "L",
+      "pitchHand": "R",
+      "height": "174",
+      "weight": "82",
+      "birthDate": "1997-04-15",
+      "jaNotes": "",
+      "notes": "",
       "jaBoxscoreName": "堀内",
-      "boxscoreName": "Horiuchi"
+      "boxscoreName": "Horiuchi",
+      "jaFullName": "堀内　謙伍",
+      "jaFirstName": "謙伍",
+      "jaLastName": "堀内",
+      "fullLFMName": "Horiuchi, Kengo",
+      "firstName": "Kengo",
+      "lastName": "Horiuchi"
     }
   },
   {
@@ -34,9 +52,27 @@
     "text": "Kishi steals 2nd base.",
     "pickoff": "",
     "catcher": {
-      "id": "11815132",
+      "playerId": "11815132",
+      "jaRegisteredName": "堀内　謙伍",
+      "teamCode": "E",
+      "primaryNumber": "65",
+      "primaryPosition": "Catcher",
+      "jaStatus": "支配下選手",
+      "batSide": "L",
+      "pitchHand": "R",
+      "height": "174",
+      "weight": "82",
+      "birthDate": "1997-04-15",
+      "jaNotes": "",
+      "notes": "",
       "jaBoxscoreName": "堀内",
-      "boxscoreName": "Horiuchi"
+      "boxscoreName": "Horiuchi",
+      "jaFullName": "堀内　謙伍",
+      "jaFirstName": "謙伍",
+      "jaLastName": "堀内",
+      "fullLFMName": "Horiuchi, Kengo",
+      "firstName": "Kengo",
+      "lastName": "Horiuchi"
     }
   },
   {
@@ -44,9 +80,27 @@
     "text": "Kishi caught stealing 2nd base.",
     "pickoff": "",
     "catcher": {
-      "id": "11815132",
+      "playerId": "11815132",
+      "jaRegisteredName": "堀内　謙伍",
+      "teamCode": "E",
+      "primaryNumber": "65",
+      "primaryPosition": "Catcher",
+      "jaStatus": "支配下選手",
+      "batSide": "L",
+      "pitchHand": "R",
+      "height": "174",
+      "weight": "82",
+      "birthDate": "1997-04-15",
+      "jaNotes": "",
+      "notes": "",
       "jaBoxscoreName": "堀内",
-      "boxscoreName": "Horiuchi"
+      "boxscoreName": "Horiuchi",
+      "jaFullName": "堀内　謙伍",
+      "jaFirstName": "謙伍",
+      "jaLastName": "堀内",
+      "fullLFMName": "Horiuchi, Kengo",
+      "firstName": "Kengo",
+      "lastName": "Horiuchi"
     }
   },
   {
@@ -54,9 +108,27 @@
     "text": "Mori steals 2nd base.",
     "pickoff": "",
     "catcher": {
-      "id": "71075151",
+      "playerId": "71075151",
+      "jaRegisteredName": "佐藤　都志也",
+      "teamCode": "M",
+      "primaryNumber": "32",
+      "primaryPosition": "Catcher",
+      "jaStatus": "支配下選手",
+      "batSide": "L",
+      "pitchHand": "R",
+      "height": "181",
+      "weight": "86",
+      "birthDate": "1998-01-27",
+      "jaNotes": "",
+      "notes": "",
       "jaBoxscoreName": "佐藤",
-      "boxscoreName": "Satoh"
+      "boxscoreName": "Satoh",
+      "jaFullName": "佐藤　都志也",
+      "jaFirstName": "都志也",
+      "jaLastName": "佐藤",
+      "fullLFMName": "Satoh, Toshiya",
+      "firstName": "Toshiya",
+      "lastName": "Satoh"
     }
   },
   {

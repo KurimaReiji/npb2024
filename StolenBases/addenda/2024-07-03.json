@@ -4,9 +4,27 @@
     "text": "Maru steals 2nd base.",
     "pickoff": "",
     "catcher": {
-      "id": "31735132",
+      "playerId": "31735132",
+      "jaRegisteredName": "木下　拓哉",
+      "teamCode": "D",
+      "primaryNumber": "35",
+      "primaryPosition": "Catcher",
+      "jaStatus": "支配下選手",
+      "batSide": "R",
+      "pitchHand": "R",
+      "height": "183",
+      "weight": "95",
+      "birthDate": "1991-12-18",
+      "jaNotes": "",
+      "notes": "",
       "jaBoxscoreName": "木下",
-      "boxscoreName": "Kinoshita"
+      "boxscoreName": "Kinoshita",
+      "jaFullName": "木下　拓哉",
+      "jaFirstName": "拓哉",
+      "jaLastName": "木下",
+      "fullLFMName": "Kinoshita, Takuya",
+      "firstName": "Takuya",
+      "lastName": "Kinoshita"
     }
   },
   {

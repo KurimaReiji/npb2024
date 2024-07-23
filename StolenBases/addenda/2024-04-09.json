@@ -9,9 +9,27 @@
     "text": "Shigenobu steals 2nd base.",
     "pickoff": "",
     "catcher": {
-      "id": "51255118",
+      "playerId": "51255118",
+      "jaRegisteredName": "中村　悠平",
+      "teamCode": "S",
+      "primaryNumber": "27",
+      "primaryPosition": "Catcher",
+      "jaStatus": "支配下選手",
+      "batSide": "R",
+      "pitchHand": "R",
+      "height": "176",
+      "weight": "79",
+      "birthDate": "1990-06-17",
+      "jaNotes": "",
+      "notes": "",
       "jaBoxscoreName": "中村",
-      "boxscoreName": "Nakamura"
+      "boxscoreName": "Nakamura",
+      "jaFullName": "中村　悠平",
+      "jaFirstName": "悠平",
+      "jaLastName": "中村",
+      "fullLFMName": "Nakamura, Yuhei",
+      "firstName": "Yuhei",
+      "lastName": "Nakamura"
     }
   },
   {

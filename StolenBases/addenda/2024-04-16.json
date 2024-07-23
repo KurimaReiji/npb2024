@@ -30,9 +30,27 @@
     "text": "Akiyama steals 2nd base.",
     "pickoff": "",
     "catcher": {
-      "id": "23125136",
+      "playerId": "23125136",
+      "jaRegisteredName": "山本　祐大",
+      "teamCode": "DB",
+      "primaryNumber": "50",
+      "primaryPosition": "Catcher",
+      "jaStatus": "支配下選手",
+      "batSide": "R",
+      "pitchHand": "R",
+      "height": "180",
+      "weight": "87",
+      "birthDate": "1998-09-11",
+      "jaNotes": "",
+      "notes": "",
       "jaBoxscoreName": "山本",
-      "boxscoreName": "Yamamoto"
+      "boxscoreName": "Yamamoto",
+      "jaFullName": "山本　祐大",
+      "jaFirstName": "祐大",
+      "jaLastName": "山本",
+      "fullLFMName": "Yamamoto, Yuudai",
+      "firstName": "Yuudai",
+      "lastName": "Yamamoto"
     }
   },
   {
@@ -50,9 +68,27 @@
     "text": "R.Tatsumi steals 2nd base.",
     "pickoff": "",
     "catcher": {
-      "id": "91495139",
+      "playerId": "91495139",
+      "jaRegisteredName": "森　友哉",
+      "teamCode": "B",
+      "primaryNumber": "4",
+      "primaryPosition": "Catcher",
+      "jaStatus": "支配下選手",
+      "batSide": "L",
+      "pitchHand": "R",
+      "height": "170",
+      "weight": "85",
+      "birthDate": "1995-08-08",
+      "jaNotes": "",
+      "notes": "",
       "jaBoxscoreName": "森",
-      "boxscoreName": "Mori"
+      "boxscoreName": "Mori",
+      "jaFullName": "森　友哉",
+      "jaFirstName": "友哉",
+      "jaLastName": "森",
+      "fullLFMName": "Mori, Tomoya",
+      "firstName": "Tomoya",
+      "lastName": "Mori"
     }
   },
   {
@@ -60,9 +96,27 @@
     "text": "Ogawa steals 2nd base.",
     "pickoff": "",
     "catcher": {
-      "id": "91995112",
+      "playerId": "91995112",
+      "jaRegisteredName": "炭谷　銀仁朗",
+      "teamCode": "L",
+      "primaryNumber": "27",
+      "primaryPosition": "Catcher",
+      "jaStatus": "支配下選手",
+      "batSide": "R",
+      "pitchHand": "R",
+      "height": "181",
+      "weight": "98",
+      "birthDate": "1987-07-19",
+      "jaNotes": "",
+      "notes": "",
       "jaBoxscoreName": "炭谷",
-      "boxscoreName": "Sumitani"
+      "boxscoreName": "Sumitani",
+      "jaFullName": "炭谷　銀仁朗",
+      "jaFirstName": "銀仁朗",
+      "jaLastName": "炭谷",
+      "fullLFMName": "Sumitani, Ginjiro",
+      "firstName": "Ginjiro",
+      "lastName": "Sumitani"
     }
   },
   {
@@ -70,9 +124,27 @@
     "text": "Satoh steals 2nd base.",
     "pickoff": "",
     "catcher": {
-      "id": "91995112",
+      "playerId": "91995112",
+      "jaRegisteredName": "炭谷　銀仁朗",
+      "teamCode": "L",
+      "primaryNumber": "27",
+      "primaryPosition": "Catcher",
+      "jaStatus": "支配下選手",
+      "batSide": "R",
+      "pitchHand": "R",
+      "height": "181",
+      "weight": "98",
+      "birthDate": "1987-07-19",
+      "jaNotes": "",
+      "notes": "",
       "jaBoxscoreName": "炭谷",
-      "boxscoreName": "Sumitani"
+      "boxscoreName": "Sumitani",
+      "jaFullName": "炭谷　銀仁朗",
+      "jaFirstName": "銀仁朗",
+      "jaLastName": "炭谷",
+      "fullLFMName": "Sumitani, Ginjiro",
+      "firstName": "Ginjiro",
+      "lastName": "Sumitani"
     }
   },
   {

@@ -4,9 +4,27 @@
     "text": "Isobata steals 2nd base.",
     "pickoff": "",
     "catcher": {
-      "id": "81785155",
+      "playerId": "81785155",
+      "jaRegisteredName": "古賀　悠斗",
+      "teamCode": "L",
+      "primaryNumber": "22",
+      "primaryPosition": "Catcher",
+      "jaStatus": "支配下選手",
+      "batSide": "R",
+      "pitchHand": "R",
+      "height": "174",
+      "weight": "86",
+      "birthDate": "1999-09-10",
+      "jaNotes": "",
+      "notes": "",
       "jaBoxscoreName": "古賀",
-      "boxscoreName": "Koga"
+      "boxscoreName": "Koga",
+      "jaFullName": "古賀　悠斗",
+      "jaFirstName": "悠斗",
+      "jaLastName": "古賀",
+      "fullLFMName": "Koga, Yuto",
+      "firstName": "Yuto",
+      "lastName": "Koga"
     }
   },
   {
@@ -14,9 +32,27 @@
     "text": "Fujiwara steals 2nd base.",
     "pickoff": "",
     "catcher": {
-      "id": "11815132",
+      "playerId": "11815132",
+      "jaRegisteredName": "堀内　謙伍",
+      "teamCode": "E",
+      "primaryNumber": "65",
+      "primaryPosition": "Catcher",
+      "jaStatus": "支配下選手",
+      "batSide": "L",
+      "pitchHand": "R",
+      "height": "174",
+      "weight": "82",
+      "birthDate": "1997-04-15",
+      "jaNotes": "",
+      "notes": "",
       "jaBoxscoreName": "堀内",
-      "boxscoreName": "Horiuchi"
+      "boxscoreName": "Horiuchi",
+      "jaFullName": "堀内　謙伍",
+      "jaFirstName": "謙伍",
+      "jaLastName": "堀内",
+      "fullLFMName": "Horiuchi, Kengo",
+      "firstName": "Kengo",
+      "lastName": "Horiuchi"
     }
   },
   {
@@ -24,9 +60,27 @@
     "text": "Takabe steals 2nd base.",
     "pickoff": "",
     "catcher": {
-      "id": "11815132",
+      "playerId": "11815132",
+      "jaRegisteredName": "堀内　謙伍",
+      "teamCode": "E",
+      "primaryNumber": "65",
+      "primaryPosition": "Catcher",
+      "jaStatus": "支配下選手",
+      "batSide": "L",
+      "pitchHand": "R",
+      "height": "174",
+      "weight": "82",
+      "birthDate": "1997-04-15",
+      "jaNotes": "",
+      "notes": "",
       "jaBoxscoreName": "堀内",
-      "boxscoreName": "Horiuchi"
+      "boxscoreName": "Horiuchi",
+      "jaFullName": "堀内　謙伍",
+      "jaFirstName": "謙伍",
+      "jaLastName": "堀内",
+      "fullLFMName": "Horiuchi, Kengo",
+      "firstName": "Kengo",
+      "lastName": "Horiuchi"
     }
   }
 ]

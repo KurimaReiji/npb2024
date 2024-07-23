@@ -13,16 +13,36 @@
     "jaText": "（走者・関根）三塁盗塁失敗",
     "text": "Sekine caught stealing 3rd base.",
     "pickoff": "Y",
-    "jaNotes": ["二塁走者 関根 :盗塁を試みるもアウト 2アウト"]
+    "jaNotes": [
+      "二塁走者 関根 :盗塁を試みるもアウト 2アウト"
+    ]
   },
   {
     "jaText": "（走者・松本剛）二塁盗塁成功",
     "text": "G.Matsumoto steals 2nd base.",
     "pickoff": "",
     "catcher": {
-      "id": "61165134",
+      "playerId": "61165134",
+      "jaRegisteredName": "石原　彪",
+      "teamCode": "E",
+      "primaryNumber": "70",
+      "primaryPosition": "Catcher",
+      "jaStatus": "支配下選手",
+      "batSide": "R",
+      "pitchHand": "R",
+      "height": "172",
+      "weight": "96",
+      "birthDate": "1999-03-08",
+      "jaNotes": "",
+      "notes": "",
       "jaBoxscoreName": "石原",
-      "boxscoreName": "Ishihara"
+      "boxscoreName": "Ishihara",
+      "jaFullName": "石原　彪",
+      "jaFirstName": "彪",
+      "jaLastName": "石原",
+      "fullLFMName": "Ishihara, Tsuyoshi",
+      "firstName": "Tsuyoshi",
+      "lastName": "Ishihara"
     }
   },
   {
@@ -30,9 +50,27 @@
     "text": "Tamiya caught stealing 2nd base.",
     "pickoff": "",
     "catcher": {
-      "id": "61165134",
+      "playerId": "61165134",
+      "jaRegisteredName": "石原　彪",
+      "teamCode": "E",
+      "primaryNumber": "70",
+      "primaryPosition": "Catcher",
+      "jaStatus": "支配下選手",
+      "batSide": "R",
+      "pitchHand": "R",
+      "height": "172",
+      "weight": "96",
+      "birthDate": "1999-03-08",
+      "jaNotes": "",
+      "notes": "",
       "jaBoxscoreName": "石原",
-      "boxscoreName": "Ishihara"
+      "boxscoreName": "Ishihara",
+      "jaFullName": "石原　彪",
+      "jaFirstName": "彪",
+      "jaLastName": "石原",
+      "fullLFMName": "Ishihara, Tsuyoshi",
+      "firstName": "Tsuyoshi",
+      "lastName": "Ishihara"
     }
   },
   {

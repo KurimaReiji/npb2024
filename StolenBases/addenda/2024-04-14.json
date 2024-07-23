@@ -14,9 +14,27 @@
     "text": "Miyazaki caught stealing 2nd base.",
     "pickoff": "",
     "catcher": {
-      "id": "51255118",
+      "playerId": "51255118",
+      "jaRegisteredName": "中村　悠平",
+      "teamCode": "S",
+      "primaryNumber": "27",
+      "primaryPosition": "Catcher",
+      "jaStatus": "支配下選手",
+      "batSide": "R",
+      "pitchHand": "R",
+      "height": "176",
+      "weight": "79",
+      "birthDate": "1990-06-17",
+      "jaNotes": "",
+      "notes": "",
       "jaBoxscoreName": "中村",
-      "boxscoreName": "Nakamura"
+      "boxscoreName": "Nakamura",
+      "jaFullName": "中村　悠平",
+      "jaFirstName": "悠平",
+      "jaLastName": "中村",
+      "fullLFMName": "Nakamura, Yuhei",
+      "firstName": "Yuhei",
+      "lastName": "Nakamura"
     }
   },
   {
@@ -24,9 +42,27 @@
     "text": "Oka steals 2nd base.",
     "pickoff": "",
     "catcher": {
-      "id": "71375138",
+      "playerId": "71375138",
+      "jaRegisteredName": "太田　光",
+      "teamCode": "E",
+      "primaryNumber": "2",
+      "primaryPosition": "Catcher",
+      "jaStatus": "支配下選手",
+      "batSide": "R",
+      "pitchHand": "R",
+      "height": "178",
+      "weight": "76",
+      "birthDate": "1996-10-14",
+      "jaNotes": "",
+      "notes": "",
       "jaBoxscoreName": "太田",
-      "boxscoreName": "Ohta"
+      "boxscoreName": "Ohta",
+      "jaFullName": "太田　光",
+      "jaFirstName": "光",
+      "jaLastName": "太田",
+      "fullLFMName": "Ohta, Hikaru",
+      "firstName": "Hikaru",
+      "lastName": "Ohta"
     }
   },
   {

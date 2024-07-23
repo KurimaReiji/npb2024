@@ -29,9 +29,27 @@
     "text": "Kodama steals 2nd base.",
     "pickoff": "",
     "catcher": {
-      "id": "71375138",
+      "playerId": "71375138",
+      "jaRegisteredName": "太田　光",
+      "teamCode": "E",
+      "primaryNumber": "2",
+      "primaryPosition": "Catcher",
+      "jaStatus": "支配下選手",
+      "batSide": "R",
+      "pitchHand": "R",
+      "height": "178",
+      "weight": "76",
+      "birthDate": "1996-10-14",
+      "jaNotes": "",
+      "notes": "",
       "jaBoxscoreName": "太田",
-      "boxscoreName": "Ohta"
+      "boxscoreName": "Ohta",
+      "jaFullName": "太田　光",
+      "jaFirstName": "光",
+      "jaLastName": "太田",
+      "fullLFMName": "Ohta, Hikaru",
+      "firstName": "Hikaru",
+      "lastName": "Ohta"
     }
   },
   {

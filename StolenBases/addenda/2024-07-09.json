@@ -34,9 +34,27 @@
     "text": "Kadowaki picked off and caught stealing 2nd base.",
     "pickoff": "Y",
     "catcher": {
-      "id": "11915134",
+      "playerId": "11915134",
+      "jaRegisteredName": "坂倉　将吾",
+      "teamCode": "C",
+      "primaryNumber": "31",
+      "primaryPosition": "Catcher",
+      "jaStatus": "支配下選手",
+      "batSide": "L",
+      "pitchHand": "R",
+      "height": "177",
+      "weight": "89",
+      "birthDate": "1998-05-29",
+      "jaNotes": "",
+      "notes": "",
       "jaBoxscoreName": "坂倉",
-      "boxscoreName": "Sakakura"
+      "boxscoreName": "Sakakura",
+      "jaFullName": "坂倉　将吾",
+      "jaFirstName": "将吾",
+      "jaLastName": "坂倉",
+      "fullLFMName": "Sakakura, Shogo",
+      "firstName": "Shogo",
+      "lastName": "Sakakura"
     }
   },
   {
@@ -44,9 +62,27 @@
     "text": "Yamanobe steals 2nd base.",
     "pickoff": "",
     "catcher": {
-      "id": "61065137",
+      "playerId": "61065137",
+      "jaRegisteredName": "伏見　寅威",
+      "teamCode": "F",
+      "primaryNumber": "23",
+      "primaryPosition": "Catcher",
+      "jaStatus": "支配下選手",
+      "batSide": "R",
+      "pitchHand": "R",
+      "height": "182",
+      "weight": "87",
+      "birthDate": "1990-05-12",
+      "jaNotes": "",
+      "notes": "",
       "jaBoxscoreName": "伏見",
-      "boxscoreName": "Fushimi"
+      "boxscoreName": "Fushimi",
+      "jaFullName": "伏見　寅威",
+      "jaFirstName": "寅威",
+      "jaLastName": "伏見",
+      "fullLFMName": "Fushimi, Torai",
+      "firstName": "Torai",
+      "lastName": "Fushimi"
     }
   },
   {

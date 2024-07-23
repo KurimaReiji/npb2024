@@ -14,9 +14,27 @@
     "text": "Hernandez picked off and caught stealing 2nd base.",
     "pickoff": "Y",
     "catcher": {
-      "id": "31735132",
+      "playerId": "31735132",
+      "jaRegisteredName": "木下　拓哉",
+      "teamCode": "D",
+      "primaryNumber": "35",
+      "primaryPosition": "Catcher",
+      "jaStatus": "支配下選手",
+      "batSide": "R",
+      "pitchHand": "R",
+      "height": "183",
+      "weight": "95",
+      "birthDate": "1991-12-18",
+      "jaNotes": "",
+      "notes": "",
       "jaBoxscoreName": "木下",
-      "boxscoreName": "Kinoshita"
+      "boxscoreName": "Kinoshita",
+      "jaFullName": "木下　拓哉",
+      "jaFirstName": "拓哉",
+      "jaLastName": "木下",
+      "fullLFMName": "Kinoshita, Takuya",
+      "firstName": "Takuya",
+      "lastName": "Kinoshita"
     }
   },
   {
@@ -34,9 +52,27 @@
     "text": "Ogawa steals 2nd base.",
     "pickoff": "",
     "catcher": {
-      "id": "51055138",
+      "playerId": "51055138",
+      "jaRegisteredName": "田宮　裕涼",
+      "teamCode": "F",
+      "primaryNumber": "64",
+      "primaryPosition": "Catcher",
+      "jaStatus": "支配下選手",
+      "batSide": "L",
+      "pitchHand": "R",
+      "height": "175",
+      "weight": "79",
+      "birthDate": "2000-06-13",
+      "jaNotes": "",
+      "notes": "",
       "jaBoxscoreName": "田宮",
-      "boxscoreName": "Tamiya"
+      "boxscoreName": "Tamiya",
+      "jaFullName": "田宮　裕涼",
+      "jaFirstName": "裕涼",
+      "jaLastName": "田宮",
+      "fullLFMName": "Tamiya, Yua",
+      "firstName": "Yua",
+      "lastName": "Tamiya"
     }
   },
   {
@@ -54,9 +90,27 @@
     "text": "Murabayashi steals 2nd base.",
     "pickoff": "",
     "catcher": {
-      "id": "41645139",
+      "playerId": "41645139",
+      "jaRegisteredName": "若月　健矢",
+      "teamCode": "B",
+      "primaryNumber": "2",
+      "primaryPosition": "Catcher",
+      "jaStatus": "支配下選手",
+      "batSide": "R",
+      "pitchHand": "R",
+      "height": "180",
+      "weight": "88",
+      "birthDate": "1995-10-04",
+      "jaNotes": "",
+      "notes": "",
       "jaBoxscoreName": "若月",
-      "boxscoreName": "Wakatsuki"
+      "boxscoreName": "Wakatsuki",
+      "jaFullName": "若月　健矢",
+      "jaFirstName": "健矢",
+      "jaLastName": "若月",
+      "fullLFMName": "Wakatsuki, Kenya",
+      "firstName": "Kenya",
+      "lastName": "Wakatsuki"
     }
   },
   {
@@ -64,9 +118,27 @@
     "text": "Ogoh steals 2nd base.",
     "pickoff": "",
     "catcher": {
-      "id": "41645139",
+      "playerId": "41645139",
+      "jaRegisteredName": "若月　健矢",
+      "teamCode": "B",
+      "primaryNumber": "2",
+      "primaryPosition": "Catcher",
+      "jaStatus": "支配下選手",
+      "batSide": "R",
+      "pitchHand": "R",
+      "height": "180",
+      "weight": "88",
+      "birthDate": "1995-10-04",
+      "jaNotes": "",
+      "notes": "",
       "jaBoxscoreName": "若月",
-      "boxscoreName": "Wakatsuki"
+      "boxscoreName": "Wakatsuki",
+      "jaFullName": "若月　健矢",
+      "jaFirstName": "健矢",
+      "jaLastName": "若月",
+      "fullLFMName": "Wakatsuki, Kenya",
+      "firstName": "Kenya",
+      "lastName": "Wakatsuki"
     }
   }
 ]

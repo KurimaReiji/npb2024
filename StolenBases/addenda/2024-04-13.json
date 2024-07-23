@@ -9,9 +9,27 @@
     "text": "Tanaka picked off and caught stealing 2nd base.",
     "pickoff": "Y",
     "catcher": {
-      "id": "91595136",
+      "playerId": "91595136",
+      "jaRegisteredName": "岸田　行倫",
+      "teamCode": "G",
+      "primaryNumber": "27",
+      "primaryPosition": "Catcher",
+      "jaStatus": "支配下選手",
+      "batSide": "R",
+      "pitchHand": "R",
+      "height": "176",
+      "weight": "88",
+      "birthDate": "1996-10-10",
+      "jaNotes": "",
+      "notes": "",
       "jaBoxscoreName": "岸田",
-      "boxscoreName": "Kishida"
+      "boxscoreName": "Kishida",
+      "jaFullName": "岸田　行倫",
+      "jaFirstName": "行倫",
+      "jaLastName": "岸田",
+      "fullLFMName": "Kishida, Yukinori",
+      "firstName": "Yukinori",
+      "lastName": "Kishida"
     }
   },
   {
@@ -34,9 +52,27 @@
     "text": "T.Sato caught stealing 2nd base.",
     "pickoff": "",
     "catcher": {
-      "id": "61365132",
+      "playerId": "61365132",
+      "jaRegisteredName": "宇佐見　真吾",
+      "teamCode": "D",
+      "primaryNumber": "39",
+      "primaryPosition": "Catcher",
+      "jaStatus": "支配下選手",
+      "batSide": "L",
+      "pitchHand": "R",
+      "height": "181",
+      "weight": "88",
+      "birthDate": "1993-06-04",
+      "jaNotes": "",
+      "notes": "",
       "jaBoxscoreName": "宇佐見",
-      "boxscoreName": "Usami"
+      "boxscoreName": "Usami",
+      "jaFullName": "宇佐見　真吾",
+      "jaFirstName": "真吾",
+      "jaLastName": "宇佐見",
+      "fullLFMName": "Usami, Shingo",
+      "firstName": "Shingo",
+      "lastName": "Usami"
     }
   },
   {
@@ -44,9 +80,27 @@
     "text": "Oka steals 2nd base.",
     "pickoff": "",
     "catcher": {
-      "id": "61165134",
+      "playerId": "61165134",
+      "jaRegisteredName": "石原　彪",
+      "teamCode": "E",
+      "primaryNumber": "70",
+      "primaryPosition": "Catcher",
+      "jaStatus": "支配下選手",
+      "batSide": "R",
+      "pitchHand": "R",
+      "height": "172",
+      "weight": "96",
+      "birthDate": "1999-03-08",
+      "jaNotes": "",
+      "notes": "",
       "jaBoxscoreName": "石原",
-      "boxscoreName": "Ishihara"
+      "boxscoreName": "Ishihara",
+      "jaFullName": "石原　彪",
+      "jaFirstName": "彪",
+      "jaLastName": "石原",
+      "fullLFMName": "Ishihara, Tsuyoshi",
+      "firstName": "Tsuyoshi",
+      "lastName": "Ishihara"
     }
   },
   {
@@ -54,9 +108,27 @@
     "text": "Ogawa picked off at 2nd base.",
     "pickoff": "Y",
     "catcher": {
-      "id": "61165134",
+      "playerId": "61165134",
+      "jaRegisteredName": "石原　彪",
+      "teamCode": "E",
+      "primaryNumber": "70",
+      "primaryPosition": "Catcher",
+      "jaStatus": "支配下選手",
+      "batSide": "R",
+      "pitchHand": "R",
+      "height": "172",
+      "weight": "96",
+      "birthDate": "1999-03-08",
+      "jaNotes": "",
+      "notes": "",
       "jaBoxscoreName": "石原",
-      "boxscoreName": "Ishihara"
+      "boxscoreName": "Ishihara",
+      "jaFullName": "石原　彪",
+      "jaFirstName": "彪",
+      "jaLastName": "石原",
+      "fullLFMName": "Ishihara, Tsuyoshi",
+      "firstName": "Tsuyoshi",
+      "lastName": "Ishihara"
     }
   },
   {
@@ -69,9 +141,27 @@
     "text": "Shuto steals 2nd base.",
     "pickoff": "",
     "catcher": {
-      "id": "81785155",
+      "playerId": "81785155",
+      "jaRegisteredName": "古賀　悠斗",
+      "teamCode": "L",
+      "primaryNumber": "22",
+      "primaryPosition": "Catcher",
+      "jaStatus": "支配下選手",
+      "batSide": "R",
+      "pitchHand": "R",
+      "height": "174",
+      "weight": "86",
+      "birthDate": "1999-09-10",
+      "jaNotes": "",
+      "notes": "",
       "jaBoxscoreName": "古賀",
-      "boxscoreName": "Koga"
+      "boxscoreName": "Koga",
+      "jaFullName": "古賀　悠斗",
+      "jaFirstName": "悠斗",
+      "jaLastName": "古賀",
+      "fullLFMName": "Koga, Yuto",
+      "firstName": "Yuto",
+      "lastName": "Koga"
     }
   },
   {
@@ -79,9 +169,27 @@
     "text": "Shuto steals 2nd base.",
     "pickoff": "",
     "catcher": {
-      "id": "81785155",
+      "playerId": "81785155",
+      "jaRegisteredName": "古賀　悠斗",
+      "teamCode": "L",
+      "primaryNumber": "22",
+      "primaryPosition": "Catcher",
+      "jaStatus": "支配下選手",
+      "batSide": "R",
+      "pitchHand": "R",
+      "height": "174",
+      "weight": "86",
+      "birthDate": "1999-09-10",
+      "jaNotes": "",
+      "notes": "",
       "jaBoxscoreName": "古賀",
-      "boxscoreName": "Koga"
+      "boxscoreName": "Koga",
+      "jaFullName": "古賀　悠斗",
+      "jaFirstName": "悠斗",
+      "jaLastName": "古賀",
+      "fullLFMName": "Koga, Yuto",
+      "firstName": "Yuto",
+      "lastName": "Koga"
     }
   },
   {
@@ -89,9 +197,27 @@
     "text": "Kondoh steals 2nd base.",
     "pickoff": "",
     "catcher": {
-      "id": "81785155",
+      "playerId": "81785155",
+      "jaRegisteredName": "古賀　悠斗",
+      "teamCode": "L",
+      "primaryNumber": "22",
+      "primaryPosition": "Catcher",
+      "jaStatus": "支配下選手",
+      "batSide": "R",
+      "pitchHand": "R",
+      "height": "174",
+      "weight": "86",
+      "birthDate": "1999-09-10",
+      "jaNotes": "",
+      "notes": "",
       "jaBoxscoreName": "古賀",
-      "boxscoreName": "Koga"
+      "boxscoreName": "Koga",
+      "jaFullName": "古賀　悠斗",
+      "jaFirstName": "悠斗",
+      "jaLastName": "古賀",
+      "fullLFMName": "Koga, Yuto",
+      "firstName": "Yuto",
+      "lastName": "Koga"
     }
   }
 ]

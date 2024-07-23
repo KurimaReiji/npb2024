@@ -19,9 +19,27 @@
     "text": "Isobata caught stealing 2nd base.",
     "pickoff": "",
     "catcher": {
-      "id": "91595133",
+      "playerId": "91595133",
+      "jaRegisteredName": "甲斐　拓也",
+      "teamCode": "H",
+      "primaryNumber": "19",
+      "primaryPosition": "Catcher",
+      "jaStatus": "支配下選手",
+      "batSide": "R",
+      "pitchHand": "R",
+      "height": "170",
+      "weight": "87",
+      "birthDate": "1992-11-05",
+      "jaNotes": "",
+      "notes": "",
       "jaBoxscoreName": "甲斐",
-      "boxscoreName": "T.Kai"
+      "boxscoreName": "T.Kai",
+      "jaFullName": "甲斐　拓也",
+      "jaFirstName": "拓也",
+      "jaLastName": "甲斐",
+      "fullLFMName": "Kai, Takuya",
+      "firstName": "Takuya",
+      "lastName": "Kai"
     }
   }
 ]

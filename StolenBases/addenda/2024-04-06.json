@@ -29,9 +29,27 @@
     "text": "Tomosugi steals 2nd base.",
     "pickoff": "",
     "catcher": {
-      "id": "91495139",
+      "playerId": "91495139",
+      "jaRegisteredName": "森　友哉",
+      "teamCode": "B",
+      "primaryNumber": "4",
+      "primaryPosition": "Catcher",
+      "jaStatus": "支配下選手",
+      "batSide": "L",
+      "pitchHand": "R",
+      "height": "170",
+      "weight": "85",
+      "birthDate": "1995-08-08",
+      "jaNotes": "",
+      "notes": "",
       "jaBoxscoreName": "森",
-      "boxscoreName": "Mori"
+      "boxscoreName": "Mori",
+      "jaFullName": "森　友哉",
+      "jaFirstName": "友哉",
+      "jaLastName": "森",
+      "fullLFMName": "Mori, Tomoya",
+      "firstName": "Tomoya",
+      "lastName": "Mori"
     }
   }
 ]

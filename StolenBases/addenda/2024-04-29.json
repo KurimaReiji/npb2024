@@ -19,9 +19,27 @@
     "text": "Kobukata steals 2nd base.",
     "pickoff": "",
     "catcher": {
-      "id": "41945137",
+      "playerId": "41945137",
+      "jaRegisteredName": "田村　龍弘",
+      "teamCode": "M",
+      "primaryNumber": "27",
+      "primaryPosition": "Catcher",
+      "jaStatus": "支配下選手",
+      "batSide": "R",
+      "pitchHand": "R",
+      "height": "172",
+      "weight": "81",
+      "birthDate": "1994-05-13",
+      "jaNotes": "",
+      "notes": "",
       "jaBoxscoreName": "田村",
-      "boxscoreName": "Tamura"
+      "boxscoreName": "Tamura",
+      "jaFullName": "田村　龍弘",
+      "jaFirstName": "龍弘",
+      "jaLastName": "田村",
+      "fullLFMName": "Tamura, Tatsuhiro",
+      "firstName": "Tatsuhiro",
+      "lastName": "Tamura"
     }
   },
   {

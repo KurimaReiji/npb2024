@@ -19,9 +19,27 @@
     "text": "Ohshima caught stealing 2nd base.",
     "pickoff": "",
     "catcher": {
-      "id": "51855136",
+      "playerId": "51855136",
+      "jaRegisteredName": "松本　直樹",
+      "teamCode": "S",
+      "primaryNumber": "32",
+      "primaryPosition": "Catcher",
+      "jaStatus": "支配下選手",
+      "batSide": "R",
+      "pitchHand": "R",
+      "height": "177",
+      "weight": "82",
+      "birthDate": "1993-10-17",
+      "jaNotes": "",
+      "notes": "",
       "jaBoxscoreName": "松本直",
-      "boxscoreName": "N.Matsumoto"
+      "boxscoreName": "N.Matsumoto",
+      "jaFullName": "松本　直樹",
+      "jaFirstName": "直樹",
+      "jaLastName": "松本",
+      "fullLFMName": "Matsumoto, Naoki",
+      "firstName": "Naoki",
+      "lastName": "Matsumoto"
     }
   },
   {

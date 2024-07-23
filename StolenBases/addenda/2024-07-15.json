@@ -14,9 +14,27 @@
     "text": "Murakami steals 2nd base.",
     "pickoff": "",
     "catcher": {
-      "id": "91195138",
+      "playerId": "91195138",
+      "jaRegisteredName": "石橋　康太",
+      "teamCode": "D",
+      "primaryNumber": "58",
+      "primaryPosition": "Catcher",
+      "jaStatus": "支配下選手",
+      "batSide": "R",
+      "pitchHand": "R",
+      "height": "181",
+      "weight": "94",
+      "birthDate": "2000-12-07",
+      "jaNotes": "",
+      "notes": "",
       "jaBoxscoreName": "石橋",
-      "boxscoreName": "Ishibashi"
+      "boxscoreName": "Ishibashi",
+      "jaFullName": "石橋　康太",
+      "jaFirstName": "康太",
+      "jaLastName": "石橋",
+      "fullLFMName": "Ishibashi, Kota",
+      "firstName": "Kota",
+      "lastName": "Ishibashi"
     }
   },
   {

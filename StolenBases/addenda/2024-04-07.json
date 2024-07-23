@@ -26,9 +26,27 @@
     "text": "Noma steals 2nd base.",
     "pickoff": "",
     "catcher": {
-      "id": "61365132",
+      "playerId": "61365132",
+      "jaRegisteredName": "宇佐見　真吾",
+      "teamCode": "D",
+      "primaryNumber": "39",
+      "primaryPosition": "Catcher",
+      "jaStatus": "支配下選手",
+      "batSide": "L",
+      "pitchHand": "R",
+      "height": "181",
+      "weight": "88",
+      "birthDate": "1993-06-04",
+      "jaNotes": "",
+      "notes": "",
       "jaBoxscoreName": "宇佐見",
-      "boxscoreName": "Usami"
+      "boxscoreName": "Usami",
+      "jaFullName": "宇佐見　真吾",
+      "jaFirstName": "真吾",
+      "jaLastName": "宇佐見",
+      "fullLFMName": "Usami, Shingo",
+      "firstName": "Shingo",
+      "lastName": "Usami"
     }
   },
   {
@@ -36,9 +54,27 @@
     "text": "Kobukata steals 2nd base.",
     "pickoff": "",
     "catcher": {
-      "id": "81385151",
+      "playerId": "81385151",
+      "jaRegisteredName": "海野　隆司",
+      "teamCode": "H",
+      "primaryNumber": "62",
+      "primaryPosition": "Catcher",
+      "jaStatus": "支配下選手",
+      "batSide": "R",
+      "pitchHand": "R",
+      "height": "174",
+      "weight": "84",
+      "birthDate": "1997-07-15",
+      "jaNotes": "",
+      "notes": "",
       "jaBoxscoreName": "海野",
-      "boxscoreName": "Umino"
+      "boxscoreName": "Umino",
+      "jaFullName": "海野　隆司",
+      "jaFirstName": "隆司",
+      "jaLastName": "海野",
+      "fullLFMName": "Umino, Takashi",
+      "firstName": "Takashi",
+      "lastName": "Umino"
     }
   },
   {
@@ -46,9 +82,27 @@
     "text": "R.Tatsumi steals 2nd base.",
     "pickoff": "",
     "catcher": {
-      "id": "81385151",
+      "playerId": "81385151",
+      "jaRegisteredName": "海野　隆司",
+      "teamCode": "H",
+      "primaryNumber": "62",
+      "primaryPosition": "Catcher",
+      "jaStatus": "支配下選手",
+      "batSide": "R",
+      "pitchHand": "R",
+      "height": "174",
+      "weight": "84",
+      "birthDate": "1997-07-15",
+      "jaNotes": "",
+      "notes": "",
       "jaBoxscoreName": "海野",
-      "boxscoreName": "Umino"
+      "boxscoreName": "Umino",
+      "jaFullName": "海野　隆司",
+      "jaFirstName": "隆司",
+      "jaLastName": "海野",
+      "fullLFMName": "Umino, Takashi",
+      "firstName": "Takashi",
+      "lastName": "Umino"
     }
   },
   {

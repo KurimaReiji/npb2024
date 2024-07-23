@@ -4,9 +4,27 @@
     "text": "Kikuchi steals 2nd base.",
     "pickoff": "",
     "catcher": {
-      "id": "81185116",
+      "playerId": "81185116",
+      "jaRegisteredName": "伊藤　光",
+      "teamCode": "DB",
+      "primaryNumber": "29",
+      "primaryPosition": "Catcher",
+      "jaStatus": "支配下選手",
+      "batSide": "R",
+      "pitchHand": "R",
+      "height": "180",
+      "weight": "88",
+      "birthDate": "1989-04-23",
+      "jaNotes": "",
+      "notes": "",
       "jaBoxscoreName": "伊藤",
-      "boxscoreName": "Itoh"
+      "boxscoreName": "Itoh",
+      "jaFullName": "伊藤　光",
+      "jaFirstName": "光",
+      "jaLastName": "伊藤",
+      "fullLFMName": "Itoh, Hikaru",
+      "firstName": "Hikaru",
+      "lastName": "Itoh"
     }
   },
   {
@@ -14,9 +32,27 @@
     "text": "Yano steals 2nd base.",
     "pickoff": "",
     "catcher": {
-      "id": "81185116",
+      "playerId": "81185116",
+      "jaRegisteredName": "伊藤　光",
+      "teamCode": "DB",
+      "primaryNumber": "29",
+      "primaryPosition": "Catcher",
+      "jaStatus": "支配下選手",
+      "batSide": "R",
+      "pitchHand": "R",
+      "height": "180",
+      "weight": "88",
+      "birthDate": "1989-04-23",
+      "jaNotes": "",
+      "notes": "",
       "jaBoxscoreName": "伊藤",
-      "boxscoreName": "Itoh"
+      "boxscoreName": "Itoh",
+      "jaFullName": "伊藤　光",
+      "jaFirstName": "光",
+      "jaLastName": "伊藤",
+      "fullLFMName": "Itoh, Hikaru",
+      "firstName": "Hikaru",
+      "lastName": "Itoh"
     }
   },
   {
@@ -24,9 +60,27 @@
     "text": "Yano steals 3rd base.",
     "pickoff": "",
     "catcher": {
-      "id": "81185116",
+      "playerId": "81185116",
+      "jaRegisteredName": "伊藤　光",
+      "teamCode": "DB",
+      "primaryNumber": "29",
+      "primaryPosition": "Catcher",
+      "jaStatus": "支配下選手",
+      "batSide": "R",
+      "pitchHand": "R",
+      "height": "180",
+      "weight": "88",
+      "birthDate": "1989-04-23",
+      "jaNotes": "",
+      "notes": "",
       "jaBoxscoreName": "伊藤",
-      "boxscoreName": "Itoh"
+      "boxscoreName": "Itoh",
+      "jaFullName": "伊藤　光",
+      "jaFirstName": "光",
+      "jaLastName": "伊藤",
+      "fullLFMName": "Itoh, Hikaru",
+      "firstName": "Hikaru",
+      "lastName": "Itoh"
     }
   },
   {
@@ -39,9 +93,27 @@
     "text": "Hatsuki steals 2nd base.",
     "pickoff": "",
     "catcher": {
-      "id": "23125136",
+      "playerId": "23125136",
+      "jaRegisteredName": "山本　祐大",
+      "teamCode": "DB",
+      "primaryNumber": "50",
+      "primaryPosition": "Catcher",
+      "jaStatus": "支配下選手",
+      "batSide": "R",
+      "pitchHand": "R",
+      "height": "180",
+      "weight": "87",
+      "birthDate": "1998-09-11",
+      "jaNotes": "",
+      "notes": "",
       "jaBoxscoreName": "山本",
-      "boxscoreName": "Yamamoto"
+      "boxscoreName": "Yamamoto",
+      "jaFullName": "山本　祐大",
+      "jaFirstName": "祐大",
+      "jaLastName": "山本",
+      "fullLFMName": "Yamamoto, Yuudai",
+      "firstName": "Yuudai",
+      "lastName": "Yamamoto"
     }
   },
   {
@@ -49,9 +121,27 @@
     "text": "Yano steals 2nd base.",
     "pickoff": "",
     "catcher": {
-      "id": "23125136",
+      "playerId": "23125136",
+      "jaRegisteredName": "山本　祐大",
+      "teamCode": "DB",
+      "primaryNumber": "50",
+      "primaryPosition": "Catcher",
+      "jaStatus": "支配下選手",
+      "batSide": "R",
+      "pitchHand": "R",
+      "height": "180",
+      "weight": "87",
+      "birthDate": "1998-09-11",
+      "jaNotes": "",
+      "notes": "",
       "jaBoxscoreName": "山本",
-      "boxscoreName": "Yamamoto"
+      "boxscoreName": "Yamamoto",
+      "jaFullName": "山本　祐大",
+      "jaFirstName": "祐大",
+      "jaLastName": "山本",
+      "fullLFMName": "Yamamoto, Yuudai",
+      "firstName": "Yuudai",
+      "lastName": "Yamamoto"
     }
   },
   {

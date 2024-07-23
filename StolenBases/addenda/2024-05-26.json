@@ -29,9 +29,27 @@
     "text": "Oda steals 2nd base.",
     "pickoff": "",
     "catcher": {
-      "id": "51255118",
+      "playerId": "51255118",
+      "jaRegisteredName": "中村　悠平",
+      "teamCode": "S",
+      "primaryNumber": "27",
+      "primaryPosition": "Catcher",
+      "jaStatus": "支配下選手",
+      "batSide": "R",
+      "pitchHand": "R",
+      "height": "176",
+      "weight": "79",
+      "birthDate": "1990-06-17",
+      "jaNotes": "",
+      "notes": "",
       "jaBoxscoreName": "中村",
-      "boxscoreName": "Nakamura"
+      "boxscoreName": "Nakamura",
+      "jaFullName": "中村　悠平",
+      "jaFirstName": "悠平",
+      "jaLastName": "中村",
+      "fullLFMName": "Nakamura, Yuhei",
+      "firstName": "Yuhei",
+      "lastName": "Nakamura"
     }
   },
   {
@@ -84,9 +102,27 @@
     "text": "Oka steals 2nd base.",
     "pickoff": "",
     "catcher": {
-      "id": "91595133",
+      "playerId": "91595133",
+      "jaRegisteredName": "甲斐　拓也",
+      "teamCode": "H",
+      "primaryNumber": "19",
+      "primaryPosition": "Catcher",
+      "jaStatus": "支配下選手",
+      "batSide": "R",
+      "pitchHand": "R",
+      "height": "170",
+      "weight": "87",
+      "birthDate": "1992-11-05",
+      "jaNotes": "",
+      "notes": "",
       "jaBoxscoreName": "甲斐",
-      "boxscoreName": "T.Kai"
+      "boxscoreName": "T.Kai",
+      "jaFullName": "甲斐　拓也",
+      "jaFirstName": "拓也",
+      "jaLastName": "甲斐",
+      "fullLFMName": "Kai, Takuya",
+      "firstName": "Takuya",
+      "lastName": "Kai"
     }
   }
 ]

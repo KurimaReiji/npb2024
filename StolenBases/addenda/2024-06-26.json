@@ -4,9 +4,27 @@
     "text": "Okabayashi steals 2nd base.",
     "pickoff": "",
     "catcher": {
-      "id": "11915132",
+      "playerId": "11915132",
+      "jaRegisteredName": "坂本　誠志郎",
+      "teamCode": "T",
+      "primaryNumber": "12",
+      "primaryPosition": "Catcher",
+      "jaStatus": "支配下選手",
+      "batSide": "R",
+      "pitchHand": "R",
+      "height": "176",
+      "weight": "80",
+      "birthDate": "1993-11-10",
+      "jaNotes": "",
+      "notes": "",
       "jaBoxscoreName": "坂本",
-      "boxscoreName": "Sakamoto"
+      "boxscoreName": "Sakamoto",
+      "jaFullName": "坂本　誠志郎",
+      "jaFirstName": "誠志郎",
+      "jaLastName": "坂本",
+      "fullLFMName": "Sakamoto, Seishiro",
+      "firstName": "Seishiro",
+      "lastName": "Sakamoto"
     }
   },
   {

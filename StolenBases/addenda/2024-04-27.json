@@ -4,9 +4,27 @@
     "text": "Kuwahara steals 2nd base.",
     "pickoff": "",
     "catcher": {
-      "id": "21325136",
+      "playerId": "21325136",
+      "jaRegisteredName": "大城　卓三",
+      "teamCode": "G",
+      "primaryNumber": "24",
+      "primaryPosition": "Catcher",
+      "jaStatus": "支配下選手",
+      "batSide": "L",
+      "pitchHand": "R",
+      "height": "187",
+      "weight": "90",
+      "birthDate": "1993-02-11",
+      "jaNotes": "",
+      "notes": "",
       "jaBoxscoreName": "大城卓",
-      "boxscoreName": "T.Ohshiro"
+      "boxscoreName": "T.Ohshiro",
+      "jaFullName": "大城　卓三",
+      "jaFirstName": "卓三",
+      "jaLastName": "大城",
+      "fullLFMName": "Ohshiro, Takumi",
+      "firstName": "Takumi",
+      "lastName": "Ohshiro"
     }
   },
   {
@@ -19,9 +37,27 @@
     "text": "Sekine picked off at 1st base.",
     "pickoff": "Y",
     "catcher": {
-      "id": "21325136",
+      "playerId": "21325136",
+      "jaRegisteredName": "大城　卓三",
+      "teamCode": "G",
+      "primaryNumber": "24",
+      "primaryPosition": "Catcher",
+      "jaStatus": "支配下選手",
+      "batSide": "L",
+      "pitchHand": "R",
+      "height": "187",
+      "weight": "90",
+      "birthDate": "1993-02-11",
+      "jaNotes": "",
+      "notes": "",
       "jaBoxscoreName": "大城卓",
-      "boxscoreName": "T.Ohshiro"
+      "boxscoreName": "T.Ohshiro",
+      "jaFullName": "大城　卓三",
+      "jaFirstName": "卓三",
+      "jaLastName": "大城",
+      "fullLFMName": "Ohshiro, Takumi",
+      "firstName": "Takumi",
+      "lastName": "Ohshiro"
     }
   },
   {

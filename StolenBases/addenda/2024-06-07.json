@@ -9,9 +9,27 @@
     "text": "Namiki steals 2nd base.",
     "pickoff": "",
     "catcher": {
-      "id": "51055138",
+      "playerId": "51055138",
+      "jaRegisteredName": "田宮　裕涼",
+      "teamCode": "F",
+      "primaryNumber": "64",
+      "primaryPosition": "Catcher",
+      "jaStatus": "支配下選手",
+      "batSide": "L",
+      "pitchHand": "R",
+      "height": "175",
+      "weight": "79",
+      "birthDate": "2000-06-13",
+      "jaNotes": "",
+      "notes": "",
       "jaBoxscoreName": "田宮",
-      "boxscoreName": "Tamiya"
+      "boxscoreName": "Tamiya",
+      "jaFullName": "田宮　裕涼",
+      "jaFirstName": "裕涼",
+      "jaLastName": "田宮",
+      "fullLFMName": "Tamiya, Yua",
+      "firstName": "Yua",
+      "lastName": "Tamiya"
     }
   },
   {
@@ -19,9 +37,27 @@
     "text": "Shuto steals 2nd base.",
     "pickoff": "",
     "catcher": {
-      "id": "81185116",
+      "playerId": "81185116",
+      "jaRegisteredName": "伊藤　光",
+      "teamCode": "DB",
+      "primaryNumber": "29",
+      "primaryPosition": "Catcher",
+      "jaStatus": "支配下選手",
+      "batSide": "R",
+      "pitchHand": "R",
+      "height": "180",
+      "weight": "88",
+      "birthDate": "1989-04-23",
+      "jaNotes": "",
+      "notes": "",
       "jaBoxscoreName": "伊藤",
-      "boxscoreName": "Itoh"
+      "boxscoreName": "Itoh",
+      "jaFullName": "伊藤　光",
+      "jaFirstName": "光",
+      "jaLastName": "伊藤",
+      "fullLFMName": "Itoh, Hikaru",
+      "firstName": "Hikaru",
+      "lastName": "Itoh"
     }
   },
   {
@@ -29,9 +65,27 @@
     "text": "Yanagimachi steals 2nd base.",
     "pickoff": "",
     "catcher": {
-      "id": "81185116",
+      "playerId": "81185116",
+      "jaRegisteredName": "伊藤　光",
+      "teamCode": "DB",
+      "primaryNumber": "29",
+      "primaryPosition": "Catcher",
+      "jaStatus": "支配下選手",
+      "batSide": "R",
+      "pitchHand": "R",
+      "height": "180",
+      "weight": "88",
+      "birthDate": "1989-04-23",
+      "jaNotes": "",
+      "notes": "",
       "jaBoxscoreName": "伊藤",
-      "boxscoreName": "Itoh"
+      "boxscoreName": "Itoh",
+      "jaFullName": "伊藤　光",
+      "jaFirstName": "光",
+      "jaLastName": "伊藤",
+      "fullLFMName": "Itoh, Hikaru",
+      "firstName": "Hikaru",
+      "lastName": "Itoh"
     }
   },
   {

@@ -9,9 +9,27 @@
     "text": "Ohyama caught stealing 2nd base.",
     "pickoff": "",
     "catcher": {
-      "id": "91595136",
+      "playerId": "91595136",
+      "jaRegisteredName": "岸田　行倫",
+      "teamCode": "G",
+      "primaryNumber": "27",
+      "primaryPosition": "Catcher",
+      "jaStatus": "支配下選手",
+      "batSide": "R",
+      "pitchHand": "R",
+      "height": "176",
+      "weight": "88",
+      "birthDate": "1996-10-10",
+      "jaNotes": "",
+      "notes": "",
       "jaBoxscoreName": "岸田",
-      "boxscoreName": "Kishida"
+      "boxscoreName": "Kishida",
+      "jaFullName": "岸田　行倫",
+      "jaFirstName": "行倫",
+      "jaLastName": "岸田",
+      "fullLFMName": "Kishida, Yukinori",
+      "firstName": "Yukinori",
+      "lastName": "Kishida"
     }
   },
   {
@@ -34,7 +52,9 @@
     "jaText": "（走者・菊池）二塁盗塁失敗",
     "text": "Kikuchi caught stealing 2nd base.",
     "pickoff": "",
-    "notes": ["一塁走者 菊池 がスタート！アウトになるもその間に三塁走者 矢野 は本塁生還 広 3-1 デ 3アウト"]
+    "notes": [
+      "一塁走者 菊池 がスタート！アウトになるもその間に三塁走者 矢野 は本塁生還 広 3-1 デ 3アウト"
+    ]
   },
   {
     "jaText": "（走者・宇草）二塁盗塁失敗",
@@ -61,9 +81,27 @@
     "text": "Fukuda steals 2nd base.",
     "pickoff": "",
     "catcher": {
-      "id": "71375138",
+      "playerId": "71375138",
+      "jaRegisteredName": "太田　光",
+      "teamCode": "E",
+      "primaryNumber": "2",
+      "primaryPosition": "Catcher",
+      "jaStatus": "支配下選手",
+      "batSide": "R",
+      "pitchHand": "R",
+      "height": "178",
+      "weight": "76",
+      "birthDate": "1996-10-14",
+      "jaNotes": "",
+      "notes": "",
       "jaBoxscoreName": "太田",
-      "boxscoreName": "Ohta"
+      "boxscoreName": "Ohta",
+      "jaFullName": "太田　光",
+      "jaFirstName": "光",
+      "jaLastName": "太田",
+      "fullLFMName": "Ohta, Hikaru",
+      "firstName": "Hikaru",
+      "lastName": "Ohta"
     }
   },
   {
@@ -71,9 +109,27 @@
     "text": "Kurebayashi caught stealing 2nd base.",
     "pickoff": "",
     "catcher": {
-      "id": "71375138",
+      "playerId": "71375138",
+      "jaRegisteredName": "太田　光",
+      "teamCode": "E",
+      "primaryNumber": "2",
+      "primaryPosition": "Catcher",
+      "jaStatus": "支配下選手",
+      "batSide": "R",
+      "pitchHand": "R",
+      "height": "178",
+      "weight": "76",
+      "birthDate": "1996-10-14",
+      "jaNotes": "",
+      "notes": "",
       "jaBoxscoreName": "太田",
-      "boxscoreName": "Ohta"
+      "boxscoreName": "Ohta",
+      "jaFullName": "太田　光",
+      "jaFirstName": "光",
+      "jaLastName": "太田",
+      "fullLFMName": "Ohta, Hikaru",
+      "firstName": "Hikaru",
+      "lastName": "Ohta"
     }
   },
   {
@@ -86,9 +142,27 @@
     "text": "Fukuda steals 2nd base.",
     "pickoff": "",
     "catcher": {
-      "id": "71375138",
+      "playerId": "71375138",
+      "jaRegisteredName": "太田　光",
+      "teamCode": "E",
+      "primaryNumber": "2",
+      "primaryPosition": "Catcher",
+      "jaStatus": "支配下選手",
+      "batSide": "R",
+      "pitchHand": "R",
+      "height": "178",
+      "weight": "76",
+      "birthDate": "1996-10-14",
+      "jaNotes": "",
+      "notes": "",
       "jaBoxscoreName": "太田",
-      "boxscoreName": "Ohta"
+      "boxscoreName": "Ohta",
+      "jaFullName": "太田　光",
+      "jaFirstName": "光",
+      "jaLastName": "太田",
+      "fullLFMName": "Ohta, Hikaru",
+      "firstName": "Hikaru",
+      "lastName": "Ohta"
     }
   },
   {

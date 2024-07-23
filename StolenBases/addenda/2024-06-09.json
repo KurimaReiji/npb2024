@@ -5,9 +5,27 @@
     "pickoff": "",
     "isK": "Y",
     "catcher": {
-      "id": "91795139",
+      "playerId": "91795139",
+      "jaRegisteredName": "小林　誠司",
+      "teamCode": "G",
+      "primaryNumber": "22",
+      "primaryPosition": "Catcher",
+      "jaStatus": "支配下選手",
+      "batSide": "R",
+      "pitchHand": "R",
+      "height": "178",
+      "weight": "86",
+      "birthDate": "1989-06-07",
+      "jaNotes": "",
+      "notes": "",
       "jaBoxscoreName": "小林",
-      "boxscoreName": "Kobayashi"
+      "boxscoreName": "Kobayashi",
+      "jaFullName": "小林　誠司",
+      "jaFirstName": "誠司",
+      "jaLastName": "小林",
+      "fullLFMName": "Kobayashi, Seiji",
+      "firstName": "Seiji",
+      "lastName": "Kobayashi"
     }
   },
   {
@@ -35,9 +53,27 @@
     "text": "Kobukata steals 2nd base.",
     "pickoff": "",
     "catcher": {
-      "id": "61365132",
+      "playerId": "61365132",
+      "jaRegisteredName": "宇佐見　真吾",
+      "teamCode": "D",
+      "primaryNumber": "39",
+      "primaryPosition": "Catcher",
+      "jaStatus": "支配下選手",
+      "batSide": "L",
+      "pitchHand": "R",
+      "height": "181",
+      "weight": "88",
+      "birthDate": "1993-06-04",
+      "jaNotes": "",
+      "notes": "",
       "jaBoxscoreName": "宇佐見",
-      "boxscoreName": "Usami"
+      "boxscoreName": "Usami",
+      "jaFullName": "宇佐見　真吾",
+      "jaFirstName": "真吾",
+      "jaLastName": "宇佐見",
+      "fullLFMName": "Usami, Shingo",
+      "firstName": "Shingo",
+      "lastName": "Usami"
     }
   },
   {
@@ -45,9 +81,27 @@
     "text": "Tomosugi steals 2nd base.",
     "pickoff": "",
     "catcher": {
-      "id": "21125151",
+      "playerId": "21125151",
+      "jaRegisteredName": "石原　貴規",
+      "teamCode": "C",
+      "primaryNumber": "32",
+      "primaryPosition": "Catcher",
+      "jaStatus": "支配下選手",
+      "batSide": "R",
+      "pitchHand": "R",
+      "height": "173",
+      "weight": "85",
+      "birthDate": "1998-02-03",
+      "jaNotes": "",
+      "notes": "",
       "jaBoxscoreName": "石原",
-      "boxscoreName": "Ishihara"
+      "boxscoreName": "Ishihara",
+      "jaFullName": "石原　貴規",
+      "jaFirstName": "貴規",
+      "jaLastName": "石原",
+      "fullLFMName": "Ishihara, Tomoki",
+      "firstName": "Tomoki",
+      "lastName": "Ishihara"
     }
   },
   {
@@ -60,9 +114,27 @@
     "text": "Ogawa steals 2nd base.",
     "pickoff": "",
     "catcher": {
-      "id": "21125151",
+      "playerId": "21125151",
+      "jaRegisteredName": "石原　貴規",
+      "teamCode": "C",
+      "primaryNumber": "32",
+      "primaryPosition": "Catcher",
+      "jaStatus": "支配下選手",
+      "batSide": "R",
+      "pitchHand": "R",
+      "height": "173",
+      "weight": "85",
+      "birthDate": "1998-02-03",
+      "jaNotes": "",
+      "notes": "",
       "jaBoxscoreName": "石原",
-      "boxscoreName": "Ishihara"
+      "boxscoreName": "Ishihara",
+      "jaFullName": "石原　貴規",
+      "jaFirstName": "貴規",
+      "jaLastName": "石原",
+      "fullLFMName": "Ishihara, Tomoki",
+      "firstName": "Tomoki",
+      "lastName": "Ishihara"
     }
   }
 ]

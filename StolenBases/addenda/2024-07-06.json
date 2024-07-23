@@ -19,9 +19,27 @@
     "text": "Fukunaga caught stealing 2nd base.",
     "pickoff": "",
     "catcher": {
-      "id": "11915134",
+      "playerId": "11915134",
+      "jaRegisteredName": "坂倉　将吾",
+      "teamCode": "C",
+      "primaryNumber": "31",
+      "primaryPosition": "Catcher",
+      "jaStatus": "支配下選手",
+      "batSide": "L",
+      "pitchHand": "R",
+      "height": "177",
+      "weight": "89",
+      "birthDate": "1998-05-29",
+      "jaNotes": "",
+      "notes": "",
       "jaBoxscoreName": "坂倉",
-      "boxscoreName": "Sakakura"
+      "boxscoreName": "Sakakura",
+      "jaFullName": "坂倉　将吾",
+      "jaFirstName": "将吾",
+      "jaLastName": "坂倉",
+      "fullLFMName": "Sakakura, Shogo",
+      "firstName": "Shogo",
+      "lastName": "Sakakura"
     }
   },
   {
@@ -59,9 +77,27 @@
     "text": "Takabe caught stealing 2nd base.",
     "pickoff": "Y",
     "catcher": {
-      "id": "81785155",
+      "playerId": "81785155",
+      "jaRegisteredName": "古賀　悠斗",
+      "teamCode": "L",
+      "primaryNumber": "22",
+      "primaryPosition": "Catcher",
+      "jaStatus": "支配下選手",
+      "batSide": "R",
+      "pitchHand": "R",
+      "height": "174",
+      "weight": "86",
+      "birthDate": "1999-09-10",
+      "jaNotes": "",
+      "notes": "",
       "jaBoxscoreName": "古賀",
-      "boxscoreName": "Koga"
+      "boxscoreName": "Koga",
+      "jaFullName": "古賀　悠斗",
+      "jaFirstName": "悠斗",
+      "jaLastName": "古賀",
+      "fullLFMName": "Koga, Yuto",
+      "firstName": "Yuto",
+      "lastName": "Koga"
     }
   },
   {

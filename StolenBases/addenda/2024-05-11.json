@@ -14,9 +14,27 @@
     "text": "Hosokawa caught stealing 2nd base.",
     "pickoff": "",
     "catcher": {
-      "id": "31135114",
+      "playerId": "31135114",
+      "jaRegisteredName": "會澤　翼",
+      "teamCode": "C",
+      "primaryNumber": "27",
+      "primaryPosition": "Catcher",
+      "jaStatus": "支配下選手",
+      "batSide": "R",
+      "pitchHand": "R",
+      "height": "175",
+      "weight": "95",
+      "birthDate": "1988-04-13",
+      "jaNotes": "",
+      "notes": "",
       "jaBoxscoreName": "會澤",
-      "boxscoreName": "Aizawa"
+      "boxscoreName": "Aizawa",
+      "jaFullName": "會澤　翼",
+      "jaFirstName": "翼",
+      "jaLastName": "會澤",
+      "fullLFMName": "Aizawa, Tsubasa",
+      "firstName": "Tsubasa",
+      "lastName": "Aizawa"
     }
   },
   {
@@ -24,9 +42,27 @@
     "text": "Oda caught stealing 2nd base.",
     "pickoff": "",
     "catcher": {
-      "id": "11915134",
+      "playerId": "11915134",
+      "jaRegisteredName": "坂倉　将吾",
+      "teamCode": "C",
+      "primaryNumber": "31",
+      "primaryPosition": "Catcher",
+      "jaStatus": "支配下選手",
+      "batSide": "L",
+      "pitchHand": "R",
+      "height": "177",
+      "weight": "89",
+      "birthDate": "1998-05-29",
+      "jaNotes": "",
+      "notes": "",
       "jaBoxscoreName": "坂倉",
-      "boxscoreName": "Sakakura"
+      "boxscoreName": "Sakakura",
+      "jaFullName": "坂倉　将吾",
+      "jaFirstName": "将吾",
+      "jaLastName": "坂倉",
+      "fullLFMName": "Sakakura, Shogo",
+      "firstName": "Shogo",
+      "lastName": "Sakakura"
     }
   },
   {
@@ -43,7 +79,9 @@
     "jaText": "（走者・小郷）本塁盗塁失敗",
     "text": "Ogoh picked off and caught stealing home plate.",
     "pickoff": "Y",
-    "notes": ["三塁走者 小郷 は塁を飛び出しておりアウト 2アウト"]
+    "notes": [
+      "三塁走者 小郷 は塁を飛び出しておりアウト 2アウト"
+    ]
   },
   {
     "jaText": "（走者・三森）二塁盗塁失敗",

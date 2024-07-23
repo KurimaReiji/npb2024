@@ -4,9 +4,27 @@
     "text": "Ebina steals 2nd base.",
     "pickoff": "",
     "catcher": {
-      "id": "31735132",
+      "playerId": "31735132",
+      "jaRegisteredName": "木下　拓哉",
+      "teamCode": "D",
+      "primaryNumber": "35",
+      "primaryPosition": "Catcher",
+      "jaStatus": "支配下選手",
+      "batSide": "R",
+      "pitchHand": "R",
+      "height": "183",
+      "weight": "95",
+      "birthDate": "1991-12-18",
+      "jaNotes": "",
+      "notes": "",
       "jaBoxscoreName": "木下",
-      "boxscoreName": "Kinoshita"
+      "boxscoreName": "Kinoshita",
+      "jaFullName": "木下　拓哉",
+      "jaFirstName": "拓哉",
+      "jaLastName": "木下",
+      "fullLFMName": "Kinoshita, Takuya",
+      "firstName": "Takuya",
+      "lastName": "Kinoshita"
     }
   },
   {
@@ -14,9 +32,27 @@
     "text": "Maeda steals 2nd base.",
     "pickoff": "",
     "catcher": {
-      "id": "31735132",
+      "playerId": "31735132",
+      "jaRegisteredName": "木下　拓哉",
+      "teamCode": "D",
+      "primaryNumber": "35",
+      "primaryPosition": "Catcher",
+      "jaStatus": "支配下選手",
+      "batSide": "R",
+      "pitchHand": "R",
+      "height": "183",
+      "weight": "95",
+      "birthDate": "1991-12-18",
+      "jaNotes": "",
+      "notes": "",
       "jaBoxscoreName": "木下",
-      "boxscoreName": "Kinoshita"
+      "boxscoreName": "Kinoshita",
+      "jaFullName": "木下　拓哉",
+      "jaFirstName": "拓哉",
+      "jaLastName": "木下",
+      "fullLFMName": "Kinoshita, Takuya",
+      "firstName": "Takuya",
+      "lastName": "Kinoshita"
     }
   },
   {
@@ -24,9 +60,27 @@
     "text": "Ishikami steals 2nd base.",
     "pickoff": "",
     "catcher": {
-      "id": "31735132",
+      "playerId": "31735132",
+      "jaRegisteredName": "木下　拓哉",
+      "teamCode": "D",
+      "primaryNumber": "35",
+      "primaryPosition": "Catcher",
+      "jaStatus": "支配下選手",
+      "batSide": "R",
+      "pitchHand": "R",
+      "height": "183",
+      "weight": "95",
+      "birthDate": "1991-12-18",
+      "jaNotes": "",
+      "notes": "",
       "jaBoxscoreName": "木下",
-      "boxscoreName": "Kinoshita"
+      "boxscoreName": "Kinoshita",
+      "jaFullName": "木下　拓哉",
+      "jaFirstName": "拓哉",
+      "jaLastName": "木下",
+      "fullLFMName": "Kinoshita, Takuya",
+      "firstName": "Takuya",
+      "lastName": "Kinoshita"
     }
   },
   {
@@ -74,9 +128,27 @@
     "text": "Mimori steals 2nd base.",
     "pickoff": "",
     "catcher": {
-      "id": "61165134",
+      "playerId": "61165134",
+      "jaRegisteredName": "石原　彪",
+      "teamCode": "E",
+      "primaryNumber": "70",
+      "primaryPosition": "Catcher",
+      "jaStatus": "支配下選手",
+      "batSide": "R",
+      "pitchHand": "R",
+      "height": "172",
+      "weight": "96",
+      "birthDate": "1999-03-08",
+      "jaNotes": "",
+      "notes": "",
       "jaBoxscoreName": "石原",
-      "boxscoreName": "Ishihara"
+      "boxscoreName": "Ishihara",
+      "jaFullName": "石原　彪",
+      "jaFirstName": "彪",
+      "jaLastName": "石原",
+      "fullLFMName": "Ishihara, Tsuyoshi",
+      "firstName": "Tsuyoshi",
+      "lastName": "Ishihara"
     }
   }
 ]

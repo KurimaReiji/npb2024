@@ -4,9 +4,27 @@
     "text": "Izuguchi picked off at 2nd base.",
     "pickoff": "Y",
     "catcher": {
-      "id": "61065137",
+      "playerId": "61065137",
+      "jaRegisteredName": "伏見　寅威",
+      "teamCode": "F",
+      "primaryNumber": "23",
+      "primaryPosition": "Catcher",
+      "jaStatus": "支配下選手",
+      "batSide": "R",
+      "pitchHand": "R",
+      "height": "182",
+      "weight": "87",
+      "birthDate": "1990-05-12",
+      "jaNotes": "",
+      "notes": "",
       "jaBoxscoreName": "伏見",
-      "boxscoreName": "Fushimi"
+      "boxscoreName": "Fushimi",
+      "jaFullName": "伏見　寅威",
+      "jaFirstName": "寅威",
+      "jaLastName": "伏見",
+      "fullLFMName": "Fushimi, Torai",
+      "firstName": "Torai",
+      "lastName": "Fushimi"
     }
   },
   {
@@ -14,9 +32,27 @@
     "text": "Kadowaki steals 2nd base.",
     "pickoff": "",
     "catcher": {
-      "id": "61065137",
+      "playerId": "61065137",
+      "jaRegisteredName": "伏見　寅威",
+      "teamCode": "F",
+      "primaryNumber": "23",
+      "primaryPosition": "Catcher",
+      "jaStatus": "支配下選手",
+      "batSide": "R",
+      "pitchHand": "R",
+      "height": "182",
+      "weight": "87",
+      "birthDate": "1990-05-12",
+      "jaNotes": "",
+      "notes": "",
       "jaBoxscoreName": "伏見",
-      "boxscoreName": "Fushimi"
+      "boxscoreName": "Fushimi",
+      "jaFullName": "伏見　寅威",
+      "jaFirstName": "寅威",
+      "jaLastName": "伏見",
+      "fullLFMName": "Fushimi, Torai",
+      "firstName": "Torai",
+      "lastName": "Fushimi"
     }
   },
   {
@@ -24,9 +60,27 @@
     "text": "Kishida steals 2nd base.",
     "pickoff": "",
     "catcher": {
-      "id": "61065137",
+      "playerId": "61065137",
+      "jaRegisteredName": "伏見　寅威",
+      "teamCode": "F",
+      "primaryNumber": "23",
+      "primaryPosition": "Catcher",
+      "jaStatus": "支配下選手",
+      "batSide": "R",
+      "pitchHand": "R",
+      "height": "182",
+      "weight": "87",
+      "birthDate": "1990-05-12",
+      "jaNotes": "",
+      "notes": "",
       "jaBoxscoreName": "伏見",
-      "boxscoreName": "Fushimi"
+      "boxscoreName": "Fushimi",
+      "jaFullName": "伏見　寅威",
+      "jaFirstName": "寅威",
+      "jaLastName": "伏見",
+      "fullLFMName": "Fushimi, Torai",
+      "firstName": "Torai",
+      "lastName": "Fushimi"
     }
   },
   {
@@ -34,9 +88,27 @@
     "text": "Hatsuki steals 3rd base.",
     "pickoff": "",
     "catcher": {
-      "id": "61165134",
+      "playerId": "61165134",
+      "jaRegisteredName": "石原　彪",
+      "teamCode": "E",
+      "primaryNumber": "70",
+      "primaryPosition": "Catcher",
+      "jaStatus": "支配下選手",
+      "batSide": "R",
+      "pitchHand": "R",
+      "height": "172",
+      "weight": "96",
+      "birthDate": "1999-03-08",
+      "jaNotes": "",
+      "notes": "",
       "jaBoxscoreName": "石原",
-      "boxscoreName": "Ishihara"
+      "boxscoreName": "Ishihara",
+      "jaFullName": "石原　彪",
+      "jaFirstName": "彪",
+      "jaLastName": "石原",
+      "fullLFMName": "Ishihara, Tsuyoshi",
+      "firstName": "Tsuyoshi",
+      "lastName": "Ishihara"
     }
   },
   {
@@ -64,9 +136,27 @@
     "text": "K.Mori caught stealing 2nd base.",
     "pickoff": "",
     "catcher": {
-      "id": "81785155",
+      "playerId": "81785155",
+      "jaRegisteredName": "古賀　悠斗",
+      "teamCode": "L",
+      "primaryNumber": "22",
+      "primaryPosition": "Catcher",
+      "jaStatus": "支配下選手",
+      "batSide": "R",
+      "pitchHand": "R",
+      "height": "174",
+      "weight": "86",
+      "birthDate": "1999-09-10",
+      "jaNotes": "",
+      "notes": "",
       "jaBoxscoreName": "古賀",
-      "boxscoreName": "Koga"
+      "boxscoreName": "Koga",
+      "jaFullName": "古賀　悠斗",
+      "jaFirstName": "悠斗",
+      "jaLastName": "古賀",
+      "fullLFMName": "Koga, Yuto",
+      "firstName": "Yuto",
+      "lastName": "Koga"
     }
   },
   {
@@ -74,9 +164,27 @@
     "text": "Calixte caught stealing 2nd base.",
     "pickoff": "",
     "catcher": {
-      "id": "71075151",
+      "playerId": "71075151",
+      "jaRegisteredName": "佐藤　都志也",
+      "teamCode": "M",
+      "primaryNumber": "32",
+      "primaryPosition": "Catcher",
+      "jaStatus": "支配下選手",
+      "batSide": "L",
+      "pitchHand": "R",
+      "height": "181",
+      "weight": "86",
+      "birthDate": "1998-01-27",
+      "jaNotes": "",
+      "notes": "",
       "jaBoxscoreName": "佐藤",
-      "boxscoreName": "Satoh"
+      "boxscoreName": "Satoh",
+      "jaFullName": "佐藤　都志也",
+      "jaFirstName": "都志也",
+      "jaLastName": "佐藤",
+      "fullLFMName": "Satoh, Toshiya",
+      "firstName": "Toshiya",
+      "lastName": "Satoh"
     }
   },
   {
@@ -84,9 +192,27 @@
     "text": "Calixte steals 2nd base.",
     "pickoff": "",
     "catcher": {
-      "id": "41945137",
+      "playerId": "41945137",
+      "jaRegisteredName": "田村　龍弘",
+      "teamCode": "M",
+      "primaryNumber": "27",
+      "primaryPosition": "Catcher",
+      "jaStatus": "支配下選手",
+      "batSide": "R",
+      "pitchHand": "R",
+      "height": "172",
+      "weight": "81",
+      "birthDate": "1994-05-13",
+      "jaNotes": "",
+      "notes": "",
       "jaBoxscoreName": "田村",
-      "boxscoreName": "Tamura"
+      "boxscoreName": "Tamura",
+      "jaFullName": "田村　龍弘",
+      "jaFirstName": "龍弘",
+      "jaLastName": "田村",
+      "fullLFMName": "Tamura, Tatsuhiro",
+      "firstName": "Tatsuhiro",
+      "lastName": "Tamura"
     }
   },
   {
@@ -94,9 +220,27 @@
     "text": "Tanaka steals 2nd base.",
     "pickoff": "",
     "catcher": {
-      "id": "41945137",
+      "playerId": "41945137",
+      "jaRegisteredName": "田村　龍弘",
+      "teamCode": "M",
+      "primaryNumber": "27",
+      "primaryPosition": "Catcher",
+      "jaStatus": "支配下選手",
+      "batSide": "R",
+      "pitchHand": "R",
+      "height": "172",
+      "weight": "81",
+      "birthDate": "1994-05-13",
+      "jaNotes": "",
+      "notes": "",
       "jaBoxscoreName": "田村",
-      "boxscoreName": "Tamura"
+      "boxscoreName": "Tamura",
+      "jaFullName": "田村　龍弘",
+      "jaFirstName": "龍弘",
+      "jaLastName": "田村",
+      "fullLFMName": "Tamura, Tatsuhiro",
+      "firstName": "Tatsuhiro",
+      "lastName": "Tamura"
     }
   },
   {

@@ -4,9 +4,27 @@
     "text": "Kyoda steals 2nd base.",
     "pickoff": "",
     "catcher": {
-      "id": "31735132",
+      "playerId": "31735132",
+      "jaRegisteredName": "木下　拓哉",
+      "teamCode": "D",
+      "primaryNumber": "35",
+      "primaryPosition": "Catcher",
+      "jaStatus": "支配下選手",
+      "batSide": "R",
+      "pitchHand": "R",
+      "height": "183",
+      "weight": "95",
+      "birthDate": "1991-12-18",
+      "jaNotes": "",
+      "notes": "",
       "jaBoxscoreName": "木下",
-      "boxscoreName": "Kinoshita"
+      "boxscoreName": "Kinoshita",
+      "jaFullName": "木下　拓哉",
+      "jaFirstName": "拓哉",
+      "jaLastName": "木下",
+      "fullLFMName": "Kinoshita, Takuya",
+      "firstName": "Takuya",
+      "lastName": "Kinoshita"
     }
   },
   {
@@ -44,9 +62,27 @@
     "text": "Kobukata steals 2nd base.",
     "pickoff": "",
     "catcher": {
-      "id": "91595133",
+      "playerId": "91595133",
+      "jaRegisteredName": "甲斐　拓也",
+      "teamCode": "H",
+      "primaryNumber": "19",
+      "primaryPosition": "Catcher",
+      "jaStatus": "支配下選手",
+      "batSide": "R",
+      "pitchHand": "R",
+      "height": "170",
+      "weight": "87",
+      "birthDate": "1992-11-05",
+      "jaNotes": "",
+      "notes": "",
       "jaBoxscoreName": "甲斐",
-      "boxscoreName": "T.Kai"
+      "boxscoreName": "T.Kai",
+      "jaFullName": "甲斐　拓也",
+      "jaFirstName": "拓也",
+      "jaLastName": "甲斐",
+      "fullLFMName": "Kai, Takuya",
+      "firstName": "Takuya",
+      "lastName": "Kai"
     }
   },
   {
@@ -54,9 +90,27 @@
     "text": "Kobukata steals 2nd base.",
     "pickoff": "",
     "catcher": {
-      "id": "91595133",
+      "playerId": "91595133",
+      "jaRegisteredName": "甲斐　拓也",
+      "teamCode": "H",
+      "primaryNumber": "19",
+      "primaryPosition": "Catcher",
+      "jaStatus": "支配下選手",
+      "batSide": "R",
+      "pitchHand": "R",
+      "height": "170",
+      "weight": "87",
+      "birthDate": "1992-11-05",
+      "jaNotes": "",
+      "notes": "",
       "jaBoxscoreName": "甲斐",
-      "boxscoreName": "T.Kai"
+      "boxscoreName": "T.Kai",
+      "jaFullName": "甲斐　拓也",
+      "jaFirstName": "拓也",
+      "jaLastName": "甲斐",
+      "fullLFMName": "Kai, Takuya",
+      "firstName": "Takuya",
+      "lastName": "Kai"
     }
   },
   {
@@ -64,9 +118,27 @@
     "text": "R.Tatsumi steals 2nd base.",
     "pickoff": "",
     "catcher": {
-      "id": "91595133",
+      "playerId": "91595133",
+      "jaRegisteredName": "甲斐　拓也",
+      "teamCode": "H",
+      "primaryNumber": "19",
+      "primaryPosition": "Catcher",
+      "jaStatus": "支配下選手",
+      "batSide": "R",
+      "pitchHand": "R",
+      "height": "170",
+      "weight": "87",
+      "birthDate": "1992-11-05",
+      "jaNotes": "",
+      "notes": "",
       "jaBoxscoreName": "甲斐",
-      "boxscoreName": "T.Kai"
+      "boxscoreName": "T.Kai",
+      "jaFullName": "甲斐　拓也",
+      "jaFirstName": "拓也",
+      "jaLastName": "甲斐",
+      "fullLFMName": "Kai, Takuya",
+      "firstName": "Takuya",
+      "lastName": "Kai"
     }
   },
   {
@@ -79,9 +151,27 @@
     "text": "Kobukata caught stealing 2nd base.",
     "pickoff": "",
     "catcher": {
-      "id": "81385151",
+      "playerId": "81385151",
+      "jaRegisteredName": "海野　隆司",
+      "teamCode": "H",
+      "primaryNumber": "62",
+      "primaryPosition": "Catcher",
+      "jaStatus": "支配下選手",
+      "batSide": "R",
+      "pitchHand": "R",
+      "height": "174",
+      "weight": "84",
+      "birthDate": "1997-07-15",
+      "jaNotes": "",
+      "notes": "",
       "jaBoxscoreName": "海野",
-      "boxscoreName": "Umino"
+      "boxscoreName": "Umino",
+      "jaFullName": "海野　隆司",
+      "jaFirstName": "隆司",
+      "jaLastName": "海野",
+      "fullLFMName": "Umino, Takashi",
+      "firstName": "Takashi",
+      "lastName": "Umino"
     }
   }
 ]
