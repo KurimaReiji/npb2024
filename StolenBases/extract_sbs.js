@@ -1,7 +1,5 @@
 import { existsSync, readFileSync, writeFileSync } from "fs";
 
-const playerdb = JSON.parse(readFileSync("../docs/npb2024-players.json", "utf-8"));
-
 const infiles = process.argv.slice(2);
 infiles
   .filter((infile) => existsSync(infile))
@@ -9,19 +7,23 @@ infiles
     const inputs = JSON.parse(readFileSync(infile, "utf-8"));
     const data = inputs
       .map((obj) => {
+        const playerdb = obj.players;
         const meta = {
           date: obj.date,
           pathname: obj.pathname,
           venue: obj.venue,
           teams: obj.teams,
-          catchers: obj.battery.catchers,
+          catchers: {
+            road: obj.battery.catchers.road.map((c) => playerdb.find((p) => p.playerId === c.id)),
+            home: obj.battery.catchers.home.map((c) => playerdb.find((p) => p.playerId === c.id)),
+          },
         };
         ["road", "home"].forEach((team) => {
           Object.assign(meta.teams[team], { score: obj.boxscore.teamStats[team].batting.runs });
         });
-        return { meta, playByPlay: obj.playByPlay };
+        return { meta, playByPlay: obj.playByPlay, playerdb };
       })
-      .map(({ meta, playByPlay }) => {
+      .map(({ meta, playByPlay, playerdb }) => {
         const plays = playByPlay
           .map((p, i, a) => {
             if (p.isRunnerEvent) {
@@ -31,22 +33,18 @@ infiles
           })
           .filter((p) => p.isRunnerEvent)
         //.filter((p) => p.jaResult?.text.includes("盗塁")) || [];
-        return { plays, meta };
-      })
-      .map(({ plays, meta }) => {
-        //console.log(plays)
-        return { plays, meta };
+        return { plays, meta, playerdb };
       })
       .filter(({ plays }) => plays.length > 0)
-      .map(({ plays, meta }) => {
+      .map(({ plays, meta, playerdb }) => {
         return plays.map((play) => {
           const tb = play.inning.halfInning === "top" ? "home" : "road";
           const catcher = meta.catchers[tb].length === 1 ? meta.catchers[tb][0] : {};
           return Object.assign({}, {
             date: "",
-            runner: play.jaResult.players[0],
-            batter: play.batter,
-            pitcher: play.pitcher,
+            runner: playerdb.find((p) => p.playerId === play.jaResult.players[0].id),
+            batter: playerdb.find((p) => p.playerId === play.batter.id),
+            pitcher: playerdb.find((p) => p.playerId === play.pitcher.id),
             catcher,
             scoring: "",
             base: "",
@@ -67,21 +65,6 @@ infiles
       })
       .flat()
       .map((sb) => {
-        const runner = playerdb.find((p) => p.playerId === sb.runner.id);
-        const pitcher = playerdb.find((p) => p.playerId === sb.pitcher.id);
-        const batter = playerdb.find((p) => p.playerId === sb.batter.id);
-
-        Object.assign(sb.runner, {
-          boxscoreName: runner.boxscoreName,
-        });
-        Object.assign(sb.batter, {
-          boxscoreName: batter.boxscoreName,
-          batSide: batter.batSide,
-        });
-        Object.assign(sb.pitcher, {
-          boxscoreName: pitcher.boxscoreName,
-          pitchHand: pitcher.pitchHand,
-        });
         return sb;
       })
       .map((sb) => {
@@ -98,20 +81,6 @@ infiles
         return sb;
       })
       .map((sb) => {
-        if (sb.catcher.id) {
-          const catcher = playerdb.find((p) => p.playerId === sb.catcher.id);
-          Object.assign(sb.catcher, {
-            boxscoreName: catcher.boxscoreName,
-          });
-        }
-        ["home", "road"].forEach((t) => {
-          sb.catchers[t].forEach((c) => {
-            const catcher = playerdb.find((p) => p.playerId === c.id);
-            Object.assign(c, {
-              boxscoreName: catcher.boxscoreName,
-            });
-          })
-        });
         if (sb.halfInning === "top") sb.catchers = sb.catchers.home;
         if (sb.halfInning === "bottom") sb.catchers = sb.catchers.road;
         return sb;
