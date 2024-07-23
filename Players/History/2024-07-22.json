@@ -1,0 +1,80 @@
+[
+  {
+    "playerId": "81085153",
+    "jaRegisteredName": "佐藤　蓮",
+    "date": "2024-07-22",
+    "jaEvent": "育成選手登録抹消",
+    "jaEventDetails": "支配下選手へ移行",
+    "newValue": {
+      "teamCode": "",
+      "primaryNumber": "",
+      "primaryPosition": "",
+      "jaStatus": ""
+    }
+  },
+  {
+    "playerId": "81085153",
+    "jaRegisteredName": "佐藤　蓮",
+    "date": "2024-07-22",
+    "jaEvent": "支配下選手登録",
+    "jaEventDetails": "育成選手から移行",
+    "newValue": {
+      "teamCode": "T",
+      "primaryNumber": "98",
+      "primaryPosition": "Pitcher",
+      "jaStatus": "支配下選手"
+    }
+  },
+  {
+    "playerId": "11715138",
+    "jaRegisteredName": "川原　陸",
+    "date": "2024-07-22",
+    "jaEvent": "育成選手登録抹消",
+    "jaEventDetails": "支配下選手へ移行",
+    "newValue": {
+      "teamCode": "",
+      "primaryNumber": "",
+      "primaryPosition": "",
+      "jaStatus": ""
+    }
+  },
+  {
+    "playerId": "11715138",
+    "jaRegisteredName": "川原　陸",
+    "date": "2024-07-22",
+    "jaEvent": "支配下選手登録",
+    "jaEventDetails": "育成選手から移行",
+    "newValue": {
+      "teamCode": "T",
+      "primaryNumber": "92",
+      "primaryPosition": "Pitcher",
+      "jaStatus": "支配下選手"
+    }
+  },
+  {
+    "playerId": "91095136",
+    "jaRegisteredName": "髙橋　遥人",
+    "date": "2024-07-22",
+    "jaEvent": "育成選手登録抹消",
+    "jaEventDetails": "支配下選手へ移行",
+    "newValue": {
+      "teamCode": "",
+      "primaryNumber": "",
+      "primaryPosition": "",
+      "jaStatus": ""
+    }
+  },
+  {
+    "playerId": "91095136",
+    "jaRegisteredName": "髙橋　遥人",
+    "date": "2024-07-22",
+    "jaEvent": "支配下選手登録",
+    "jaEventDetails": "育成選手から移行",
+    "newValue": {
+      "teamCode": "T",
+      "primaryNumber": "29",
+      "primaryPosition": "Pitcher",
+      "jaStatus": "支配下選手"
+    }
+  }
+]
