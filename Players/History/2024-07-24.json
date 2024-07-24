@@ -1,0 +1,210 @@
+[
+  {
+    "playerId": "11515151",
+    "jaRegisteredName": "梅林　優貴",
+    "date": "2024-07-24",
+    "jaEvent": "育成選手登録抹消",
+    "jaEventDetails": "支配下選手へ移行",
+    "newValue": {
+      "teamCode": "",
+      "primaryNumber": "",
+      "primaryPosition": "",
+      "jaStatus": ""
+    }
+  },
+  {
+    "playerId": "11515151",
+    "jaRegisteredName": "梅林　優貴",
+    "date": "2024-07-24",
+    "jaEvent": "支配下選手登録",
+    "jaEventDetails": "育成選手から移行",
+    "newValue": {
+      "teamCode": "F",
+      "primaryNumber": "98",
+      "primaryPosition": "Catcher",
+      "jaStatus": "支配下選手"
+    }
+  },
+  {
+    "playerId": "53155157",
+    "jaRegisteredName": "宮内　春輝",
+    "date": "2024-07-24",
+    "jaEvent": "育成選手登録抹消",
+    "jaEventDetails": "支配下選手へ移行",
+    "newValue": {
+      "teamCode": "",
+      "primaryNumber": "",
+      "primaryPosition": "",
+      "jaStatus": ""
+    }
+  },
+  {
+    "playerId": "53155157",
+    "jaRegisteredName": "宮内　春輝",
+    "date": "2024-07-24",
+    "jaEvent": "支配下選手登録",
+    "jaEventDetails": "育成選手から移行",
+    "newValue": {
+      "teamCode": "F",
+      "primaryNumber": "62",
+      "primaryPosition": "Pitcher",
+      "jaStatus": "支配下選手"
+    }
+  },
+  {
+    "playerId": "51555137",
+    "jaRegisteredName": "鍵谷　陽平",
+    "date": "2024-07-24",
+    "jaEvent": "育成選手登録抹消",
+    "jaEventDetails": "支配下選手へ移行",
+    "newValue": {
+      "teamCode": "",
+      "primaryNumber": "",
+      "primaryPosition": "",
+      "jaStatus": ""
+    }
+  },
+  {
+    "playerId": "51555137",
+    "jaRegisteredName": "鍵谷　陽平",
+    "date": "2024-07-24",
+    "jaEvent": "支配下選手登録",
+    "jaEventDetails": "育成選手から移行",
+    "newValue": {
+      "teamCode": "F",
+      "primaryNumber": "60",
+      "primaryPosition": "Pitcher",
+      "jaStatus": "支配下選手"
+    }
+  },
+  {
+    "playerId": "01105151",
+    "jaRegisteredName": "石塚　綜一郎",
+    "date": "2024-07-24",
+    "jaEvent": "育成選手登録抹消",
+    "jaEventDetails": "支配下選手へ移行",
+    "newValue": {
+      "teamCode": "",
+      "primaryNumber": "",
+      "primaryPosition": "",
+      "jaStatus": ""
+    }
+  },
+  {
+    "playerId": "01105151",
+    "jaRegisteredName": "石塚　綜一郎",
+    "date": "2024-07-24",
+    "jaEvent": "支配下選手登録",
+    "jaEventDetails": "育成選手から移行",
+    "newValue": {
+      "teamCode": "H",
+      "primaryNumber": "55",
+      "primaryPosition": "Catcher",
+      "jaStatus": "支配下選手"
+    }
+  },
+  {
+    "playerId": "71875157",
+    "jaRegisteredName": "前田　純",
+    "date": "2024-07-24",
+    "jaEvent": "育成選手登録抹消",
+    "jaEventDetails": "支配下選手へ移行",
+    "newValue": {
+      "teamCode": "",
+      "primaryNumber": "",
+      "primaryPosition": "",
+      "jaStatus": ""
+    }
+  },
+  {
+    "playerId": "71875157",
+    "jaRegisteredName": "前田　純",
+    "date": "2024-07-24",
+    "jaEvent": "支配下選手登録",
+    "jaEventDetails": "育成選手から移行",
+    "newValue": {
+      "teamCode": "H",
+      "primaryNumber": "51",
+      "primaryPosition": "Pitcher",
+      "jaStatus": "支配下選手"
+    }
+  },
+  {
+    "playerId": "23125155",
+    "jaRegisteredName": "三浦　瑞樹",
+    "date": "2024-07-24",
+    "jaEvent": "育成選手登録抹消",
+    "jaEventDetails": "支配下選手へ移行",
+    "newValue": {
+      "teamCode": "",
+      "primaryNumber": "",
+      "primaryPosition": "",
+      "jaStatus": ""
+    }
+  },
+  {
+    "playerId": "23125155",
+    "jaRegisteredName": "三浦　瑞樹",
+    "date": "2024-07-24",
+    "jaEvent": "支配下選手登録",
+    "jaEventDetails": "育成選手から移行",
+    "newValue": {
+      "teamCode": "H",
+      "primaryNumber": "42",
+      "primaryPosition": "Pitcher",
+      "jaStatus": "支配下選手"
+    }
+  },
+  {
+    "playerId": "11615153",
+    "jaRegisteredName": "中村　亮太",
+    "date": "2024-07-24",
+    "jaEvent": "育成選手登録抹消",
+    "jaEventDetails": "支配下選手へ移行",
+    "newValue": {
+      "teamCode": "",
+      "primaryNumber": "",
+      "primaryPosition": "",
+      "jaStatus": ""
+    }
+  },
+  {
+    "playerId": "11615153",
+    "jaRegisteredName": "中村　亮太",
+    "date": "2024-07-24",
+    "jaEvent": "支配下選手登録",
+    "jaEventDetails": "育成選手から移行",
+    "newValue": {
+      "teamCode": "H",
+      "primaryNumber": "20",
+      "primaryPosition": "Pitcher",
+      "jaStatus": "支配下選手"
+    }
+  },
+  {
+    "playerId": "91395153",
+    "jaRegisteredName": "伊藤　優輔",
+    "date": "2024-07-24",
+    "jaEvent": "育成選手登録抹消",
+    "jaEventDetails": "支配下選手へ移行",
+    "newValue": {
+      "teamCode": "",
+      "primaryNumber": "",
+      "primaryPosition": "",
+      "jaStatus": ""
+    }
+  },
+  {
+    "playerId": "91395153",
+    "jaRegisteredName": "伊藤　優輔",
+    "date": "2024-07-24",
+    "jaEvent": "支配下選手登録",
+    "jaEventDetails": "育成選手から移行",
+    "newValue": {
+      "teamCode": "G",
+      "primaryNumber": "52",
+      "primaryPosition": "Pitcher",
+      "jaStatus": "支配下選手"
+    }
+  }
+]
