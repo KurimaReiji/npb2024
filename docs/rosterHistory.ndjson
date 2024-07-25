@@ -1176,3 +1176,5 @@
 {"playerId":"11615153","jaRegisteredName":"中村　亮太","date":"2024-07-24","jaEvent":"支配下選手登録","jaEventDetails":"育成選手から移行","newValue":{"teamCode":"H","primaryNumber":"20","primaryPosition":"Pitcher","jaStatus":"支配下選手"}}
 {"playerId":"91395153","jaRegisteredName":"伊藤　優輔","date":"2024-07-24","jaEvent":"育成選手登録抹消","jaEventDetails":"支配下選手へ移行","newValue":{"teamCode":"","primaryNumber":"","primaryPosition":"","jaStatus":""}}
 {"playerId":"91395153","jaRegisteredName":"伊藤　優輔","date":"2024-07-24","jaEvent":"支配下選手登録","jaEventDetails":"育成選手から移行","newValue":{"teamCode":"G","primaryNumber":"52","primaryPosition":"Pitcher","jaStatus":"支配下選手"}}
+{"playerId":"83585159","jaRegisteredName":"Ａ．ガルシア","date":"2024-07-25","jaEvent":"育成選手登録抹消","jaEventDetails":"支配下選手へ移行","newValue":{"teamCode":"","primaryNumber":"","primaryPosition":"","jaStatus":""}}
+{"playerId":"83585159","jaRegisteredName":"Ａ．ガルシア","date":"2024-07-25","jaEvent":"支配下選手登録","jaEventDetails":"育成選手から移行","newValue":{"teamCode":"L","primaryNumber":"78","primaryPosition":"Outfielder","jaStatus":"支配下選手"}}
