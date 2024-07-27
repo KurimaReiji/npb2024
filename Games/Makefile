@@ -8,5 +8,5 @@ all: ../docs/npb2024-results.json ../docs/npb2024-results.ndjson
 ../docs/npb2024-results.ndjson: daily/$(TODAY).json
 	node create_results.js daily/*.json > ../docs/npb2024-results.ndjson
 
-daily/$(TODAY).json: 
+daily/$(TODAY).json: ../scraped/daily/$(TODAY).json
 	node create_games.js ../scraped/daily/$(TODAY).json
