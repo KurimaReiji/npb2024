@@ -4,7 +4,7 @@ TODAY := $(shell TZ=UTC date --rfc-3339=date)
 	node create_ndjson.js
 	mv runnerEvents.ndjson ../docs/runnerEvents.ndjson
 
-daily/$(TODAY).json: ../Games/daily/$(TODAY).json
+daily/$(TODAY).json: 
 	@node extract_sbs.js ../Games/daily/$(TODAY).json
 
 addenda/$(TODAY).json:
