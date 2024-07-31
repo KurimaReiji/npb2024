@@ -108,7 +108,7 @@
   {
     "jaText": "（走者・上本）一塁牽制アウト",
     "text": "Uemoto picked off at 1st base.",
-    "pickoff": "",
+    "pickoff": "Y",
     "catcher": {
       "playerId": "23125136",
       "jaRegisteredName": "山本　祐大",
