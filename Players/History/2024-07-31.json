@@ -1,0 +1,109 @@
+[
+  {
+    "playerId": "03905159",
+    "jaRegisteredName": "Ｊ．フェルナンデス",
+    "date": "2024-07-31",
+    "jaEvent": "自由契約",
+    "jaEventDetails": "ウエイバー不請求",
+    "newValue": {
+      "teamCode": "",
+      "primaryNumber": "",
+      "primaryPosition": "",
+      "jaStatus": "退団"
+    }
+  },
+  {
+    "playerId": "13915159",
+    "jaRegisteredName": "Ｊ．ダイクストラ",
+    "date": "2024-07-31",
+    "jaEvent": "自由契約",
+    "jaEventDetails": "ウエイバー不請求",
+    "newValue": {
+      "teamCode": "",
+      "primaryNumber": "",
+      "primaryPosition": "",
+      "jaStatus": "退団"
+    }
+  },
+  {
+    "playerId": "63265159",
+    "jaRegisteredName": "Ｄ．カイケル",
+    "date": "2024-07-31",
+    "jaEvent": "支配下選手登録",
+    "newValue": {
+      "teamCode": "M",
+      "primaryNumber": "41",
+      "primaryPosition": "Pitcher",
+      "jaStatus": "支配下選手",
+      "playerId": "63265159",
+      "jaRegisteredName": "Ｄ．カイケル",
+      "batSide": "L",
+      "pitchHand": "L",
+      "height": "191",
+      "weight": "93",
+      "birthDate": "1988-01-01",
+      "jaNotes": "7/31 支配下選手登録",
+      "notes": "Registered (Jul. 31).",
+      "jaBoxscoreName": "カイケル",
+      "boxscoreName": "Keuchel",
+      "jaFullName": "ダラス・カイケル",
+      "jaFirstName": "ダラス",
+      "jaLastName": "カイケル",
+      "fullLFMName": "Keuchel, Dallas",
+      "firstName": "Dallas",
+      "lastName": "Keuchel"
+    }
+  },
+  {
+    "playerId": "41945136",
+    "jaRegisteredName": "菅野　剛士",
+    "date": "2024-07-31",
+    "jaEvent": "育成選手登録抹消",
+    "jaEventDetails": "支配下選手へ移行",
+    "newValue": {
+      "teamCode": "",
+      "primaryNumber": "",
+      "primaryPosition": "",
+      "jaStatus": ""
+    }
+  },
+  {
+    "playerId": "41945136",
+    "jaRegisteredName": "菅野　剛士",
+    "date": "2024-07-31",
+    "jaEvent": "支配下選手登録",
+    "jaEventDetails": "育成選手から移行",
+    "newValue": {
+      "teamCode": "M",
+      "primaryNumber": "64",
+      "primaryPosition": "Outfielder",
+      "jaStatus": "支配下選手"
+    }
+  },
+  {
+    "playerId": "61765153",
+    "jaRegisteredName": "河村　説人",
+    "date": "2024-07-31",
+    "jaEvent": "育成選手登録抹消",
+    "jaEventDetails": "支配下選手へ移行",
+    "newValue": {
+      "teamCode": "",
+      "primaryNumber": "",
+      "primaryPosition": "",
+      "jaStatus": ""
+    }
+  },
+  {
+    "playerId": "61765153",
+    "jaRegisteredName": "河村　説人",
+    "date": "2024-07-31",
+    "jaEvent": "支配下選手登録",
+    "jaEventDetails": "育成選手から移行",
+    "newValue": {
+      "teamCode": "M",
+      "primaryNumber": "58",
+      "primaryPosition": "Pitcher",
+      "jaStatus": "支配下選手"
+    }
+  }
+]
