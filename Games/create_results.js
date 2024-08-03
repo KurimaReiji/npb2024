@@ -7,11 +7,21 @@ const inputs = infiles.map((infile) => JSON.parse(readFileSync(infile, "utf-8"))
 const data = inputs
   .flat()
   .map((o) => {
+    const starter = Object.fromEntries(
+      ["road", "home"]
+        .map((rh) => [rh, o.battery.pitchers[rh].at(0).id])
+        .map(([rh, id]) => {
+          const pitcher = o.players.find((player) => player.playerId === id);
+          return [rh, pitcher];
+        })
+    );
+    // VS. R: Record vs. Right-handed Starting Pitchers
+    // console.log(["road", "home"].map((h) => o.battery.pitchers[h].at(0)))
     return {
       date: o.date,
       endTime: o.endTime,
-      road: { team: o.teams.road.teamName, runs: o.teamStats.road.runs },
-      home: { team: o.teams.home.teamName, runs: o.teamStats.home.runs },
+      road: { team: o.teams.road.teamName, runs: o.teamStats.road.runs, starter: starter.road.pitchHand },
+      home: { team: o.teams.home.teamName, runs: o.teamStats.home.runs, starter: starter.home.pitchHand },
     }
   })
   .sort((a, b) => {
