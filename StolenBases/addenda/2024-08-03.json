@@ -25,32 +25,7 @@
       "fullLFMName": "Sakamoto, Seishiro",
       "firstName": "Seishiro",
       "lastName": "Sakamoto"
-    },
-    "catchers": [
-      {
-        "playerId": "11915132",
-        "jaRegisteredName": "坂本　誠志郎",
-        "teamCode": "T",
-        "primaryNumber": "12",
-        "primaryPosition": "Catcher",
-        "jaStatus": "支配下選手",
-        "batSide": "R",
-        "pitchHand": "R",
-        "height": "176",
-        "weight": "80",
-        "birthDate": "1993-11-10",
-        "jaNotes": "",
-        "notes": "",
-        "jaBoxscoreName": "坂本",
-        "boxscoreName": "Sakamoto",
-        "jaFullName": "坂本　誠志郎",
-        "jaFirstName": "誠志郎",
-        "jaLastName": "坂本",
-        "fullLFMName": "Sakamoto, Seishiro",
-        "firstName": "Seishiro",
-        "lastName": "Sakamoto"
-      }
-    ]
+    }
   },
   {
     "jaText": "（走者・近本）二塁盗塁成功",
@@ -78,32 +53,7 @@
       "fullLFMName": "Yamamoto, Yuudai",
       "firstName": "Yuudai",
       "lastName": "Yamamoto"
-    },
-    "catchers": [
-      {
-        "playerId": "23125136",
-        "jaRegisteredName": "山本　祐大",
-        "teamCode": "DB",
-        "primaryNumber": "50",
-        "primaryPosition": "Catcher",
-        "jaStatus": "支配下選手",
-        "batSide": "R",
-        "pitchHand": "R",
-        "height": "180",
-        "weight": "87",
-        "birthDate": "1998-09-11",
-        "jaNotes": "",
-        "notes": "",
-        "jaBoxscoreName": "山本",
-        "boxscoreName": "Yamamoto",
-        "jaFullName": "山本　祐大",
-        "jaFirstName": "祐大",
-        "jaLastName": "山本",
-        "fullLFMName": "Yamamoto, Yuudai",
-        "firstName": "Yuudai",
-        "lastName": "Yamamoto"
-      }
-    ]
+    }
   },
   {
     "jaText": "（走者・淺間）二塁盗塁成功",
@@ -131,32 +81,7 @@
       "fullLFMName": "Kai, Takuya",
       "firstName": "Takuya",
       "lastName": "Kai"
-    },
-    "catchers": [
-      {
-        "playerId": "91595133",
-        "jaRegisteredName": "甲斐　拓也",
-        "teamCode": "H",
-        "primaryNumber": "19",
-        "primaryPosition": "Catcher",
-        "jaStatus": "支配下選手",
-        "batSide": "R",
-        "pitchHand": "R",
-        "height": "170",
-        "weight": "87",
-        "birthDate": "1992-11-05",
-        "jaNotes": "",
-        "notes": "",
-        "jaBoxscoreName": "甲斐",
-        "boxscoreName": "T.Kai",
-        "jaFullName": "甲斐　拓也",
-        "jaFirstName": "拓也",
-        "jaLastName": "甲斐",
-        "fullLFMName": "Kai, Takuya",
-        "firstName": "Takuya",
-        "lastName": "Kai"
-      }
-    ]
+    }
   },
   {
     "jaText": "（走者・周東）二塁盗塁失敗",
@@ -184,31 +109,6 @@
       "fullLFMName": "Fushimi, Torai",
       "firstName": "Torai",
       "lastName": "Fushimi"
-    },
-    "catchers": [
-      {
-        "playerId": "61065137",
-        "jaRegisteredName": "伏見　寅威",
-        "teamCode": "F",
-        "primaryNumber": "23",
-        "primaryPosition": "Catcher",
-        "jaStatus": "支配下選手",
-        "batSide": "R",
-        "pitchHand": "R",
-        "height": "182",
-        "weight": "87",
-        "birthDate": "1990-05-12",
-        "jaNotes": "",
-        "notes": "",
-        "jaBoxscoreName": "伏見",
-        "boxscoreName": "Fushimi",
-        "jaFullName": "伏見　寅威",
-        "jaFirstName": "寅威",
-        "jaLastName": "伏見",
-        "fullLFMName": "Fushimi, Torai",
-        "firstName": "Torai",
-        "lastName": "Fushimi"
-      }
-    ]
+    }
   }
 ]
