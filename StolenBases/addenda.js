@@ -10,7 +10,7 @@ if (!existsSync(infile)) {
 const inputs = JSON.parse(readFileSync(infile, "utf-8"));
 const data = inputs
   .map(({ jaText, text, pickoff, catcher, catchers }) => {
-    if (catcher.id) {
+    if (catcher.playerId) {
       return {
         jaText, text, pickoff
       }
