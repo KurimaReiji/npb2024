@@ -27,7 +27,7 @@
   {
     "jaText": "（走者・岡林）一塁牽制アウト",
     "text": "Okabayashi picked off at 1st base.",
-    "pickoff": ""
+    "pickoff": "Y"
   },
   {
     "jaText": "（走者・松本剛）二塁盗塁成功",
@@ -42,6 +42,6 @@
   {
     "jaText": "（走者・外崎）三塁盗塁失敗",
     "text": "Tonosaki caught stealing 3rd base.",
-    "pickoff": ""
+    "pickoff": "Y"
   }
 ]
