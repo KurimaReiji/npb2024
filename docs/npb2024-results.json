@@ -5371,5 +5371,32 @@
     "score": "3 - 0",
     "place": "京セラD大阪",
     "status": "試合終了"
+  },
+  {
+    "date": "2024-08-09",
+    "url": "https://npb.jp/scores/2024/0809/db-s-18/",
+    "home": "横浜DeNAベイスターズ",
+    "road": "東京ヤクルトスワローズ",
+    "score": "5 - 2",
+    "place": "横浜",
+    "status": "試合終了"
+  },
+  {
+    "date": "2024-08-09",
+    "url": "https://npb.jp/scores/2024/0809/d-g-17/",
+    "home": "中日ドラゴンズ",
+    "road": "読売ジャイアンツ",
+    "score": "9 - 2",
+    "place": "バンテリンドーム",
+    "status": "試合終了"
+  },
+  {
+    "date": "2024-08-09",
+    "url": "https://npb.jp/scores/2024/0809/t-c-17/",
+    "home": "阪神タイガース",
+    "road": "広島東洋カープ",
+    "score": "3 - 6",
+    "place": "京セラD大阪",
+    "status": "試合終了"
   }
 ]

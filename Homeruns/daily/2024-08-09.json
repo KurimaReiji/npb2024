@@ -1,0 +1,242 @@
+[
+  {
+    "id": "51555155-2024-01",
+    "date": "2024-08-09",
+    "batter": {
+      "jaBoxscoreName": "梶原",
+      "playerId": "51555155",
+      "boxscoreName": "Kajiwara",
+      "batSide": "L",
+      "teamCode": "DB",
+      "primaryNumber": "58",
+      "jaRegisteredName": "梶原　昂希",
+      "fullLFMName": "Kajiwara, Kouki"
+    },
+    "pitcher": {
+      "jaBoxscoreName": "高梨",
+      "boxscoreName": "Takanashi",
+      "pitchHand": "R",
+      "teamCode": "S",
+      "primaryNumber": "40",
+      "jaRegisteredName": "高梨　裕稔",
+      "fullLFMName": "Takanashi, Hirotoshi"
+    },
+    "number": 1,
+    "inning": 3,
+    "halfInning": "bottom",
+    "outs": 0,
+    "RoB": "1--",
+    "count": {
+      "balls": 0,
+      "strikes": 0
+    },
+    "runs": {
+      "road": 2,
+      "home": 0
+    },
+    "bop": 2,
+    "rbi": 2,
+    "whereHit": "9",
+    "venue": {
+      "jaBoxscoreName": "横浜",
+      "boxscoreName": "Yokohama",
+      "jaName": "横浜スタジアム",
+      "name": "Yokohama Stadium"
+    },
+    "teams": {
+      "road": {
+        "teamCode": "S",
+        "teamName": "Swallows",
+        "score": 2
+      },
+      "home": {
+        "teamCode": "DB",
+        "teamName": "Baystars",
+        "score": 5
+      }
+    },
+    "jaText": "ライト2ランホームラン（打点2）",
+    "text": "Kajiwara homers (1) to right field.",
+    "url": "https://npb.jp/scores/2024/0809/db-s-18/playbyplay.html#com3-2"
+  },
+  {
+    "id": "23125136-2024-03",
+    "date": "2024-08-09",
+    "batter": {
+      "jaBoxscoreName": "山本",
+      "playerId": "23125136",
+      "boxscoreName": "Yamamoto",
+      "batSide": "R",
+      "teamCode": "DB",
+      "primaryNumber": "50",
+      "jaRegisteredName": "山本　祐大",
+      "fullLFMName": "Yamamoto, Yuudai"
+    },
+    "pitcher": {
+      "jaBoxscoreName": "高梨",
+      "boxscoreName": "Takanashi",
+      "pitchHand": "R",
+      "teamCode": "S",
+      "primaryNumber": "40",
+      "jaRegisteredName": "高梨　裕稔",
+      "fullLFMName": "Takanashi, Hirotoshi"
+    },
+    "number": 3,
+    "inning": 6,
+    "halfInning": "bottom",
+    "outs": 1,
+    "RoB": "---",
+    "count": {
+      "balls": 1,
+      "strikes": 0
+    },
+    "runs": {
+      "road": 2,
+      "home": 2
+    },
+    "bop": 6,
+    "rbi": 1,
+    "whereHit": "7",
+    "venue": {
+      "jaBoxscoreName": "横浜",
+      "boxscoreName": "Yokohama",
+      "jaName": "横浜スタジアム",
+      "name": "Yokohama Stadium"
+    },
+    "teams": {
+      "road": {
+        "teamCode": "S",
+        "teamName": "Swallows",
+        "score": 2
+      },
+      "home": {
+        "teamCode": "DB",
+        "teamName": "Baystars",
+        "score": 5
+      }
+    },
+    "jaText": "レフトソロホームラン（打点1）",
+    "text": "Yamamoto homers (3) to left field.",
+    "url": "https://npb.jp/scores/2024/0809/db-s-18/playbyplay.html#com6-2"
+  },
+  {
+    "id": "31835134-2024-15",
+    "date": "2024-08-09",
+    "batter": {
+      "jaBoxscoreName": "細川",
+      "playerId": "31835134",
+      "boxscoreName": "Hosokawa",
+      "batSide": "R",
+      "teamCode": "D",
+      "primaryNumber": "55",
+      "jaRegisteredName": "細川　成也",
+      "fullLFMName": "Hosokawa, Seiya"
+    },
+    "pitcher": {
+      "jaBoxscoreName": "又木",
+      "boxscoreName": "Mataki",
+      "pitchHand": "L",
+      "teamCode": "G",
+      "primaryNumber": "46",
+      "jaRegisteredName": "又木　鉄平",
+      "fullLFMName": "Mataki, Teppei"
+    },
+    "number": 15,
+    "inning": 1,
+    "halfInning": "bottom",
+    "outs": 1,
+    "RoB": "12-",
+    "count": {
+      "balls": 0,
+      "strikes": 0
+    },
+    "runs": {
+      "road": 0,
+      "home": 0
+    },
+    "bop": 4,
+    "rbi": 3,
+    "whereHit": "78",
+    "venue": {
+      "jaBoxscoreName": "バンテリンドーム",
+      "boxscoreName": "Vantelin Dome",
+      "jaName": "バンテリンドーム ナゴヤ",
+      "name": "Vantelin Dome Nagoya"
+    },
+    "teams": {
+      "road": {
+        "teamCode": "G",
+        "teamName": "Giants",
+        "score": 2
+      },
+      "home": {
+        "teamCode": "D",
+        "teamName": "Dragons",
+        "score": 9
+      }
+    },
+    "jaText": "左中間3ランホームラン（打点3）",
+    "text": "Hosokawa homers (15) to left center.",
+    "url": "https://npb.jp/scores/2024/0809/d-g-17/playbyplay.html#com1-2"
+  },
+  {
+    "id": "31735132-2024-02",
+    "date": "2024-08-09",
+    "batter": {
+      "jaBoxscoreName": "木下",
+      "playerId": "31735132",
+      "boxscoreName": "Kinoshita",
+      "batSide": "R",
+      "teamCode": "D",
+      "primaryNumber": "35",
+      "jaRegisteredName": "木下　拓哉",
+      "fullLFMName": "Kinoshita, Takuya"
+    },
+    "pitcher": {
+      "jaBoxscoreName": "又木",
+      "boxscoreName": "Mataki",
+      "pitchHand": "L",
+      "teamCode": "G",
+      "primaryNumber": "46",
+      "jaRegisteredName": "又木　鉄平",
+      "fullLFMName": "Mataki, Teppei"
+    },
+    "number": 2,
+    "inning": 1,
+    "halfInning": "bottom",
+    "outs": 2,
+    "RoB": "--3",
+    "count": {
+      "balls": 3,
+      "strikes": 1
+    },
+    "runs": {
+      "road": 0,
+      "home": 3
+    },
+    "bop": 7,
+    "rbi": 2,
+    "whereHit": "78",
+    "venue": {
+      "jaBoxscoreName": "バンテリンドーム",
+      "boxscoreName": "Vantelin Dome",
+      "jaName": "バンテリンドーム ナゴヤ",
+      "name": "Vantelin Dome Nagoya"
+    },
+    "teams": {
+      "road": {
+        "teamCode": "G",
+        "teamName": "Giants",
+        "score": 2
+      },
+      "home": {
+        "teamCode": "D",
+        "teamName": "Dragons",
+        "score": 9
+      }
+    },
+    "jaText": "左中間2ランホームラン（打点2）",
+    "text": "Kinoshita homers (2) to left center.",
+    "url": "https://npb.jp/scores/2024/0809/d-g-17/playbyplay.html#com1-2"
+  }
+]
