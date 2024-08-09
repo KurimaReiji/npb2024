@@ -51,6 +51,14 @@ class NdJsonStream extends TransformStream {
   }
 }
 
+/**
+ * @typedef {{playerId: string, boxscoreName: string}} Player
+ */
+/**
+ * Returns NPB Players
+ * @param {string} date
+ * @returns {Promise<Object>} Promise object represents the hash of players
+ */
 const get_players = async (date = "2024-03-29") => {
   const ndjson = "https://kurimareiji.github.io/npb2024/rosterHistory.ndjson";
   const response = await fetch(ndjson, { mode: 'cors' });
@@ -61,7 +69,7 @@ const get_players = async (date = "2024-03-29") => {
     ;
   const players = {};
   for await (const cur of readable) {
-    if (cur.date > date) continue;
+    if (cur.date > date) break;
     const player = players[cur.playerId] || Object.assign({}, { ...cur }, {
       date: undefined,
       jaEvent: undefined,
@@ -112,6 +120,23 @@ const to_uniq = (acc, cur, idx, ary) => {
   return acc;
 };
 
+const Pythagorean = (rs, ra, exp = 1.83) => {
+  // The initial formula for pythagorean winning percentage was as follows: (runs scored ^ 2) / [(runs scored ^ 2) + (runs allowed ^ 2)]
+  // Baseball-Reference.com, for instance, uses 1.83 as its exponent of choice 
+  return rs ** exp / (rs ** exp + ra ** exp);
+};
+
+const get_xwl = (win, loss, rs, ra) => {
+  const wpct = Pythagorean(Number(rs), Number(ra));
+  const xWin = (Number(win) + Number(loss)) * wpct;
+  const xLoss = (Number(win) + Number(loss)) * (1 - wpct);
+  return {
+    wins: Math.round(xWin),
+    losses: Math.round(xLoss),
+    luck: win - Math.round(xWin),
+  };
+};
+
 export {
   teams_by_wpct,
   winpct,
@@ -120,4 +145,5 @@ export {
   get_players,
   get_venues,
   to_uniq,
+  get_xwl,
 }
