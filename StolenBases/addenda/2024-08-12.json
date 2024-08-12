@@ -1,0 +1,120 @@
+[
+  {
+    "jaText": "（走者・吉川）二塁盗塁成功",
+    "text": "Yoshikawa steals 2nd base.",
+    "pickoff": "",
+    "catcher": {},
+    "catchers": [
+      {
+        "playerId": "21325139",
+        "jaRegisteredName": "梅野　隆太郎",
+        "teamCode": "T",
+        "primaryNumber": "2",
+        "primaryPosition": "Catcher",
+        "jaStatus": "支配下選手",
+        "batSide": "R",
+        "pitchHand": "R",
+        "height": "173",
+        "weight": "79",
+        "birthDate": "1991-06-17",
+        "jaNotes": "",
+        "notes": "",
+        "jaBoxscoreName": "梅野",
+        "boxscoreName": "Umeno",
+        "jaFullName": "梅野　隆太郎",
+        "jaFirstName": "隆太郎",
+        "jaLastName": "梅野",
+        "fullLFMName": "Umeno, Ryutaro",
+        "firstName": "Ryutaro",
+        "lastName": "Umeno"
+      },
+      {
+        "playerId": "91495134",
+        "jaRegisteredName": "長坂　拳弥",
+        "teamCode": "T",
+        "primaryNumber": "57",
+        "primaryPosition": "Catcher",
+        "jaStatus": "支配下選手",
+        "batSide": "R",
+        "pitchHand": "R",
+        "height": "173",
+        "weight": "80",
+        "birthDate": "1994-04-28",
+        "jaNotes": "",
+        "notes": "",
+        "jaBoxscoreName": "長坂",
+        "boxscoreName": "Nagasaka",
+        "jaFullName": "長坂　拳弥",
+        "jaFirstName": "拳弥",
+        "jaLastName": "長坂",
+        "fullLFMName": "Nagasaka, Kenya",
+        "firstName": "Kenya",
+        "lastName": "Nagasaka"
+      }
+    ]
+  },
+  {
+    "jaText": "（走者・奈良間）二塁盗塁成功",
+    "text": "Narama steals 2nd base.",
+    "pickoff": "",
+    "catcher": {},
+    "catchers": [
+      {
+        "playerId": "81785155",
+        "jaRegisteredName": "古賀　悠斗",
+        "teamCode": "L",
+        "primaryNumber": "22",
+        "primaryPosition": "Catcher",
+        "jaStatus": "支配下選手",
+        "batSide": "R",
+        "pitchHand": "R",
+        "height": "174",
+        "weight": "86",
+        "birthDate": "1999-09-10",
+        "jaNotes": "",
+        "notes": "",
+        "jaBoxscoreName": "古賀",
+        "boxscoreName": "Koga",
+        "jaFullName": "古賀　悠斗",
+        "jaFirstName": "悠斗",
+        "jaLastName": "古賀",
+        "fullLFMName": "Koga, Yuto",
+        "firstName": "Yuto",
+        "lastName": "Koga"
+      },
+      {
+        "playerId": "61265151",
+        "jaRegisteredName": "柘植　世那",
+        "teamCode": "L",
+        "primaryNumber": "37",
+        "primaryPosition": "Catcher",
+        "jaStatus": "支配下選手",
+        "batSide": "R",
+        "pitchHand": "R",
+        "height": "174",
+        "weight": "88",
+        "birthDate": "1997-06-03",
+        "jaNotes": "",
+        "notes": "",
+        "jaBoxscoreName": "柘植",
+        "boxscoreName": "Tsuge",
+        "jaFullName": "柘植　世那",
+        "jaFirstName": "世那",
+        "jaLastName": "柘植",
+        "fullLFMName": "Tsuge, Sena",
+        "firstName": "Sena",
+        "lastName": "Tsuge"
+      }
+    ]
+  },
+  {
+    "jaText": "（走者・来田）二塁盗塁成功",
+    "text": "Kita steals 2nd base.",
+    "pickoff": ""
+  },
+  {
+    "jaText": "（走者・辰己）二塁盗塁成功",
+    "text": "R.Tatsumi steals 2nd base.",
+    "pickoff": ""
+  }
+]
