@@ -1,0 +1,22 @@
+[
+  {
+    "jaText": "（走者・長岡）二塁盗塁成功",
+    "text": "Nagaoka steals 2nd base.",
+    "pickoff": ""
+  },
+  {
+    "jaText": "（走者・源田）二塁盗塁成功",
+    "text": "Genda steals 2nd base.",
+    "pickoff": ""
+  },
+  {
+    "jaText": "（走者・来田）二塁盗塁失敗",
+    "text": "Kita caught stealing 2nd base.",
+    "pickoff": ""
+  },
+  {
+    "jaText": "（走者・小深田）二塁盗塁成功",
+    "text": "Kobukata steals 2nd base.",
+    "pickoff": ""
+  }
+]
