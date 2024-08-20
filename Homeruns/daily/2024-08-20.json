@@ -1,0 +1,243 @@
+[
+  {
+    "id": "11515130-2024-19",
+    "date": "2024-08-20",
+    "batter": {
+      "jaBoxscoreName": "岡本和",
+      "playerId": "11515130",
+      "boxscoreName": "K.Okamoto",
+      "batSide": "R",
+      "teamCode": "G",
+      "primaryNumber": "25",
+      "jaRegisteredName": "岡本　和真",
+      "fullLFMName": "Okamoto, Kazuma"
+    },
+    "pitcher": {
+      "jaBoxscoreName": "森下",
+      "boxscoreName": "Morishita",
+      "pitchHand": "R",
+      "teamCode": "C",
+      "primaryNumber": "18",
+      "jaRegisteredName": "森下　暢仁",
+      "fullLFMName": "Morishita, Masato"
+    },
+    "number": 19,
+    "inning": 2,
+    "halfInning": "bottom",
+    "outs": 0,
+    "RoB": "---",
+    "count": {
+      "balls": 2,
+      "strikes": 2
+    },
+    "runs": {
+      "road": 2,
+      "home": 0
+    },
+    "bop": 4,
+    "rbi": 1,
+    "whereHit": "7",
+    "venue": {
+      "jaBoxscoreName": "東京ドーム",
+      "boxscoreName": "Tokyo Dome",
+      "jaName": "東京ドーム",
+      "name": "Tokyo Dome"
+    },
+    "teams": {
+      "road": {
+        "teamCode": "C",
+        "teamName": "Carp",
+        "score": 8
+      },
+      "home": {
+        "teamCode": "G",
+        "teamName": "Giants",
+        "score": 3
+      }
+    },
+    "jaText": "レフトソロホームラン（打点1）",
+    "text": "K.Okamoto homers (19) to left field.",
+    "url": "https://npb.jp/scores/2024/0820/g-c-17/playbyplay.html#com2-2"
+  },
+  {
+    "id": "63965157-2024-07",
+    "date": "2024-08-20",
+    "batter": {
+      "jaBoxscoreName": "フランコ",
+      "playerId": "63965157",
+      "boxscoreName": "Franco",
+      "batSide": "R",
+      "teamCode": "E",
+      "primaryNumber": "23",
+      "jaRegisteredName": "Ｍ．フランコ",
+      "fullLFMName": "Franco, Maikel"
+    },
+    "pitcher": {
+      "jaBoxscoreName": "モイネロ",
+      "boxscoreName": "Moinelo",
+      "pitchHand": "L",
+      "teamCode": "H",
+      "primaryNumber": "35",
+      "jaRegisteredName": "Ｌ．モイネロ",
+      "fullLFMName": "Moinelo, Livan"
+    },
+    "number": 7,
+    "inning": 2,
+    "halfInning": "bottom",
+    "outs": 0,
+    "RoB": "1--",
+    "count": {
+      "balls": 2,
+      "strikes": 1
+    },
+    "runs": {
+      "road": 0,
+      "home": 0
+    },
+    "bop": 6,
+    "rbi": 2,
+    "whereHit": "7",
+    "venue": {
+      "jaBoxscoreName": "楽天モバイル",
+      "boxscoreName": "Rakuten Mobile",
+      "jaName": "楽天モバイルパーク宮城",
+      "name": "Rakuten Mobile Park Miyagi"
+    },
+    "teams": {
+      "road": {
+        "teamCode": "H",
+        "teamName": "Hawks",
+        "score": 0
+      },
+      "home": {
+        "teamCode": "E",
+        "teamName": "Eagles",
+        "score": 3
+      }
+    },
+    "jaText": "レフト2ランホームラン（打点2）",
+    "text": "Franco homers (7) to left field.",
+    "url": "https://npb.jp/scores/2024/0820/e-h-19/playbyplay.html#com2-2"
+  },
+  {
+    "id": "31835138-2024-05",
+    "date": "2024-08-20",
+    "batter": {
+      "jaBoxscoreName": "水谷",
+      "playerId": "31835138",
+      "boxscoreName": "Mizutani",
+      "batSide": "R",
+      "teamCode": "F",
+      "primaryNumber": "53",
+      "jaRegisteredName": "水谷　瞬",
+      "fullLFMName": "Mizutani, Shun"
+    },
+    "pitcher": {
+      "jaBoxscoreName": "小島",
+      "boxscoreName": "Ojima",
+      "pitchHand": "L",
+      "teamCode": "M",
+      "primaryNumber": "14",
+      "jaRegisteredName": "小島　和哉",
+      "fullLFMName": "Ojima, Kazuya"
+    },
+    "number": 5,
+    "inning": 1,
+    "halfInning": "top",
+    "outs": 0,
+    "RoB": "---",
+    "count": {
+      "balls": 2,
+      "strikes": 1
+    },
+    "runs": {
+      "road": 0,
+      "home": 0
+    },
+    "bop": 1,
+    "rbi": 1,
+    "whereHit": "8",
+    "venue": {
+      "jaBoxscoreName": "ZOZOマリン",
+      "boxscoreName": "ZOZO Marine",
+      "jaName": "ZOZOマリンスタジアム",
+      "name": "ZOZO Marine Stadium"
+    },
+    "teams": {
+      "road": {
+        "teamCode": "F",
+        "teamName": "Fighters",
+        "score": 5
+      },
+      "home": {
+        "teamCode": "M",
+        "teamName": "Marines",
+        "score": 3
+      }
+    },
+    "jaText": "センターソロホームラン（打点1）",
+    "text": "Mizutani homers (5) to center field.",
+    "url": "https://npb.jp/scores/2024/0820/m-f-22/playbyplay.html#com1-1",
+    "isLeadOff": "Y"
+  },
+  {
+    "id": "63165155-2024-05",
+    "date": "2024-08-20",
+    "batter": {
+      "jaBoxscoreName": "水野",
+      "playerId": "63165155",
+      "boxscoreName": "Mizuno",
+      "batSide": "L",
+      "teamCode": "F",
+      "primaryNumber": "43",
+      "jaRegisteredName": "水野　達稀",
+      "fullLFMName": "Mizuno, Tatsuki"
+    },
+    "pitcher": {
+      "jaBoxscoreName": "小島",
+      "boxscoreName": "Ojima",
+      "pitchHand": "L",
+      "teamCode": "M",
+      "primaryNumber": "14",
+      "jaRegisteredName": "小島　和哉",
+      "fullLFMName": "Ojima, Kazuya"
+    },
+    "number": 5,
+    "inning": 3,
+    "halfInning": "top",
+    "outs": 0,
+    "RoB": "---",
+    "count": {
+      "balls": 2,
+      "strikes": 1
+    },
+    "runs": {
+      "road": 1,
+      "home": 0
+    },
+    "bop": 9,
+    "rbi": 1,
+    "whereHit": "78",
+    "venue": {
+      "jaBoxscoreName": "ZOZOマリン",
+      "boxscoreName": "ZOZO Marine",
+      "jaName": "ZOZOマリンスタジアム",
+      "name": "ZOZO Marine Stadium"
+    },
+    "teams": {
+      "road": {
+        "teamCode": "F",
+        "teamName": "Fighters",
+        "score": 5
+      },
+      "home": {
+        "teamCode": "M",
+        "teamName": "Marines",
+        "score": 3
+      }
+    },
+    "jaText": "左中間ソロホームラン（打点1）",
+    "text": "Mizuno homers (5) to left center.",
+    "url": "https://npb.jp/scores/2024/0820/m-f-22/playbyplay.html#com3-1"
+  }
+]

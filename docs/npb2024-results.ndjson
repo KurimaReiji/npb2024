@@ -646,3 +646,9 @@
 {"date":"2024-08-18","endTime":"19:40","road":{"team":"Lions","runs":1,"starter":"L"},"home":{"team":"Eagles","runs":6,"starter":"R"}}
 {"date":"2024-08-18","endTime":"21:03","road":{"team":"Carp","runs":8,"starter":"R"},"home":{"team":"Swallows","runs":2,"starter":"L"}}
 {"date":"2024-08-18","endTime":"21:48","road":{"team":"Giants","runs":1,"starter":"R"},"home":{"team":"Baystars","runs":2,"starter":"L"}}
+{"date":"2024-08-20","endTime":"20:45","road":{"team":"Hawks","runs":0,"starter":"L"},"home":{"team":"Eagles","runs":3,"starter":"L"}}
+{"date":"2024-08-20","endTime":"20:57","road":{"team":"Swallows","runs":3,"starter":"R"},"home":{"team":"Tigers","runs":8,"starter":"R"}}
+{"date":"2024-08-20","endTime":"21:13","road":{"team":"Buffaloes","runs":0,"starter":"L"},"home":{"team":"Lions","runs":1,"starter":"R"}}
+{"date":"2024-08-20","endTime":"21:15","road":{"team":"Carp","runs":8,"starter":"R"},"home":{"team":"Giants","runs":3,"starter":"R"}}
+{"date":"2024-08-20","endTime":"21:16","road":{"team":"Fighters","runs":5,"starter":"R"},"home":{"team":"Marines","runs":3,"starter":"L"}}
+{"date":"2024-08-20","endTime":"21:22","road":{"team":"Dragons","runs":2,"starter":"R"},"home":{"team":"Baystars","runs":4,"starter":"R"}}
