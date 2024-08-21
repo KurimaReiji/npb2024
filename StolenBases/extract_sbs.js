@@ -77,7 +77,10 @@ infiles
       .map((sb) => {
         if (sb.jaText.includes("盗塁成功")) sb.scoring = "StolenBase";
         if (sb.jaText.includes("盗塁失敗")) sb.scoring = "CaughtStealing";
-        if (sb.jaText.includes("牽制アウト")) sb.scoring = "PickedOff";
+        if (sb.jaText.includes("牽制アウト")) {
+          sb.scoring = "PickedOff";
+          sb.pickoff = "Y";
+        }
         return sb;
       })
       .map((sb) => {

@@ -1008,7 +1008,7 @@
     },
     "scoring": "PickedOff",
     "base": "2B",
-    "pickoff": "",
+    "pickoff": "Y",
     "inning": 7,
     "halfInning": "bottom",
     "outs": 0,
