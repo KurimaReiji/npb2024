@@ -1,0 +1,101 @@
+[
+  {
+    "jaText": "（走者・小園）二塁盗塁失敗",
+    "text": "Kozono caught stealing 2nd base.",
+    "pickoff": ""
+  },
+  {
+    "jaText": "（走者・羽月）二塁盗塁失敗",
+    "text": "Hatsuki caught stealing 2nd base.",
+    "pickoff": ""
+  },
+  {
+    "jaText": "（走者・内山）二塁盗塁成功",
+    "text": "Uchiyama steals 2nd base.",
+    "pickoff": ""
+  },
+  {
+    "jaText": "（走者・サンタナ）二塁盗塁成功",
+    "text": "Santana steals 2nd base.",
+    "pickoff": ""
+  },
+  {
+    "jaText": "（走者・近藤）二塁盗塁成功",
+    "text": "Kondoh steals 2nd base.",
+    "pickoff": "",
+    "catcher": {},
+    "catchers": [
+      {
+        "playerId": "61165134",
+        "jaRegisteredName": "石原　彪",
+        "teamCode": "E",
+        "primaryNumber": "70",
+        "primaryPosition": "Catcher",
+        "jaStatus": "支配下選手",
+        "batSide": "R",
+        "pitchHand": "R",
+        "height": "172",
+        "weight": "96",
+        "birthDate": "1999-03-08",
+        "jaNotes": "",
+        "notes": "",
+        "jaBoxscoreName": "石原",
+        "boxscoreName": "Ishihara",
+        "jaFullName": "石原　彪",
+        "jaFirstName": "彪",
+        "jaLastName": "石原",
+        "fullLFMName": "Ishihara, Tsuyoshi",
+        "firstName": "Tsuyoshi",
+        "lastName": "Ishihara"
+      },
+      {
+        "playerId": "71375138",
+        "jaRegisteredName": "太田　光",
+        "teamCode": "E",
+        "primaryNumber": "2",
+        "primaryPosition": "Catcher",
+        "jaStatus": "支配下選手",
+        "batSide": "R",
+        "pitchHand": "R",
+        "height": "178",
+        "weight": "76",
+        "birthDate": "1996-10-14",
+        "jaNotes": "",
+        "notes": "",
+        "jaBoxscoreName": "太田",
+        "boxscoreName": "Ohta",
+        "jaFullName": "太田　光",
+        "jaFirstName": "光",
+        "jaLastName": "太田",
+        "fullLFMName": "Ohta, Hikaru",
+        "firstName": "Hikaru",
+        "lastName": "Ohta"
+      }
+    ]
+  },
+  {
+    "jaText": "（走者・佐藤龍）二塁盗塁失敗",
+    "text": "R.Satoh caught stealing 2nd base.",
+    "pickoff": ""
+  },
+  {
+    "jaText": "（走者・滝澤）二塁牽制アウト",
+    "text": "Takizawa picked off at 2nd base.",
+    "pickoff": ""
+  },
+  {
+    "jaText": "（走者・野村大）本塁盗塁失敗",
+    "text": "D.Nomura caught stealing home plate.",
+    "pickoff": ""
+  },
+  {
+    "jaText": "（走者・源田）二塁盗塁成功",
+    "text": "Genda steals 2nd base.",
+    "pickoff": ""
+  },
+  {
+    "jaText": "（走者・髙部）二塁盗塁成功",
+    "text": "Takabe steals 2nd base.",
+    "pickoff": ""
+  }
+]
