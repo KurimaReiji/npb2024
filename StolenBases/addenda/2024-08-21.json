@@ -12,7 +12,7 @@
   {
     "jaText": "（走者・内山）二塁盗塁成功",
     "text": "Uchiyama steals 2nd base.",
-    "pickoff": ""
+    "pickoff": "Y"
   },
   {
     "jaText": "（走者・サンタナ）二塁盗塁成功",
@@ -60,7 +60,7 @@
   {
     "jaText": "（走者・野村大）本塁盗塁失敗",
     "text": "D.Nomura caught stealing home plate.",
-    "pickoff": "Y"
+    "pickoff": ""
   },
   {
     "jaText": "（走者・源田）二塁盗塁成功",
