@@ -21,8 +21,8 @@
   },
   {
     "jaText": "（走者・渡部）二塁盗塁失敗",
-    "text": "Watanabe caught stealing 2nd base.",
-    "pickoff": ""
+    "text": "Watanabe picked off and caught stealing 2nd base.",
+    "pickoff": "Y"
   },
   {
     "jaText": "（走者・西野）二塁盗塁失敗",
