@@ -1,0 +1,76 @@
+[
+  {
+    "jaText": "（走者・長岡）二塁盗塁成功",
+    "text": "Nagaoka steals 2nd base.",
+    "pickoff": ""
+  },
+  {
+    "jaText": "（走者・中村奨）二塁盗塁失敗",
+    "text": "S.Nakamura caught stealing 2nd base.",
+    "pickoff": "",
+    "catcher": {},
+    "catchers": [
+      {
+        "playerId": "11915132",
+        "jaRegisteredName": "坂本　誠志郎",
+        "teamCode": "T",
+        "primaryNumber": "12",
+        "primaryPosition": "Catcher",
+        "jaStatus": "支配下選手",
+        "batSide": "R",
+        "pitchHand": "R",
+        "height": "176",
+        "weight": "80",
+        "birthDate": "1993-11-10",
+        "jaNotes": "",
+        "notes": "",
+        "jaBoxscoreName": "坂本",
+        "boxscoreName": "Sakamoto",
+        "jaFullName": "坂本　誠志郎",
+        "jaFirstName": "誠志郎",
+        "jaLastName": "坂本",
+        "fullLFMName": "Sakamoto, Seishiro",
+        "firstName": "Seishiro",
+        "lastName": "Sakamoto"
+      },
+      {
+        "playerId": "21325139",
+        "jaRegisteredName": "梅野　隆太郎",
+        "teamCode": "T",
+        "primaryNumber": "2",
+        "primaryPosition": "Catcher",
+        "jaStatus": "支配下選手",
+        "batSide": "R",
+        "pitchHand": "R",
+        "height": "173",
+        "weight": "79",
+        "birthDate": "1991-06-17",
+        "jaNotes": "",
+        "notes": "",
+        "jaBoxscoreName": "梅野",
+        "boxscoreName": "Umeno",
+        "jaFullName": "梅野　隆太郎",
+        "jaFirstName": "隆太郎",
+        "jaLastName": "梅野",
+        "fullLFMName": "Umeno, Ryutaro",
+        "firstName": "Ryutaro",
+        "lastName": "Umeno"
+      }
+    ]
+  },
+  {
+    "jaText": "（走者・郡司）二塁盗塁失敗",
+    "text": "Gunji caught stealing 2nd base.",
+    "pickoff": ""
+  },
+  {
+    "jaText": "（走者・清宮）二塁盗塁失敗",
+    "text": "Kiyomiya caught stealing 2nd base.",
+    "pickoff": ""
+  },
+  {
+    "jaText": "（走者・外崎）二塁盗塁成功",
+    "text": "Tonosaki steals 2nd base.",
+    "pickoff": ""
+  }
+]
