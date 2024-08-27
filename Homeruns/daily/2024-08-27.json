@@ -1,0 +1,243 @@
+[
+  {
+    "id": "11515130-2024-21",
+    "date": "2024-08-27",
+    "batter": {
+      "jaBoxscoreName": "岡本和",
+      "playerId": "11515130",
+      "boxscoreName": "K.Okamoto",
+      "batSide": "R",
+      "teamCode": "G",
+      "primaryNumber": "25",
+      "jaRegisteredName": "岡本　和真",
+      "fullLFMName": "Okamoto, Kazuma"
+    },
+    "pitcher": {
+      "jaBoxscoreName": "原",
+      "boxscoreName": "Hara",
+      "pitchHand": "R",
+      "teamCode": "S",
+      "primaryNumber": "16",
+      "jaRegisteredName": "原　樹理",
+      "fullLFMName": "Hara, Juri"
+    },
+    "number": 21,
+    "inning": 5,
+    "halfInning": "top",
+    "outs": 1,
+    "RoB": "---",
+    "count": {
+      "balls": 2,
+      "strikes": 2
+    },
+    "runs": {
+      "road": 4,
+      "home": 0
+    },
+    "bop": 4,
+    "rbi": 1,
+    "whereHit": "7",
+    "venue": {
+      "jaBoxscoreName": "神宮",
+      "boxscoreName": "Jingu",
+      "jaName": "神宮",
+      "name": "Jingu Stadium"
+    },
+    "teams": {
+      "road": {
+        "teamCode": "G",
+        "teamName": "Giants",
+        "score": 5
+      },
+      "home": {
+        "teamCode": "S",
+        "teamName": "Swallows",
+        "score": 2
+      }
+    },
+    "jaText": "レフトソロホームラン（打点1）",
+    "text": "K.Okamoto homers (21) to left field.",
+    "url": "https://npb.jp/scores/2024/0827/s-g-18/playbyplay.html#com5-1"
+  },
+  {
+    "id": "11015138-2024-06",
+    "date": "2024-08-27",
+    "batter": {
+      "jaBoxscoreName": "辰己",
+      "playerId": "11015138",
+      "boxscoreName": "R.Tatsumi",
+      "batSide": "L",
+      "teamCode": "E",
+      "primaryNumber": "8",
+      "jaRegisteredName": "辰己　涼介",
+      "fullLFMName": "Tatsumi, Ryosuke"
+    },
+    "pitcher": {
+      "jaBoxscoreName": "池田",
+      "boxscoreName": "Ikeda",
+      "pitchHand": "R",
+      "teamCode": "F",
+      "primaryNumber": "52",
+      "jaRegisteredName": "池田　隆英",
+      "fullLFMName": "Ikeda, Takahide"
+    },
+    "number": 6,
+    "inning": 8,
+    "halfInning": "top",
+    "outs": 1,
+    "RoB": "---",
+    "count": {
+      "balls": 2,
+      "strikes": 2
+    },
+    "runs": {
+      "road": 1,
+      "home": 2
+    },
+    "bop": 3,
+    "rbi": 1,
+    "whereHit": "7",
+    "venue": {
+      "jaBoxscoreName": "エスコンＦ",
+      "boxscoreName": "ES CON FIELD",
+      "jaName": "エスコンフィールドＨＯＫＫＡＩＤＯ",
+      "name": "ES CON FIELD HOKKAIDO"
+    },
+    "teams": {
+      "road": {
+        "teamCode": "E",
+        "teamName": "Eagles",
+        "score": 3
+      },
+      "home": {
+        "teamCode": "F",
+        "teamName": "Fighters",
+        "score": 3
+      }
+    },
+    "jaText": "レフトソロホームラン（打点1）",
+    "text": "R.Tatsumi homers (6) to left field.",
+    "url": "https://npb.jp/scores/2024/0827/f-e-17/playbyplay.html#com8-1"
+  },
+  {
+    "id": "31835138-2024-06",
+    "date": "2024-08-27",
+    "batter": {
+      "jaBoxscoreName": "水谷",
+      "playerId": "31835138",
+      "boxscoreName": "Mizutani",
+      "batSide": "R",
+      "teamCode": "F",
+      "primaryNumber": "53",
+      "jaRegisteredName": "水谷　瞬",
+      "fullLFMName": "Mizutani, Shun"
+    },
+    "pitcher": {
+      "jaBoxscoreName": "早川",
+      "boxscoreName": "Hayakawa",
+      "pitchHand": "L",
+      "teamCode": "E",
+      "primaryNumber": "21",
+      "jaRegisteredName": "早川　隆久",
+      "fullLFMName": "Hayakawa, Takahisa"
+    },
+    "number": 6,
+    "inning": 1,
+    "halfInning": "bottom",
+    "outs": 0,
+    "RoB": "---",
+    "count": {
+      "balls": 3,
+      "strikes": 1
+    },
+    "runs": {
+      "road": 0,
+      "home": 0
+    },
+    "bop": 1,
+    "rbi": 1,
+    "whereHit": "8",
+    "venue": {
+      "jaBoxscoreName": "エスコンＦ",
+      "boxscoreName": "ES CON FIELD",
+      "jaName": "エスコンフィールドＨＯＫＫＡＩＤＯ",
+      "name": "ES CON FIELD HOKKAIDO"
+    },
+    "teams": {
+      "road": {
+        "teamCode": "E",
+        "teamName": "Eagles",
+        "score": 3
+      },
+      "home": {
+        "teamCode": "F",
+        "teamName": "Fighters",
+        "score": 3
+      }
+    },
+    "jaText": "センターソロホームラン（打点1）",
+    "text": "Mizutani homers (6) to center field.",
+    "url": "https://npb.jp/scores/2024/0827/f-e-17/playbyplay.html#com1-2",
+    "isLeadOff": "Y"
+  },
+  {
+    "id": "81885155-2024-04",
+    "date": "2024-08-27",
+    "batter": {
+      "jaBoxscoreName": "正木",
+      "playerId": "81885155",
+      "boxscoreName": "Masaki",
+      "batSide": "R",
+      "teamCode": "H",
+      "primaryNumber": "31",
+      "jaRegisteredName": "正木　智也",
+      "fullLFMName": "Masaki, Tomoya"
+    },
+    "pitcher": {
+      "jaBoxscoreName": "田嶋",
+      "boxscoreName": "Tajima",
+      "pitchHand": "L",
+      "teamCode": "B",
+      "primaryNumber": "29",
+      "jaRegisteredName": "田嶋　大樹",
+      "fullLFMName": "Tajima, Daiki"
+    },
+    "number": 4,
+    "inning": 2,
+    "halfInning": "bottom",
+    "outs": 0,
+    "RoB": "---",
+    "count": {
+      "balls": 2,
+      "strikes": 1
+    },
+    "runs": {
+      "road": 1,
+      "home": 0
+    },
+    "bop": 6,
+    "rbi": 1,
+    "whereHit": "78",
+    "venue": {
+      "jaBoxscoreName": "みずほPayPay",
+      "boxscoreName": "MIZUHO PayPay",
+      "jaName": "みずほPayPayドーム福岡",
+      "name": "MIZUHO PayPay Dome FUKUOKA"
+    },
+    "teams": {
+      "road": {
+        "teamCode": "B",
+        "teamName": "Buffaloes",
+        "score": 1
+      },
+      "home": {
+        "teamCode": "H",
+        "teamName": "Hawks",
+        "score": 3
+      }
+    },
+    "jaText": "左中間ソロホームラン（打点1）",
+    "text": "Masaki homers (4) to left center.",
+    "url": "https://npb.jp/scores/2024/0827/h-b-16/playbyplay.html#com2-2"
+  }
+]
