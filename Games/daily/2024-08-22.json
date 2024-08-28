@@ -17942,7 +17942,7 @@
             "pitchesThrown": 151,
             "battersFaced": 40,
             "inningsPitched": 9,
-            "hits": 7,
+            "hits": 8,
             "homeRuns": 1,
             "baseOnBalls": 4,
             "hitByPitch": 1,
@@ -17957,7 +17957,7 @@
           "batting": {
             "atBats": 34,
             "runs": 3,
-            "hits": 7,
+            "hits": 8,
             "rbi": 3,
             "stolenBases": 3
           },
@@ -18338,7 +18338,7 @@
         },
         "jaResult": {
           "players": [],
-          "text": "ファーストゴロ（エラー）"
+          "text": "ライト線ツーベース"
         },
         "pitcher": {
           "id": "41545132",
@@ -18354,7 +18354,7 @@
           "road": 0,
           "home": 2
         },
-        "errors": 1
+        "hits": 1
       },
       {
         "inning": {
@@ -21109,13 +21109,13 @@
     "teamStats": {
       "home": {
         "runs": 3,
-        "hits": 7,
+        "hits": 8,
         "errors": 0
       },
       "road": {
         "runs": 4,
         "hits": 6,
-        "errors": 2
+        "errors": 1
       }
     },
     "innings": [
