@@ -1,0 +1,182 @@
+[
+  {
+    "id": "61365132-2024-02",
+    "date": "2024-08-29",
+    "batter": {
+      "jaBoxscoreName": "宇佐見",
+      "playerId": "61365132",
+      "boxscoreName": "Usami",
+      "batSide": "L",
+      "teamCode": "D",
+      "primaryNumber": "39",
+      "jaRegisteredName": "宇佐見　真吾",
+      "fullLFMName": "Usami, Shingo"
+    },
+    "pitcher": {
+      "jaBoxscoreName": "九里",
+      "boxscoreName": "Kuri",
+      "pitchHand": "R",
+      "teamCode": "C",
+      "primaryNumber": "11",
+      "jaRegisteredName": "九里　亜蓮",
+      "fullLFMName": "Kuri, Aren"
+    },
+    "number": 2,
+    "inning": 4,
+    "halfInning": "bottom",
+    "outs": 2,
+    "RoB": "1--",
+    "count": {
+      "balls": 0,
+      "strikes": 0
+    },
+    "runs": {
+      "road": 0,
+      "home": 0
+    },
+    "bop": 5,
+    "rbi": 2,
+    "whereHit": "9",
+    "venue": {
+      "jaBoxscoreName": "バンテリンドーム",
+      "boxscoreName": "Vantelin Dome",
+      "jaName": "バンテリンドーム ナゴヤ",
+      "name": "Vantelin Dome Nagoya"
+    },
+    "teams": {
+      "road": {
+        "teamCode": "C",
+        "teamName": "Carp",
+        "score": 1
+      },
+      "home": {
+        "teamCode": "D",
+        "teamName": "Dragons",
+        "score": 5
+      }
+    },
+    "jaText": "ライト2ランホームラン（打点2）",
+    "text": "Usami homers (2) to right field.",
+    "url": "https://npb.jp/scores/2024/0829/d-c-19/playbyplay.html#com4-2"
+  },
+  {
+    "id": "31835134-2024-17",
+    "date": "2024-08-29",
+    "batter": {
+      "jaBoxscoreName": "細川",
+      "playerId": "31835134",
+      "boxscoreName": "Hosokawa",
+      "batSide": "R",
+      "teamCode": "D",
+      "primaryNumber": "55",
+      "jaRegisteredName": "細川　成也",
+      "fullLFMName": "Hosokawa, Seiya"
+    },
+    "pitcher": {
+      "jaBoxscoreName": "コルニエル",
+      "boxscoreName": "Corniel",
+      "pitchHand": "R",
+      "teamCode": "C",
+      "primaryNumber": "98",
+      "jaRegisteredName": "Ｒ．コルニエル",
+      "fullLFMName": "Corniel, Robert"
+    },
+    "number": 17,
+    "inning": 8,
+    "halfInning": "bottom",
+    "outs": 0,
+    "RoB": "1--",
+    "count": {
+      "balls": 0,
+      "strikes": 0
+    },
+    "runs": {
+      "road": 1,
+      "home": 3
+    },
+    "bop": 4,
+    "rbi": 2,
+    "whereHit": "8",
+    "venue": {
+      "jaBoxscoreName": "バンテリンドーム",
+      "boxscoreName": "Vantelin Dome",
+      "jaName": "バンテリンドーム ナゴヤ",
+      "name": "Vantelin Dome Nagoya"
+    },
+    "teams": {
+      "road": {
+        "teamCode": "C",
+        "teamName": "Carp",
+        "score": 1
+      },
+      "home": {
+        "teamCode": "D",
+        "teamName": "Dragons",
+        "score": 5
+      }
+    },
+    "jaText": "センター2ランホームラン（打点2）",
+    "text": "Hosokawa homers (17) to center field.",
+    "url": "https://npb.jp/scores/2024/0829/d-c-19/playbyplay.html#com8-2"
+  },
+  {
+    "id": "81785138-2024-04",
+    "date": "2024-08-29",
+    "batter": {
+      "jaBoxscoreName": "佐藤龍",
+      "playerId": "81785138",
+      "boxscoreName": "R.Satoh",
+      "batSide": "R",
+      "teamCode": "L",
+      "primaryNumber": "10",
+      "jaRegisteredName": "佐藤　龍世",
+      "fullLFMName": "Satoh, Ryusei"
+    },
+    "pitcher": {
+      "jaBoxscoreName": "カイケル",
+      "boxscoreName": "Keuchel",
+      "pitchHand": "L",
+      "teamCode": "M",
+      "primaryNumber": "41",
+      "jaRegisteredName": "Ｄ．カイケル",
+      "fullLFMName": "Keuchel, Dallas"
+    },
+    "number": 4,
+    "inning": 1,
+    "halfInning": "top",
+    "outs": 2,
+    "RoB": "--3",
+    "count": {
+      "balls": 1,
+      "strikes": 2
+    },
+    "runs": {
+      "road": 0,
+      "home": 0
+    },
+    "bop": 4,
+    "rbi": 2,
+    "whereHit": "7",
+    "venue": {
+      "jaBoxscoreName": "ZOZOマリン",
+      "boxscoreName": "ZOZO Marine",
+      "jaName": "ZOZOマリンスタジアム",
+      "name": "ZOZO Marine Stadium"
+    },
+    "teams": {
+      "road": {
+        "teamCode": "L",
+        "teamName": "Lions",
+        "score": 8
+      },
+      "home": {
+        "teamCode": "M",
+        "teamName": "Marines",
+        "score": 0
+      }
+    },
+    "jaText": "レフト2ランホームラン（打点2）",
+    "text": "R.Satoh homers (4) to left field.",
+    "url": "https://npb.jp/scores/2024/0829/m-l-17/playbyplay.html#com1-1"
+  }
+]
