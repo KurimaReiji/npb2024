@@ -1,0 +1,27 @@
+[
+  {
+    "jaText": "（走者・小深田）二塁盗塁成功",
+    "text": "Kobukata steals 2nd base.",
+    "pickoff": ""
+  },
+  {
+    "jaText": "（走者・福田）二塁盗塁失敗",
+    "text": "Fukuda caught stealing 2nd base.",
+    "pickoff": ""
+  },
+  {
+    "jaText": "（走者・松本剛）三塁盗塁成功（ダブルスチール）",
+    "text": "G.Matsumoto steals 3rd base.",
+    "pickoff": ""
+  },
+  {
+    "jaText": "（走者・田宮）二塁盗塁成功（ダブルスチール）",
+    "text": "Tamiya steals 2nd base.",
+    "pickoff": ""
+  },
+  {
+    "jaText": "（走者・スティーブンソン）二塁盗塁失敗",
+    "text": "Stevenson caught stealing 2nd base.",
+    "pickoff": ""
+  }
+]
