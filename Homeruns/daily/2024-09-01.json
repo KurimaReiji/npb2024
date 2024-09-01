@@ -1,0 +1,302 @@
+[
+  {
+    "id": "93395153-2024-02",
+    "date": "2024-09-01",
+    "batter": {
+      "jaBoxscoreName": "矢野",
+      "playerId": "93395153",
+      "boxscoreName": "Yano",
+      "batSide": "L",
+      "teamCode": "C",
+      "primaryNumber": "61",
+      "jaRegisteredName": "矢野　雅哉",
+      "fullLFMName": "Yano, Masaya"
+    },
+    "pitcher": {
+      "jaBoxscoreName": "ロドリゲス",
+      "boxscoreName": "Rodriguez",
+      "pitchHand": "R",
+      "teamCode": "S",
+      "primaryNumber": "37",
+      "jaRegisteredName": "Ｅ．ロドリゲス",
+      "fullLFMName": "Rodriguez, Elvin"
+    },
+    "number": 2,
+    "inning": 6,
+    "halfInning": "bottom",
+    "outs": 2,
+    "RoB": "-23",
+    "count": {
+      "balls": 2,
+      "strikes": 2
+    },
+    "runs": {
+      "road": 0,
+      "home": 2
+    },
+    "bop": 7,
+    "rbi": 3,
+    "whereHit": "8",
+    "venue": {
+      "jaBoxscoreName": "マツダスタジアム",
+      "boxscoreName": "Mazda Stadium",
+      "jaName": "MAZDA Zoom-Zoom スタジアム広島",
+      "name": "MAZDA Zoom-Zoom Stadium Hiroshima"
+    },
+    "teams": {
+      "road": {
+        "teamCode": "S",
+        "teamName": "Swallows",
+        "score": 1
+      },
+      "home": {
+        "teamCode": "C",
+        "teamName": "Carp",
+        "score": 5
+      }
+    },
+    "jaText": "センターランニング3ランホームラン（打点3）",
+    "text": "Yano homers (2) to center field.",
+    "url": "https://npb.jp/scores/2024/0901/c-s-18/playbyplay.html#com6-2"
+  },
+  {
+    "id": "73075159-2024-17",
+    "date": "2024-09-01",
+    "batter": {
+      "jaBoxscoreName": "レイエス",
+      "playerId": "73075159",
+      "boxscoreName": "Reyes",
+      "batSide": "R",
+      "teamCode": "F",
+      "primaryNumber": "99",
+      "jaRegisteredName": "Ｆ．レイエス",
+      "fullLFMName": "Reyes, Franmil"
+    },
+    "pitcher": {
+      "jaBoxscoreName": "武内",
+      "boxscoreName": "Takeuchi",
+      "pitchHand": "L",
+      "teamCode": "L",
+      "primaryNumber": "21",
+      "jaRegisteredName": "武内　夏暉",
+      "fullLFMName": "Takeuchi, Natsuki"
+    },
+    "number": 17,
+    "inning": 6,
+    "halfInning": "top",
+    "outs": 0,
+    "RoB": "---",
+    "count": {
+      "balls": 1,
+      "strikes": 0
+    },
+    "runs": {
+      "road": 2,
+      "home": 0
+    },
+    "bop": 4,
+    "rbi": 1,
+    "whereHit": "8",
+    "venue": {
+      "jaBoxscoreName": "ベルーナドーム",
+      "boxscoreName": "Belluna Dome",
+      "jaName": "ベルーナドーム",
+      "name": "Belluna Dome"
+    },
+    "teams": {
+      "road": {
+        "teamCode": "F",
+        "teamName": "Fighters",
+        "score": 5
+      },
+      "home": {
+        "teamCode": "L",
+        "teamName": "Lions",
+        "score": 6
+      }
+    },
+    "jaText": "センターソロホームラン（打点1）",
+    "text": "Reyes homers (17) to center field.",
+    "url": "https://npb.jp/scores/2024/0901/l-f-20/playbyplay.html#com6-1"
+  },
+  {
+    "id": "51455136-2024-04",
+    "date": "2024-09-01",
+    "batter": {
+      "jaBoxscoreName": "西川",
+      "playerId": "51455136",
+      "boxscoreName": "Nishikawa",
+      "batSide": "L",
+      "teamCode": "L",
+      "primaryNumber": "51",
+      "jaRegisteredName": "西川　愛也",
+      "fullLFMName": "Nishikawa, Manaya"
+    },
+    "pitcher": {
+      "jaBoxscoreName": "北山",
+      "boxscoreName": "Kitayama",
+      "pitchHand": "R",
+      "teamCode": "F",
+      "primaryNumber": "57",
+      "jaRegisteredName": "北山　亘基",
+      "fullLFMName": "Kitayama, Koki"
+    },
+    "number": 4,
+    "inning": 6,
+    "halfInning": "bottom",
+    "outs": 1,
+    "RoB": "1--",
+    "count": {
+      "balls": 0,
+      "strikes": 1
+    },
+    "runs": {
+      "road": 3,
+      "home": 0
+    },
+    "bop": 3,
+    "rbi": 2,
+    "whereHit": "9",
+    "venue": {
+      "jaBoxscoreName": "ベルーナドーム",
+      "boxscoreName": "Belluna Dome",
+      "jaName": "ベルーナドーム",
+      "name": "Belluna Dome"
+    },
+    "teams": {
+      "road": {
+        "teamCode": "F",
+        "teamName": "Fighters",
+        "score": 5
+      },
+      "home": {
+        "teamCode": "L",
+        "teamName": "Lions",
+        "score": 6
+      }
+    },
+    "jaText": "ライト2ランホームラン（打点2）",
+    "text": "Nishikawa homers (4) to right field.",
+    "url": "https://npb.jp/scores/2024/0901/l-f-20/playbyplay.html#com6-2"
+  },
+  {
+    "id": "41745135-2024-19",
+    "date": "2024-09-01",
+    "batter": {
+      "jaBoxscoreName": "近藤",
+      "playerId": "41745135",
+      "boxscoreName": "Kondoh",
+      "batSide": "L",
+      "teamCode": "H",
+      "primaryNumber": "3",
+      "jaRegisteredName": "近藤　健介",
+      "fullLFMName": "Kondoh, Kensuke"
+    },
+    "pitcher": {
+      "jaBoxscoreName": "東妻",
+      "boxscoreName": "Azuma",
+      "pitchHand": "R",
+      "teamCode": "M",
+      "primaryNumber": "24",
+      "jaRegisteredName": "東妻　勇輔",
+      "fullLFMName": "Azuma, Yusuke"
+    },
+    "number": 19,
+    "inning": 5,
+    "halfInning": "top",
+    "outs": 1,
+    "RoB": "---",
+    "count": {
+      "balls": 1,
+      "strikes": 1
+    },
+    "runs": {
+      "road": 4,
+      "home": 0
+    },
+    "bop": 5,
+    "rbi": 1,
+    "whereHit": "7",
+    "venue": {
+      "jaBoxscoreName": "ZOZOマリン",
+      "boxscoreName": "ZOZO Marine",
+      "jaName": "ZOZOマリンスタジアム",
+      "name": "ZOZO Marine Stadium"
+    },
+    "teams": {
+      "road": {
+        "teamCode": "H",
+        "teamName": "Hawks",
+        "score": 10
+      },
+      "home": {
+        "teamCode": "M",
+        "teamName": "Marines",
+        "score": 2
+      }
+    },
+    "jaText": "レフトソロホームラン（打点1）",
+    "text": "Kondoh homers (19) to left field.",
+    "url": "https://npb.jp/scores/2024/0901/m-h-24/playbyplay.html#com5-1"
+  },
+  {
+    "id": "81885155-2024-05",
+    "date": "2024-09-01",
+    "batter": {
+      "jaBoxscoreName": "正木",
+      "playerId": "81885155",
+      "boxscoreName": "Masaki",
+      "batSide": "R",
+      "teamCode": "H",
+      "primaryNumber": "31",
+      "jaRegisteredName": "正木　智也",
+      "fullLFMName": "Masaki, Tomoya"
+    },
+    "pitcher": {
+      "jaBoxscoreName": "坂本",
+      "boxscoreName": "Sakamoto",
+      "pitchHand": "L",
+      "teamCode": "M",
+      "primaryNumber": "36",
+      "jaRegisteredName": "坂本　光士郎",
+      "fullLFMName": "Sakamoto, Koshiro"
+    },
+    "number": 5,
+    "inning": 7,
+    "halfInning": "top",
+    "outs": 0,
+    "RoB": "-2-",
+    "count": {
+      "balls": 0,
+      "strikes": 1
+    },
+    "runs": {
+      "road": 5,
+      "home": 0
+    },
+    "bop": 6,
+    "rbi": 2,
+    "whereHit": "7",
+    "venue": {
+      "jaBoxscoreName": "ZOZOマリン",
+      "boxscoreName": "ZOZO Marine",
+      "jaName": "ZOZOマリンスタジアム",
+      "name": "ZOZO Marine Stadium"
+    },
+    "teams": {
+      "road": {
+        "teamCode": "H",
+        "teamName": "Hawks",
+        "score": 10
+      },
+      "home": {
+        "teamCode": "M",
+        "teamName": "Marines",
+        "score": 2
+      }
+    },
+    "jaText": "レフト2ランホームラン（打点2）",
+    "text": "Masaki homers (5) to left field.",
+    "url": "https://npb.jp/scores/2024/0901/m-h-24/playbyplay.html#com7-1"
+  }
+]

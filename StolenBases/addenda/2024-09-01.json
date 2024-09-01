@@ -1,0 +1,81 @@
+[
+  {
+    "jaText": "（走者・廣岡）一塁牽制アウト",
+    "text": "Hirooka picked off at 1st base.",
+    "pickoff": "Y"
+  },
+  {
+    "jaText": "（走者・小郷）二塁盗塁成功",
+    "text": "Ogoh steals 2nd base.",
+    "pickoff": ""
+  },
+  {
+    "jaText": "（走者・小郷）二塁盗塁成功",
+    "text": "Ogoh steals 2nd base.",
+    "pickoff": ""
+  },
+  {
+    "jaText": "（走者・山足）二塁盗塁成功",
+    "text": "Yamaashi steals 2nd base.",
+    "pickoff": ""
+  },
+  {
+    "jaText": "（走者・滝澤）二塁盗塁成功",
+    "text": "Takizawa steals 2nd base.",
+    "pickoff": ""
+  },
+  {
+    "jaText": "（走者・淺間）二塁盗塁成功",
+    "text": "Asama steals 2nd base.",
+    "pickoff": "",
+    "catcher": {},
+    "catchers": [
+      {
+        "playerId": "91995112",
+        "jaRegisteredName": "炭谷　銀仁朗",
+        "teamCode": "L",
+        "primaryNumber": "27",
+        "primaryPosition": "Catcher",
+        "jaStatus": "支配下選手",
+        "batSide": "R",
+        "pitchHand": "R",
+        "height": "181",
+        "weight": "98",
+        "birthDate": "1987-07-19",
+        "jaNotes": "",
+        "notes": "",
+        "jaBoxscoreName": "炭谷",
+        "boxscoreName": "Sumitani",
+        "jaFullName": "炭谷　銀仁朗",
+        "jaFirstName": "銀仁朗",
+        "jaLastName": "炭谷",
+        "fullLFMName": "Sumitani, Ginjiro",
+        "firstName": "Ginjiro",
+        "lastName": "Sumitani"
+      },
+      {
+        "playerId": "81785155",
+        "jaRegisteredName": "古賀　悠斗",
+        "teamCode": "L",
+        "primaryNumber": "22",
+        "primaryPosition": "Catcher",
+        "jaStatus": "支配下選手",
+        "batSide": "R",
+        "pitchHand": "R",
+        "height": "174",
+        "weight": "86",
+        "birthDate": "1999-09-10",
+        "jaNotes": "",
+        "notes": "",
+        "jaBoxscoreName": "古賀",
+        "boxscoreName": "Koga",
+        "jaFullName": "古賀　悠斗",
+        "jaFirstName": "悠斗",
+        "jaLastName": "古賀",
+        "fullLFMName": "Koga, Yuto",
+        "firstName": "Yuto",
+        "lastName": "Koga"
+      }
+    ]
+  }
+]
