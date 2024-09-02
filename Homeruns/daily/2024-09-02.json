@@ -1,0 +1,62 @@
+[
+  {
+    "id": "91395138-2024-03",
+    "date": "2024-09-02",
+    "batter": {
+      "jaBoxscoreName": "太田",
+      "playerId": "91395138",
+      "boxscoreName": "Ohta",
+      "batSide": "R",
+      "teamCode": "B",
+      "primaryNumber": "31",
+      "jaRegisteredName": "太田　椋",
+      "fullLFMName": "Ohta, Ryo"
+    },
+    "pitcher": {
+      "jaBoxscoreName": "瀧中",
+      "boxscoreName": "Takinaka",
+      "pitchHand": "R",
+      "teamCode": "E",
+      "primaryNumber": "57",
+      "jaRegisteredName": "瀧中　瞭太",
+      "fullLFMName": "Takinaka, Ryota"
+    },
+    "number": 3,
+    "inning": 3,
+    "halfInning": "top",
+    "outs": 2,
+    "RoB": "---",
+    "count": {
+      "balls": 0,
+      "strikes": 0
+    },
+    "runs": {
+      "road": 1,
+      "home": 1
+    },
+    "bop": 3,
+    "rbi": 1,
+    "whereHit": "7",
+    "venue": {
+      "jaBoxscoreName": "楽天モバイル",
+      "boxscoreName": "Rakuten Mobile",
+      "jaName": "楽天モバイルパーク宮城",
+      "name": "Rakuten Mobile Park Miyagi"
+    },
+    "teams": {
+      "road": {
+        "teamCode": "B",
+        "teamName": "Buffaloes",
+        "score": 2
+      },
+      "home": {
+        "teamCode": "E",
+        "teamName": "Eagles",
+        "score": 5
+      }
+    },
+    "jaText": "レフトソロホームラン（打点1）",
+    "text": "Ohta homers (3) to left field.",
+    "url": "https://npb.jp/scores/2024/0902/e-b-22/playbyplay.html#com3-1"
+  }
+]
