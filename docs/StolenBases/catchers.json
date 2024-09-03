@@ -1,0 +1,1705 @@
+{
+  "updated": "2024-09-03",
+  "teamStats": [
+    {
+      "teamCode": "T",
+      "teamName": "Tigers",
+      "team": {
+        "stats": {
+          "cs": 15,
+          "sb": 55,
+          "ds": 1,
+          "rate": ".217",
+          "pickoff": {
+            "pickoff": 15,
+            "cs": 5,
+            "sb": 2
+          }
+        }
+      },
+      "catchers": [
+        {
+          "catcher": {
+            "playerId": "21325139",
+            "jaRegisteredName": "梅野　隆太郎",
+            "teamCode": "T",
+            "primaryNumber": "2",
+            "primaryPosition": "Catcher",
+            "jaStatus": "支配下選手",
+            "batSide": "R",
+            "pitchHand": "R",
+            "height": "173",
+            "weight": "79",
+            "birthDate": "1991-06-17",
+            "jaNotes": "",
+            "notes": "",
+            "jaBoxscoreName": "梅野",
+            "boxscoreName": "Umeno",
+            "jaFullName": "梅野　隆太郎",
+            "jaFirstName": "隆太郎",
+            "jaLastName": "梅野",
+            "fullLFMName": "Umeno, Ryutaro",
+            "firstName": "Ryutaro",
+            "lastName": "Umeno"
+          },
+          "stats": {
+            "cs": 10,
+            "sb": 35,
+            "ds": 1,
+            "rate": ".227",
+            "pickoff": {
+              "pickoff": 9,
+              "cs": 5,
+              "sb": 2
+            }
+          }
+        },
+        {
+          "catcher": {
+            "playerId": "11915132",
+            "jaRegisteredName": "坂本　誠志郎",
+            "teamCode": "T",
+            "primaryNumber": "12",
+            "primaryPosition": "Catcher",
+            "jaStatus": "支配下選手",
+            "batSide": "R",
+            "pitchHand": "R",
+            "height": "176",
+            "weight": "80",
+            "birthDate": "1993-11-10",
+            "jaNotes": "",
+            "notes": "",
+            "jaBoxscoreName": "坂本",
+            "boxscoreName": "Sakamoto",
+            "jaFullName": "坂本　誠志郎",
+            "jaFirstName": "誠志郎",
+            "jaLastName": "坂本",
+            "fullLFMName": "Sakamoto, Seishiro",
+            "firstName": "Seishiro",
+            "lastName": "Sakamoto"
+          },
+          "stats": {
+            "cs": 5,
+            "sb": 20,
+            "ds": 0,
+            "rate": ".200",
+            "pickoff": {
+              "pickoff": 6,
+              "cs": 0,
+              "sb": 0
+            }
+          }
+        }
+      ]
+    },
+    {
+      "teamCode": "C",
+      "teamName": "Carp",
+      "team": {
+        "stats": {
+          "cs": 18,
+          "sb": 32,
+          "ds": 0,
+          "rate": ".360",
+          "pickoff": {
+            "pickoff": 10,
+            "cs": 1,
+            "sb": 1
+          }
+        }
+      },
+      "catchers": [
+        {
+          "catcher": {
+            "playerId": "21125151",
+            "jaRegisteredName": "石原　貴規",
+            "teamCode": "C",
+            "primaryNumber": "32",
+            "primaryPosition": "Catcher",
+            "jaStatus": "支配下選手",
+            "batSide": "R",
+            "pitchHand": "R",
+            "height": "173",
+            "weight": "85",
+            "birthDate": "1998-02-03",
+            "jaNotes": "",
+            "notes": "",
+            "jaBoxscoreName": "石原",
+            "boxscoreName": "Ishihara",
+            "jaFullName": "石原　貴規",
+            "jaFirstName": "貴規",
+            "jaLastName": "石原",
+            "fullLFMName": "Ishihara, Tomoki",
+            "firstName": "Tomoki",
+            "lastName": "Ishihara"
+          },
+          "stats": {
+            "cs": 9,
+            "sb": 12,
+            "ds": 0,
+            "rate": ".429",
+            "pickoff": {
+              "pickoff": 2,
+              "cs": 0,
+              "sb": 1
+            }
+          }
+        },
+        {
+          "catcher": {
+            "playerId": "11915134",
+            "jaRegisteredName": "坂倉　将吾",
+            "teamCode": "C",
+            "primaryNumber": "31",
+            "primaryPosition": "Catcher",
+            "jaStatus": "支配下選手",
+            "batSide": "L",
+            "pitchHand": "R",
+            "height": "177",
+            "weight": "89",
+            "birthDate": "1998-05-29",
+            "jaNotes": "",
+            "notes": "",
+            "jaBoxscoreName": "坂倉",
+            "boxscoreName": "Sakakura",
+            "jaFullName": "坂倉　将吾",
+            "jaFirstName": "将吾",
+            "jaLastName": "坂倉",
+            "fullLFMName": "Sakakura, Shogo",
+            "firstName": "Shogo",
+            "lastName": "Sakakura"
+          },
+          "stats": {
+            "cs": 7,
+            "sb": 13,
+            "ds": 0,
+            "rate": ".350",
+            "pickoff": {
+              "pickoff": 6,
+              "cs": 1,
+              "sb": 0
+            }
+          }
+        },
+        {
+          "catcher": {
+            "playerId": "31135114",
+            "jaRegisteredName": "會澤　翼",
+            "teamCode": "C",
+            "primaryNumber": "27",
+            "primaryPosition": "Catcher",
+            "jaStatus": "支配下選手",
+            "batSide": "R",
+            "pitchHand": "R",
+            "height": "175",
+            "weight": "95",
+            "birthDate": "1988-04-13",
+            "jaNotes": "",
+            "notes": "",
+            "jaBoxscoreName": "會澤",
+            "boxscoreName": "Aizawa",
+            "jaFullName": "會澤　翼",
+            "jaFirstName": "翼",
+            "jaLastName": "會澤",
+            "fullLFMName": "Aizawa, Tsubasa",
+            "firstName": "Tsubasa",
+            "lastName": "Aizawa"
+          },
+          "stats": {
+            "cs": 2,
+            "sb": 7,
+            "ds": 0,
+            "rate": ".222",
+            "pickoff": {
+              "pickoff": 2,
+              "cs": 0,
+              "sb": 0
+            }
+          }
+        }
+      ]
+    },
+    {
+      "teamCode": "DB",
+      "teamName": "Baystars",
+      "team": {
+        "stats": {
+          "cs": 24,
+          "sb": 50,
+          "ds": 0,
+          "rate": ".324",
+          "pickoff": {
+            "pickoff": 11,
+            "cs": 3,
+            "sb": 1
+          }
+        }
+      },
+      "catchers": [
+        {
+          "catcher": {
+            "playerId": "23125136",
+            "jaRegisteredName": "山本　祐大",
+            "teamCode": "DB",
+            "primaryNumber": "50",
+            "primaryPosition": "Catcher",
+            "jaStatus": "支配下選手",
+            "batSide": "R",
+            "pitchHand": "R",
+            "height": "180",
+            "weight": "87",
+            "birthDate": "1998-09-11",
+            "jaNotes": "",
+            "notes": "",
+            "jaBoxscoreName": "山本",
+            "boxscoreName": "Yamamoto",
+            "jaFullName": "山本　祐大",
+            "jaFirstName": "祐大",
+            "jaLastName": "山本",
+            "fullLFMName": "Yamamoto, Yuudai",
+            "firstName": "Yuudai",
+            "lastName": "Yamamoto"
+          },
+          "stats": {
+            "cs": 19,
+            "sb": 29,
+            "ds": 0,
+            "rate": ".396",
+            "pickoff": {
+              "pickoff": 8,
+              "cs": 1,
+              "sb": 1
+            }
+          }
+        },
+        {
+          "catcher": {
+            "playerId": "81185116",
+            "jaRegisteredName": "伊藤　光",
+            "teamCode": "DB",
+            "primaryNumber": "29",
+            "primaryPosition": "Catcher",
+            "jaStatus": "支配下選手",
+            "batSide": "R",
+            "pitchHand": "R",
+            "height": "180",
+            "weight": "88",
+            "birthDate": "1989-04-23",
+            "jaNotes": "",
+            "notes": "",
+            "jaBoxscoreName": "伊藤",
+            "boxscoreName": "Itoh",
+            "jaFullName": "伊藤　光",
+            "jaFirstName": "光",
+            "jaLastName": "伊藤",
+            "fullLFMName": "Itoh, Hikaru",
+            "firstName": "Hikaru",
+            "lastName": "Itoh"
+          },
+          "stats": {
+            "cs": 3,
+            "sb": 13,
+            "ds": 0,
+            "rate": ".188",
+            "pickoff": {
+              "pickoff": 1,
+              "cs": 1,
+              "sb": 0
+            }
+          }
+        },
+        {
+          "catcher": {
+            "playerId": "41245132",
+            "jaRegisteredName": "戸柱　恭孝",
+            "teamCode": "DB",
+            "primaryNumber": "10",
+            "primaryPosition": "Catcher",
+            "jaStatus": "支配下選手",
+            "batSide": "L",
+            "pitchHand": "R",
+            "height": "179",
+            "weight": "90",
+            "birthDate": "1990-04-11",
+            "jaNotes": "",
+            "notes": "",
+            "jaBoxscoreName": "戸柱",
+            "boxscoreName": "Tobashira",
+            "jaFullName": "戸柱　恭孝",
+            "jaFirstName": "恭孝",
+            "jaLastName": "戸柱",
+            "fullLFMName": "Tobashira, Yasutaka",
+            "firstName": "Yasutaka",
+            "lastName": "Tobashira"
+          },
+          "stats": {
+            "cs": 2,
+            "sb": 7,
+            "ds": 0,
+            "rate": ".222",
+            "pickoff": {
+              "pickoff": 1,
+              "cs": 0,
+              "sb": 0
+            }
+          }
+        },
+        {
+          "catcher": {
+            "playerId": "21825157",
+            "jaRegisteredName": "松尾　汐恩",
+            "teamCode": "DB",
+            "primaryNumber": "5",
+            "primaryPosition": "Catcher",
+            "jaStatus": "支配下選手",
+            "batSide": "R",
+            "pitchHand": "R",
+            "height": "178",
+            "weight": "82",
+            "birthDate": "2004-07-06",
+            "jaNotes": "",
+            "notes": "",
+            "jaBoxscoreName": "松尾",
+            "boxscoreName": "Matsuo",
+            "jaFullName": "松尾　汐恩",
+            "jaFirstName": "汐恩",
+            "jaLastName": "松尾",
+            "fullLFMName": "Matsuo, Shion",
+            "firstName": "Shion",
+            "lastName": "Matsuo"
+          },
+          "stats": {
+            "cs": 0,
+            "sb": 1,
+            "ds": 0,
+            "rate": ".000",
+            "pickoff": {
+              "pickoff": 1,
+              "cs": 1,
+              "sb": 0
+            }
+          }
+        }
+      ]
+    },
+    {
+      "teamCode": "G",
+      "teamName": "Giants",
+      "team": {
+        "stats": {
+          "cs": 26,
+          "sb": 33,
+          "ds": 0,
+          "rate": ".441",
+          "pickoff": {
+            "pickoff": 9,
+            "cs": 4,
+            "sb": 1
+          }
+        }
+      },
+      "catchers": [
+        {
+          "catcher": {
+            "playerId": "91595136",
+            "jaRegisteredName": "岸田　行倫",
+            "teamCode": "G",
+            "primaryNumber": "27",
+            "primaryPosition": "Catcher",
+            "jaStatus": "支配下選手",
+            "batSide": "R",
+            "pitchHand": "R",
+            "height": "176",
+            "weight": "88",
+            "birthDate": "1996-10-10",
+            "jaNotes": "",
+            "notes": "",
+            "jaBoxscoreName": "岸田",
+            "boxscoreName": "Kishida",
+            "jaFullName": "岸田　行倫",
+            "jaFirstName": "行倫",
+            "jaLastName": "岸田",
+            "fullLFMName": "Kishida, Yukinori",
+            "firstName": "Yukinori",
+            "lastName": "Kishida"
+          },
+          "stats": {
+            "cs": 18,
+            "sb": 17,
+            "ds": 0,
+            "rate": ".514",
+            "pickoff": {
+              "pickoff": 4,
+              "cs": 2,
+              "sb": 0
+            }
+          }
+        },
+        {
+          "catcher": {
+            "playerId": "91795139",
+            "jaRegisteredName": "小林　誠司",
+            "teamCode": "G",
+            "primaryNumber": "22",
+            "primaryPosition": "Catcher",
+            "jaStatus": "支配下選手",
+            "batSide": "R",
+            "pitchHand": "R",
+            "height": "178",
+            "weight": "86",
+            "birthDate": "1989-06-07",
+            "jaNotes": "",
+            "notes": "",
+            "jaBoxscoreName": "小林",
+            "boxscoreName": "Kobayashi",
+            "jaFullName": "小林　誠司",
+            "jaFirstName": "誠司",
+            "jaLastName": "小林",
+            "fullLFMName": "Kobayashi, Seiji",
+            "firstName": "Seiji",
+            "lastName": "Kobayashi"
+          },
+          "stats": {
+            "cs": 4,
+            "sb": 13,
+            "ds": 0,
+            "rate": ".235",
+            "pickoff": {
+              "pickoff": 1,
+              "cs": 0,
+              "sb": 0
+            }
+          }
+        },
+        {
+          "catcher": {
+            "playerId": "21325136",
+            "jaRegisteredName": "大城　卓三",
+            "teamCode": "G",
+            "primaryNumber": "24",
+            "primaryPosition": "Catcher",
+            "jaStatus": "支配下選手",
+            "batSide": "L",
+            "pitchHand": "R",
+            "height": "187",
+            "weight": "90",
+            "birthDate": "1993-02-11",
+            "jaNotes": "",
+            "notes": "",
+            "jaBoxscoreName": "大城卓",
+            "boxscoreName": "T.Ohshiro",
+            "jaFullName": "大城　卓三",
+            "jaFirstName": "卓三",
+            "jaLastName": "大城",
+            "fullLFMName": "Ohshiro, Takumi",
+            "firstName": "Takumi",
+            "lastName": "Ohshiro"
+          },
+          "stats": {
+            "cs": 4,
+            "sb": 3,
+            "ds": 0,
+            "rate": ".571",
+            "pickoff": {
+              "pickoff": 4,
+              "cs": 2,
+              "sb": 1
+            }
+          }
+        }
+      ]
+    },
+    {
+      "teamCode": "S",
+      "teamName": "Swallows",
+      "team": {
+        "stats": {
+          "cs": 28,
+          "sb": 40,
+          "ds": 0,
+          "rate": ".412",
+          "pickoff": {
+            "pickoff": 7,
+            "cs": 3,
+            "sb": 0
+          }
+        }
+      },
+      "catchers": [
+        {
+          "catcher": {
+            "playerId": "51255118",
+            "jaRegisteredName": "中村　悠平",
+            "teamCode": "S",
+            "primaryNumber": "27",
+            "primaryPosition": "Catcher",
+            "jaStatus": "支配下選手",
+            "batSide": "R",
+            "pitchHand": "R",
+            "height": "176",
+            "weight": "79",
+            "birthDate": "1990-06-17",
+            "jaNotes": "",
+            "notes": "",
+            "jaBoxscoreName": "中村",
+            "boxscoreName": "Nakamura",
+            "jaFullName": "中村　悠平",
+            "jaFirstName": "悠平",
+            "jaLastName": "中村",
+            "fullLFMName": "Nakamura, Yuhei",
+            "firstName": "Yuhei",
+            "lastName": "Nakamura"
+          },
+          "stats": {
+            "cs": 18,
+            "sb": 23,
+            "ds": 0,
+            "rate": ".439",
+            "pickoff": {
+              "pickoff": 3,
+              "cs": 0,
+              "sb": 0
+            }
+          }
+        },
+        {
+          "catcher": {
+            "playerId": "51855136",
+            "jaRegisteredName": "松本　直樹",
+            "teamCode": "S",
+            "primaryNumber": "32",
+            "primaryPosition": "Catcher",
+            "jaStatus": "支配下選手",
+            "batSide": "R",
+            "pitchHand": "R",
+            "height": "177",
+            "weight": "82",
+            "birthDate": "1993-10-17",
+            "jaNotes": "",
+            "notes": "",
+            "jaBoxscoreName": "松本直",
+            "boxscoreName": "N.Matsumoto",
+            "jaFullName": "松本　直樹",
+            "jaFirstName": "直樹",
+            "jaLastName": "松本",
+            "fullLFMName": "Matsumoto, Naoki",
+            "firstName": "Naoki",
+            "lastName": "Matsumoto"
+          },
+          "stats": {
+            "cs": 10,
+            "sb": 15,
+            "ds": 0,
+            "rate": ".400",
+            "pickoff": {
+              "pickoff": 3,
+              "cs": 3,
+              "sb": 0
+            }
+          }
+        },
+        {
+          "catcher": {
+            "playerId": "41245133",
+            "jaRegisteredName": "西田　明央",
+            "teamCode": "S",
+            "primaryNumber": "30",
+            "primaryPosition": "Catcher",
+            "jaStatus": "支配下選手",
+            "batSide": "R",
+            "pitchHand": "R",
+            "height": "178",
+            "weight": "98",
+            "birthDate": "1992-04-28",
+            "jaNotes": "",
+            "notes": "",
+            "jaBoxscoreName": "西田",
+            "boxscoreName": "Nishida",
+            "jaFullName": "西田　明央",
+            "jaFirstName": "明央",
+            "jaLastName": "西田",
+            "fullLFMName": "Nishida, Akihisa",
+            "firstName": "Akihisa",
+            "lastName": "Nishida"
+          },
+          "stats": {
+            "cs": 0,
+            "sb": 2,
+            "ds": 0,
+            "rate": ".000",
+            "pickoff": {
+              "pickoff": 0,
+              "cs": 0,
+              "sb": 0
+            }
+          }
+        },
+        {
+          "catcher": {
+            "playerId": "01005159",
+            "jaRegisteredName": "鈴木　叶",
+            "teamCode": "S",
+            "primaryNumber": "65",
+            "primaryPosition": "Catcher",
+            "jaStatus": "支配下選手",
+            "batSide": "R",
+            "pitchHand": "R",
+            "height": "181",
+            "weight": "81",
+            "birthDate": "2006-03-21",
+            "jaNotes": "",
+            "notes": "",
+            "jaBoxscoreName": "鈴木",
+            "boxscoreName": "Suzuki",
+            "jaFullName": "鈴木　叶",
+            "jaFirstName": "叶",
+            "jaLastName": "鈴木",
+            "fullLFMName": "Suzuki, Kyo",
+            "firstName": "Kyo",
+            "lastName": "Suzuki"
+          },
+          "stats": {
+            "cs": 0,
+            "sb": 0,
+            "ds": 0,
+            "rate": "",
+            "pickoff": {
+              "pickoff": 1,
+              "cs": 0,
+              "sb": 0
+            }
+          }
+        }
+      ]
+    },
+    {
+      "teamCode": "D",
+      "teamName": "Dragons",
+      "team": {
+        "stats": {
+          "cs": 16,
+          "sb": 66,
+          "ds": 0,
+          "rate": ".195",
+          "pickoff": {
+            "pickoff": 9,
+            "cs": 4,
+            "sb": 0
+          }
+        }
+      },
+      "catchers": [
+        {
+          "catcher": {
+            "playerId": "31735132",
+            "jaRegisteredName": "木下　拓哉",
+            "teamCode": "D",
+            "primaryNumber": "35",
+            "primaryPosition": "Catcher",
+            "jaStatus": "支配下選手",
+            "batSide": "R",
+            "pitchHand": "R",
+            "height": "183",
+            "weight": "95",
+            "birthDate": "1991-12-18",
+            "jaNotes": "",
+            "notes": "",
+            "jaBoxscoreName": "木下",
+            "boxscoreName": "Kinoshita",
+            "jaFullName": "木下　拓哉",
+            "jaFirstName": "拓哉",
+            "jaLastName": "木下",
+            "fullLFMName": "Kinoshita, Takuya",
+            "firstName": "Takuya",
+            "lastName": "Kinoshita"
+          },
+          "stats": {
+            "cs": 3,
+            "sb": 24,
+            "ds": 0,
+            "rate": ".111",
+            "pickoff": {
+              "pickoff": 6,
+              "cs": 2,
+              "sb": 0
+            }
+          }
+        },
+        {
+          "catcher": {
+            "playerId": "61365132",
+            "jaRegisteredName": "宇佐見　真吾",
+            "teamCode": "D",
+            "primaryNumber": "39",
+            "primaryPosition": "Catcher",
+            "jaStatus": "支配下選手",
+            "batSide": "L",
+            "pitchHand": "R",
+            "height": "181",
+            "weight": "88",
+            "birthDate": "1993-06-04",
+            "jaNotes": "",
+            "notes": "",
+            "jaBoxscoreName": "宇佐見",
+            "boxscoreName": "Usami",
+            "jaFullName": "宇佐見　真吾",
+            "jaFirstName": "真吾",
+            "jaLastName": "宇佐見",
+            "fullLFMName": "Usami, Shingo",
+            "firstName": "Shingo",
+            "lastName": "Usami"
+          },
+          "stats": {
+            "cs": 7,
+            "sb": 16,
+            "ds": 0,
+            "rate": ".304",
+            "pickoff": {
+              "pickoff": 1,
+              "cs": 0,
+              "sb": 0
+            }
+          }
+        },
+        {
+          "catcher": {
+            "playerId": "41545130",
+            "jaRegisteredName": "加藤　匠馬",
+            "teamCode": "D",
+            "primaryNumber": "49",
+            "primaryPosition": "Catcher",
+            "jaStatus": "支配下選手",
+            "batSide": "R",
+            "pitchHand": "R",
+            "height": "175",
+            "weight": "83",
+            "birthDate": "1992-04-29",
+            "jaNotes": "",
+            "notes": "",
+            "jaBoxscoreName": "加藤匠",
+            "boxscoreName": "T.Katoh",
+            "jaFullName": "加藤　匠馬",
+            "jaFirstName": "匠馬",
+            "jaLastName": "加藤",
+            "fullLFMName": "Katoh, Takuma",
+            "firstName": "Takuma",
+            "lastName": "Katoh"
+          },
+          "stats": {
+            "cs": 6,
+            "sb": 14,
+            "ds": 0,
+            "rate": ".300",
+            "pickoff": {
+              "pickoff": 2,
+              "cs": 2,
+              "sb": 0
+            }
+          }
+        },
+        {
+          "catcher": {
+            "playerId": "91195138",
+            "jaRegisteredName": "石橋　康太",
+            "teamCode": "D",
+            "primaryNumber": "58",
+            "primaryPosition": "Catcher",
+            "jaStatus": "支配下選手",
+            "batSide": "R",
+            "pitchHand": "R",
+            "height": "181",
+            "weight": "94",
+            "birthDate": "2000-12-07",
+            "jaNotes": "",
+            "notes": "",
+            "jaBoxscoreName": "石橋",
+            "boxscoreName": "Ishibashi",
+            "jaFullName": "石橋　康太",
+            "jaFirstName": "康太",
+            "jaLastName": "石橋",
+            "fullLFMName": "Ishibashi, Kota",
+            "firstName": "Kota",
+            "lastName": "Ishibashi"
+          },
+          "stats": {
+            "cs": 0,
+            "sb": 12,
+            "ds": 0,
+            "rate": ".000",
+            "pickoff": {
+              "pickoff": 0,
+              "cs": 0,
+              "sb": 0
+            }
+          }
+        }
+      ]
+    },
+    {
+      "teamCode": "B",
+      "teamName": "Buffaloes",
+      "team": {
+        "stats": {
+          "cs": 28,
+          "sb": 55,
+          "ds": 0,
+          "rate": ".337",
+          "pickoff": {
+            "pickoff": 10,
+            "cs": 6,
+            "sb": 0
+          }
+        }
+      },
+      "catchers": [
+        {
+          "catcher": {
+            "playerId": "41645139",
+            "jaRegisteredName": "若月　健矢",
+            "teamCode": "B",
+            "primaryNumber": "2",
+            "primaryPosition": "Catcher",
+            "jaStatus": "支配下選手",
+            "batSide": "R",
+            "pitchHand": "R",
+            "height": "180",
+            "weight": "88",
+            "birthDate": "1995-10-04",
+            "jaNotes": "",
+            "notes": "",
+            "jaBoxscoreName": "若月",
+            "boxscoreName": "Wakatsuki",
+            "jaFullName": "若月　健矢",
+            "jaFirstName": "健矢",
+            "jaLastName": "若月",
+            "fullLFMName": "Wakatsuki, Kenya",
+            "firstName": "Kenya",
+            "lastName": "Wakatsuki"
+          },
+          "stats": {
+            "cs": 21,
+            "sb": 27,
+            "ds": 0,
+            "rate": ".438",
+            "pickoff": {
+              "pickoff": 6,
+              "cs": 4,
+              "sb": 0
+            }
+          }
+        },
+        {
+          "catcher": {
+            "playerId": "91495139",
+            "jaRegisteredName": "森　友哉",
+            "teamCode": "B",
+            "primaryNumber": "4",
+            "primaryPosition": "Catcher",
+            "jaStatus": "支配下選手",
+            "batSide": "L",
+            "pitchHand": "R",
+            "height": "170",
+            "weight": "85",
+            "birthDate": "1995-08-08",
+            "jaNotes": "",
+            "notes": "",
+            "jaBoxscoreName": "森",
+            "boxscoreName": "Mori",
+            "jaFullName": "森　友哉",
+            "jaFirstName": "友哉",
+            "jaLastName": "森",
+            "fullLFMName": "Mori, Tomoya",
+            "firstName": "Tomoya",
+            "lastName": "Mori"
+          },
+          "stats": {
+            "cs": 5,
+            "sb": 26,
+            "ds": 0,
+            "rate": ".161",
+            "pickoff": {
+              "pickoff": 4,
+              "cs": 2,
+              "sb": 0
+            }
+          }
+        },
+        {
+          "catcher": {
+            "playerId": "81185139",
+            "jaRegisteredName": "石川　亮",
+            "teamCode": "B",
+            "primaryNumber": "37",
+            "primaryPosition": "Catcher",
+            "jaStatus": "支配下選手",
+            "batSide": "R",
+            "pitchHand": "R",
+            "height": "181",
+            "weight": "87",
+            "birthDate": "1995-07-20",
+            "jaNotes": "",
+            "notes": "",
+            "jaBoxscoreName": "石川",
+            "boxscoreName": "Ishikawa",
+            "jaFullName": "石川　亮",
+            "jaFirstName": "亮",
+            "jaLastName": "石川",
+            "fullLFMName": "Ishikawa, Ryo",
+            "firstName": "Ryo",
+            "lastName": "Ishikawa"
+          },
+          "stats": {
+            "cs": 2,
+            "sb": 2,
+            "ds": 0,
+            "rate": ".500",
+            "pickoff": {
+              "pickoff": 0,
+              "cs": 0,
+              "sb": 0
+            }
+          }
+        }
+      ]
+    },
+    {
+      "teamCode": "M",
+      "teamName": "Marines",
+      "team": {
+        "stats": {
+          "cs": 20,
+          "sb": 73,
+          "ds": 1,
+          "rate": ".217",
+          "pickoff": {
+            "pickoff": 9,
+            "cs": 7,
+            "sb": 0
+          }
+        }
+      },
+      "catchers": [
+        {
+          "catcher": {
+            "playerId": "71075151",
+            "jaRegisteredName": "佐藤　都志也",
+            "teamCode": "M",
+            "primaryNumber": "32",
+            "primaryPosition": "Catcher",
+            "jaStatus": "支配下選手",
+            "batSide": "L",
+            "pitchHand": "R",
+            "height": "181",
+            "weight": "86",
+            "birthDate": "1998-01-27",
+            "jaNotes": "",
+            "notes": "",
+            "jaBoxscoreName": "佐藤",
+            "boxscoreName": "Satoh",
+            "jaFullName": "佐藤　都志也",
+            "jaFirstName": "都志也",
+            "jaLastName": "佐藤",
+            "fullLFMName": "Satoh, Toshiya",
+            "firstName": "Toshiya",
+            "lastName": "Satoh"
+          },
+          "stats": {
+            "cs": 12,
+            "sb": 49,
+            "ds": 1,
+            "rate": ".200",
+            "pickoff": {
+              "pickoff": 7,
+              "cs": 5,
+              "sb": 0
+            }
+          }
+        },
+        {
+          "catcher": {
+            "playerId": "41945137",
+            "jaRegisteredName": "田村　龍弘",
+            "teamCode": "M",
+            "primaryNumber": "27",
+            "primaryPosition": "Catcher",
+            "jaStatus": "支配下選手",
+            "batSide": "R",
+            "pitchHand": "R",
+            "height": "172",
+            "weight": "81",
+            "birthDate": "1994-05-13",
+            "jaNotes": "",
+            "notes": "",
+            "jaBoxscoreName": "田村",
+            "boxscoreName": "Tamura",
+            "jaFullName": "田村　龍弘",
+            "jaFirstName": "龍弘",
+            "jaLastName": "田村",
+            "fullLFMName": "Tamura, Tatsuhiro",
+            "firstName": "Tatsuhiro",
+            "lastName": "Tamura"
+          },
+          "stats": {
+            "cs": 8,
+            "sb": 23,
+            "ds": 0,
+            "rate": ".258",
+            "pickoff": {
+              "pickoff": 2,
+              "cs": 2,
+              "sb": 0
+            }
+          }
+        },
+        {
+          "catcher": {
+            "playerId": "53155155",
+            "jaRegisteredName": "松川　虎生",
+            "teamCode": "M",
+            "primaryNumber": "2",
+            "primaryPosition": "Catcher",
+            "jaStatus": "支配下選手",
+            "batSide": "R",
+            "pitchHand": "R",
+            "height": "178",
+            "weight": "98",
+            "birthDate": "2003-10-20",
+            "jaNotes": "",
+            "notes": "",
+            "jaBoxscoreName": "松川",
+            "boxscoreName": "Matsukawa",
+            "jaFullName": "松川　虎生",
+            "jaFirstName": "虎生",
+            "jaLastName": "松川",
+            "fullLFMName": "Matsukawa, Kou",
+            "firstName": "Kou",
+            "lastName": "Matsukawa"
+          },
+          "stats": {
+            "cs": 0,
+            "sb": 1,
+            "ds": 0,
+            "rate": ".000",
+            "pickoff": {
+              "pickoff": 0,
+              "cs": 0,
+              "sb": 0
+            }
+          }
+        }
+      ]
+    },
+    {
+      "teamCode": "H",
+      "teamName": "Hawks",
+      "team": {
+        "stats": {
+          "cs": 26,
+          "sb": 59,
+          "ds": 0,
+          "rate": ".306",
+          "pickoff": {
+            "pickoff": 4,
+            "cs": 1,
+            "sb": 3
+          }
+        }
+      },
+      "catchers": [
+        {
+          "catcher": {
+            "playerId": "91595133",
+            "jaRegisteredName": "甲斐　拓也",
+            "teamCode": "H",
+            "primaryNumber": "19",
+            "primaryPosition": "Catcher",
+            "jaStatus": "支配下選手",
+            "batSide": "R",
+            "pitchHand": "R",
+            "height": "170",
+            "weight": "87",
+            "birthDate": "1992-11-05",
+            "jaNotes": "",
+            "notes": "",
+            "jaBoxscoreName": "甲斐",
+            "boxscoreName": "T.Kai",
+            "jaFullName": "甲斐　拓也",
+            "jaFirstName": "拓也",
+            "jaLastName": "甲斐",
+            "fullLFMName": "Kai, Takuya",
+            "firstName": "Takuya",
+            "lastName": "Kai"
+          },
+          "stats": {
+            "cs": 20,
+            "sb": 47,
+            "ds": 0,
+            "rate": ".299",
+            "pickoff": {
+              "pickoff": 3,
+              "cs": 1,
+              "sb": 2
+            }
+          }
+        },
+        {
+          "catcher": {
+            "playerId": "81385151",
+            "jaRegisteredName": "海野　隆司",
+            "teamCode": "H",
+            "primaryNumber": "62",
+            "primaryPosition": "Catcher",
+            "jaStatus": "支配下選手",
+            "batSide": "R",
+            "pitchHand": "R",
+            "height": "174",
+            "weight": "84",
+            "birthDate": "1997-07-15",
+            "jaNotes": "",
+            "notes": "",
+            "jaBoxscoreName": "海野",
+            "boxscoreName": "Umino",
+            "jaFullName": "海野　隆司",
+            "jaFirstName": "隆司",
+            "jaLastName": "海野",
+            "fullLFMName": "Umino, Takashi",
+            "firstName": "Takashi",
+            "lastName": "Umino"
+          },
+          "stats": {
+            "cs": 6,
+            "sb": 12,
+            "ds": 0,
+            "rate": ".333",
+            "pickoff": {
+              "pickoff": 1,
+              "cs": 0,
+              "sb": 1
+            }
+          }
+        }
+      ]
+    },
+    {
+      "teamCode": "E",
+      "teamName": "Eagles",
+      "team": {
+        "stats": {
+          "cs": 19,
+          "sb": 73,
+          "ds": 0,
+          "rate": ".207",
+          "pickoff": {
+            "pickoff": 8,
+            "cs": 2,
+            "sb": 0
+          }
+        }
+      },
+      "catchers": [
+        {
+          "catcher": {
+            "playerId": "61165134",
+            "jaRegisteredName": "石原　彪",
+            "teamCode": "E",
+            "primaryNumber": "70",
+            "primaryPosition": "Catcher",
+            "jaStatus": "支配下選手",
+            "batSide": "R",
+            "pitchHand": "R",
+            "height": "172",
+            "weight": "96",
+            "birthDate": "1999-03-08",
+            "jaNotes": "",
+            "notes": "",
+            "jaBoxscoreName": "石原",
+            "boxscoreName": "Ishihara",
+            "jaFullName": "石原　彪",
+            "jaFirstName": "彪",
+            "jaLastName": "石原",
+            "fullLFMName": "Ishihara, Tsuyoshi",
+            "firstName": "Tsuyoshi",
+            "lastName": "Ishihara"
+          },
+          "stats": {
+            "cs": 5,
+            "sb": 40,
+            "ds": 0,
+            "rate": ".111",
+            "pickoff": {
+              "pickoff": 5,
+              "cs": 0,
+              "sb": 0
+            }
+          }
+        },
+        {
+          "catcher": {
+            "playerId": "71375138",
+            "jaRegisteredName": "太田　光",
+            "teamCode": "E",
+            "primaryNumber": "2",
+            "primaryPosition": "Catcher",
+            "jaStatus": "支配下選手",
+            "batSide": "R",
+            "pitchHand": "R",
+            "height": "178",
+            "weight": "76",
+            "birthDate": "1996-10-14",
+            "jaNotes": "",
+            "notes": "",
+            "jaBoxscoreName": "太田",
+            "boxscoreName": "Ohta",
+            "jaFullName": "太田　光",
+            "jaFirstName": "光",
+            "jaLastName": "太田",
+            "fullLFMName": "Ohta, Hikaru",
+            "firstName": "Hikaru",
+            "lastName": "Ohta"
+          },
+          "stats": {
+            "cs": 12,
+            "sb": 28,
+            "ds": 0,
+            "rate": ".300",
+            "pickoff": {
+              "pickoff": 2,
+              "cs": 2,
+              "sb": 0
+            }
+          }
+        },
+        {
+          "catcher": {
+            "playerId": "11815132",
+            "jaRegisteredName": "堀内　謙伍",
+            "teamCode": "E",
+            "primaryNumber": "65",
+            "primaryPosition": "Catcher",
+            "jaStatus": "支配下選手",
+            "batSide": "L",
+            "pitchHand": "R",
+            "height": "174",
+            "weight": "82",
+            "birthDate": "1997-04-15",
+            "jaNotes": "",
+            "notes": "",
+            "jaBoxscoreName": "堀内",
+            "boxscoreName": "Horiuchi",
+            "jaFullName": "堀内　謙伍",
+            "jaFirstName": "謙伍",
+            "jaLastName": "堀内",
+            "fullLFMName": "Horiuchi, Kengo",
+            "firstName": "Kengo",
+            "lastName": "Horiuchi"
+          },
+          "stats": {
+            "cs": 1,
+            "sb": 4,
+            "ds": 0,
+            "rate": ".200",
+            "pickoff": {
+              "pickoff": 0,
+              "cs": 0,
+              "sb": 0
+            }
+          }
+        },
+        {
+          "catcher": {
+            "playerId": "43345155",
+            "jaRegisteredName": "安田　悠馬",
+            "teamCode": "E",
+            "primaryNumber": "55",
+            "primaryPosition": "Catcher",
+            "jaStatus": "支配下選手",
+            "batSide": "L",
+            "pitchHand": "R",
+            "height": "185",
+            "weight": "105",
+            "birthDate": "2000-03-03",
+            "jaNotes": "",
+            "notes": "",
+            "jaBoxscoreName": "安田",
+            "boxscoreName": "Yasuda",
+            "jaFullName": "安田　悠馬",
+            "jaFirstName": "悠馬",
+            "jaLastName": "安田",
+            "fullLFMName": "Yasuda, Yuma",
+            "firstName": "Yuma",
+            "lastName": "Yasuda"
+          },
+          "stats": {
+            "cs": 1,
+            "sb": 1,
+            "ds": 0,
+            "rate": ".500",
+            "pickoff": {
+              "pickoff": 1,
+              "cs": 0,
+              "sb": 0
+            }
+          }
+        }
+      ]
+    },
+    {
+      "teamCode": "L",
+      "teamName": "Lions",
+      "team": {
+        "stats": {
+          "cs": 23,
+          "sb": 59,
+          "ds": 2,
+          "rate": ".287",
+          "pickoff": {
+            "pickoff": 25,
+            "cs": 9,
+            "sb": 2
+          }
+        }
+      },
+      "catchers": [
+        {
+          "catcher": {
+            "playerId": "81785155",
+            "jaRegisteredName": "古賀　悠斗",
+            "teamCode": "L",
+            "primaryNumber": "22",
+            "primaryPosition": "Catcher",
+            "jaStatus": "支配下選手",
+            "batSide": "R",
+            "pitchHand": "R",
+            "height": "174",
+            "weight": "86",
+            "birthDate": "1999-09-10",
+            "jaNotes": "",
+            "notes": "",
+            "jaBoxscoreName": "古賀",
+            "boxscoreName": "Koga",
+            "jaFullName": "古賀　悠斗",
+            "jaFirstName": "悠斗",
+            "jaLastName": "古賀",
+            "fullLFMName": "Koga, Yuto",
+            "firstName": "Yuto",
+            "lastName": "Koga"
+          },
+          "stats": {
+            "cs": 18,
+            "sb": 38,
+            "ds": 2,
+            "rate": ".333",
+            "pickoff": {
+              "pickoff": 16,
+              "cs": 6,
+              "sb": 2
+            }
+          }
+        },
+        {
+          "catcher": {
+            "playerId": "91995112",
+            "jaRegisteredName": "炭谷　銀仁朗",
+            "teamCode": "L",
+            "primaryNumber": "27",
+            "primaryPosition": "Catcher",
+            "jaStatus": "支配下選手",
+            "batSide": "R",
+            "pitchHand": "R",
+            "height": "181",
+            "weight": "98",
+            "birthDate": "1987-07-19",
+            "jaNotes": "",
+            "notes": "",
+            "jaBoxscoreName": "炭谷",
+            "boxscoreName": "Sumitani",
+            "jaFullName": "炭谷　銀仁朗",
+            "jaFirstName": "銀仁朗",
+            "jaLastName": "炭谷",
+            "fullLFMName": "Sumitani, Ginjiro",
+            "firstName": "Ginjiro",
+            "lastName": "Sumitani"
+          },
+          "stats": {
+            "cs": 2,
+            "sb": 15,
+            "ds": 0,
+            "rate": ".118",
+            "pickoff": {
+              "pickoff": 7,
+              "cs": 3,
+              "sb": 0
+            }
+          }
+        },
+        {
+          "catcher": {
+            "playerId": "61265151",
+            "jaRegisteredName": "柘植　世那",
+            "teamCode": "L",
+            "primaryNumber": "37",
+            "primaryPosition": "Catcher",
+            "jaStatus": "支配下選手",
+            "batSide": "R",
+            "pitchHand": "R",
+            "height": "174",
+            "weight": "88",
+            "birthDate": "1997-06-03",
+            "jaNotes": "",
+            "notes": "",
+            "jaBoxscoreName": "柘植",
+            "boxscoreName": "Tsuge",
+            "jaFullName": "柘植　世那",
+            "jaFirstName": "世那",
+            "jaLastName": "柘植",
+            "fullLFMName": "Tsuge, Sena",
+            "firstName": "Sena",
+            "lastName": "Tsuge"
+          },
+          "stats": {
+            "cs": 1,
+            "sb": 5,
+            "ds": 0,
+            "rate": ".167",
+            "pickoff": {
+              "pickoff": 2,
+              "cs": 0,
+              "sb": 0
+            }
+          }
+        },
+        {
+          "catcher": {
+            "playerId": "71675138",
+            "jaRegisteredName": "牧野　翔矢",
+            "teamCode": "L",
+            "primaryNumber": "53",
+            "primaryPosition": "Catcher",
+            "jaStatus": "支配下選手",
+            "batSide": "L",
+            "pitchHand": "R",
+            "height": "178",
+            "weight": "80",
+            "birthDate": "2001-03-04",
+            "jaNotes": "",
+            "notes": "",
+            "jaBoxscoreName": "牧野",
+            "boxscoreName": "Makino",
+            "jaFullName": "牧野　翔矢",
+            "jaFirstName": "翔矢",
+            "jaLastName": "牧野",
+            "fullLFMName": "Makino, Shoya",
+            "firstName": "Shoya",
+            "lastName": "Makino"
+          },
+          "stats": {
+            "cs": 2,
+            "sb": 1,
+            "ds": 0,
+            "rate": ".667",
+            "pickoff": {
+              "pickoff": 0,
+              "cs": 0,
+              "sb": 0
+            }
+          }
+        }
+      ]
+    },
+    {
+      "teamCode": "F",
+      "teamName": "Fighters",
+      "team": {
+        "stats": {
+          "cs": 29,
+          "sb": 62,
+          "ds": 1,
+          "rate": ".322",
+          "pickoff": {
+            "pickoff": 8,
+            "cs": 3,
+            "sb": 1
+          }
+        }
+      },
+      "catchers": [
+        {
+          "catcher": {
+            "playerId": "51055138",
+            "jaRegisteredName": "田宮　裕涼",
+            "teamCode": "F",
+            "primaryNumber": "64",
+            "primaryPosition": "Catcher",
+            "jaStatus": "支配下選手",
+            "batSide": "L",
+            "pitchHand": "R",
+            "height": "175",
+            "weight": "79",
+            "birthDate": "2000-06-13",
+            "jaNotes": "",
+            "notes": "",
+            "jaBoxscoreName": "田宮",
+            "boxscoreName": "Tamiya",
+            "jaFullName": "田宮　裕涼",
+            "jaFirstName": "裕涼",
+            "jaLastName": "田宮",
+            "fullLFMName": "Tamiya, Yua",
+            "firstName": "Yua",
+            "lastName": "Tamiya"
+          },
+          "stats": {
+            "cs": 17,
+            "sb": 28,
+            "ds": 0,
+            "rate": ".378",
+            "pickoff": {
+              "pickoff": 5,
+              "cs": 1,
+              "sb": 1
+            }
+          }
+        },
+        {
+          "catcher": {
+            "playerId": "61065137",
+            "jaRegisteredName": "伏見　寅威",
+            "teamCode": "F",
+            "primaryNumber": "23",
+            "primaryPosition": "Catcher",
+            "jaStatus": "支配下選手",
+            "batSide": "R",
+            "pitchHand": "R",
+            "height": "182",
+            "weight": "87",
+            "birthDate": "1990-05-12",
+            "jaNotes": "",
+            "notes": "",
+            "jaBoxscoreName": "伏見",
+            "boxscoreName": "Fushimi",
+            "jaFullName": "伏見　寅威",
+            "jaFirstName": "寅威",
+            "jaLastName": "伏見",
+            "fullLFMName": "Fushimi, Torai",
+            "firstName": "Torai",
+            "lastName": "Fushimi"
+          },
+          "stats": {
+            "cs": 10,
+            "sb": 30,
+            "ds": 1,
+            "rate": ".256",
+            "pickoff": {
+              "pickoff": 2,
+              "cs": 1,
+              "sb": 0
+            }
+          }
+        },
+        {
+          "catcher": {
+            "playerId": "61965130",
+            "jaRegisteredName": "清水　優心",
+            "teamCode": "F",
+            "primaryNumber": "10",
+            "primaryPosition": "Catcher",
+            "jaStatus": "支配下選手",
+            "batSide": "R",
+            "pitchHand": "R",
+            "height": "185",
+            "weight": "91",
+            "birthDate": "1996-05-22",
+            "jaNotes": "",
+            "notes": "",
+            "jaBoxscoreName": "清水",
+            "boxscoreName": "Shimizu",
+            "jaFullName": "清水　優心",
+            "jaFirstName": "優心",
+            "jaLastName": "清水",
+            "fullLFMName": "Shimizu, Yushi",
+            "firstName": "Yushi",
+            "lastName": "Shimizu"
+          },
+          "stats": {
+            "cs": 2,
+            "sb": 2,
+            "ds": 0,
+            "rate": ".500",
+            "pickoff": {
+              "pickoff": 1,
+              "cs": 1,
+              "sb": 0
+            }
+          }
+        },
+        {
+          "catcher": {
+            "playerId": "11515151",
+            "jaRegisteredName": "梅林　優貴",
+            "teamCode": "F",
+            "primaryNumber": "98",
+            "primaryPosition": "Catcher",
+            "jaStatus": "支配下選手",
+            "batSide": "R",
+            "pitchHand": "R",
+            "height": "171",
+            "weight": "81",
+            "birthDate": "1998-03-14",
+            "jaNotes": "",
+            "notes": "",
+            "jaBoxscoreName": "梅林",
+            "boxscoreName": "Umebayashi",
+            "jaFullName": "梅林　優貴",
+            "jaFirstName": "優貴",
+            "jaLastName": "梅林",
+            "fullLFMName": "Umebayashi, Yuki",
+            "firstName": "Yuki",
+            "lastName": "Umebayashi"
+          },
+          "stats": {
+            "cs": 0,
+            "sb": 2,
+            "ds": 0,
+            "rate": ".000",
+            "pickoff": {
+              "pickoff": 0,
+              "cs": 0,
+              "sb": 0
+            }
+          }
+        }
+      ]
+    }
+  ],
+  "summary": [
+    {
+      "stats": {
+        "cs": 272,
+        "sb": 657,
+        "ds": 5,
+        "ratio": "29.4% (272/924)"
+      },
+      "ja": "NPB",
+      "en": "NPB"
+    },
+    {
+      "stats": {
+        "cs": 127,
+        "sb": 276,
+        "ds": 1,
+        "ratio": "31.6% (127/402)"
+      },
+      "ja": "セ・リーグ",
+      "en": "Central League"
+    },
+    {
+      "stats": {
+        "cs": 145,
+        "sb": 381,
+        "ds": 4,
+        "ratio": "27.8% (145/522)"
+      },
+      "ja": "パ・リーグ",
+      "en": "Pacific League"
+    }
+  ]
+}
