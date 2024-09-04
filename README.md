@@ -20,4 +20,5 @@ DATA for the NPB 2024 season
 
 ## Stolen Base / Caught Stealing / Picked Off
 
+- [SB Summary (Catchers)](https://kurimareiji.github.io/npb2024/StolenBases/catchers.html)
 - [Runner Events](https://kurimareiji.github.io/npb2024/runnerEvents.ndjson) (ndjson)
