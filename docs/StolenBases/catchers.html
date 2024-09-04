@@ -1,0 +1,325 @@
+<!DOCTYPE html>
+<html lang="ja">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>SB Summary (Catchers)</title>
+  <link rel="stylesheet" href="https://kurimareiji.github.io/npb2023/css/npb2023-colors.css">
+  <style>
+    @import url('https://fonts.googleapis.com/css2?family=Noto+Sans+JP&family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap');
+  </style>
+  <style>
+    [data-team] {
+      --team-color: hsl(var(--hue) var(--saturation) var(--lightness) / var(--alpha-value));
+      --team-bgcolor: hsl(var(--hue) var(--saturation) var(--lightness) / var(--alpha-bg));
+    }
+
+    [data-team="B"] {
+      --hue: var(--buffaloes-hue);
+      --saturation: var(--buffaloes-saturation);
+      --lightness: var(--buffaloes-lightness);
+    }
+
+    [data-team="H"] {
+      --hue: var(--hawks-hue);
+      --saturation: var(--hawks-saturation);
+      --lightness: var(--hawks-lightness);
+    }
+
+    [data-team="L"] {
+      --hue: var(--lions-hue);
+      --saturation: var(--lions-saturation);
+      --lightness: var(--lions-lightness);
+    }
+
+    [data-team="E"] {
+      --hue: var(--eagles-hue);
+      --saturation: var(--eagles-saturation);
+      --lightness: var(--eagles-lightness);
+    }
+
+    [data-team="M"] {
+      --hue: var(--marines-hue);
+      --saturation: var(--marines-saturation);
+      --lightness: var(--marines-lightness);
+    }
+
+    [data-team="F"] {
+      --hue: var(--fighters-hue);
+      --saturation: var(--fighters-saturation);
+      --lightness: var(--fighters-lightness);
+    }
+
+    [data-team="S"] {
+      --hue: var(--swallows-hue);
+      --saturation: var(--swallows-saturation);
+      --lightness: var(--swallows-lightness);
+    }
+
+    [data-team="DB"] {
+      --hue: var(--baystars-hue);
+      --saturation: var(--baystars-saturation);
+      --lightness: var(--baystars-lightness);
+    }
+
+    [data-team="T"] {
+      --hue: var(--tigers-hue);
+      --saturation: var(--tigers-saturation);
+      --lightness: var(--tigers-lightness);
+    }
+
+    [data-team="G"] {
+      --hue: var(--giants-hue);
+      --saturation: var(--giants-saturation);
+      --lightness: var(--giants-lightness);
+    }
+
+    [data-team="C"] {
+      --hue: var(--carp-hue);
+      --saturation: var(--carp-saturation);
+      --lightness: var(--carp-lightness);
+    }
+
+    [data-team="D"] {
+      --hue: var(--dragons-hue);
+      --saturation: var(--dragons-saturation);
+      --lightness: var(--dragons-lightness);
+    }
+
+    html {
+      font-family: "Roboto", "BIZ UDPGothic", Meiryo, sans-serif;
+      line-height: 1.5;
+      font-size: min(4.0vw, 1.25rem);
+    }
+
+    body {
+      margin: 0;
+      padding: 0;
+    }
+
+    .grid {
+      display: grid;
+      grid-template-columns: repeat(5, max-content);
+    }
+
+    .league {
+      display: grid;
+      grid-template-columns: subgrid;
+      grid-column: 1 / -1;
+      margin-block-end: 1em;
+      width: min-content;
+      box-sizing: content-box;
+      padding: min(1vw, 5px);
+    }
+
+    .container {
+      display: grid;
+      grid-template-columns: subgrid;
+      grid-column: span 5;
+      overflow: auto;
+      box-sizing: border-box;
+      padding-inline: 0;
+      background-color: var(--team-bgcolor);
+      margin-block-end: min(1vw, 8px);
+    }
+
+    header {
+      display: grid;
+      grid-template-columns: subgrid;
+      grid-column: 1 / -1;
+      font-size: .8rem;
+      border-top: solid 6px var(--team-color);
+      line-height: 1.5;
+      word-break: keep-all;
+
+      &>div {
+        padding-inline: .5rem;
+        background-color: var(--team-bgcolor);
+
+        &:lang(en) {
+          padding-inline: 1em;
+          text-align: center;
+        }
+
+        &:lang(en):nth-of-type(1) {
+          text-align: left;
+          padding-inline: .5em;
+        }
+      }
+
+      &>div:nth-last-of-type(1) {
+        min-width: 4em;
+      }
+
+    }
+
+    .container .rows>div {
+      display: grid;
+      grid-template-columns: subgrid;
+      grid-column: 1 / -1;
+    }
+
+    div {
+      box-sizing: border-box;
+      padding-inline: .25em;
+    }
+
+    .row {
+      &:nth-of-type(odd) {
+        background-color: hsla(0, 0%, 100%, .5);
+      }
+
+      &>div:nth-of-type(n+2) {
+        text-align: right;
+        padding-inline-end: .75em;
+        letter-spacing: .05em;
+      }
+
+      &:nth-of-type(1) {
+        border-top: solid 1px var(--team-color);
+      }
+
+      &:nth-last-of-type(1) {
+        border-top: solid 1px var(--team-color);
+        border-bottom: solid 3px var(--team-color);
+        background-color: var(--team-bgcolor);
+      }
+    }
+
+    .player {
+      display: flex;
+      justify-content: space-between;
+
+      &>div {
+        display: flex;
+        justify-content: space-between;
+      }
+
+      &>span {
+        display: inline-block;
+      }
+    }
+
+    .updated {
+      text-align: right;
+      grid-column: 1 / -1;
+      font-size: .85rem;
+    }
+
+    .rows,
+    .contents {
+      display: contents;
+    }
+  </style>
+</head>
+
+<body>
+  <div class="grid">
+    <div class="league" data-league="Central">
+      <div class="updated"></div>
+      <div class="contents"></div>
+    </div>
+    <div class="league" data-league="Pacific">
+      <div class="updated"></div>
+      <div class="contents"></div>
+    </div>
+  </div>
+  <template>
+    <div class="container" data-team>
+      <header>
+        <div>選手</div>
+        <div data-item-ja="盗塁刺" data-item="CS">盗塁刺</div>
+        <div data-item-ja="許盗塁" data-item="SB">許盗塁</div>
+        <div data-item-ja="うち重盗" data-item="DS">うち重盗</div>
+        <div data-item-ja="盗塁阻止率" data-item="CS%">盗塁阻止率</div>
+      </header>
+      <div class="rows"></div>
+    </div>
+  </template>
+  <script type="module">
+    const url = "https://kurimareiji.github.io/npb2024/StolenBases/catchers.json";
+    const data = await fetch(url, { cache: "no-cache" }).then((response) => response.json());
+    console.log(data);
+
+    const template = document.querySelector("template");
+
+    const tables = data.teamStats.map((obj) => {
+      const teamCode = obj.teamCode;
+      const clone = template.content.firstElementChild.cloneNode(true);
+      clone.dataset.team = teamCode;
+      clone.querySelector("header>div:nth-of-type(1)").textContent = obj.teamName;
+      const pickoff = {
+        title: `牽制など (${obj.team.stats.pickoff.pickoff})`,
+        stats: obj.team.stats.pickoff,
+      }
+      const rows = [...obj.catchers, pickoff, Object.assign(obj.team, { title: "合計" })]
+        .map(({ catcher, stats, title }) => {
+          const row = document.createElement("div");
+          row.classList.add("row");
+          const cols = [
+            catcher ? catcher.jaRegisteredName : title,
+            stats.cs,
+            stats.sb,
+            stats.ds,
+            stats.rate,
+          ]
+            .map((val, i) => {
+              const el = document.createElement("div");
+              el.textContent = val;
+              if (i === 0) {
+                el.classList.add("player");
+                if (catcher) {
+                  el.dataset.item = catcher.fullLFMName;
+                  el.dataset.itemJa = catcher.jaRegisteredName;
+                } else if (title.includes("牽制など")) {
+                  const n = title.match(/\d+/)[0];
+                  el.dataset.item = `Pickoff (${n})`;
+                  el.dataset.itemJa = title;
+                } else if (title === "合計") {
+                  el.dataset.item = "Total";
+                  el.dataset.itemJa = "合計";
+                }
+              }
+              return el;
+            });
+          row.replaceChildren(...cols);
+          return row;
+        });
+      //clone.append(...rows);
+      clone.querySelector(".rows").replaceChildren(...rows);
+      return clone;
+    });
+
+    document.querySelector(`[data-league="Central"]>.contents`).replaceChildren(...tables.slice(0, 6));
+    document.querySelector(`[data-league="Pacific"]>.contents`).replaceChildren(...tables.slice(6));
+    document.querySelectorAll(".updated").forEach((el) => {
+      el.textContent = data.updated;
+    });
+
+
+    document.querySelectorAll(".player").forEach((el) => {
+      const n = el.textContent.replace("　", " ")
+        .split("")
+        .map((s) => {
+          const span = document.createElement("span");
+          if (s !== " ") {
+            span.textContent = s;
+          } else {
+            const nbsp = document.createTextNode("\u2006");
+            span.replaceChildren(nbsp);
+          }
+          return span;
+        });
+      el.replaceChildren(...n);
+    });
+
+    /*
+    [...document.querySelectorAll(`[data-item]`)].forEach((e)=>{e.textContent = e.dataset.item})
+    */
+    console.log(data.summary.map((o) => `${o.ja}：${o.stats.ratio}`).join("\n"));
+  </script>
+
+</body>
+
+</html>
