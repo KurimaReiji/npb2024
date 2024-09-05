@@ -6487,5 +6487,41 @@
     "score": "5 - 8",
     "place": "みずほPayPay",
     "status": "試合終了"
+  },
+  {
+    "date": "2024-09-05",
+    "url": "https://npb.jp/scores/2024/0905/g-s-22/",
+    "home": "読売ジャイアンツ",
+    "road": "東京ヤクルトスワローズ",
+    "score": "3 - 0",
+    "place": "岐阜",
+    "status": "試合終了"
+  },
+  {
+    "date": "2024-09-05",
+    "url": "https://npb.jp/scores/2024/0905/db-c-22/",
+    "home": "横浜DeNAベイスターズ",
+    "road": "広島東洋カープ",
+    "score": "4 - 3",
+    "place": "横浜",
+    "status": "試合終了"
+  },
+  {
+    "date": "2024-09-05",
+    "url": "https://npb.jp/scores/2024/0905/t-d-24/",
+    "home": "阪神タイガース",
+    "road": "中日ドラゴンズ",
+    "score": "2 - 1",
+    "place": "甲子園",
+    "status": "試合終了"
+  },
+  {
+    "date": "2024-09-05",
+    "url": "https://npb.jp/scores/2024/0905/m-e-17/",
+    "home": "千葉ロッテマリーンズ",
+    "road": "東北楽天ゴールデンイーグルス",
+    "score": "3 - 1",
+    "place": "ZOZOマリン",
+    "status": "試合終了"
   }
 ]
