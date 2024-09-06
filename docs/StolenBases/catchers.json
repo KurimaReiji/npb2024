@@ -1,5 +1,5 @@
 {
-  "updated": "2024-09-05",
+  "updated": "2024-09-06",
   "teamStats": [
     {
       "teamCode": "T",
@@ -7,9 +7,9 @@
       "team": {
         "stats": {
           "cs": 15,
-          "sb": 55,
+          "sb": 56,
           "ds": 1,
-          "rate": ".217",
+          "rate": ".214",
           "pickoff": {
             "pickoff": 15,
             "cs": 5,
@@ -44,9 +44,9 @@
           },
           "stats": {
             "cs": 10,
-            "sb": 35,
+            "sb": 36,
             "ds": 1,
-            "rate": ".227",
+            "rate": ".222",
             "pickoff": {
               "pickoff": 9,
               "cs": 5,
@@ -514,10 +514,10 @@
       "teamName": "Swallows",
       "team": {
         "stats": {
-          "cs": 28,
+          "cs": 29,
           "sb": 40,
           "ds": 0,
-          "rate": ".412",
+          "rate": ".420",
           "pickoff": {
             "pickoff": 7,
             "cs": 3,
@@ -551,10 +551,10 @@
             "lastName": "Nakamura"
           },
           "stats": {
-            "cs": 18,
+            "cs": 19,
             "sb": 23,
             "ds": 0,
-            "rate": ".439",
+            "rate": ".452",
             "pickoff": {
               "pickoff": 3,
               "cs": 0,
@@ -840,10 +840,10 @@
       "teamName": "Buffaloes",
       "team": {
         "stats": {
-          "cs": 28,
-          "sb": 56,
+          "cs": 30,
+          "sb": 57,
           "ds": 0,
-          "rate": ".333",
+          "rate": ".345",
           "pickoff": {
             "pickoff": 10,
             "cs": 6,
@@ -877,10 +877,10 @@
             "lastName": "Wakatsuki"
           },
           "stats": {
-            "cs": 21,
-            "sb": 28,
+            "cs": 23,
+            "sb": 29,
             "ds": 0,
-            "rate": ".429",
+            "rate": ".442",
             "pickoff": {
               "pickoff": 6,
               "cs": 4,
@@ -1673,30 +1673,30 @@
   "summary": [
     {
       "stats": {
-        "cs": 273,
-        "sb": 664,
+        "cs": 276,
+        "sb": 666,
         "ds": 5,
-        "ratio": "29.3% (273/932)"
+        "ratio": "29.5% (276/937)"
       },
       "ja": "NPB",
       "en": "NPB"
     },
     {
       "stats": {
-        "cs": 127,
-        "sb": 279,
+        "cs": 128,
+        "sb": 280,
         "ds": 1,
-        "ratio": "31.4% (127/405)"
+        "ratio": "31.4% (128/407)"
       },
       "ja": "セ・リーグ",
       "en": "Central League"
     },
     {
       "stats": {
-        "cs": 146,
-        "sb": 385,
+        "cs": 148,
+        "sb": 386,
         "ds": 4,
-        "ratio": "27.7% (146/527)"
+        "ratio": "27.9% (148/530)"
       },
       "ja": "パ・リーグ",
       "en": "Pacific League"
