@@ -1,0 +1,76 @@
+[
+  {
+    "jaText": "（走者・近本）二塁盗塁失敗",
+    "text": "Chikamoto caught stealing 2nd base.",
+    "pickoff": "",
+    "catcher": {},
+    "catchers": [
+      {
+        "playerId": "51255118",
+        "jaRegisteredName": "中村　悠平",
+        "teamCode": "S",
+        "primaryNumber": "27",
+        "primaryPosition": "Catcher",
+        "jaStatus": "支配下選手",
+        "batSide": "R",
+        "pitchHand": "R",
+        "height": "176",
+        "weight": "79",
+        "birthDate": "1990-06-17",
+        "jaNotes": "",
+        "notes": "",
+        "jaBoxscoreName": "中村",
+        "boxscoreName": "Nakamura",
+        "jaFullName": "中村　悠平",
+        "jaFirstName": "悠平",
+        "jaLastName": "中村",
+        "fullLFMName": "Nakamura, Yuhei",
+        "firstName": "Yuhei",
+        "lastName": "Nakamura"
+      },
+      {
+        "playerId": "91595153",
+        "jaRegisteredName": "内山　壮真",
+        "teamCode": "S",
+        "primaryNumber": "33",
+        "primaryPosition": "Catcher",
+        "jaStatus": "支配下選手",
+        "batSide": "R",
+        "pitchHand": "R",
+        "height": "172",
+        "weight": "76",
+        "birthDate": "2002-06-30",
+        "jaNotes": "",
+        "notes": "",
+        "jaBoxscoreName": "内山",
+        "boxscoreName": "Uchiyama",
+        "jaFullName": "内山　壮真",
+        "jaFirstName": "壮真",
+        "jaLastName": "内山",
+        "fullLFMName": "Uchiyama, Souma",
+        "firstName": "Souma",
+        "lastName": "Uchiyama"
+      }
+    ]
+  },
+  {
+    "jaText": "（走者・並木）二塁盗塁成功",
+    "text": "Namiki steals 2nd base.",
+    "pickoff": ""
+  },
+  {
+    "jaText": "（走者・清宮）二塁盗塁失敗",
+    "text": "Kiyomiya caught stealing 2nd base.",
+    "pickoff": ""
+  },
+  {
+    "jaText": "（走者・松本剛）本塁盗塁失敗",
+    "text": "G.Matsumoto caught stealing home plate.",
+    "pickoff": ""
+  },
+  {
+    "jaText": "（走者・五十幡）二塁盗塁成功",
+    "text": "Isobata steals 2nd base.",
+    "pickoff": ""
+  }
+]
