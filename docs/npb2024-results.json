@@ -6568,5 +6568,59 @@
     "score": "0 - 1",
     "place": "みずほPayPay",
     "status": "試合終了"
+  },
+  {
+    "date": "2024-09-07",
+    "url": "https://npb.jp/scores/2024/0907/g-db-19/",
+    "home": "読売ジャイアンツ",
+    "road": "横浜DeNAベイスターズ",
+    "score": "3 - 2",
+    "place": "東京ドーム",
+    "status": "試合終了"
+  },
+  {
+    "date": "2024-09-07",
+    "url": "https://npb.jp/scores/2024/0907/s-t-21/",
+    "home": "東京ヤクルトスワローズ",
+    "road": "阪神タイガース",
+    "score": "0 - 6",
+    "place": "神宮",
+    "status": "試合終了"
+  },
+  {
+    "date": "2024-09-07",
+    "url": "https://npb.jp/scores/2024/0907/c-d-21/",
+    "home": "広島東洋カープ",
+    "road": "中日ドラゴンズ",
+    "score": "2 - 1",
+    "place": "マツダスタジアム",
+    "status": "試合終了"
+  },
+  {
+    "date": "2024-09-07",
+    "url": "https://npb.jp/scores/2024/0907/f-b-22/",
+    "home": "北海道日本ハムファイターズ",
+    "road": "オリックス・バファローズ",
+    "score": "5 - 1",
+    "place": "エスコンＦ",
+    "status": "試合終了"
+  },
+  {
+    "date": "2024-09-07",
+    "url": "https://npb.jp/scores/2024/0907/m-e-19/",
+    "home": "千葉ロッテマリーンズ",
+    "road": "東北楽天ゴールデンイーグルス",
+    "score": "1 - 4",
+    "place": "ZOZOマリン",
+    "status": "試合終了"
+  },
+  {
+    "date": "2024-09-07",
+    "url": "https://npb.jp/scores/2024/0907/h-l-22/",
+    "home": "福岡ソフトバンクホークス",
+    "road": "埼玉西武ライオンズ",
+    "score": "2 - 3",
+    "place": "みずほPayPay",
+    "status": "試合終了"
   }
 ]
