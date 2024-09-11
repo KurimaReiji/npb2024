@@ -1,5 +1,5 @@
 {
-  "updated": "2024-09-10",
+  "updated": "2024-09-11",
   "teamStats": [
     {
       "teamCode": "T",
@@ -388,9 +388,9 @@
       "team": {
         "stats": {
           "cs": 26,
-          "sb": 35,
+          "sb": 36,
           "ds": 0,
-          "rate": ".426",
+          "rate": ".419",
           "pickoff": {
             "pickoff": 9,
             "cs": 4,
@@ -425,9 +425,9 @@
           },
           "stats": {
             "cs": 18,
-            "sb": 17,
+            "sb": 18,
             "ds": 0,
-            "rate": ".514",
+            "rate": ".500",
             "pickoff": {
               "pickoff": 4,
               "cs": 2,
@@ -1135,8 +1135,8 @@
           "ds": 0,
           "rate": ".286",
           "pickoff": {
-            "pickoff": 4,
-            "cs": 1,
+            "pickoff": 5,
+            "cs": 2,
             "sb": 3
           }
         }
@@ -1208,8 +1208,8 @@
             "ds": 0,
             "rate": ".333",
             "pickoff": {
-              "pickoff": 1,
-              "cs": 0,
+              "pickoff": 2,
+              "cs": 1,
               "sb": 1
             }
           }
@@ -1552,7 +1552,7 @@
           "ds": 1,
           "rate": ".319",
           "pickoff": {
-            "pickoff": 8,
+            "pickoff": 9,
             "cs": 3,
             "sb": 1
           }
@@ -1625,7 +1625,7 @@
             "ds": 1,
             "rate": ".244",
             "pickoff": {
-              "pickoff": 2,
+              "pickoff": 3,
               "cs": 1,
               "sb": 0
             }
@@ -1710,9 +1710,9 @@
     {
       "stats": {
         "cs": 282,
-        "sb": 684,
+        "sb": 685,
         "ds": 5,
-        "ratio": "29.3% (282/961)"
+        "ratio": "29.3% (282/962)"
       },
       "ja": "NPB",
       "en": "NPB"
@@ -1720,9 +1720,9 @@
     {
       "stats": {
         "cs": 132,
-        "sb": 282,
+        "sb": 283,
         "ds": 1,
-        "ratio": "32.0% (132/413)"
+        "ratio": "31.9% (132/414)"
       },
       "ja": "セ・リーグ",
       "en": "Central League"

@@ -11,7 +11,7 @@
   },
   {
     "jaText": "（走者・阿部）二塁盗塁失敗",
-    "text": "Abe caught stealing 2nd base.",
-    "pickoff": ""
+    "text": "Abe picked off and caught stealing 2nd base.",
+    "pickoff": "Y"
   }
 ]
