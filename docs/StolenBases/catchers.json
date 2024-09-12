@@ -1,5 +1,5 @@
 {
-  "updated": "2024-09-11",
+  "updated": "2024-09-12",
   "teamStats": [
     {
       "teamCode": "T",
@@ -714,9 +714,9 @@
       "team": {
         "stats": {
           "cs": 17,
-          "sb": 66,
+          "sb": 67,
           "ds": 0,
-          "rate": ".205",
+          "rate": ".202",
           "pickoff": {
             "pickoff": 9,
             "cs": 4,
@@ -751,9 +751,9 @@
           },
           "stats": {
             "cs": 3,
-            "sb": 24,
+            "sb": 25,
             "ds": 0,
-            "rate": ".111",
+            "rate": ".107",
             "pickoff": {
               "pickoff": 6,
               "cs": 2,
@@ -1226,7 +1226,7 @@
           "ds": 0,
           "rate": ".202",
           "pickoff": {
-            "pickoff": 8,
+            "pickoff": 9,
             "cs": 2,
             "sb": 0
           }
@@ -1299,7 +1299,7 @@
             "ds": 0,
             "rate": ".293",
             "pickoff": {
-              "pickoff": 2,
+              "pickoff": 3,
               "cs": 2,
               "sb": 0
             }
@@ -1385,9 +1385,9 @@
       "team": {
         "stats": {
           "cs": 23,
-          "sb": 62,
+          "sb": 63,
           "ds": 2,
-          "rate": ".277",
+          "rate": ".274",
           "pickoff": {
             "pickoff": 26,
             "cs": 10,
@@ -1422,9 +1422,9 @@
           },
           "stats": {
             "cs": 18,
-            "sb": 39,
+            "sb": 40,
             "ds": 2,
-            "rate": ".327",
+            "rate": ".321",
             "pickoff": {
               "pickoff": 17,
               "cs": 7,
@@ -1710,9 +1710,9 @@
     {
       "stats": {
         "cs": 282,
-        "sb": 685,
+        "sb": 687,
         "ds": 5,
-        "ratio": "29.3% (282/962)"
+        "ratio": "29.3% (282/964)"
       },
       "ja": "NPB",
       "en": "NPB"
@@ -1720,9 +1720,9 @@
     {
       "stats": {
         "cs": 132,
-        "sb": 283,
+        "sb": 284,
         "ds": 1,
-        "ratio": "31.9% (132/414)"
+        "ratio": "31.8% (132/415)"
       },
       "ja": "セ・リーグ",
       "en": "Central League"
@@ -1730,9 +1730,9 @@
     {
       "stats": {
         "cs": 150,
-        "sb": 402,
+        "sb": 403,
         "ds": 4,
-        "ratio": "27.4% (150/548)"
+        "ratio": "27.3% (150/549)"
       },
       "ja": "パ・リーグ",
       "en": "Pacific League"
