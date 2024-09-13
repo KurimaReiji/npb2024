@@ -1,5 +1,5 @@
 {
-  "updated": "2024-09-12",
+  "updated": "2024-09-13",
   "teamStats": [
     {
       "teamCode": "T",
@@ -98,9 +98,9 @@
       "team": {
         "stats": {
           "cs": 18,
-          "sb": 33,
+          "sb": 34,
           "ds": 0,
-          "rate": ".353",
+          "rate": ".346",
           "pickoff": {
             "pickoff": 13,
             "cs": 2,
@@ -207,9 +207,9 @@
           },
           "stats": {
             "cs": 2,
-            "sb": 8,
+            "sb": 9,
             "ds": 0,
-            "rate": ".200",
+            "rate": ".182",
             "pickoff": {
               "pickoff": 3,
               "cs": 0,
@@ -229,7 +229,7 @@
           "ds": 0,
           "rate": ".316",
           "pickoff": {
-            "pickoff": 12,
+            "pickoff": 13,
             "cs": 4,
             "sb": 1
           }
@@ -266,7 +266,7 @@
             "ds": 0,
             "rate": ".380",
             "pickoff": {
-              "pickoff": 9,
+              "pickoff": 10,
               "cs": 2,
               "sb": 1
             }
@@ -388,9 +388,9 @@
       "team": {
         "stats": {
           "cs": 26,
-          "sb": 36,
+          "sb": 37,
           "ds": 0,
-          "rate": ".419",
+          "rate": ".413",
           "pickoff": {
             "pickoff": 9,
             "cs": 4,
@@ -425,9 +425,9 @@
           },
           "stats": {
             "cs": 18,
-            "sb": 18,
+            "sb": 19,
             "ds": 0,
-            "rate": ".500",
+            "rate": ".486",
             "pickoff": {
               "pickoff": 4,
               "cs": 2,
@@ -714,9 +714,9 @@
       "team": {
         "stats": {
           "cs": 17,
-          "sb": 67,
+          "sb": 69,
           "ds": 0,
-          "rate": ".202",
+          "rate": ".198",
           "pickoff": {
             "pickoff": 9,
             "cs": 4,
@@ -787,9 +787,9 @@
           },
           "stats": {
             "cs": 8,
-            "sb": 16,
+            "sb": 18,
             "ds": 0,
-            "rate": ".333",
+            "rate": ".308",
             "pickoff": {
               "pickoff": 1,
               "cs": 0,
@@ -876,10 +876,10 @@
       "teamName": "Buffaloes",
       "team": {
         "stats": {
-          "cs": 31,
+          "cs": 32,
           "sb": 57,
           "ds": 0,
-          "rate": ".352",
+          "rate": ".360",
           "pickoff": {
             "pickoff": 10,
             "cs": 6,
@@ -913,10 +913,10 @@
             "lastName": "Wakatsuki"
           },
           "stats": {
-            "cs": 24,
+            "cs": 25,
             "sb": 29,
             "ds": 0,
-            "rate": ".453",
+            "rate": ".463",
             "pickoff": {
               "pickoff": 6,
               "cs": 4,
@@ -1130,10 +1130,10 @@
       "teamName": "Hawks",
       "team": {
         "stats": {
-          "cs": 26,
+          "cs": 27,
           "sb": 65,
           "ds": 0,
-          "rate": ".286",
+          "rate": ".293",
           "pickoff": {
             "pickoff": 5,
             "cs": 2,
@@ -1167,10 +1167,10 @@
             "lastName": "Kai"
           },
           "stats": {
-            "cs": 20,
+            "cs": 21,
             "sb": 53,
             "ds": 0,
-            "rate": ".274",
+            "rate": ".284",
             "pickoff": {
               "pickoff": 3,
               "cs": 1,
@@ -1709,10 +1709,10 @@
   "summary": [
     {
       "stats": {
-        "cs": 282,
-        "sb": 687,
+        "cs": 284,
+        "sb": 691,
         "ds": 5,
-        "ratio": "29.3% (282/964)"
+        "ratio": "29.3% (284/970)"
       },
       "ja": "NPB",
       "en": "NPB"
@@ -1720,19 +1720,19 @@
     {
       "stats": {
         "cs": 132,
-        "sb": 284,
+        "sb": 288,
         "ds": 1,
-        "ratio": "31.8% (132/415)"
+        "ratio": "31.5% (132/419)"
       },
       "ja": "セ・リーグ",
       "en": "Central League"
     },
     {
       "stats": {
-        "cs": 150,
+        "cs": 152,
         "sb": 403,
         "ds": 4,
-        "ratio": "27.3% (150/549)"
+        "ratio": "27.6% (152/551)"
       },
       "ja": "パ・リーグ",
       "en": "Pacific League"
