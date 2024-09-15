@@ -1,5 +1,5 @@
 {
-  "updated": "2024-09-14",
+  "updated": "2024-09-15",
   "teamStats": [
     {
       "teamCode": "T",
@@ -7,9 +7,9 @@
       "team": {
         "stats": {
           "cs": 16,
-          "sb": 57,
+          "sb": 59,
           "ds": 1,
-          "rate": ".222",
+          "rate": ".216",
           "pickoff": {
             "pickoff": 15,
             "cs": 5,
@@ -44,9 +44,9 @@
           },
           "stats": {
             "cs": 11,
-            "sb": 37,
+            "sb": 39,
             "ds": 1,
-            "rate": ".234",
+            "rate": ".224",
             "pickoff": {
               "pickoff": 9,
               "cs": 5,
@@ -225,9 +225,9 @@
       "team": {
         "stats": {
           "cs": 24,
-          "sb": 54,
+          "sb": 56,
           "ds": 0,
-          "rate": ".308",
+          "rate": ".300",
           "pickoff": {
             "pickoff": 13,
             "cs": 4,
@@ -262,9 +262,9 @@
           },
           "stats": {
             "cs": 19,
-            "sb": 33,
+            "sb": 35,
             "ds": 0,
-            "rate": ".365",
+            "rate": ".352",
             "pickoff": {
               "pickoff": 10,
               "cs": 2,
@@ -387,10 +387,10 @@
       "teamName": "Giants",
       "team": {
         "stats": {
-          "cs": 26,
+          "cs": 27,
           "sb": 37,
           "ds": 0,
-          "rate": ".413",
+          "rate": ".422",
           "pickoff": {
             "pickoff": 9,
             "cs": 4,
@@ -460,10 +460,10 @@
             "lastName": "Kobayashi"
           },
           "stats": {
-            "cs": 4,
+            "cs": 5,
             "sb": 13,
             "ds": 0,
-            "rate": ".235",
+            "rate": ".278",
             "pickoff": {
               "pickoff": 1,
               "cs": 0,
@@ -514,10 +514,10 @@
       "teamName": "Swallows",
       "team": {
         "stats": {
-          "cs": 31,
-          "sb": 40,
+          "cs": 32,
+          "sb": 41,
           "ds": 0,
-          "rate": ".437",
+          "rate": ".438",
           "pickoff": {
             "pickoff": 7,
             "cs": 3,
@@ -600,6 +600,42 @@
         },
         {
           "catcher": {
+            "playerId": "91595153",
+            "jaRegisteredName": "内山　壮真",
+            "teamCode": "S",
+            "primaryNumber": "33",
+            "primaryPosition": "Catcher",
+            "jaStatus": "支配下選手",
+            "batSide": "R",
+            "pitchHand": "R",
+            "height": "172",
+            "weight": "76",
+            "birthDate": "2002-06-30",
+            "jaNotes": "",
+            "notes": "",
+            "jaBoxscoreName": "内山",
+            "boxscoreName": "Uchiyama",
+            "jaFullName": "内山　壮真",
+            "jaFirstName": "壮真",
+            "jaLastName": "内山",
+            "fullLFMName": "Uchiyama, Souma",
+            "firstName": "Souma",
+            "lastName": "Uchiyama"
+          },
+          "stats": {
+            "cs": 2,
+            "sb": 1,
+            "ds": 0,
+            "rate": ".667",
+            "pickoff": {
+              "pickoff": 0,
+              "cs": 0,
+              "sb": 0
+            }
+          }
+        },
+        {
+          "catcher": {
             "playerId": "41245133",
             "jaRegisteredName": "西田　明央",
             "teamCode": "S",
@@ -627,42 +663,6 @@
             "sb": 2,
             "ds": 0,
             "rate": ".000",
-            "pickoff": {
-              "pickoff": 0,
-              "cs": 0,
-              "sb": 0
-            }
-          }
-        },
-        {
-          "catcher": {
-            "playerId": "91595153",
-            "jaRegisteredName": "内山　壮真",
-            "teamCode": "S",
-            "primaryNumber": "33",
-            "primaryPosition": "Catcher",
-            "jaStatus": "支配下選手",
-            "batSide": "R",
-            "pitchHand": "R",
-            "height": "172",
-            "weight": "76",
-            "birthDate": "2002-06-30",
-            "jaNotes": "",
-            "notes": "",
-            "jaBoxscoreName": "内山",
-            "boxscoreName": "Uchiyama",
-            "jaFullName": "内山　壮真",
-            "jaFirstName": "壮真",
-            "jaLastName": "内山",
-            "fullLFMName": "Uchiyama, Souma",
-            "firstName": "Souma",
-            "lastName": "Uchiyama"
-          },
-          "stats": {
-            "cs": 1,
-            "sb": 0,
-            "ds": 0,
-            "rate": "1.000",
             "pickoff": {
               "pickoff": 0,
               "cs": 0,
@@ -877,11 +877,11 @@
       "team": {
         "stats": {
           "cs": 32,
-          "sb": 57,
+          "sb": 59,
           "ds": 0,
-          "rate": ".360",
+          "rate": ".352",
           "pickoff": {
-            "pickoff": 10,
+            "pickoff": 11,
             "cs": 6,
             "sb": 0
           }
@@ -995,6 +995,42 @@
               "sb": 0
             }
           }
+        },
+        {
+          "catcher": {
+            "playerId": "11815155",
+            "jaRegisteredName": "福永　奨",
+            "teamCode": "B",
+            "primaryNumber": "32",
+            "primaryPosition": "Catcher",
+            "jaStatus": "支配下選手",
+            "batSide": "R",
+            "pitchHand": "R",
+            "height": "175",
+            "weight": "87",
+            "birthDate": "1999-07-28",
+            "jaNotes": "",
+            "notes": "",
+            "jaBoxscoreName": "福永",
+            "boxscoreName": "Fukunaga",
+            "jaFullName": "福永　奨",
+            "jaFirstName": "奨",
+            "jaLastName": "福永",
+            "fullLFMName": "Fukunaga, Sho",
+            "firstName": "Sho",
+            "lastName": "Fukunaga"
+          },
+          "stats": {
+            "cs": 0,
+            "sb": 2,
+            "ds": 0,
+            "rate": ".000",
+            "pickoff": {
+              "pickoff": 1,
+              "cs": 0,
+              "sb": 0
+            }
+          }
         }
       ]
     },
@@ -1003,10 +1039,10 @@
       "teamName": "Marines",
       "team": {
         "stats": {
-          "cs": 21,
-          "sb": 80,
+          "cs": 22,
+          "sb": 81,
           "ds": 1,
-          "rate": ".210",
+          "rate": ".216",
           "pickoff": {
             "pickoff": 9,
             "cs": 7,
@@ -1040,10 +1076,10 @@
             "lastName": "Satoh"
           },
           "stats": {
-            "cs": 12,
-            "sb": 55,
+            "cs": 13,
+            "sb": 56,
             "ds": 1,
-            "rate": ".182",
+            "rate": ".191",
             "pickoff": {
               "pickoff": 7,
               "cs": 5,
@@ -1131,9 +1167,9 @@
       "team": {
         "stats": {
           "cs": 27,
-          "sb": 65,
+          "sb": 66,
           "ds": 0,
-          "rate": ".293",
+          "rate": ".290",
           "pickoff": {
             "pickoff": 5,
             "cs": 2,
@@ -1168,9 +1204,9 @@
           },
           "stats": {
             "cs": 21,
-            "sb": 53,
+            "sb": 54,
             "ds": 0,
-            "rate": ".284",
+            "rate": ".280",
             "pickoff": {
               "pickoff": 3,
               "cs": 1,
@@ -1709,30 +1745,30 @@
   "summary": [
     {
       "stats": {
-        "cs": 286,
-        "sb": 698,
+        "cs": 289,
+        "sb": 707,
         "ds": 5,
-        "ratio": "29.2% (286/979)"
+        "ratio": "29.2% (289/991)"
       },
       "ja": "NPB",
       "en": "NPB"
     },
     {
       "stats": {
-        "cs": 134,
-        "sb": 292,
+        "cs": 136,
+        "sb": 297,
         "ds": 1,
-        "ratio": "31.5% (134/425)"
+        "ratio": "31.5% (136/432)"
       },
       "ja": "セ・リーグ",
       "en": "Central League"
     },
     {
       "stats": {
-        "cs": 152,
-        "sb": 406,
+        "cs": 153,
+        "sb": 410,
         "ds": 4,
-        "ratio": "27.4% (152/554)"
+        "ratio": "27.4% (153/559)"
       },
       "ja": "パ・リーグ",
       "en": "Pacific League"
