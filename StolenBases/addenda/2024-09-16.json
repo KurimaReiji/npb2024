@@ -1,0 +1,96 @@
+[
+  {
+    "jaText": "（走者・岡林）二塁盗塁失敗",
+    "text": "Okabayashi caught stealing 2nd base.",
+    "pickoff": ""
+  },
+  {
+    "jaText": "（走者・岩田）二塁盗塁成功",
+    "text": "Iwata steals 2nd base.",
+    "pickoff": ""
+  },
+  {
+    "jaText": "（走者・田宮）二塁盗塁成功",
+    "text": "Tamiya steals 2nd base.",
+    "pickoff": ""
+  },
+  {
+    "jaText": "（走者・辰己）二塁盗塁失敗",
+    "text": "R.Tatsumi caught stealing 2nd base.",
+    "pickoff": ""
+  },
+  {
+    "jaText": "（走者・長谷川）二塁盗塁成功",
+    "text": "Hasegawa steals 2nd base.",
+    "pickoff": ""
+  },
+  {
+    "jaText": "（走者・和田）二塁盗塁成功",
+    "text": "Wada steals 2nd base.",
+    "pickoff": ""
+  },
+  {
+    "jaText": "（走者・奥村）一塁牽制アウト",
+    "text": "Okumura picked off at 1st base.",
+    "pickoff": "Y"
+  },
+  {
+    "jaText": "（走者・近藤）二塁盗塁成功",
+    "text": "Kondoh steals 2nd base.",
+    "pickoff": "",
+    "catcher": {},
+    "catchers": [
+      {
+        "playerId": "11815155",
+        "jaRegisteredName": "福永　奨",
+        "teamCode": "B",
+        "primaryNumber": "32",
+        "primaryPosition": "Catcher",
+        "jaStatus": "支配下選手",
+        "batSide": "R",
+        "pitchHand": "R",
+        "height": "175",
+        "weight": "87",
+        "birthDate": "1999-07-28",
+        "jaNotes": "",
+        "notes": "",
+        "jaBoxscoreName": "福永",
+        "boxscoreName": "Fukunaga",
+        "jaFullName": "福永　奨",
+        "jaFirstName": "奨",
+        "jaLastName": "福永",
+        "fullLFMName": "Fukunaga, Sho",
+        "firstName": "Sho",
+        "lastName": "Fukunaga"
+      },
+      {
+        "playerId": "81185139",
+        "jaRegisteredName": "石川　亮",
+        "teamCode": "B",
+        "primaryNumber": "37",
+        "primaryPosition": "Catcher",
+        "jaStatus": "支配下選手",
+        "batSide": "R",
+        "pitchHand": "R",
+        "height": "181",
+        "weight": "87",
+        "birthDate": "1995-07-20",
+        "jaNotes": "",
+        "notes": "",
+        "jaBoxscoreName": "石川",
+        "boxscoreName": "Ishikawa",
+        "jaFullName": "石川　亮",
+        "jaFirstName": "亮",
+        "jaLastName": "石川",
+        "fullLFMName": "Ishikawa, Ryo",
+        "firstName": "Ryo",
+        "lastName": "Ishikawa"
+      }
+    ]
+  },
+  {
+    "jaText": "（走者・来田）二塁盗塁失敗",
+    "text": "Kita caught stealing 2nd base.",
+    "pickoff": ""
+  }
+]
