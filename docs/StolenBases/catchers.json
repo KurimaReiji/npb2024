@@ -1,5 +1,5 @@
 {
-  "updated": "2024-09-15",
+  "updated": "2024-09-16",
   "teamStats": [
     {
       "teamCode": "T",
@@ -7,9 +7,9 @@
       "team": {
         "stats": {
           "cs": 16,
-          "sb": 59,
+          "sb": 60,
           "ds": 1,
-          "rate": ".216",
+          "rate": ".213",
           "pickoff": {
             "pickoff": 15,
             "cs": 5,
@@ -80,9 +80,9 @@
           },
           "stats": {
             "cs": 5,
-            "sb": 20,
+            "sb": 21,
             "ds": 0,
-            "rate": ".200",
+            "rate": ".192",
             "pickoff": {
               "pickoff": 6,
               "cs": 0,
@@ -387,10 +387,10 @@
       "teamName": "Giants",
       "team": {
         "stats": {
-          "cs": 27,
+          "cs": 28,
           "sb": 37,
           "ds": 0,
-          "rate": ".422",
+          "rate": ".431",
           "pickoff": {
             "pickoff": 9,
             "cs": 4,
@@ -424,10 +424,10 @@
             "lastName": "Kishida"
           },
           "stats": {
-            "cs": 18,
+            "cs": 19,
             "sb": 19,
             "ds": 0,
-            "rate": ".486",
+            "rate": ".500",
             "pickoff": {
               "pickoff": 4,
               "cs": 2,
@@ -877,9 +877,9 @@
       "team": {
         "stats": {
           "cs": 32,
-          "sb": 59,
+          "sb": 60,
           "ds": 0,
-          "rate": ".352",
+          "rate": ".348",
           "pickoff": {
             "pickoff": 11,
             "cs": 6,
@@ -1022,7 +1022,7 @@
           },
           "stats": {
             "cs": 0,
-            "sb": 2,
+            "sb": 3,
             "ds": 0,
             "rate": ".000",
             "pickoff": {
@@ -1040,11 +1040,11 @@
       "team": {
         "stats": {
           "cs": 22,
-          "sb": 81,
+          "sb": 82,
           "ds": 1,
-          "rate": ".216",
+          "rate": ".214",
           "pickoff": {
-            "pickoff": 9,
+            "pickoff": 10,
             "cs": 7,
             "sb": 0
           }
@@ -1077,11 +1077,11 @@
           },
           "stats": {
             "cs": 13,
-            "sb": 56,
+            "sb": 57,
             "ds": 1,
-            "rate": ".191",
+            "rate": ".188",
             "pickoff": {
-              "pickoff": 7,
+              "pickoff": 8,
               "cs": 5,
               "sb": 0
             }
@@ -1166,10 +1166,10 @@
       "teamName": "Hawks",
       "team": {
         "stats": {
-          "cs": 27,
+          "cs": 28,
           "sb": 66,
           "ds": 0,
-          "rate": ".290",
+          "rate": ".298",
           "pickoff": {
             "pickoff": 5,
             "cs": 2,
@@ -1203,10 +1203,10 @@
             "lastName": "Kai"
           },
           "stats": {
-            "cs": 21,
+            "cs": 22,
             "sb": 54,
             "ds": 0,
-            "rate": ".280",
+            "rate": ".289",
             "pickoff": {
               "pickoff": 3,
               "cs": 1,
@@ -1258,9 +1258,9 @@
       "team": {
         "stats": {
           "cs": 19,
-          "sb": 75,
+          "sb": 76,
           "ds": 0,
-          "rate": ".202",
+          "rate": ".200",
           "pickoff": {
             "pickoff": 9,
             "cs": 2,
@@ -1295,9 +1295,9 @@
           },
           "stats": {
             "cs": 5,
-            "sb": 41,
+            "sb": 42,
             "ds": 0,
-            "rate": ".109",
+            "rate": ".106",
             "pickoff": {
               "pickoff": 5,
               "cs": 0,
@@ -1421,9 +1421,9 @@
       "team": {
         "stats": {
           "cs": 23,
-          "sb": 64,
+          "sb": 65,
           "ds": 2,
-          "rate": ".271",
+          "rate": ".267",
           "pickoff": {
             "pickoff": 26,
             "cs": 10,
@@ -1494,9 +1494,9 @@
           },
           "stats": {
             "cs": 2,
-            "sb": 15,
+            "sb": 16,
             "ds": 0,
-            "rate": ".118",
+            "rate": ".111",
             "pickoff": {
               "pickoff": 7,
               "cs": 3,
@@ -1588,8 +1588,8 @@
           "ds": 1,
           "rate": ".319",
           "pickoff": {
-            "pickoff": 9,
-            "cs": 3,
+            "pickoff": 10,
+            "cs": 4,
             "sb": 1
           }
         }
@@ -1625,8 +1625,8 @@
             "ds": 0,
             "rate": ".383",
             "pickoff": {
-              "pickoff": 5,
-              "cs": 1,
+              "pickoff": 6,
+              "cs": 2,
               "sb": 1
             }
           }
@@ -1745,30 +1745,30 @@
   "summary": [
     {
       "stats": {
-        "cs": 289,
-        "sb": 707,
+        "cs": 291,
+        "sb": 712,
         "ds": 5,
-        "ratio": "29.2% (289/991)"
+        "ratio": "29.2% (291/998)"
       },
       "ja": "NPB",
       "en": "NPB"
     },
     {
       "stats": {
-        "cs": 136,
-        "sb": 297,
+        "cs": 137,
+        "sb": 298,
         "ds": 1,
-        "ratio": "31.5% (136/432)"
+        "ratio": "31.6% (137/434)"
       },
       "ja": "セ・リーグ",
       "en": "Central League"
     },
     {
       "stats": {
-        "cs": 153,
-        "sb": 410,
+        "cs": 154,
+        "sb": 414,
         "ds": 4,
-        "ratio": "27.4% (153/559)"
+        "ratio": "27.3% (154/564)"
       },
       "ja": "パ・リーグ",
       "en": "Pacific League"
