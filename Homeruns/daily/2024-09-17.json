@@ -1,0 +1,122 @@
+[
+  {
+    "id": "63065155-2024-21",
+    "date": "2024-09-17",
+    "batter": {
+      "jaBoxscoreName": "ポランコ",
+      "playerId": "63065155",
+      "boxscoreName": "Polanco",
+      "batSide": "L",
+      "teamCode": "M",
+      "primaryNumber": "22",
+      "jaRegisteredName": "Ｇ．ポランコ",
+      "fullLFMName": "Polanco, Gregory"
+    },
+    "pitcher": {
+      "jaBoxscoreName": "古謝",
+      "boxscoreName": "Koja",
+      "pitchHand": "L",
+      "teamCode": "E",
+      "primaryNumber": "17",
+      "jaRegisteredName": "古謝　樹",
+      "fullLFMName": "Koja, Tatsuki"
+    },
+    "number": 21,
+    "inning": 4,
+    "halfInning": "top",
+    "outs": 1,
+    "RoB": "1--",
+    "count": {
+      "balls": 1,
+      "strikes": 0
+    },
+    "runs": {
+      "road": 0,
+      "home": 3
+    },
+    "bop": 3,
+    "rbi": 2,
+    "whereHit": "9",
+    "venue": {
+      "jaBoxscoreName": "楽天モバイル",
+      "boxscoreName": "Rakuten Mobile",
+      "jaName": "楽天モバイルパーク宮城",
+      "name": "Rakuten Mobile Park Miyagi"
+    },
+    "teams": {
+      "road": {
+        "teamCode": "M",
+        "teamName": "Marines",
+        "score": 4
+      },
+      "home": {
+        "teamCode": "E",
+        "teamName": "Eagles",
+        "score": 5
+      }
+    },
+    "jaText": "ライト2ランホームラン（打点2）",
+    "text": "Polanco homers (21) to right field.",
+    "url": "https://npb.jp/scores/2024/0917/e-m-21/playbyplay.html#com4-1"
+  },
+  {
+    "id": "03505136-2024-21",
+    "date": "2024-09-17",
+    "batter": {
+      "jaBoxscoreName": "ソト",
+      "playerId": "03505136",
+      "boxscoreName": "Soto",
+      "batSide": "R",
+      "teamCode": "M",
+      "primaryNumber": "99",
+      "jaRegisteredName": "Ｎ．ソト",
+      "fullLFMName": "Soto, Neftali"
+    },
+    "pitcher": {
+      "jaBoxscoreName": "古謝",
+      "boxscoreName": "Koja",
+      "pitchHand": "L",
+      "teamCode": "E",
+      "primaryNumber": "17",
+      "jaRegisteredName": "古謝　樹",
+      "fullLFMName": "Koja, Tatsuki"
+    },
+    "number": 21,
+    "inning": 4,
+    "halfInning": "top",
+    "outs": 1,
+    "RoB": "---",
+    "count": {
+      "balls": 0,
+      "strikes": 1
+    },
+    "runs": {
+      "road": 2,
+      "home": 3
+    },
+    "bop": 4,
+    "rbi": 1,
+    "whereHit": "89",
+    "venue": {
+      "jaBoxscoreName": "楽天モバイル",
+      "boxscoreName": "Rakuten Mobile",
+      "jaName": "楽天モバイルパーク宮城",
+      "name": "Rakuten Mobile Park Miyagi"
+    },
+    "teams": {
+      "road": {
+        "teamCode": "M",
+        "teamName": "Marines",
+        "score": 4
+      },
+      "home": {
+        "teamCode": "E",
+        "teamName": "Eagles",
+        "score": 5
+      }
+    },
+    "jaText": "右中間ソロホームラン（打点1）",
+    "text": "Soto homers (21) to right center.",
+    "url": "https://npb.jp/scores/2024/0917/e-m-21/playbyplay.html#com4-1"
+  }
+]
