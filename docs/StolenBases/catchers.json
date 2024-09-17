@@ -876,13 +876,13 @@
       "teamName": "Buffaloes",
       "team": {
         "stats": {
-          "cs": 32,
+          "cs": 31,
           "sb": 60,
           "ds": 0,
-          "rate": ".348",
+          "rate": ".341",
           "pickoff": {
-            "pickoff": 11,
-            "cs": 6,
+            "pickoff": 12,
+            "cs": 7,
             "sb": 0
           }
         }
@@ -949,13 +949,13 @@
             "lastName": "Mori"
           },
           "stats": {
-            "cs": 5,
+            "cs": 4,
             "sb": 26,
             "ds": 0,
-            "rate": ".161",
+            "rate": ".133",
             "pickoff": {
-              "pickoff": 4,
-              "cs": 2,
+              "pickoff": 5,
+              "cs": 3,
               "sb": 0
             }
           }
@@ -1745,10 +1745,10 @@
   "summary": [
     {
       "stats": {
-        "cs": 291,
+        "cs": 290,
         "sb": 715,
         "ds": 5,
-        "ratio": "29.1% (291/1001)"
+        "ratio": "29.0% (290/1000)"
       },
       "ja": "NPB",
       "en": "NPB"
@@ -1765,10 +1765,10 @@
     },
     {
       "stats": {
-        "cs": 154,
+        "cs": 153,
         "sb": 417,
         "ds": 4,
-        "ratio": "27.2% (154/567)"
+        "ratio": "27.0% (153/566)"
       },
       "ja": "パ・リーグ",
       "en": "Pacific League"

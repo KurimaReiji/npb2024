@@ -31,7 +31,7 @@
   },
   {
     "jaText": "（走者・羽月）二塁盗塁失敗",
-    "text": "Hatsuki caught stealing 2nd base.",
-    "pickoff": ""
+    "text": "Hatsuki picked off and caught stealing 2nd base.",
+    "pickoff": "Y"
   }
 ]
