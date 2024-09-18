@@ -1,5 +1,5 @@
 {
-  "updated": "2024-09-17",
+  "updated": "2024-09-18",
   "teamStats": [
     {
       "teamCode": "T",
@@ -718,7 +718,7 @@
           "ds": 0,
           "rate": ".195",
           "pickoff": {
-            "pickoff": 9,
+            "pickoff": 10,
             "cs": 4,
             "sb": 0
           }
@@ -827,7 +827,7 @@
             "ds": 0,
             "rate": ".300",
             "pickoff": {
-              "pickoff": 2,
+              "pickoff": 3,
               "cs": 2,
               "sb": 0
             }
@@ -877,9 +877,9 @@
       "team": {
         "stats": {
           "cs": 31,
-          "sb": 60,
+          "sb": 63,
           "ds": 0,
-          "rate": ".341",
+          "rate": ".330",
           "pickoff": {
             "pickoff": 12,
             "cs": 7,
@@ -962,6 +962,42 @@
         },
         {
           "catcher": {
+            "playerId": "11815155",
+            "jaRegisteredName": "福永　奨",
+            "teamCode": "B",
+            "primaryNumber": "32",
+            "primaryPosition": "Catcher",
+            "jaStatus": "支配下選手",
+            "batSide": "R",
+            "pitchHand": "R",
+            "height": "175",
+            "weight": "87",
+            "birthDate": "1999-07-28",
+            "jaNotes": "",
+            "notes": "",
+            "jaBoxscoreName": "福永",
+            "boxscoreName": "Fukunaga",
+            "jaFullName": "福永　奨",
+            "jaFirstName": "奨",
+            "jaLastName": "福永",
+            "fullLFMName": "Fukunaga, Sho",
+            "firstName": "Sho",
+            "lastName": "Fukunaga"
+          },
+          "stats": {
+            "cs": 0,
+            "sb": 6,
+            "ds": 0,
+            "rate": ".000",
+            "pickoff": {
+              "pickoff": 1,
+              "cs": 0,
+              "sb": 0
+            }
+          }
+        },
+        {
+          "catcher": {
             "playerId": "81185139",
             "jaRegisteredName": "石川　亮",
             "teamCode": "B",
@@ -991,42 +1027,6 @@
             "rate": ".500",
             "pickoff": {
               "pickoff": 0,
-              "cs": 0,
-              "sb": 0
-            }
-          }
-        },
-        {
-          "catcher": {
-            "playerId": "11815155",
-            "jaRegisteredName": "福永　奨",
-            "teamCode": "B",
-            "primaryNumber": "32",
-            "primaryPosition": "Catcher",
-            "jaStatus": "支配下選手",
-            "batSide": "R",
-            "pitchHand": "R",
-            "height": "175",
-            "weight": "87",
-            "birthDate": "1999-07-28",
-            "jaNotes": "",
-            "notes": "",
-            "jaBoxscoreName": "福永",
-            "boxscoreName": "Fukunaga",
-            "jaFullName": "福永　奨",
-            "jaFirstName": "奨",
-            "jaLastName": "福永",
-            "fullLFMName": "Fukunaga, Sho",
-            "firstName": "Sho",
-            "lastName": "Fukunaga"
-          },
-          "stats": {
-            "cs": 0,
-            "sb": 3,
-            "ds": 0,
-            "rate": ".000",
-            "pickoff": {
-              "pickoff": 1,
               "cs": 0,
               "sb": 0
             }
@@ -1167,9 +1167,9 @@
       "team": {
         "stats": {
           "cs": 28,
-          "sb": 68,
+          "sb": 69,
           "ds": 0,
-          "rate": ".292",
+          "rate": ".289",
           "pickoff": {
             "pickoff": 5,
             "cs": 2,
@@ -1240,9 +1240,9 @@
           },
           "stats": {
             "cs": 6,
-            "sb": 12,
+            "sb": 13,
             "ds": 0,
-            "rate": ".333",
+            "rate": ".316",
             "pickoff": {
               "pickoff": 2,
               "cs": 1,
@@ -1420,10 +1420,10 @@
       "teamName": "Lions",
       "team": {
         "stats": {
-          "cs": 23,
-          "sb": 65,
+          "cs": 24,
+          "sb": 66,
           "ds": 2,
-          "rate": ".267",
+          "rate": ".273",
           "pickoff": {
             "pickoff": 26,
             "cs": 10,
@@ -1457,10 +1457,10 @@
             "lastName": "Koga"
           },
           "stats": {
-            "cs": 18,
-            "sb": 40,
+            "cs": 19,
+            "sb": 41,
             "ds": 2,
-            "rate": ".321",
+            "rate": ".328",
             "pickoff": {
               "pickoff": 17,
               "cs": 7,
@@ -1584,9 +1584,9 @@
       "team": {
         "stats": {
           "cs": 30,
-          "sb": 65,
+          "sb": 66,
           "ds": 1,
-          "rate": ".319",
+          "rate": ".316",
           "pickoff": {
             "pickoff": 10,
             "cs": 4,
@@ -1621,9 +1621,9 @@
           },
           "stats": {
             "cs": 18,
-            "sb": 29,
+            "sb": 30,
             "ds": 0,
-            "rate": ".383",
+            "rate": ".375",
             "pickoff": {
               "pickoff": 6,
               "cs": 2,
@@ -1745,10 +1745,10 @@
   "summary": [
     {
       "stats": {
-        "cs": 290,
-        "sb": 715,
+        "cs": 291,
+        "sb": 721,
         "ds": 5,
-        "ratio": "29.0% (290/1000)"
+        "ratio": "28.9% (291/1007)"
       },
       "ja": "NPB",
       "en": "NPB"
@@ -1765,10 +1765,10 @@
     },
     {
       "stats": {
-        "cs": 153,
-        "sb": 417,
+        "cs": 154,
+        "sb": 423,
         "ds": 4,
-        "ratio": "27.0% (153/566)"
+        "ratio": "26.9% (154/573)"
       },
       "ja": "パ・リーグ",
       "en": "Pacific League"
