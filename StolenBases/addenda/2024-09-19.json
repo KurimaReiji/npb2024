@@ -2,7 +2,7 @@
   {
     "jaText": "（走者・丸）三塁盗塁成功",
     "text": "Maru picked off and steals 3rd base.",
-    "pickoff": "Y",
+    "pickoff": "",
     "catcher": {
       "playerId": "81185116",
       "jaRegisteredName": "伊藤　光",
