@@ -1,0 +1,182 @@
+[
+  {
+    "id": "11515130-2024-25",
+    "date": "2024-09-19",
+    "batter": {
+      "jaBoxscoreName": "岡本和",
+      "playerId": "11515130",
+      "boxscoreName": "K.Okamoto",
+      "batSide": "R",
+      "teamCode": "G",
+      "primaryNumber": "25",
+      "jaRegisteredName": "岡本　和真",
+      "fullLFMName": "Okamoto, Kazuma"
+    },
+    "pitcher": {
+      "jaBoxscoreName": "ケイ",
+      "boxscoreName": "Kay",
+      "pitchHand": "L",
+      "teamCode": "DB",
+      "primaryNumber": "69",
+      "jaRegisteredName": "Ａ．ケイ",
+      "fullLFMName": "Kay, Anthony"
+    },
+    "number": 25,
+    "inning": 5,
+    "halfInning": "bottom",
+    "outs": 1,
+    "RoB": "1--",
+    "count": {
+      "balls": 2,
+      "strikes": 1
+    },
+    "runs": {
+      "road": 0,
+      "home": 3
+    },
+    "bop": 4,
+    "rbi": 2,
+    "whereHit": "7",
+    "venue": {
+      "jaBoxscoreName": "東京ドーム",
+      "boxscoreName": "Tokyo Dome",
+      "jaName": "東京ドーム",
+      "name": "Tokyo Dome"
+    },
+    "teams": {
+      "road": {
+        "teamCode": "DB",
+        "teamName": "Baystars",
+        "score": 0
+      },
+      "home": {
+        "teamCode": "G",
+        "teamName": "Giants",
+        "score": 6
+      }
+    },
+    "jaText": "レフト2ランホームラン（打点2）",
+    "text": "K.Okamoto homers (25) to left field.",
+    "url": "https://npb.jp/scores/2024/0919/g-db-22/playbyplay.html#com5-2"
+  },
+  {
+    "id": "91895133-2024-12",
+    "date": "2024-09-19",
+    "batter": {
+      "jaBoxscoreName": "山田",
+      "playerId": "91895133",
+      "boxscoreName": "Yamada",
+      "batSide": "R",
+      "teamCode": "S",
+      "primaryNumber": "1",
+      "jaRegisteredName": "山田　哲人",
+      "fullLFMName": "Yamada, Tetsuto"
+    },
+    "pitcher": {
+      "jaBoxscoreName": "床田",
+      "boxscoreName": "Tokoda",
+      "pitchHand": "L",
+      "teamCode": "C",
+      "primaryNumber": "28",
+      "jaRegisteredName": "床田　寛樹",
+      "fullLFMName": "Tokoda, Hiroki"
+    },
+    "number": 12,
+    "inning": 2,
+    "halfInning": "bottom",
+    "outs": 0,
+    "RoB": "---",
+    "count": {
+      "balls": 3,
+      "strikes": 1
+    },
+    "runs": {
+      "road": 1,
+      "home": 0
+    },
+    "bop": 6,
+    "rbi": 1,
+    "whereHit": "7",
+    "venue": {
+      "jaBoxscoreName": "神宮",
+      "boxscoreName": "Jingu",
+      "jaName": "神宮",
+      "name": "Jingu Stadium"
+    },
+    "teams": {
+      "road": {
+        "teamCode": "C",
+        "teamName": "Carp",
+        "score": 1
+      },
+      "home": {
+        "teamCode": "S",
+        "teamName": "Swallows",
+        "score": 5
+      }
+    },
+    "jaText": "レフトソロホームラン（打点1）",
+    "text": "Yamada homers (12) to left field.",
+    "url": "https://npb.jp/scores/2024/0919/s-c-20/playbyplay.html#com2-2"
+  },
+  {
+    "id": "53755153-2024-14",
+    "date": "2024-09-19",
+    "batter": {
+      "jaBoxscoreName": "サンタナ",
+      "playerId": "53755153",
+      "boxscoreName": "Santana",
+      "batSide": "R",
+      "teamCode": "S",
+      "primaryNumber": "25",
+      "jaRegisteredName": "Ｄ．サンタナ",
+      "fullLFMName": "Santana, Domingo"
+    },
+    "pitcher": {
+      "jaBoxscoreName": "床田",
+      "boxscoreName": "Tokoda",
+      "pitchHand": "L",
+      "teamCode": "C",
+      "primaryNumber": "28",
+      "jaRegisteredName": "床田　寛樹",
+      "fullLFMName": "Tokoda, Hiroki"
+    },
+    "number": 14,
+    "inning": 5,
+    "halfInning": "bottom",
+    "outs": 1,
+    "RoB": "12-",
+    "count": {
+      "balls": 0,
+      "strikes": 2
+    },
+    "runs": {
+      "road": 1,
+      "home": 2
+    },
+    "bop": 3,
+    "rbi": 3,
+    "whereHit": "8",
+    "venue": {
+      "jaBoxscoreName": "神宮",
+      "boxscoreName": "Jingu",
+      "jaName": "神宮",
+      "name": "Jingu Stadium"
+    },
+    "teams": {
+      "road": {
+        "teamCode": "C",
+        "teamName": "Carp",
+        "score": 1
+      },
+      "home": {
+        "teamCode": "S",
+        "teamName": "Swallows",
+        "score": 5
+      }
+    },
+    "jaText": "センター3ランホームラン（打点3）",
+    "text": "Santana homers (14) to center field.",
+    "url": "https://npb.jp/scores/2024/0919/s-c-20/playbyplay.html#com5-2"
+  }
+]
