@@ -1,5 +1,5 @@
 {
-  "updated": "2024-09-19",
+  "updated": "2024-09-20",
   "teamStats": [
     {
       "teamCode": "T",
@@ -7,9 +7,9 @@
       "team": {
         "stats": {
           "cs": 16,
-          "sb": 60,
+          "sb": 62,
           "ds": 1,
-          "rate": ".213",
+          "rate": ".208",
           "pickoff": {
             "pickoff": 15,
             "cs": 5,
@@ -44,9 +44,9 @@
           },
           "stats": {
             "cs": 11,
-            "sb": 39,
+            "sb": 41,
             "ds": 1,
-            "rate": ".224",
+            "rate": ".216",
             "pickoff": {
               "pickoff": 9,
               "cs": 5,
@@ -98,9 +98,9 @@
       "team": {
         "stats": {
           "cs": 21,
-          "sb": 34,
+          "sb": 35,
           "ds": 0,
-          "rate": ".382",
+          "rate": ".375",
           "pickoff": {
             "pickoff": 13,
             "cs": 2,
@@ -207,9 +207,9 @@
           },
           "stats": {
             "cs": 2,
-            "sb": 9,
+            "sb": 10,
             "ds": 0,
-            "rate": ".182",
+            "rate": ".167",
             "pickoff": {
               "pickoff": 3,
               "cs": 0,
@@ -392,7 +392,7 @@
           "ds": 0,
           "rate": ".431",
           "pickoff": {
-            "pickoff": 9,
+            "pickoff": 10,
             "cs": 4,
             "sb": 1
           }
@@ -501,7 +501,7 @@
             "ds": 0,
             "rate": ".444",
             "pickoff": {
-              "pickoff": 4,
+              "pickoff": 5,
               "cs": 2,
               "sb": 1
             }
@@ -1166,10 +1166,10 @@
       "teamName": "Hawks",
       "team": {
         "stats": {
-          "cs": 28,
-          "sb": 69,
+          "cs": 29,
+          "sb": 70,
           "ds": 0,
-          "rate": ".289",
+          "rate": ".293",
           "pickoff": {
             "pickoff": 5,
             "cs": 2,
@@ -1203,10 +1203,10 @@
             "lastName": "Kai"
           },
           "stats": {
-            "cs": 22,
-            "sb": 56,
+            "cs": 23,
+            "sb": 57,
             "ds": 0,
-            "rate": ".282",
+            "rate": ".287",
             "pickoff": {
               "pickoff": 3,
               "cs": 1,
@@ -1257,10 +1257,10 @@
       "teamName": "Eagles",
       "team": {
         "stats": {
-          "cs": 19,
-          "sb": 76,
+          "cs": 20,
+          "sb": 78,
           "ds": 0,
-          "rate": ".200",
+          "rate": ".204",
           "pickoff": {
             "pickoff": 9,
             "cs": 2,
@@ -1294,10 +1294,10 @@
             "lastName": "Ishihara"
           },
           "stats": {
-            "cs": 5,
-            "sb": 42,
+            "cs": 6,
+            "sb": 43,
             "ds": 0,
-            "rate": ".106",
+            "rate": ".122",
             "pickoff": {
               "pickoff": 5,
               "cs": 0,
@@ -1331,9 +1331,9 @@
           },
           "stats": {
             "cs": 12,
-            "sb": 29,
+            "sb": 30,
             "ds": 0,
-            "rate": ".293",
+            "rate": ".286",
             "pickoff": {
               "pickoff": 3,
               "cs": 2,
@@ -1584,9 +1584,9 @@
       "team": {
         "stats": {
           "cs": 30,
-          "sb": 66,
+          "sb": 69,
           "ds": 1,
-          "rate": ".316",
+          "rate": ".306",
           "pickoff": {
             "pickoff": 10,
             "cs": 4,
@@ -1705,6 +1705,42 @@
         },
         {
           "catcher": {
+            "playerId": "21925151",
+            "jaRegisteredName": "郡司　裕也",
+            "teamCode": "F",
+            "primaryNumber": "30",
+            "primaryPosition": "Catcher",
+            "jaStatus": "支配下選手",
+            "batSide": "R",
+            "pitchHand": "R",
+            "height": "180",
+            "weight": "89",
+            "birthDate": "1997-12-27",
+            "jaNotes": "",
+            "notes": "",
+            "jaBoxscoreName": "郡司",
+            "boxscoreName": "Gunji",
+            "jaFullName": "郡司　裕也",
+            "jaFirstName": "裕也",
+            "jaLastName": "郡司",
+            "fullLFMName": "Gunji, Yuya",
+            "firstName": "Yuya",
+            "lastName": "Gunji"
+          },
+          "stats": {
+            "cs": 0,
+            "sb": 3,
+            "ds": 0,
+            "rate": ".000",
+            "pickoff": {
+              "pickoff": 0,
+              "cs": 0,
+              "sb": 0
+            }
+          }
+        },
+        {
+          "catcher": {
             "playerId": "11515151",
             "jaRegisteredName": "梅林　優貴",
             "teamCode": "F",
@@ -1745,10 +1781,10 @@
   "summary": [
     {
       "stats": {
-        "cs": 292,
-        "sb": 723,
+        "cs": 294,
+        "sb": 732,
         "ds": 5,
-        "ratio": "28.9% (292/1010)"
+        "ratio": "28.8% (294/1021)"
       },
       "ja": "NPB",
       "en": "NPB"
@@ -1756,19 +1792,19 @@
     {
       "stats": {
         "cs": 138,
-        "sb": 300,
+        "sb": 303,
         "ds": 1,
-        "ratio": "31.6% (138/437)"
+        "ratio": "31.4% (138/440)"
       },
       "ja": "セ・リーグ",
       "en": "Central League"
     },
     {
       "stats": {
-        "cs": 154,
-        "sb": 423,
+        "cs": 156,
+        "sb": 429,
         "ds": 4,
-        "ratio": "26.9% (154/573)"
+        "ratio": "26.9% (156/581)"
       },
       "ja": "パ・リーグ",
       "en": "Pacific League"
