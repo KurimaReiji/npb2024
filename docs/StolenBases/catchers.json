@@ -1,5 +1,5 @@
 {
-  "updated": "2024-09-20",
+  "updated": "2024-09-21",
   "teamStats": [
     {
       "teamCode": "T",
@@ -388,11 +388,11 @@
       "team": {
         "stats": {
           "cs": 28,
-          "sb": 37,
+          "sb": 38,
           "ds": 0,
-          "rate": ".431",
+          "rate": ".424",
           "pickoff": {
-            "pickoff": 10,
+            "pickoff": 11,
             "cs": 4,
             "sb": 1
           }
@@ -425,11 +425,11 @@
           },
           "stats": {
             "cs": 19,
-            "sb": 19,
+            "sb": 20,
             "ds": 0,
-            "rate": ".500",
+            "rate": ".487",
             "pickoff": {
-              "pickoff": 4,
+              "pickoff": 5,
               "cs": 2,
               "sb": 0
             }
@@ -514,10 +514,10 @@
       "teamName": "Swallows",
       "team": {
         "stats": {
-          "cs": 32,
+          "cs": 33,
           "sb": 41,
           "ds": 0,
-          "rate": ".438",
+          "rate": ".446",
           "pickoff": {
             "pickoff": 7,
             "cs": 3,
@@ -587,10 +587,10 @@
             "lastName": "Matsumoto"
           },
           "stats": {
-            "cs": 10,
+            "cs": 11,
             "sb": 15,
             "ds": 0,
-            "rate": ".400",
+            "rate": ".423",
             "pickoff": {
               "pickoff": 3,
               "cs": 3,
@@ -714,9 +714,9 @@
       "team": {
         "stats": {
           "cs": 17,
-          "sb": 70,
+          "sb": 72,
           "ds": 0,
-          "rate": ".195",
+          "rate": ".191",
           "pickoff": {
             "pickoff": 10,
             "cs": 4,
@@ -823,9 +823,9 @@
           },
           "stats": {
             "cs": 6,
-            "sb": 14,
+            "sb": 16,
             "ds": 0,
-            "rate": ".300",
+            "rate": ".273",
             "pickoff": {
               "pickoff": 3,
               "cs": 2,
@@ -1166,10 +1166,10 @@
       "teamName": "Hawks",
       "team": {
         "stats": {
-          "cs": 29,
-          "sb": 70,
+          "cs": 30,
+          "sb": 71,
           "ds": 0,
-          "rate": ".293",
+          "rate": ".297",
           "pickoff": {
             "pickoff": 5,
             "cs": 2,
@@ -1203,10 +1203,10 @@
             "lastName": "Kai"
           },
           "stats": {
-            "cs": 23,
-            "sb": 57,
+            "cs": 24,
+            "sb": 58,
             "ds": 0,
-            "rate": ".287",
+            "rate": ".293",
             "pickoff": {
               "pickoff": 3,
               "cs": 1,
@@ -1257,10 +1257,10 @@
       "teamName": "Eagles",
       "team": {
         "stats": {
-          "cs": 20,
-          "sb": 78,
+          "cs": 21,
+          "sb": 79,
           "ds": 0,
-          "rate": ".204",
+          "rate": ".210",
           "pickoff": {
             "pickoff": 9,
             "cs": 2,
@@ -1294,10 +1294,10 @@
             "lastName": "Ishihara"
           },
           "stats": {
-            "cs": 6,
-            "sb": 43,
+            "cs": 7,
+            "sb": 44,
             "ds": 0,
-            "rate": ".122",
+            "rate": ".137",
             "pickoff": {
               "pickoff": 5,
               "cs": 0,
@@ -1781,30 +1781,30 @@
   "summary": [
     {
       "stats": {
-        "cs": 294,
-        "sb": 732,
+        "cs": 297,
+        "sb": 737,
         "ds": 5,
-        "ratio": "28.8% (294/1021)"
+        "ratio": "28.9% (297/1029)"
       },
       "ja": "NPB",
       "en": "NPB"
     },
     {
       "stats": {
-        "cs": 138,
-        "sb": 303,
+        "cs": 139,
+        "sb": 306,
         "ds": 1,
-        "ratio": "31.4% (138/440)"
+        "ratio": "31.3% (139/444)"
       },
       "ja": "セ・リーグ",
       "en": "Central League"
     },
     {
       "stats": {
-        "cs": 156,
-        "sb": 429,
+        "cs": 158,
+        "sb": 431,
         "ds": 4,
-        "ratio": "26.9% (156/581)"
+        "ratio": "27.0% (158/585)"
       },
       "ja": "パ・リーグ",
       "en": "Pacific League"
