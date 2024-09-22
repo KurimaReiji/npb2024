@@ -1,5 +1,5 @@
 {
-  "updated": "2024-09-21",
+  "updated": "2024-09-22",
   "teamStats": [
     {
       "teamCode": "T",
@@ -225,12 +225,12 @@
       "team": {
         "stats": {
           "cs": 24,
-          "sb": 58,
+          "sb": 60,
           "ds": 0,
-          "rate": ".293",
+          "rate": ".286",
           "pickoff": {
-            "pickoff": 13,
-            "cs": 4,
+            "pickoff": 14,
+            "cs": 5,
             "sb": 1
           }
         }
@@ -334,12 +334,12 @@
           },
           "stats": {
             "cs": 2,
-            "sb": 8,
+            "sb": 10,
             "ds": 0,
-            "rate": ".200",
+            "rate": ".167",
             "pickoff": {
-              "pickoff": 1,
-              "cs": 0,
+              "pickoff": 2,
+              "cs": 1,
               "sb": 0
             }
           }
@@ -714,9 +714,9 @@
       "team": {
         "stats": {
           "cs": 17,
-          "sb": 72,
+          "sb": 73,
           "ds": 0,
-          "rate": ".191",
+          "rate": ".189",
           "pickoff": {
             "pickoff": 10,
             "cs": 4,
@@ -787,9 +787,9 @@
           },
           "stats": {
             "cs": 8,
-            "sb": 19,
+            "sb": 20,
             "ds": 0,
-            "rate": ".296",
+            "rate": ".286",
             "pickoff": {
               "pickoff": 1,
               "cs": 0,
@@ -1040,9 +1040,9 @@
       "team": {
         "stats": {
           "cs": 22,
-          "sb": 83,
+          "sb": 84,
           "ds": 1,
-          "rate": ".212",
+          "rate": ".210",
           "pickoff": {
             "pickoff": 10,
             "cs": 7,
@@ -1077,9 +1077,9 @@
           },
           "stats": {
             "cs": 13,
-            "sb": 57,
+            "sb": 58,
             "ds": 1,
-            "rate": ".188",
+            "rate": ".186",
             "pickoff": {
               "pickoff": 8,
               "cs": 5,
@@ -1258,9 +1258,9 @@
       "team": {
         "stats": {
           "cs": 21,
-          "sb": 79,
+          "sb": 80,
           "ds": 0,
-          "rate": ".210",
+          "rate": ".208",
           "pickoff": {
             "pickoff": 9,
             "cs": 2,
@@ -1403,9 +1403,9 @@
           },
           "stats": {
             "cs": 1,
-            "sb": 1,
+            "sb": 2,
             "ds": 0,
-            "rate": ".500",
+            "rate": ".333",
             "pickoff": {
               "pickoff": 1,
               "cs": 0,
@@ -1584,9 +1584,9 @@
       "team": {
         "stats": {
           "cs": 30,
-          "sb": 69,
+          "sb": 71,
           "ds": 1,
-          "rate": ".306",
+          "rate": ".300",
           "pickoff": {
             "pickoff": 10,
             "cs": 4,
@@ -1669,6 +1669,42 @@
         },
         {
           "catcher": {
+            "playerId": "21925151",
+            "jaRegisteredName": "郡司　裕也",
+            "teamCode": "F",
+            "primaryNumber": "30",
+            "primaryPosition": "Catcher",
+            "jaStatus": "支配下選手",
+            "batSide": "R",
+            "pitchHand": "R",
+            "height": "180",
+            "weight": "89",
+            "birthDate": "1997-12-27",
+            "jaNotes": "",
+            "notes": "",
+            "jaBoxscoreName": "郡司",
+            "boxscoreName": "Gunji",
+            "jaFullName": "郡司　裕也",
+            "jaFirstName": "裕也",
+            "jaLastName": "郡司",
+            "fullLFMName": "Gunji, Yuya",
+            "firstName": "Yuya",
+            "lastName": "Gunji"
+          },
+          "stats": {
+            "cs": 0,
+            "sb": 5,
+            "ds": 0,
+            "rate": ".000",
+            "pickoff": {
+              "pickoff": 0,
+              "cs": 0,
+              "sb": 0
+            }
+          }
+        },
+        {
+          "catcher": {
             "playerId": "61965130",
             "jaRegisteredName": "清水　優心",
             "teamCode": "F",
@@ -1699,42 +1735,6 @@
             "pickoff": {
               "pickoff": 1,
               "cs": 1,
-              "sb": 0
-            }
-          }
-        },
-        {
-          "catcher": {
-            "playerId": "21925151",
-            "jaRegisteredName": "郡司　裕也",
-            "teamCode": "F",
-            "primaryNumber": "30",
-            "primaryPosition": "Catcher",
-            "jaStatus": "支配下選手",
-            "batSide": "R",
-            "pitchHand": "R",
-            "height": "180",
-            "weight": "89",
-            "birthDate": "1997-12-27",
-            "jaNotes": "",
-            "notes": "",
-            "jaBoxscoreName": "郡司",
-            "boxscoreName": "Gunji",
-            "jaFullName": "郡司　裕也",
-            "jaFirstName": "裕也",
-            "jaLastName": "郡司",
-            "fullLFMName": "Gunji, Yuya",
-            "firstName": "Yuya",
-            "lastName": "Gunji"
-          },
-          "stats": {
-            "cs": 0,
-            "sb": 3,
-            "ds": 0,
-            "rate": ".000",
-            "pickoff": {
-              "pickoff": 0,
-              "cs": 0,
               "sb": 0
             }
           }
@@ -1782,9 +1782,9 @@
     {
       "stats": {
         "cs": 297,
-        "sb": 737,
+        "sb": 744,
         "ds": 5,
-        "ratio": "28.9% (297/1029)"
+        "ratio": "28.7% (297/1036)"
       },
       "ja": "NPB",
       "en": "NPB"
@@ -1792,9 +1792,9 @@
     {
       "stats": {
         "cs": 139,
-        "sb": 306,
+        "sb": 309,
         "ds": 1,
-        "ratio": "31.3% (139/444)"
+        "ratio": "31.1% (139/447)"
       },
       "ja": "セ・リーグ",
       "en": "Central League"
@@ -1802,9 +1802,9 @@
     {
       "stats": {
         "cs": 158,
-        "sb": 431,
+        "sb": 435,
         "ds": 4,
-        "ratio": "27.0% (158/585)"
+        "ratio": "26.8% (158/589)"
       },
       "ja": "パ・リーグ",
       "en": "Pacific League"
