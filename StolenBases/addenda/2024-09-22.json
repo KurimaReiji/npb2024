@@ -1,0 +1,91 @@
+[
+  {
+    "jaText": "（走者・岩田）二塁盗塁成功",
+    "text": "Iwata steals 2nd base.",
+    "pickoff": ""
+  },
+  {
+    "jaText": "（走者・西川）二塁盗塁成功",
+    "text": "Nishikawa steals 2nd base.",
+    "pickoff": ""
+  },
+  {
+    "jaText": "（走者・オスナ）二塁盗塁失敗",
+    "text": "Osuna caught stealing 2nd base.",
+    "pickoff": ""
+  },
+  {
+    "jaText": "（走者・坂倉）二塁盗塁成功",
+    "text": "Sakakura steals 2nd base.",
+    "pickoff": "",
+    "catcher": {},
+    "catchers": [
+      {
+        "playerId": "61365132",
+        "jaRegisteredName": "宇佐見　真吾",
+        "teamCode": "D",
+        "primaryNumber": "39",
+        "primaryPosition": "Catcher",
+        "jaStatus": "支配下選手",
+        "batSide": "L",
+        "pitchHand": "R",
+        "height": "181",
+        "weight": "88",
+        "birthDate": "1993-06-04",
+        "jaNotes": "",
+        "notes": "",
+        "jaBoxscoreName": "宇佐見",
+        "boxscoreName": "Usami",
+        "jaFullName": "宇佐見　真吾",
+        "jaFirstName": "真吾",
+        "jaLastName": "宇佐見",
+        "fullLFMName": "Usami, Shingo",
+        "firstName": "Shingo",
+        "lastName": "Usami"
+      },
+      {
+        "playerId": "41545130",
+        "jaRegisteredName": "加藤　匠馬",
+        "teamCode": "D",
+        "primaryNumber": "49",
+        "primaryPosition": "Catcher",
+        "jaStatus": "支配下選手",
+        "batSide": "R",
+        "pitchHand": "R",
+        "height": "175",
+        "weight": "83",
+        "birthDate": "1992-04-29",
+        "jaNotes": "",
+        "notes": "",
+        "jaBoxscoreName": "加藤匠",
+        "boxscoreName": "T.Katoh",
+        "jaFullName": "加藤　匠馬",
+        "jaFirstName": "匠馬",
+        "jaLastName": "加藤",
+        "fullLFMName": "Katoh, Takuma",
+        "firstName": "Takuma",
+        "lastName": "Katoh"
+      }
+    ]
+  },
+  {
+    "jaText": "（走者・西川）二塁盗塁成功",
+    "text": "Nishikawa steals 2nd base.",
+    "pickoff": ""
+  },
+  {
+    "jaText": "（走者・森）二塁盗塁成功",
+    "text": "Mori steals 2nd base.",
+    "pickoff": ""
+  },
+  {
+    "jaText": "（走者・西川）二塁盗塁成功",
+    "text": "Nishikawa steals 2nd base.",
+    "pickoff": ""
+  },
+  {
+    "jaText": "（走者・周東）二塁盗塁成功",
+    "text": "Shuto steals 2nd base.",
+    "pickoff": ""
+  }
+]
