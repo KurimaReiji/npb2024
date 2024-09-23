@@ -1,5 +1,5 @@
 {
-  "updated": "2024-09-22",
+  "updated": "2024-09-23",
   "teamStats": [
     {
       "teamCode": "T",
@@ -388,9 +388,9 @@
       "team": {
         "stats": {
           "cs": 28,
-          "sb": 38,
+          "sb": 39,
           "ds": 0,
-          "rate": ".424",
+          "rate": ".418",
           "pickoff": {
             "pickoff": 11,
             "cs": 4,
@@ -425,9 +425,9 @@
           },
           "stats": {
             "cs": 19,
-            "sb": 20,
+            "sb": 21,
             "ds": 0,
-            "rate": ".487",
+            "rate": ".475",
             "pickoff": {
               "pickoff": 5,
               "cs": 2,
@@ -713,10 +713,10 @@
       "teamName": "Dragons",
       "team": {
         "stats": {
-          "cs": 17,
+          "cs": 18,
           "sb": 73,
           "ds": 0,
-          "rate": ".189",
+          "rate": ".198",
           "pickoff": {
             "pickoff": 10,
             "cs": 4,
@@ -725,6 +725,42 @@
         }
       },
       "catchers": [
+        {
+          "catcher": {
+            "playerId": "61365132",
+            "jaRegisteredName": "宇佐見　真吾",
+            "teamCode": "D",
+            "primaryNumber": "39",
+            "primaryPosition": "Catcher",
+            "jaStatus": "支配下選手",
+            "batSide": "L",
+            "pitchHand": "R",
+            "height": "181",
+            "weight": "88",
+            "birthDate": "1993-06-04",
+            "jaNotes": "",
+            "notes": "",
+            "jaBoxscoreName": "宇佐見",
+            "boxscoreName": "Usami",
+            "jaFullName": "宇佐見　真吾",
+            "jaFirstName": "真吾",
+            "jaLastName": "宇佐見",
+            "fullLFMName": "Usami, Shingo",
+            "firstName": "Shingo",
+            "lastName": "Usami"
+          },
+          "stats": {
+            "cs": 9,
+            "sb": 20,
+            "ds": 0,
+            "rate": ".310",
+            "pickoff": {
+              "pickoff": 1,
+              "cs": 0,
+              "sb": 0
+            }
+          }
+        },
         {
           "catcher": {
             "playerId": "31735132",
@@ -757,42 +793,6 @@
             "pickoff": {
               "pickoff": 6,
               "cs": 2,
-              "sb": 0
-            }
-          }
-        },
-        {
-          "catcher": {
-            "playerId": "61365132",
-            "jaRegisteredName": "宇佐見　真吾",
-            "teamCode": "D",
-            "primaryNumber": "39",
-            "primaryPosition": "Catcher",
-            "jaStatus": "支配下選手",
-            "batSide": "L",
-            "pitchHand": "R",
-            "height": "181",
-            "weight": "88",
-            "birthDate": "1993-06-04",
-            "jaNotes": "",
-            "notes": "",
-            "jaBoxscoreName": "宇佐見",
-            "boxscoreName": "Usami",
-            "jaFullName": "宇佐見　真吾",
-            "jaFirstName": "真吾",
-            "jaLastName": "宇佐見",
-            "fullLFMName": "Usami, Shingo",
-            "firstName": "Shingo",
-            "lastName": "Usami"
-          },
-          "stats": {
-            "cs": 8,
-            "sb": 20,
-            "ds": 0,
-            "rate": ".286",
-            "pickoff": {
-              "pickoff": 1,
-              "cs": 0,
               "sb": 0
             }
           }
@@ -876,10 +876,10 @@
       "teamName": "Buffaloes",
       "team": {
         "stats": {
-          "cs": 31,
+          "cs": 32,
           "sb": 63,
           "ds": 0,
-          "rate": ".330",
+          "rate": ".337",
           "pickoff": {
             "pickoff": 12,
             "cs": 7,
@@ -985,10 +985,10 @@
             "lastName": "Fukunaga"
           },
           "stats": {
-            "cs": 0,
+            "cs": 1,
             "sb": 6,
             "ds": 0,
-            "rate": ".000",
+            "rate": ".143",
             "pickoff": {
               "pickoff": 1,
               "cs": 0,
@@ -1040,9 +1040,9 @@
       "team": {
         "stats": {
           "cs": 22,
-          "sb": 84,
+          "sb": 85,
           "ds": 1,
-          "rate": ".210",
+          "rate": ".208",
           "pickoff": {
             "pickoff": 10,
             "cs": 7,
@@ -1077,9 +1077,9 @@
           },
           "stats": {
             "cs": 13,
-            "sb": 58,
+            "sb": 59,
             "ds": 1,
-            "rate": ".186",
+            "rate": ".183",
             "pickoff": {
               "pickoff": 8,
               "cs": 5,
@@ -1167,9 +1167,9 @@
       "team": {
         "stats": {
           "cs": 30,
-          "sb": 71,
+          "sb": 72,
           "ds": 0,
-          "rate": ".297",
+          "rate": ".294",
           "pickoff": {
             "pickoff": 5,
             "cs": 2,
@@ -1204,9 +1204,9 @@
           },
           "stats": {
             "cs": 24,
-            "sb": 58,
+            "sb": 59,
             "ds": 0,
-            "rate": ".293",
+            "rate": ".289",
             "pickoff": {
               "pickoff": 3,
               "cs": 1,
@@ -1258,9 +1258,9 @@
       "team": {
         "stats": {
           "cs": 21,
-          "sb": 80,
+          "sb": 81,
           "ds": 0,
-          "rate": ".208",
+          "rate": ".206",
           "pickoff": {
             "pickoff": 9,
             "cs": 2,
@@ -1295,9 +1295,9 @@
           },
           "stats": {
             "cs": 7,
-            "sb": 44,
+            "sb": 45,
             "ds": 0,
-            "rate": ".137",
+            "rate": ".135",
             "pickoff": {
               "pickoff": 5,
               "cs": 0,
@@ -1421,9 +1421,9 @@
       "team": {
         "stats": {
           "cs": 24,
-          "sb": 66,
-          "ds": 2,
-          "rate": ".273",
+          "sb": 69,
+          "ds": 3,
+          "rate": ".267",
           "pickoff": {
             "pickoff": 26,
             "cs": 10,
@@ -1458,9 +1458,9 @@
           },
           "stats": {
             "cs": 19,
-            "sb": 41,
+            "sb": 42,
             "ds": 2,
-            "rate": ".328",
+            "rate": ".322",
             "pickoff": {
               "pickoff": 17,
               "cs": 7,
@@ -1494,9 +1494,9 @@
           },
           "stats": {
             "cs": 2,
-            "sb": 16,
-            "ds": 0,
-            "rate": ".111",
+            "sb": 18,
+            "ds": 1,
+            "rate": ".105",
             "pickoff": {
               "pickoff": 7,
               "cs": 3,
@@ -1584,9 +1584,9 @@
       "team": {
         "stats": {
           "cs": 30,
-          "sb": 71,
+          "sb": 72,
           "ds": 1,
-          "rate": ".300",
+          "rate": ".297",
           "pickoff": {
             "pickoff": 10,
             "cs": 4,
@@ -1693,7 +1693,7 @@
           },
           "stats": {
             "cs": 0,
-            "sb": 5,
+            "sb": 6,
             "ds": 0,
             "rate": ".000",
             "pickoff": {
@@ -1781,30 +1781,30 @@
   "summary": [
     {
       "stats": {
-        "cs": 297,
-        "sb": 744,
-        "ds": 5,
-        "ratio": "28.7% (297/1036)"
+        "cs": 299,
+        "sb": 752,
+        "ds": 6,
+        "ratio": "28.6% (299/1045)"
       },
       "ja": "NPB",
       "en": "NPB"
     },
     {
       "stats": {
-        "cs": 139,
-        "sb": 309,
+        "cs": 140,
+        "sb": 310,
         "ds": 1,
-        "ratio": "31.1% (139/447)"
+        "ratio": "31.2% (140/449)"
       },
       "ja": "セ・リーグ",
       "en": "Central League"
     },
     {
       "stats": {
-        "cs": 158,
-        "sb": 435,
-        "ds": 4,
-        "ratio": "26.8% (158/589)"
+        "cs": 159,
+        "sb": 442,
+        "ds": 5,
+        "ratio": "26.7% (159/596)"
       },
       "ja": "パ・リーグ",
       "en": "Pacific League"
