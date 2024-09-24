@@ -1,0 +1,5545 @@
+[
+  {
+    "index.html": {
+      "pathname": "/scores/2024/0924/b-l-25/index.html",
+      "date": "2024年9月24日（火）",
+      "place": "京セラD大阪",
+      "title": "【パーソル パ・リーグ公式戦】 オリックス・バファローズ vs 埼玉西武ライオンズ \n    25回戦",
+      "gameInfo": "【試合終了】\n            ◇開始 18:00        ◇終了 21:25            ◇試合時間 3時間25分      ◇入場者 36,217人",
+      "linescore": [
+        {
+          "team": "西武",
+          "tds": [
+            "2",
+            "0",
+            "0",
+            "3",
+            "0",
+            "3",
+            "0",
+            "0",
+            "1",
+            "9",
+            "14",
+            "0"
+          ]
+        },
+        {
+          "team": "オリックス",
+          "tds": [
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "2",
+            "0",
+            "0",
+            "2",
+            "4",
+            "3"
+          ]
+        }
+      ],
+      "umpires": "球審：須山 、塁審(一)：白井 、塁審(二)：嶋田 、塁審(三)：松本",
+      "decisions": [
+        [
+          "【勝投手】",
+          {
+            "players": [
+              {
+                "id": "31335134",
+                "jaBoxscoreName": "今井"
+              }
+            ],
+            "text": "今井（9勝8敗）"
+          }
+        ],
+        [
+          "【敗投手】",
+          {
+            "players": [
+              {
+                "id": "43545159",
+                "jaBoxscoreName": "エスピノーザ"
+              }
+            ],
+            "text": "エスピノーザ（7勝9敗）"
+          }
+        ]
+      ],
+      "battery": [
+        [
+          "【西武】",
+          {
+            "players": [
+              {
+                "id": "31335134",
+                "jaBoxscoreName": "今井"
+              },
+              {
+                "id": "43045155",
+                "jaBoxscoreName": "ボー・タカハシ"
+              },
+              {
+                "id": "01205134",
+                "jaBoxscoreName": "田村"
+              },
+              {
+                "id": "81785155",
+                "jaBoxscoreName": "古賀"
+              }
+            ],
+            "text": "今井、ボー・タカハシ、田村　‐　古賀"
+          }
+        ],
+        [
+          "【オリックス】",
+          {
+            "players": [
+              {
+                "id": "43545159",
+                "jaBoxscoreName": "エスピノーザ"
+              },
+              {
+                "id": "41745153",
+                "jaBoxscoreName": "川瀬"
+              },
+              {
+                "id": "83185134",
+                "jaBoxscoreName": "山岡"
+              },
+              {
+                "id": "41745159",
+                "jaBoxscoreName": "古田島"
+              },
+              {
+                "id": "13215157",
+                "jaBoxscoreName": "ペルドモ"
+              },
+              {
+                "id": "41645139",
+                "jaBoxscoreName": "若月"
+              },
+              {
+                "id": "11815155",
+                "jaBoxscoreName": "福永"
+              },
+              {
+                "id": "81185139",
+                "jaBoxscoreName": "石川"
+              }
+            ],
+            "text": "エスピノーザ、川瀬、山岡、古田島、ペルドモ　‐　若月、福永、石川"
+          }
+        ]
+      ],
+      "homeruns": [
+        [
+          "【西武】",
+          ""
+        ],
+        [
+          "【オリックス】",
+          {
+            "players": [
+              {
+                "id": "61965132",
+                "jaBoxscoreName": "杉本"
+              },
+              {
+                "id": "31335134",
+                "jaBoxscoreName": "今井"
+              }
+            ],
+            "text": "杉本 11号（7回2ラン 今井）"
+          }
+        ]
+      ]
+    },
+    "playbyplay.html": {
+      "pathname": "/scores/2024/0924/b-l-25/playbyplay.html",
+      "playByPlay": [
+        {
+          "inning": 1,
+          "halfInning": "top",
+          "text": "1回表（西武の攻撃）"
+        },
+        [
+          {
+            "players": [
+              {
+                "id": "43545159",
+                "jaBoxscoreName": "エスピノーザ"
+              }
+            ],
+            "text": "（先発投手） エスピノーザ"
+          }
+        ],
+        [
+          {
+            "players": [],
+            "text": "0アウト"
+          },
+          {
+            "players": [],
+            "text": ""
+          },
+          {
+            "players": [
+              {
+                "id": "81685153",
+                "jaBoxscoreName": "長谷川"
+              }
+            ],
+            "text": "長谷川"
+          },
+          {
+            "players": [],
+            "text": "1-2より"
+          },
+          {
+            "players": [],
+            "text": "セカンドゴロ"
+          }
+        ],
+        [
+          {
+            "players": [],
+            "text": "1アウト"
+          },
+          {
+            "players": [],
+            "text": ""
+          },
+          {
+            "players": [
+              {
+                "id": "71775134",
+                "jaBoxscoreName": "源田"
+              }
+            ],
+            "text": "源田"
+          },
+          {
+            "players": [],
+            "text": "2-1より"
+          },
+          {
+            "players": [],
+            "text": "センター前ヒット"
+          }
+        ],
+        [
+          {
+            "players": [],
+            "text": "1アウト"
+          },
+          {
+            "players": [],
+            "text": "1塁"
+          },
+          {
+            "players": [
+              {
+                "id": "51455136",
+                "jaBoxscoreName": "西川"
+              }
+            ],
+            "text": "西川"
+          },
+          {
+            "players": [],
+            "text": "2-0より"
+          },
+          {
+            "players": [],
+            "text": "ピッチャーツーベース"
+          }
+        ],
+        [
+          {
+            "players": [],
+            "text": "1アウト"
+          },
+          {
+            "players": [],
+            "text": "2・3塁"
+          },
+          {
+            "players": [
+              {
+                "id": "81785138",
+                "jaBoxscoreName": "佐藤龍"
+              }
+            ],
+            "text": "佐藤龍"
+          },
+          {
+            "players": [],
+            "text": "0-0より"
+          },
+          {
+            "players": [],
+            "text": "センター前タイムリーヒット（打点2）"
+          }
+        ],
+        [
+          {
+            "players": [],
+            "text": "1アウト"
+          },
+          {
+            "players": [],
+            "text": "1塁"
+          },
+          {
+            "players": [
+              {
+                "id": "11415138",
+                "jaBoxscoreName": "野村大"
+              }
+            ],
+            "text": "野村大"
+          },
+          {
+            "players": [],
+            "text": "3-2より"
+          },
+          {
+            "players": [],
+            "text": "センター前ヒット"
+          }
+        ],
+        [
+          {
+            "players": [],
+            "text": "1アウト"
+          },
+          {
+            "players": [],
+            "text": "1・2塁"
+          },
+          {
+            "players": [
+              {
+                "id": "01605132",
+                "jaBoxscoreName": "平沼"
+              }
+            ],
+            "text": "平沼"
+          },
+          {
+            "players": [],
+            "text": "2-2より"
+          },
+          {
+            "players": [],
+            "text": "セカンドゴロ"
+          }
+        ],
+        [
+          {
+            "players": [],
+            "text": "2アウト"
+          },
+          {
+            "players": [],
+            "text": "1・3塁"
+          },
+          {
+            "players": [
+              {
+                "id": "21825138",
+                "jaBoxscoreName": "山野辺"
+              }
+            ],
+            "text": "山野辺"
+          },
+          {
+            "players": [],
+            "text": "2-1より"
+          },
+          {
+            "players": [],
+            "text": "セカンドフライ"
+          }
+        ],
+        {
+          "inning": 1,
+          "halfInning": "bottom",
+          "text": "1回裏（オリックスの攻撃）"
+        },
+        [
+          {
+            "players": [
+              {
+                "id": "31335134",
+                "jaBoxscoreName": "今井"
+              }
+            ],
+            "text": "（先発投手） 今井"
+          }
+        ],
+        [
+          {
+            "players": [],
+            "text": "0アウト"
+          },
+          {
+            "players": [],
+            "text": ""
+          },
+          {
+            "players": [
+              {
+                "id": "21625132",
+                "jaBoxscoreName": "廣岡"
+              }
+            ],
+            "text": "廣岡"
+          },
+          {
+            "players": [],
+            "text": "1-2より"
+          },
+          {
+            "players": [],
+            "text": "見逃し三振"
+          }
+        ],
+        [
+          {
+            "players": [],
+            "text": "1アウト"
+          },
+          {
+            "players": [],
+            "text": ""
+          },
+          {
+            "players": [
+              {
+                "id": "91495130",
+                "jaBoxscoreName": "西野"
+              }
+            ],
+            "text": "西野"
+          },
+          {
+            "players": [],
+            "text": "2-2より"
+          },
+          {
+            "players": [],
+            "text": "セカンドゴロ"
+          }
+        ],
+        [
+          {
+            "players": [],
+            "text": "2アウト"
+          },
+          {
+            "players": [],
+            "text": ""
+          },
+          {
+            "players": [
+              {
+                "id": "91395138",
+                "jaBoxscoreName": "太田"
+              }
+            ],
+            "text": "太田"
+          },
+          {
+            "players": [],
+            "text": "1-0より"
+          },
+          {
+            "players": [],
+            "text": "ショートゴロ"
+          }
+        ],
+        {
+          "inning": 2,
+          "halfInning": "top",
+          "text": "2回表（西武の攻撃）"
+        },
+        [
+          {
+            "players": [],
+            "text": "0アウト"
+          },
+          {
+            "players": [],
+            "text": ""
+          },
+          {
+            "players": [
+              {
+                "id": "81785155",
+                "jaBoxscoreName": "古賀"
+              }
+            ],
+            "text": "古賀"
+          },
+          {
+            "players": [],
+            "text": "3-1より"
+          },
+          {
+            "players": [],
+            "text": "サードゴロ"
+          }
+        ],
+        [
+          {
+            "players": [],
+            "text": "1アウト"
+          },
+          {
+            "players": [],
+            "text": ""
+          },
+          {
+            "players": [
+              {
+                "id": "51255155",
+                "jaBoxscoreName": "滝澤"
+              }
+            ],
+            "text": "滝澤"
+          },
+          {
+            "players": [],
+            "text": "2-2より"
+          },
+          {
+            "players": [],
+            "text": "セカンドゴロ"
+          }
+        ],
+        [
+          {
+            "players": [],
+            "text": "2アウト"
+          },
+          {
+            "players": [],
+            "text": ""
+          },
+          {
+            "players": [
+              {
+                "id": "81685153",
+                "jaBoxscoreName": "長谷川"
+              }
+            ],
+            "text": "長谷川"
+          },
+          {
+            "players": [],
+            "text": "3-2より"
+          },
+          {
+            "players": [],
+            "text": "サードゴロ（エラー）"
+          }
+        ],
+        [
+          {
+            "players": [],
+            "text": "2アウト"
+          },
+          {
+            "players": [],
+            "text": "1塁"
+          },
+          {
+            "players": [],
+            "text": ""
+          },
+          {
+            "players": [],
+            "text": ""
+          },
+          {
+            "players": [
+              {
+                "id": "81685153",
+                "jaBoxscoreName": "長谷川"
+              }
+            ],
+            "text": "（走者・長谷川）二塁盗塁失敗"
+          }
+        ],
+        [
+          {
+            "players": [],
+            "text": "2アウト"
+          },
+          {
+            "players": [],
+            "text": "1塁"
+          },
+          {
+            "players": [
+              {
+                "id": "71775134",
+                "jaBoxscoreName": "源田"
+              }
+            ],
+            "text": "源田"
+          },
+          {
+            "players": [],
+            "text": "3-1より"
+          },
+          {
+            "players": [],
+            "text": "（途中終了）"
+          }
+        ],
+        {
+          "inning": 2,
+          "halfInning": "bottom",
+          "text": "2回裏（オリックスの攻撃）"
+        },
+        [
+          {
+            "players": [],
+            "text": "0アウト"
+          },
+          {
+            "players": [],
+            "text": ""
+          },
+          {
+            "players": [
+              {
+                "id": "91495139",
+                "jaBoxscoreName": "森"
+              }
+            ],
+            "text": "森"
+          },
+          {
+            "players": [],
+            "text": "2-2より"
+          },
+          {
+            "players": [],
+            "text": "ライトフライ"
+          }
+        ],
+        [
+          {
+            "players": [],
+            "text": "1アウト"
+          },
+          {
+            "players": [],
+            "text": ""
+          },
+          {
+            "players": [
+              {
+                "id": "71475132",
+                "jaBoxscoreName": "西川"
+              }
+            ],
+            "text": "西川"
+          },
+          {
+            "players": [],
+            "text": "0-2より"
+          },
+          {
+            "players": [],
+            "text": "空振り三振"
+          }
+        ],
+        [
+          {
+            "players": [],
+            "text": "2アウト"
+          },
+          {
+            "players": [],
+            "text": ""
+          },
+          {
+            "players": [
+              {
+                "id": "91995151",
+                "jaBoxscoreName": "紅林"
+              }
+            ],
+            "text": "紅林"
+          },
+          {
+            "players": [],
+            "text": "2-1より"
+          },
+          {
+            "players": [],
+            "text": "センターフライ"
+          }
+        ],
+        {
+          "inning": 3,
+          "halfInning": "top",
+          "text": "3回表（西武の攻撃）"
+        },
+        [
+          {
+            "players": [],
+            "text": "0アウト"
+          },
+          {
+            "players": [],
+            "text": ""
+          },
+          {
+            "players": [
+              {
+                "id": "71775134",
+                "jaBoxscoreName": "源田"
+              }
+            ],
+            "text": "源田"
+          },
+          {
+            "players": [],
+            "text": "0-1より"
+          },
+          {
+            "players": [],
+            "text": "センター前ヒット"
+          }
+        ],
+        [
+          {
+            "players": [],
+            "text": "0アウト"
+          },
+          {
+            "players": [],
+            "text": "1塁"
+          },
+          {
+            "players": [
+              {
+                "id": "51455136",
+                "jaBoxscoreName": "西川"
+              }
+            ],
+            "text": "西川"
+          },
+          {
+            "players": [],
+            "text": "2-1より"
+          },
+          {
+            "players": [],
+            "text": "レフトフライ"
+          }
+        ],
+        [
+          {
+            "players": [],
+            "text": "1アウト"
+          },
+          {
+            "players": [],
+            "text": "1塁"
+          },
+          {
+            "players": [
+              {
+                "id": "81785138",
+                "jaBoxscoreName": "佐藤龍"
+              }
+            ],
+            "text": "佐藤龍"
+          },
+          {
+            "players": [],
+            "text": "1-1より"
+          },
+          {
+            "players": [],
+            "text": "センターフライ"
+          }
+        ],
+        [
+          {
+            "players": [],
+            "text": "2アウト"
+          },
+          {
+            "players": [],
+            "text": "1塁"
+          },
+          {
+            "players": [
+              {
+                "id": "11415138",
+                "jaBoxscoreName": "野村大"
+              }
+            ],
+            "text": "野村大"
+          },
+          {
+            "players": [],
+            "text": "1-1より"
+          },
+          {
+            "players": [],
+            "text": "レフト前ヒット"
+          }
+        ],
+        [
+          {
+            "players": [],
+            "text": "2アウト"
+          },
+          {
+            "players": [],
+            "text": "1・2塁"
+          },
+          {
+            "players": [
+              {
+                "id": "01605132",
+                "jaBoxscoreName": "平沼"
+              }
+            ],
+            "text": "平沼"
+          },
+          {
+            "players": [],
+            "text": "0-1より"
+          },
+          {
+            "players": [],
+            "text": "ライトフライ"
+          }
+        ],
+        {
+          "inning": 3,
+          "halfInning": "bottom",
+          "text": "3回裏（オリックスの攻撃）"
+        },
+        [
+          {
+            "players": [],
+            "text": "0アウト"
+          },
+          {
+            "players": [],
+            "text": ""
+          },
+          {
+            "players": [
+              {
+                "id": "51955153",
+                "jaBoxscoreName": "来田"
+              }
+            ],
+            "text": "来田"
+          },
+          {
+            "players": [],
+            "text": "1-0より"
+          },
+          {
+            "players": [],
+            "text": "センターフライ"
+          }
+        ],
+        [
+          {
+            "players": [],
+            "text": "1アウト"
+          },
+          {
+            "players": [],
+            "text": ""
+          },
+          {
+            "players": [
+              {
+                "id": "41645139",
+                "jaBoxscoreName": "若月"
+              }
+            ],
+            "text": "若月"
+          },
+          {
+            "players": [],
+            "text": "3-2より"
+          },
+          {
+            "players": [],
+            "text": "空振り三振"
+          }
+        ],
+        [
+          {
+            "players": [],
+            "text": "2アウト"
+          },
+          {
+            "players": [],
+            "text": ""
+          },
+          {
+            "players": [
+              {
+                "id": "63565155",
+                "jaBoxscoreName": "渡部"
+              }
+            ],
+            "text": "渡部"
+          },
+          {
+            "players": [],
+            "text": "3-2より"
+          },
+          {
+            "players": [],
+            "text": "ファーストライナー"
+          }
+        ],
+        {
+          "inning": 4,
+          "halfInning": "top",
+          "text": "4回表（西武の攻撃）"
+        },
+        [
+          {
+            "players": [],
+            "text": "0アウト"
+          },
+          {
+            "players": [],
+            "text": ""
+          },
+          {
+            "players": [
+              {
+                "id": "21825138",
+                "jaBoxscoreName": "山野辺"
+              }
+            ],
+            "text": "山野辺"
+          },
+          {
+            "players": [],
+            "text": "1-2より"
+          },
+          {
+            "players": [],
+            "text": "空振り三振"
+          }
+        ],
+        [
+          {
+            "players": [],
+            "text": "1アウト"
+          },
+          {
+            "players": [],
+            "text": ""
+          },
+          {
+            "players": [
+              {
+                "id": "81785155",
+                "jaBoxscoreName": "古賀"
+              }
+            ],
+            "text": "古賀"
+          },
+          {
+            "players": [],
+            "text": "1-2より"
+          },
+          {
+            "players": [],
+            "text": "ライト前ヒット"
+          }
+        ],
+        [
+          {
+            "players": [],
+            "text": "1アウト"
+          },
+          {
+            "players": [],
+            "text": "1塁"
+          },
+          {
+            "players": [
+              {
+                "id": "51255155",
+                "jaBoxscoreName": "滝澤"
+              }
+            ],
+            "text": "滝澤"
+          },
+          {
+            "players": [],
+            "text": "0-0より"
+          },
+          {
+            "players": [],
+            "text": "ライト前ヒット"
+          }
+        ],
+        [
+          {
+            "players": [],
+            "text": "1アウト"
+          },
+          {
+            "players": [],
+            "text": "2・3塁"
+          },
+          {
+            "players": [
+              {
+                "id": "81685153",
+                "jaBoxscoreName": "長谷川"
+              }
+            ],
+            "text": "長谷川"
+          },
+          {
+            "players": [],
+            "text": "3-1より"
+          },
+          {
+            "players": [],
+            "text": "フォアボール"
+          }
+        ],
+        [
+          {
+            "players": [],
+            "text": "1アウト"
+          },
+          {
+            "players": [],
+            "text": "満塁"
+          },
+          {
+            "players": [
+              {
+                "id": "71775134",
+                "jaBoxscoreName": "源田"
+              }
+            ],
+            "text": "源田"
+          },
+          {
+            "players": [],
+            "text": "1-0より"
+          },
+          {
+            "players": [],
+            "text": "サードゴロ（エラー）"
+          }
+        ],
+        [
+          {
+            "players": [],
+            "text": "1アウト"
+          },
+          {
+            "players": [],
+            "text": "2・3塁"
+          },
+          {
+            "players": [
+              {
+                "id": "51455136",
+                "jaBoxscoreName": "西川"
+              }
+            ],
+            "text": "西川"
+          },
+          {
+            "players": [],
+            "text": "1-0より"
+          },
+          {
+            "players": [],
+            "text": "センター犠牲フライ（打点1）"
+          }
+        ],
+        [
+          {
+            "players": [],
+            "text": "2アウト"
+          },
+          {
+            "players": [],
+            "text": "2塁"
+          },
+          {
+            "players": [
+              {
+                "id": "81785138",
+                "jaBoxscoreName": "佐藤龍"
+              }
+            ],
+            "text": "佐藤龍"
+          },
+          {
+            "players": [],
+            "text": "1-2より"
+          },
+          {
+            "players": [],
+            "text": "空振り三振"
+          }
+        ],
+        {
+          "inning": 4,
+          "halfInning": "bottom",
+          "text": "4回裏（オリックスの攻撃）"
+        },
+        [
+          {
+            "players": [],
+            "text": "0アウト"
+          },
+          {
+            "players": [],
+            "text": ""
+          },
+          {
+            "players": [
+              {
+                "id": "21625132",
+                "jaBoxscoreName": "廣岡"
+              }
+            ],
+            "text": "廣岡"
+          },
+          {
+            "players": [],
+            "text": "3-2より"
+          },
+          {
+            "players": [],
+            "text": "空振り三振"
+          }
+        ],
+        [
+          {
+            "players": [],
+            "text": "1アウト"
+          },
+          {
+            "players": [],
+            "text": ""
+          },
+          {
+            "players": [
+              {
+                "id": "91495130",
+                "jaBoxscoreName": "西野"
+              }
+            ],
+            "text": "西野"
+          },
+          {
+            "players": [],
+            "text": "3-2より"
+          },
+          {
+            "players": [],
+            "text": "ファーストゴロ"
+          }
+        ],
+        [
+          {
+            "players": [],
+            "text": "2アウト"
+          },
+          {
+            "players": [],
+            "text": ""
+          },
+          {
+            "players": [
+              {
+                "id": "91395138",
+                "jaBoxscoreName": "太田"
+              }
+            ],
+            "text": "太田"
+          },
+          {
+            "players": [],
+            "text": "2-0より"
+          },
+          {
+            "players": [],
+            "text": "キャッチャーファウルフライ"
+          }
+        ],
+        {
+          "inning": 5,
+          "halfInning": "top",
+          "text": "5回表（西武の攻撃）"
+        },
+        [
+          {
+            "players": [],
+            "text": "0アウト"
+          },
+          {
+            "players": [],
+            "text": ""
+          },
+          {
+            "players": [
+              {
+                "id": "11415138",
+                "jaBoxscoreName": "野村大"
+              }
+            ],
+            "text": "野村大"
+          },
+          {
+            "players": [],
+            "text": "2-2より"
+          },
+          {
+            "players": [],
+            "text": "見逃し三振"
+          }
+        ],
+        [
+          {
+            "players": [],
+            "text": "1アウト"
+          },
+          {
+            "players": [],
+            "text": ""
+          },
+          {
+            "players": [
+              {
+                "id": "01605132",
+                "jaBoxscoreName": "平沼"
+              }
+            ],
+            "text": "平沼"
+          },
+          {
+            "players": [],
+            "text": "0-2より"
+          },
+          {
+            "players": [],
+            "text": "セカンドゴロ"
+          }
+        ],
+        [
+          {
+            "players": [],
+            "text": "2アウト"
+          },
+          {
+            "players": [],
+            "text": ""
+          },
+          {
+            "players": [
+              {
+                "id": "21825138",
+                "jaBoxscoreName": "山野辺"
+              }
+            ],
+            "text": "山野辺"
+          },
+          {
+            "players": [],
+            "text": "3-2より"
+          },
+          {
+            "players": [],
+            "text": "フォアボール"
+          }
+        ],
+        [
+          {
+            "players": [],
+            "text": "2アウト"
+          },
+          {
+            "players": [],
+            "text": "1塁"
+          },
+          {
+            "players": [
+              {
+                "id": "81785155",
+                "jaBoxscoreName": "古賀"
+              }
+            ],
+            "text": "古賀"
+          },
+          {
+            "players": [],
+            "text": "1-2より"
+          },
+          {
+            "players": [],
+            "text": "ライト前ヒット"
+          }
+        ],
+        [
+          {
+            "players": [],
+            "text": "2アウト"
+          },
+          {
+            "players": [],
+            "text": "1・3塁"
+          },
+          {
+            "players": [
+              {
+                "id": "51255155",
+                "jaBoxscoreName": "滝澤"
+              }
+            ],
+            "text": "滝澤"
+          },
+          {
+            "players": [],
+            "text": "0-2より"
+          },
+          {
+            "players": [],
+            "text": "セカンドゴロ"
+          }
+        ],
+        {
+          "inning": 5,
+          "halfInning": "bottom",
+          "text": "5回裏（オリックスの攻撃）"
+        },
+        [
+          {
+            "players": [],
+            "text": "0アウト"
+          },
+          {
+            "players": [],
+            "text": ""
+          },
+          {
+            "players": [
+              {
+                "id": "91495139",
+                "jaBoxscoreName": "森"
+              }
+            ],
+            "text": "森"
+          },
+          {
+            "players": [],
+            "text": "3-0より"
+          },
+          {
+            "players": [],
+            "text": "フォアボール"
+          }
+        ],
+        [
+          {
+            "players": [],
+            "text": "0アウト"
+          },
+          {
+            "players": [],
+            "text": "1塁"
+          },
+          {
+            "players": [
+              {
+                "id": "71475132",
+                "jaBoxscoreName": "西川"
+              }
+            ],
+            "text": "西川"
+          },
+          {
+            "players": [],
+            "text": "2-1より"
+          },
+          {
+            "players": [],
+            "text": "レフトファウルフライ"
+          }
+        ],
+        [
+          {
+            "players": [],
+            "text": "1アウト"
+          },
+          {
+            "players": [],
+            "text": "1塁"
+          },
+          {
+            "players": [
+              {
+                "id": "91995151",
+                "jaBoxscoreName": "紅林"
+              }
+            ],
+            "text": "紅林"
+          },
+          {
+            "players": [],
+            "text": "3-1より"
+          },
+          {
+            "players": [],
+            "text": "フォアボール"
+          }
+        ],
+        [
+          {
+            "players": [],
+            "text": "1アウト"
+          },
+          {
+            "players": [],
+            "text": "1・3塁"
+          },
+          {
+            "players": [
+              {
+                "id": "51955153",
+                "jaBoxscoreName": "来田"
+              }
+            ],
+            "text": "来田"
+          },
+          {
+            "players": [],
+            "text": "3-2より"
+          },
+          {
+            "players": [],
+            "text": "空振り三振"
+          }
+        ],
+        [
+          {
+            "players": [],
+            "text": "2アウト"
+          },
+          {
+            "players": [],
+            "text": "1・3塁"
+          },
+          {
+            "players": [
+              {
+                "id": "61365112",
+                "jaBoxscoreName": "T-岡田"
+              }
+            ],
+            "text": "代打・T-岡田"
+          },
+          {
+            "players": [],
+            "text": "0-0より"
+          },
+          {
+            "players": [],
+            "text": "センターフライ"
+          }
+        ],
+        {
+          "inning": 6,
+          "halfInning": "top",
+          "text": "6回表（西武の攻撃）"
+        },
+        [
+          {
+            "players": [
+              {
+                "id": "43545159",
+                "jaBoxscoreName": "エスピノーザ"
+              },
+              {
+                "id": "41745153",
+                "jaBoxscoreName": "川瀬"
+              }
+            ],
+            "text": "（投手交代） エスピノーザ → 川瀬"
+          }
+        ],
+        [
+          {
+            "players": [],
+            "text": "0アウト"
+          },
+          {
+            "players": [],
+            "text": ""
+          },
+          {
+            "players": [
+              {
+                "id": "81685153",
+                "jaBoxscoreName": "長谷川"
+              }
+            ],
+            "text": "長谷川"
+          },
+          {
+            "players": [],
+            "text": "2-2より"
+          },
+          {
+            "players": [],
+            "text": "空振り三振"
+          }
+        ],
+        [
+          {
+            "players": [],
+            "text": "1アウト"
+          },
+          {
+            "players": [],
+            "text": ""
+          },
+          {
+            "players": [
+              {
+                "id": "71775134",
+                "jaBoxscoreName": "源田"
+              }
+            ],
+            "text": "源田"
+          },
+          {
+            "players": [],
+            "text": "3-1より"
+          },
+          {
+            "players": [],
+            "text": "フォアボール"
+          }
+        ],
+        [
+          {
+            "players": [],
+            "text": "1アウト"
+          },
+          {
+            "players": [],
+            "text": "1塁"
+          },
+          {
+            "players": [
+              {
+                "id": "51455136",
+                "jaBoxscoreName": "西川"
+              }
+            ],
+            "text": "西川"
+          },
+          {
+            "players": [],
+            "text": "1-2より"
+          },
+          {
+            "players": [],
+            "text": "センター前ヒット"
+          }
+        ],
+        [
+          {
+            "players": [],
+            "text": "1アウト"
+          },
+          {
+            "players": [],
+            "text": "1・2塁"
+          },
+          {
+            "players": [
+              {
+                "id": "81785138",
+                "jaBoxscoreName": "佐藤龍"
+              }
+            ],
+            "text": "佐藤龍"
+          },
+          {
+            "players": [],
+            "text": "3-1より"
+          },
+          {
+            "players": [],
+            "text": "フォアボール"
+          }
+        ],
+        [
+          {
+            "players": [],
+            "text": "1アウト"
+          },
+          {
+            "players": [],
+            "text": "満塁"
+          },
+          {
+            "players": [
+              {
+                "id": "11415138",
+                "jaBoxscoreName": "野村大"
+              }
+            ],
+            "text": "野村大"
+          },
+          {
+            "players": [],
+            "text": "1-1より"
+          },
+          {
+            "players": [],
+            "text": "左中間タイムリースリーベース（打点3）"
+          }
+        ],
+        [
+          {
+            "players": [],
+            "text": "1アウト"
+          },
+          {
+            "players": [],
+            "text": "3塁"
+          },
+          {
+            "players": [
+              {
+                "id": "01605132",
+                "jaBoxscoreName": "平沼"
+              }
+            ],
+            "text": "平沼"
+          },
+          {
+            "players": [],
+            "text": "3-2より"
+          },
+          {
+            "players": [],
+            "text": "レフトフライ"
+          }
+        ],
+        [
+          {
+            "players": [],
+            "text": "2アウト"
+          },
+          {
+            "players": [],
+            "text": "3塁"
+          },
+          {
+            "players": [
+              {
+                "id": "21825138",
+                "jaBoxscoreName": "山野辺"
+              }
+            ],
+            "text": "山野辺"
+          },
+          {
+            "players": [],
+            "text": "2-0より"
+          },
+          {
+            "players": [],
+            "text": "ショートゴロ"
+          }
+        ],
+        {
+          "inning": 6,
+          "halfInning": "bottom",
+          "text": "6回裏（オリックスの攻撃）"
+        },
+        [
+          {
+            "players": [],
+            "text": "0アウト"
+          },
+          {
+            "players": [],
+            "text": ""
+          },
+          {
+            "players": [
+              {
+                "id": "63565155",
+                "jaBoxscoreName": "渡部"
+              }
+            ],
+            "text": "渡部"
+          },
+          {
+            "players": [],
+            "text": "1-2より"
+          },
+          {
+            "players": [],
+            "text": "セカンドゴロ"
+          }
+        ],
+        [
+          {
+            "players": [],
+            "text": "1アウト"
+          },
+          {
+            "players": [],
+            "text": ""
+          },
+          {
+            "players": [
+              {
+                "id": "31135135",
+                "jaBoxscoreName": "安達"
+              }
+            ],
+            "text": "代打・安達"
+          },
+          {
+            "players": [],
+            "text": "0-2より"
+          },
+          {
+            "players": [],
+            "text": "センターフライ"
+          }
+        ],
+        [
+          {
+            "players": [],
+            "text": "2アウト"
+          },
+          {
+            "players": [],
+            "text": ""
+          },
+          {
+            "players": [
+              {
+                "id": "91495130",
+                "jaBoxscoreName": "西野"
+              }
+            ],
+            "text": "西野"
+          },
+          {
+            "players": [],
+            "text": "1-2より"
+          },
+          {
+            "players": [],
+            "text": "センターオーバースリーベース"
+          }
+        ],
+        [
+          {
+            "players": [],
+            "text": "2アウト"
+          },
+          {
+            "players": [],
+            "text": "3塁"
+          },
+          {
+            "players": [
+              {
+                "id": "91395138",
+                "jaBoxscoreName": "太田"
+              }
+            ],
+            "text": "太田"
+          },
+          {
+            "players": [],
+            "text": "0-0より"
+          },
+          {
+            "players": [],
+            "text": "ショートゴロ"
+          }
+        ],
+        {
+          "inning": 7,
+          "halfInning": "top",
+          "text": "7回表（西武の攻撃）"
+        },
+        [
+          {
+            "players": [
+              {
+                "id": "41745153",
+                "jaBoxscoreName": "川瀬"
+              },
+              {
+                "id": "83185134",
+                "jaBoxscoreName": "山岡"
+              }
+            ],
+            "text": "（投手交代） 川瀬 → 山岡"
+          }
+        ],
+        [
+          {
+            "players": [],
+            "text": "0アウト"
+          },
+          {
+            "players": [],
+            "text": ""
+          },
+          {
+            "players": [
+              {
+                "id": "81785155",
+                "jaBoxscoreName": "古賀"
+              }
+            ],
+            "text": "古賀"
+          },
+          {
+            "players": [],
+            "text": "1-0より"
+          },
+          {
+            "players": [],
+            "text": "ファーストゴロ"
+          }
+        ],
+        [
+          {
+            "players": [],
+            "text": "1アウト"
+          },
+          {
+            "players": [],
+            "text": ""
+          },
+          {
+            "players": [
+              {
+                "id": "51255155",
+                "jaBoxscoreName": "滝澤"
+              }
+            ],
+            "text": "滝澤"
+          },
+          {
+            "players": [],
+            "text": "2-1より"
+          },
+          {
+            "players": [],
+            "text": "セカンドゴロ"
+          }
+        ],
+        [
+          {
+            "players": [],
+            "text": "2アウト"
+          },
+          {
+            "players": [],
+            "text": ""
+          },
+          {
+            "players": [
+              {
+                "id": "81685153",
+                "jaBoxscoreName": "長谷川"
+              }
+            ],
+            "text": "長谷川"
+          },
+          {
+            "players": [],
+            "text": "0-0より"
+          },
+          {
+            "players": [],
+            "text": "センター前ヒット"
+          }
+        ],
+        [
+          {
+            "players": [],
+            "text": "2アウト"
+          },
+          {
+            "players": [],
+            "text": "1塁"
+          },
+          {
+            "players": [
+              {
+                "id": "71775134",
+                "jaBoxscoreName": "源田"
+              }
+            ],
+            "text": "源田"
+          },
+          {
+            "players": [],
+            "text": "0-0より"
+          },
+          {
+            "players": [],
+            "text": "レフトフライ"
+          }
+        ],
+        {
+          "inning": 7,
+          "halfInning": "bottom",
+          "text": "7回裏（オリックスの攻撃）"
+        },
+        [
+          {
+            "players": [],
+            "text": "0アウト"
+          },
+          {
+            "players": [],
+            "text": ""
+          },
+          {
+            "players": [
+              {
+                "id": "91495139",
+                "jaBoxscoreName": "森"
+              }
+            ],
+            "text": "森"
+          },
+          {
+            "players": [],
+            "text": "0-1より"
+          },
+          {
+            "players": [],
+            "text": "センターフライ"
+          }
+        ],
+        [
+          {
+            "players": [],
+            "text": "1アウト"
+          },
+          {
+            "players": [],
+            "text": ""
+          },
+          {
+            "players": [
+              {
+                "id": "71475132",
+                "jaBoxscoreName": "西川"
+              }
+            ],
+            "text": "西川"
+          },
+          {
+            "players": [],
+            "text": "3-2より"
+          },
+          {
+            "players": [],
+            "text": "フォアボール"
+          }
+        ],
+        [
+          {
+            "players": [],
+            "text": "1アウト"
+          },
+          {
+            "players": [],
+            "text": "1塁"
+          },
+          {
+            "players": [
+              {
+                "id": "91995151",
+                "jaBoxscoreName": "紅林"
+              }
+            ],
+            "text": "紅林"
+          },
+          {
+            "players": [],
+            "text": "0-2より"
+          },
+          {
+            "players": [],
+            "text": "セカンドゴロ"
+          }
+        ],
+        [
+          {
+            "players": [],
+            "text": "2アウト"
+          },
+          {
+            "players": [],
+            "text": "2塁"
+          },
+          {
+            "players": [
+              {
+                "id": "61965132",
+                "jaBoxscoreName": "杉本"
+              }
+            ],
+            "text": "代打・杉本"
+          },
+          {
+            "players": [],
+            "text": "0-0より"
+          },
+          {
+            "players": [],
+            "text": "レフト2ランホームラン（打点2）"
+          }
+        ],
+        [
+          {
+            "players": [],
+            "text": "2アウト"
+          },
+          {
+            "players": [],
+            "text": ""
+          },
+          {
+            "players": [
+              {
+                "id": "61365112",
+                "jaBoxscoreName": "T-岡田"
+              }
+            ],
+            "text": "T-岡田"
+          },
+          {
+            "players": [],
+            "text": "1-2より"
+          },
+          {
+            "players": [],
+            "text": "ライト前ヒット"
+          }
+        ],
+        [
+          {
+            "players": [],
+            "text": "2アウト"
+          },
+          {
+            "players": [],
+            "text": "1塁"
+          },
+          {
+            "players": [
+              {
+                "id": "63565155",
+                "jaBoxscoreName": "渡部"
+              }
+            ],
+            "text": "渡部"
+          },
+          {
+            "players": [],
+            "text": "0-2より"
+          },
+          {
+            "players": [],
+            "text": "ファーストゴロ"
+          }
+        ],
+        {
+          "inning": 8,
+          "halfInning": "top",
+          "text": "8回表（西武の攻撃）"
+        },
+        [
+          {
+            "players": [
+              {
+                "id": "83185134",
+                "jaBoxscoreName": "山岡"
+              },
+              {
+                "id": "41745159",
+                "jaBoxscoreName": "古田島"
+              }
+            ],
+            "text": "（投手交代） 山岡 → 古田島"
+          }
+        ],
+        [
+          {
+            "players": [],
+            "text": "0アウト"
+          },
+          {
+            "players": [],
+            "text": ""
+          },
+          {
+            "players": [
+              {
+                "id": "51455136",
+                "jaBoxscoreName": "西川"
+              }
+            ],
+            "text": "西川"
+          },
+          {
+            "players": [],
+            "text": "0-0より"
+          },
+          {
+            "players": [],
+            "text": "センターフライ"
+          }
+        ],
+        [
+          {
+            "players": [],
+            "text": "1アウト"
+          },
+          {
+            "players": [],
+            "text": ""
+          },
+          {
+            "players": [
+              {
+                "id": "81785138",
+                "jaBoxscoreName": "佐藤龍"
+              }
+            ],
+            "text": "佐藤龍"
+          },
+          {
+            "players": [],
+            "text": "1-0より"
+          },
+          {
+            "players": [],
+            "text": "ショートフライ"
+          }
+        ],
+        [
+          {
+            "players": [],
+            "text": "2アウト"
+          },
+          {
+            "players": [],
+            "text": ""
+          },
+          {
+            "players": [
+              {
+                "id": "11415138",
+                "jaBoxscoreName": "野村大"
+              }
+            ],
+            "text": "野村大"
+          },
+          {
+            "players": [],
+            "text": "3-2より"
+          },
+          {
+            "players": [],
+            "text": "ショートゴロ"
+          }
+        ],
+        {
+          "inning": 8,
+          "halfInning": "bottom",
+          "text": "8回裏（オリックスの攻撃）"
+        },
+        [
+          {
+            "players": [
+              {
+                "id": "31335134",
+                "jaBoxscoreName": "今井"
+              },
+              {
+                "id": "43045155",
+                "jaBoxscoreName": "ボー・タカハシ"
+              }
+            ],
+            "text": "（投手交代） 今井 → ボー・タカハシ"
+          }
+        ],
+        [
+          {
+            "players": [],
+            "text": "0アウト"
+          },
+          {
+            "players": [],
+            "text": ""
+          },
+          {
+            "players": [
+              {
+                "id": "31135135",
+                "jaBoxscoreName": "安達"
+              }
+            ],
+            "text": "安達"
+          },
+          {
+            "players": [],
+            "text": "1-0より"
+          },
+          {
+            "players": [],
+            "text": "ショートヒット"
+          }
+        ],
+        [
+          {
+            "players": [],
+            "text": "0アウト"
+          },
+          {
+            "players": [],
+            "text": "1塁"
+          },
+          {
+            "players": [
+              {
+                "id": "31535130",
+                "jaBoxscoreName": "小田"
+              }
+            ],
+            "text": "小田"
+          },
+          {
+            "players": [],
+            "text": "1-2より"
+          },
+          {
+            "players": [],
+            "text": "ショートライナー"
+          }
+        ],
+        [
+          {
+            "players": [],
+            "text": "1アウト"
+          },
+          {
+            "players": [],
+            "text": "1塁"
+          },
+          {
+            "players": [
+              {
+                "id": "91395138",
+                "jaBoxscoreName": "太田"
+              }
+            ],
+            "text": "太田"
+          },
+          {
+            "players": [],
+            "text": "0-2より"
+          },
+          {
+            "players": [],
+            "text": "空振り三振"
+          }
+        ],
+        [
+          {
+            "players": [],
+            "text": "2アウト"
+          },
+          {
+            "players": [],
+            "text": "1塁"
+          },
+          {
+            "players": [
+              {
+                "id": "91495139",
+                "jaBoxscoreName": "森"
+              }
+            ],
+            "text": "森"
+          },
+          {
+            "players": [],
+            "text": "1-1より"
+          },
+          {
+            "players": [],
+            "text": "ライトフライ"
+          }
+        ],
+        {
+          "inning": 9,
+          "halfInning": "top",
+          "text": "9回表（西武の攻撃）"
+        },
+        [
+          {
+            "players": [
+              {
+                "id": "41745159",
+                "jaBoxscoreName": "古田島"
+              },
+              {
+                "id": "13215157",
+                "jaBoxscoreName": "ペルドモ"
+              }
+            ],
+            "text": "（投手交代） 古田島 → ペルドモ"
+          }
+        ],
+        [
+          {
+            "players": [],
+            "text": "0アウト"
+          },
+          {
+            "players": [],
+            "text": ""
+          },
+          {
+            "players": [
+              {
+                "id": "41245130",
+                "jaBoxscoreName": "外崎"
+              }
+            ],
+            "text": "代打・外崎"
+          },
+          {
+            "players": [],
+            "text": "0-2より"
+          },
+          {
+            "players": [],
+            "text": "レフト前ヒット"
+          }
+        ],
+        [
+          {
+            "players": [],
+            "text": "0アウト"
+          },
+          {
+            "players": [],
+            "text": "1塁"
+          },
+          {
+            "players": [
+              {
+                "id": "21825138",
+                "jaBoxscoreName": "山野辺"
+              }
+            ],
+            "text": "山野辺"
+          },
+          {
+            "players": [],
+            "text": "0-2より"
+          },
+          {
+            "players": [],
+            "text": "ピッチャーゴロ"
+          }
+        ],
+        [
+          {
+            "players": [],
+            "text": "1アウト"
+          },
+          {
+            "players": [],
+            "text": "1塁"
+          },
+          {
+            "players": [
+              {
+                "id": "81785155",
+                "jaBoxscoreName": "古賀"
+              }
+            ],
+            "text": "古賀"
+          },
+          {
+            "players": [],
+            "text": "1-2より"
+          },
+          {
+            "players": [],
+            "text": "ライト前ヒット"
+          }
+        ],
+        [
+          {
+            "players": [],
+            "text": "1アウト"
+          },
+          {
+            "players": [],
+            "text": "1・3塁"
+          },
+          {
+            "players": [
+              {
+                "id": "51255155",
+                "jaBoxscoreName": "滝澤"
+              }
+            ],
+            "text": "滝澤"
+          },
+          {
+            "players": [],
+            "text": "0-0より"
+          },
+          {
+            "players": [],
+            "text": "ファーストゴロ（打点1）"
+          }
+        ],
+        [
+          {
+            "players": [],
+            "text": "2アウト"
+          },
+          {
+            "players": [],
+            "text": "2塁"
+          },
+          {
+            "players": [
+              {
+                "id": "81685153",
+                "jaBoxscoreName": "長谷川"
+              }
+            ],
+            "text": "長谷川"
+          },
+          {
+            "players": [],
+            "text": "0-1より"
+          },
+          {
+            "players": [],
+            "text": "サードゴロ"
+          }
+        ],
+        {
+          "inning": 9,
+          "halfInning": "bottom",
+          "text": "9回裏（オリックスの攻撃）"
+        },
+        [
+          {
+            "players": [
+              {
+                "id": "43045155",
+                "jaBoxscoreName": "ボー・タカハシ"
+              },
+              {
+                "id": "01205134",
+                "jaBoxscoreName": "田村"
+              }
+            ],
+            "text": "（投手交代） ボー・タカハシ → 田村"
+          }
+        ],
+        [
+          {
+            "players": [],
+            "text": "0アウト"
+          },
+          {
+            "players": [],
+            "text": ""
+          },
+          {
+            "players": [
+              {
+                "id": "71475132",
+                "jaBoxscoreName": "西川"
+              }
+            ],
+            "text": "西川"
+          },
+          {
+            "players": [],
+            "text": "1-1より"
+          },
+          {
+            "players": [],
+            "text": "ショートフライ"
+          }
+        ],
+        [
+          {
+            "players": [],
+            "text": "1アウト"
+          },
+          {
+            "players": [],
+            "text": ""
+          },
+          {
+            "players": [
+              {
+                "id": "91995151",
+                "jaBoxscoreName": "紅林"
+              }
+            ],
+            "text": "紅林"
+          },
+          {
+            "players": [],
+            "text": "3-2より"
+          },
+          {
+            "players": [],
+            "text": "フォアボール"
+          }
+        ],
+        [
+          {
+            "players": [],
+            "text": "1アウト"
+          },
+          {
+            "players": [],
+            "text": "1塁"
+          },
+          {
+            "players": [
+              {
+                "id": "61965132",
+                "jaBoxscoreName": "杉本"
+              }
+            ],
+            "text": "杉本"
+          },
+          {
+            "players": [],
+            "text": "0-2より"
+          },
+          {
+            "players": [],
+            "text": "空振り三振"
+          }
+        ],
+        [
+          {
+            "players": [],
+            "text": "2アウト"
+          },
+          {
+            "players": [],
+            "text": "1塁"
+          },
+          {
+            "players": [
+              {
+                "id": "61365112",
+                "jaBoxscoreName": "T-岡田"
+              }
+            ],
+            "text": "T-岡田"
+          },
+          {
+            "players": [],
+            "text": "1-2より"
+          },
+          {
+            "players": [],
+            "text": "空振り三振"
+          }
+        ]
+      ]
+    },
+    "box.html": {
+      "pathname": "/scores/2024/0924/b-l-25/box.html",
+      "road": {
+        "team": "埼玉西武ライオンズ",
+        "batting": [
+          [
+            {
+              "cls": [],
+              "text": ""
+            },
+            {
+              "cls": [],
+              "text": "守備"
+            },
+            {
+              "cls": [],
+              "text": "選手"
+            },
+            {
+              "cls": [],
+              "text": "打数"
+            },
+            {
+              "cls": [],
+              "text": "得点"
+            },
+            {
+              "cls": [],
+              "text": "安打"
+            },
+            {
+              "cls": [],
+              "text": "打点"
+            },
+            {
+              "cls": [],
+              "text": "盗塁"
+            },
+            {
+              "cls": [
+                "inn"
+              ],
+              "text": "1"
+            },
+            {
+              "cls": [
+                "inn"
+              ],
+              "text": "2"
+            },
+            {
+              "cls": [
+                "inn"
+              ],
+              "text": "3"
+            },
+            {
+              "cls": [
+                "inn"
+              ],
+              "text": "4"
+            },
+            {
+              "cls": [
+                "inn"
+              ],
+              "text": "5"
+            },
+            {
+              "cls": [
+                "inn"
+              ],
+              "text": "6"
+            },
+            {
+              "cls": [
+                "inn"
+              ],
+              "text": "7"
+            },
+            {
+              "cls": [
+                "inn"
+              ],
+              "text": "8"
+            },
+            {
+              "cls": [
+                "inn"
+              ],
+              "text": "9"
+            }
+          ],
+          [
+            {
+              "cls": [],
+              "text": "1"
+            },
+            {
+              "cls": [],
+              "text": "(右)"
+            },
+            {
+              "id": "81685153",
+              "jaBoxscoreName": "長谷川"
+            },
+            {
+              "cls": [],
+              "text": "5"
+            },
+            {
+              "cls": [],
+              "text": "1"
+            },
+            {
+              "cls": [],
+              "text": "1"
+            },
+            {
+              "cls": [],
+              "text": "0"
+            },
+            {
+              "cls": [],
+              "text": "0"
+            },
+            {
+              "cls": [],
+              "text": "二ゴロ"
+            },
+            {
+              "cls": [],
+              "text": "三ゴ失"
+            },
+            {
+              "cls": [],
+              "text": "-"
+            },
+            {
+              "cls": [
+                "walk",
+                "Blue"
+              ],
+              "text": "四球"
+            },
+            {
+              "cls": [],
+              "text": "-"
+            },
+            {
+              "cls": [],
+              "text": "三振"
+            },
+            {
+              "cls": [
+                "hit",
+                "Red"
+              ],
+              "text": "中前安"
+            },
+            {
+              "cls": [],
+              "text": "-"
+            },
+            {
+              "cls": [],
+              "text": "三ゴロ"
+            }
+          ],
+          [
+            {
+              "cls": [],
+              "text": "2"
+            },
+            {
+              "cls": [],
+              "text": "(遊)"
+            },
+            {
+              "id": "71775134",
+              "jaBoxscoreName": "源田"
+            },
+            {
+              "cls": [],
+              "text": "4"
+            },
+            {
+              "cls": [],
+              "text": "2"
+            },
+            {
+              "cls": [],
+              "text": "2"
+            },
+            {
+              "cls": [],
+              "text": "0"
+            },
+            {
+              "cls": [],
+              "text": "0"
+            },
+            {
+              "cls": [
+                "hit",
+                "Red"
+              ],
+              "text": "中前安"
+            },
+            {
+              "cls": [],
+              "text": "-"
+            },
+            {
+              "cls": [
+                "hit",
+                "Red"
+              ],
+              "text": "中前安"
+            },
+            {
+              "cls": [],
+              "text": "三ゴ失"
+            },
+            {
+              "cls": [],
+              "text": "-"
+            },
+            {
+              "cls": [
+                "walk",
+                "Blue"
+              ],
+              "text": "四球"
+            },
+            {
+              "cls": [],
+              "text": "左飛"
+            },
+            {
+              "cls": [],
+              "text": "-"
+            },
+            {
+              "cls": [],
+              "text": "-"
+            }
+          ],
+          [
+            {
+              "cls": [],
+              "text": ""
+            },
+            {
+              "cls": [],
+              "text": "遊"
+            },
+            {
+              "id": "33335153",
+              "jaBoxscoreName": "元山"
+            },
+            {
+              "cls": [],
+              "text": "0"
+            },
+            {
+              "cls": [],
+              "text": "0"
+            },
+            {
+              "cls": [],
+              "text": "0"
+            },
+            {
+              "cls": [],
+              "text": "0"
+            },
+            {
+              "cls": [],
+              "text": "0"
+            },
+            {
+              "cls": [],
+              "text": "-"
+            },
+            {
+              "cls": [],
+              "text": "-"
+            },
+            {
+              "cls": [],
+              "text": "-"
+            },
+            {
+              "cls": [],
+              "text": "-"
+            },
+            {
+              "cls": [],
+              "text": "-"
+            },
+            {
+              "cls": [],
+              "text": "-"
+            },
+            {
+              "cls": [],
+              "text": "-"
+            },
+            {
+              "cls": [],
+              "text": "-"
+            },
+            {
+              "cls": [],
+              "text": "-"
+            }
+          ],
+          [
+            {
+              "cls": [],
+              "text": "3"
+            },
+            {
+              "cls": [],
+              "text": "(中)"
+            },
+            {
+              "id": "51455136",
+              "jaBoxscoreName": "西川"
+            },
+            {
+              "cls": [],
+              "text": "4"
+            },
+            {
+              "cls": [],
+              "text": "2"
+            },
+            {
+              "cls": [],
+              "text": "2"
+            },
+            {
+              "cls": [],
+              "text": "1"
+            },
+            {
+              "cls": [],
+              "text": "0"
+            },
+            {
+              "cls": [
+                "hit",
+                "Red"
+              ],
+              "text": "投２"
+            },
+            {
+              "cls": [],
+              "text": "-"
+            },
+            {
+              "cls": [],
+              "text": "左飛"
+            },
+            {
+              "cls": [
+                "Green",
+                "rbi"
+              ],
+              "text": "中犠飛①"
+            },
+            {
+              "cls": [],
+              "text": "-"
+            },
+            {
+              "cls": [
+                "hit",
+                "Red"
+              ],
+              "text": "中前安"
+            },
+            {
+              "cls": [],
+              "text": "-"
+            },
+            {
+              "cls": [],
+              "text": "中飛"
+            },
+            {
+              "cls": [],
+              "text": "-"
+            }
+          ],
+          [
+            {
+              "cls": [],
+              "text": "4"
+            },
+            {
+              "cls": [],
+              "text": "(三)"
+            },
+            {
+              "id": "81785138",
+              "jaBoxscoreName": "佐藤龍"
+            },
+            {
+              "cls": [],
+              "text": "4"
+            },
+            {
+              "cls": [],
+              "text": "1"
+            },
+            {
+              "cls": [],
+              "text": "1"
+            },
+            {
+              "cls": [],
+              "text": "2"
+            },
+            {
+              "cls": [],
+              "text": "0"
+            },
+            {
+              "cls": [
+                "hit",
+                "Red",
+                "rbi"
+              ],
+              "text": "中前安②"
+            },
+            {
+              "cls": [],
+              "text": "-"
+            },
+            {
+              "cls": [],
+              "text": "中飛"
+            },
+            {
+              "cls": [],
+              "text": "三振"
+            },
+            {
+              "cls": [],
+              "text": "-"
+            },
+            {
+              "cls": [
+                "walk",
+                "Blue"
+              ],
+              "text": "四球"
+            },
+            {
+              "cls": [],
+              "text": "-"
+            },
+            {
+              "cls": [],
+              "text": "遊飛"
+            },
+            {
+              "cls": [],
+              "text": "-"
+            }
+          ],
+          [
+            {
+              "cls": [],
+              "text": "5"
+            },
+            {
+              "cls": [],
+              "text": "(一)"
+            },
+            {
+              "id": "11415138",
+              "jaBoxscoreName": "野村大"
+            },
+            {
+              "cls": [],
+              "text": "5"
+            },
+            {
+              "cls": [],
+              "text": "0"
+            },
+            {
+              "cls": [],
+              "text": "3"
+            },
+            {
+              "cls": [],
+              "text": "3"
+            },
+            {
+              "cls": [],
+              "text": "0"
+            },
+            {
+              "cls": [
+                "hit",
+                "Red"
+              ],
+              "text": "中前安"
+            },
+            {
+              "cls": [],
+              "text": "-"
+            },
+            {
+              "cls": [
+                "hit",
+                "Red"
+              ],
+              "text": "左前安"
+            },
+            {
+              "cls": [],
+              "text": "-"
+            },
+            {
+              "cls": [],
+              "text": "三振"
+            },
+            {
+              "cls": [
+                "hit",
+                "Red",
+                "rbi"
+              ],
+              "text": "左中３③"
+            },
+            {
+              "cls": [],
+              "text": "-"
+            },
+            {
+              "cls": [],
+              "text": "遊ゴロ"
+            },
+            {
+              "cls": [],
+              "text": "-"
+            }
+          ],
+          [
+            {
+              "cls": [],
+              "text": "6"
+            },
+            {
+              "cls": [],
+              "text": "(指)"
+            },
+            {
+              "id": "01605132",
+              "jaBoxscoreName": "平沼"
+            },
+            {
+              "cls": [],
+              "text": "4"
+            },
+            {
+              "cls": [],
+              "text": "0"
+            },
+            {
+              "cls": [],
+              "text": "0"
+            },
+            {
+              "cls": [],
+              "text": "0"
+            },
+            {
+              "cls": [],
+              "text": "0"
+            },
+            {
+              "cls": [],
+              "text": "二ゴロ"
+            },
+            {
+              "cls": [],
+              "text": "-"
+            },
+            {
+              "cls": [],
+              "text": "右飛"
+            },
+            {
+              "cls": [],
+              "text": "-"
+            },
+            {
+              "cls": [],
+              "text": "二ゴロ"
+            },
+            {
+              "cls": [],
+              "text": "左飛"
+            },
+            {
+              "cls": [],
+              "text": "-"
+            },
+            {
+              "cls": [],
+              "text": "-"
+            },
+            {
+              "cls": [],
+              "text": "-"
+            }
+          ],
+          [
+            {
+              "cls": [],
+              "text": ""
+            },
+            {
+              "cls": [],
+              "text": "打指"
+            },
+            {
+              "id": "41245130",
+              "jaBoxscoreName": "外崎"
+            },
+            {
+              "cls": [],
+              "text": "1"
+            },
+            {
+              "cls": [],
+              "text": "0"
+            },
+            {
+              "cls": [],
+              "text": "1"
+            },
+            {
+              "cls": [],
+              "text": "0"
+            },
+            {
+              "cls": [],
+              "text": "0"
+            },
+            {
+              "cls": [],
+              "text": "-"
+            },
+            {
+              "cls": [],
+              "text": "-"
+            },
+            {
+              "cls": [],
+              "text": "-"
+            },
+            {
+              "cls": [],
+              "text": "-"
+            },
+            {
+              "cls": [],
+              "text": "-"
+            },
+            {
+              "cls": [],
+              "text": "-"
+            },
+            {
+              "cls": [],
+              "text": "-"
+            },
+            {
+              "cls": [],
+              "text": "-"
+            },
+            {
+              "cls": [
+                "hit",
+                "Red"
+              ],
+              "text": "左前安"
+            }
+          ],
+          [
+            {
+              "cls": [],
+              "text": "7"
+            },
+            {
+              "cls": [],
+              "text": "(左)"
+            },
+            {
+              "id": "21825138",
+              "jaBoxscoreName": "山野辺"
+            },
+            {
+              "cls": [],
+              "text": "4"
+            },
+            {
+              "cls": [],
+              "text": "1"
+            },
+            {
+              "cls": [],
+              "text": "0"
+            },
+            {
+              "cls": [],
+              "text": "0"
+            },
+            {
+              "cls": [],
+              "text": "0"
+            },
+            {
+              "cls": [],
+              "text": "二飛"
+            },
+            {
+              "cls": [],
+              "text": "-"
+            },
+            {
+              "cls": [],
+              "text": "-"
+            },
+            {
+              "cls": [],
+              "text": "三振"
+            },
+            {
+              "cls": [
+                "walk",
+                "Blue"
+              ],
+              "text": "四球"
+            },
+            {
+              "cls": [],
+              "text": "遊ゴロ"
+            },
+            {
+              "cls": [],
+              "text": "-"
+            },
+            {
+              "cls": [],
+              "text": "-"
+            },
+            {
+              "cls": [],
+              "text": "投ゴロ"
+            }
+          ],
+          [
+            {
+              "cls": [],
+              "text": "8"
+            },
+            {
+              "cls": [],
+              "text": "(捕)"
+            },
+            {
+              "id": "81785155",
+              "jaBoxscoreName": "古賀"
+            },
+            {
+              "cls": [],
+              "text": "5"
+            },
+            {
+              "cls": [],
+              "text": "1"
+            },
+            {
+              "cls": [],
+              "text": "3"
+            },
+            {
+              "cls": [],
+              "text": "0"
+            },
+            {
+              "cls": [],
+              "text": "0"
+            },
+            {
+              "cls": [],
+              "text": "-"
+            },
+            {
+              "cls": [],
+              "text": "三ゴロ"
+            },
+            {
+              "cls": [],
+              "text": "-"
+            },
+            {
+              "cls": [
+                "hit",
+                "Red"
+              ],
+              "text": "右前安"
+            },
+            {
+              "cls": [
+                "hit",
+                "Red"
+              ],
+              "text": "右前安"
+            },
+            {
+              "cls": [],
+              "text": "-"
+            },
+            {
+              "cls": [],
+              "text": "一ゴロ"
+            },
+            {
+              "cls": [],
+              "text": "-"
+            },
+            {
+              "cls": [
+                "hit",
+                "Red"
+              ],
+              "text": "右前安"
+            }
+          ],
+          [
+            {
+              "cls": [],
+              "text": "9"
+            },
+            {
+              "cls": [],
+              "text": "(二)"
+            },
+            {
+              "id": "51255155",
+              "jaBoxscoreName": "滝澤"
+            },
+            {
+              "cls": [],
+              "text": "5"
+            },
+            {
+              "cls": [],
+              "text": "1"
+            },
+            {
+              "cls": [],
+              "text": "1"
+            },
+            {
+              "cls": [],
+              "text": "1"
+            },
+            {
+              "cls": [],
+              "text": "0"
+            },
+            {
+              "cls": [],
+              "text": "-"
+            },
+            {
+              "cls": [],
+              "text": "二ゴロ"
+            },
+            {
+              "cls": [],
+              "text": "-"
+            },
+            {
+              "cls": [
+                "hit",
+                "Red"
+              ],
+              "text": "右前安"
+            },
+            {
+              "cls": [],
+              "text": "二ゴロ"
+            },
+            {
+              "cls": [],
+              "text": "-"
+            },
+            {
+              "cls": [],
+              "text": "二ゴロ"
+            },
+            {
+              "cls": [],
+              "text": "-"
+            },
+            {
+              "cls": [
+                "rbi"
+              ],
+              "text": "一ゴロ①"
+            }
+          ],
+          [
+            {
+              "cls": [],
+              "text": ""
+            },
+            {
+              "cls": [],
+              "text": ""
+            },
+            {
+              "cls": [],
+              "text": "チーム計"
+            },
+            {
+              "cls": [],
+              "text": "41"
+            },
+            {
+              "cls": [],
+              "text": "9"
+            },
+            {
+              "cls": [],
+              "text": "14"
+            },
+            {
+              "cls": [],
+              "text": "7"
+            },
+            {
+              "cls": [],
+              "text": "0"
+            },
+            {
+              "cls": [],
+              "text": ""
+            },
+            {
+              "cls": [],
+              "text": ""
+            },
+            {
+              "cls": [],
+              "text": ""
+            },
+            {
+              "cls": [],
+              "text": ""
+            },
+            {
+              "cls": [],
+              "text": ""
+            },
+            {
+              "cls": [],
+              "text": ""
+            },
+            {
+              "cls": [],
+              "text": ""
+            },
+            {
+              "cls": [],
+              "text": ""
+            },
+            {
+              "cls": [],
+              "text": ""
+            }
+          ]
+        ],
+        "pitching": [
+          [
+            {
+              "cls": [],
+              "text": ""
+            },
+            {
+              "cls": [],
+              "text": "投手"
+            },
+            {
+              "cls": [],
+              "text": "投球数"
+            },
+            {
+              "cls": [],
+              "text": "打者"
+            },
+            {
+              "cls": [],
+              "text": "投球回"
+            },
+            {
+              "cls": [],
+              "text": "安打"
+            },
+            {
+              "cls": [],
+              "text": "本塁打"
+            },
+            {
+              "cls": [],
+              "text": "四球"
+            },
+            {
+              "cls": [],
+              "text": "死球"
+            },
+            {
+              "cls": [],
+              "text": "三振"
+            },
+            {
+              "cls": [],
+              "text": "暴投"
+            },
+            {
+              "cls": [],
+              "text": "ボーク"
+            },
+            {
+              "cls": [],
+              "text": "失点"
+            },
+            {
+              "cls": [],
+              "text": "自責点"
+            }
+          ],
+          [
+            {
+              "cls": [],
+              "text": "○"
+            },
+            {
+              "id": "31335134",
+              "jaBoxscoreName": "今井"
+            },
+            {
+              "cls": [],
+              "text": "121"
+            },
+            {
+              "cls": [],
+              "text": "27"
+            },
+            {
+              "cls": [],
+              "text": "7"
+            },
+            {
+              "cls": [],
+              "text": "3"
+            },
+            {
+              "cls": [],
+              "text": "1"
+            },
+            {
+              "cls": [],
+              "text": "3"
+            },
+            {
+              "cls": [],
+              "text": "0"
+            },
+            {
+              "cls": [],
+              "text": "5"
+            },
+            {
+              "cls": [],
+              "text": "1"
+            },
+            {
+              "cls": [],
+              "text": "0"
+            },
+            {
+              "cls": [],
+              "text": "2"
+            },
+            {
+              "cls": [],
+              "text": "2"
+            }
+          ],
+          [
+            {
+              "cls": [],
+              "text": ""
+            },
+            {
+              "id": "43045155",
+              "jaBoxscoreName": "ボー・タカハシ"
+            },
+            {
+              "cls": [],
+              "text": "16"
+            },
+            {
+              "cls": [],
+              "text": "4"
+            },
+            {
+              "cls": [],
+              "text": "1"
+            },
+            {
+              "cls": [],
+              "text": "1"
+            },
+            {
+              "cls": [],
+              "text": "0"
+            },
+            {
+              "cls": [],
+              "text": "0"
+            },
+            {
+              "cls": [],
+              "text": "0"
+            },
+            {
+              "cls": [],
+              "text": "1"
+            },
+            {
+              "cls": [],
+              "text": "0"
+            },
+            {
+              "cls": [],
+              "text": "0"
+            },
+            {
+              "cls": [],
+              "text": "0"
+            },
+            {
+              "cls": [],
+              "text": "0"
+            }
+          ],
+          [
+            {
+              "cls": [],
+              "text": ""
+            },
+            {
+              "id": "01205134",
+              "jaBoxscoreName": "田村"
+            },
+            {
+              "cls": [],
+              "text": "18"
+            },
+            {
+              "cls": [],
+              "text": "4"
+            },
+            {
+              "cls": [],
+              "text": "1"
+            },
+            {
+              "cls": [],
+              "text": "0"
+            },
+            {
+              "cls": [],
+              "text": "0"
+            },
+            {
+              "cls": [],
+              "text": "1"
+            },
+            {
+              "cls": [],
+              "text": "0"
+            },
+            {
+              "cls": [],
+              "text": "2"
+            },
+            {
+              "cls": [],
+              "text": "0"
+            },
+            {
+              "cls": [],
+              "text": "0"
+            },
+            {
+              "cls": [],
+              "text": "0"
+            },
+            {
+              "cls": [],
+              "text": "0"
+            }
+          ],
+          [
+            {
+              "cls": [],
+              "text": ""
+            },
+            {
+              "cls": [],
+              "text": "チーム計"
+            },
+            {
+              "cls": [],
+              "text": "155"
+            },
+            {
+              "cls": [],
+              "text": "35"
+            },
+            {
+              "cls": [],
+              "text": "9"
+            },
+            {
+              "cls": [],
+              "text": "4"
+            },
+            {
+              "cls": [],
+              "text": "1"
+            },
+            {
+              "cls": [],
+              "text": "4"
+            },
+            {
+              "cls": [],
+              "text": "0"
+            },
+            {
+              "cls": [],
+              "text": "8"
+            },
+            {
+              "cls": [],
+              "text": "1"
+            },
+            {
+              "cls": [],
+              "text": "0"
+            },
+            {
+              "cls": [],
+              "text": "2"
+            },
+            {
+              "cls": [],
+              "text": "2"
+            }
+          ]
+        ]
+      },
+      "home": {
+        "team": "オリックス・バファローズ",
+        "batting": [
+          [
+            {
+              "cls": [],
+              "text": ""
+            },
+            {
+              "cls": [],
+              "text": "守備"
+            },
+            {
+              "cls": [],
+              "text": "選手"
+            },
+            {
+              "cls": [],
+              "text": "打数"
+            },
+            {
+              "cls": [],
+              "text": "得点"
+            },
+            {
+              "cls": [],
+              "text": "安打"
+            },
+            {
+              "cls": [],
+              "text": "打点"
+            },
+            {
+              "cls": [],
+              "text": "盗塁"
+            },
+            {
+              "cls": [
+                "inn"
+              ],
+              "text": "1"
+            },
+            {
+              "cls": [
+                "inn"
+              ],
+              "text": "2"
+            },
+            {
+              "cls": [
+                "inn"
+              ],
+              "text": "3"
+            },
+            {
+              "cls": [
+                "inn"
+              ],
+              "text": "4"
+            },
+            {
+              "cls": [
+                "inn"
+              ],
+              "text": "5"
+            },
+            {
+              "cls": [
+                "inn"
+              ],
+              "text": "6"
+            },
+            {
+              "cls": [
+                "inn"
+              ],
+              "text": "7"
+            },
+            {
+              "cls": [
+                "inn"
+              ],
+              "text": "8"
+            },
+            {
+              "cls": [
+                "inn"
+              ],
+              "text": "9"
+            }
+          ],
+          [
+            {
+              "cls": [],
+              "text": "1"
+            },
+            {
+              "cls": [],
+              "text": "(三)右"
+            },
+            {
+              "id": "21625132",
+              "jaBoxscoreName": "廣岡"
+            },
+            {
+              "cls": [],
+              "text": "2"
+            },
+            {
+              "cls": [],
+              "text": "0"
+            },
+            {
+              "cls": [],
+              "text": "0"
+            },
+            {
+              "cls": [],
+              "text": "0"
+            },
+            {
+              "cls": [],
+              "text": "0"
+            },
+            {
+              "cls": [],
+              "text": "三振"
+            },
+            {
+              "cls": [],
+              "text": "-"
+            },
+            {
+              "cls": [],
+              "text": "-"
+            },
+            {
+              "cls": [],
+              "text": "三振"
+            },
+            {
+              "cls": [],
+              "text": "-"
+            },
+            {
+              "cls": [],
+              "text": "-"
+            },
+            {
+              "cls": [],
+              "text": "-"
+            },
+            {
+              "cls": [],
+              "text": "-"
+            },
+            {
+              "cls": [],
+              "text": "-"
+            }
+          ],
+          [
+            {
+              "cls": [],
+              "text": ""
+            },
+            {
+              "cls": [],
+              "text": "打遊"
+            },
+            {
+              "id": "31135135",
+              "jaBoxscoreName": "安達"
+            },
+            {
+              "cls": [],
+              "text": "2"
+            },
+            {
+              "cls": [],
+              "text": "0"
+            },
+            {
+              "cls": [],
+              "text": "1"
+            },
+            {
+              "cls": [],
+              "text": "0"
+            },
+            {
+              "cls": [],
+              "text": "0"
+            },
+            {
+              "cls": [],
+              "text": "-"
+            },
+            {
+              "cls": [],
+              "text": "-"
+            },
+            {
+              "cls": [],
+              "text": "-"
+            },
+            {
+              "cls": [],
+              "text": "-"
+            },
+            {
+              "cls": [],
+              "text": "-"
+            },
+            {
+              "cls": [],
+              "text": "中飛"
+            },
+            {
+              "cls": [],
+              "text": "-"
+            },
+            {
+              "cls": [
+                "hit",
+                "Red"
+              ],
+              "text": "遊安"
+            },
+            {
+              "cls": [],
+              "text": "-"
+            }
+          ],
+          [
+            {
+              "cls": [],
+              "text": "2"
+            },
+            {
+              "cls": [],
+              "text": "(二)三"
+            },
+            {
+              "id": "91495130",
+              "jaBoxscoreName": "西野"
+            },
+            {
+              "cls": [],
+              "text": "3"
+            },
+            {
+              "cls": [],
+              "text": "0"
+            },
+            {
+              "cls": [],
+              "text": "1"
+            },
+            {
+              "cls": [],
+              "text": "0"
+            },
+            {
+              "cls": [],
+              "text": "0"
+            },
+            {
+              "cls": [],
+              "text": "二ゴロ"
+            },
+            {
+              "cls": [],
+              "text": "-"
+            },
+            {
+              "cls": [],
+              "text": "-"
+            },
+            {
+              "cls": [],
+              "text": "一ゴロ"
+            },
+            {
+              "cls": [],
+              "text": "-"
+            },
+            {
+              "cls": [
+                "hit",
+                "Red"
+              ],
+              "text": "中越３"
+            },
+            {
+              "cls": [],
+              "text": "-"
+            },
+            {
+              "cls": [],
+              "text": "-"
+            },
+            {
+              "cls": [],
+              "text": "-"
+            }
+          ],
+          [
+            {
+              "cls": [],
+              "text": ""
+            },
+            {
+              "cls": [],
+              "text": "走右中"
+            },
+            {
+              "id": "31535130",
+              "jaBoxscoreName": "小田"
+            },
+            {
+              "cls": [],
+              "text": "1"
+            },
+            {
+              "cls": [],
+              "text": "0"
+            },
+            {
+              "cls": [],
+              "text": "0"
+            },
+            {
+              "cls": [],
+              "text": "0"
+            },
+            {
+              "cls": [],
+              "text": "0"
+            },
+            {
+              "cls": [],
+              "text": "-"
+            },
+            {
+              "cls": [],
+              "text": "-"
+            },
+            {
+              "cls": [],
+              "text": "-"
+            },
+            {
+              "cls": [],
+              "text": "-"
+            },
+            {
+              "cls": [],
+              "text": "-"
+            },
+            {
+              "cls": [],
+              "text": "-"
+            },
+            {
+              "cls": [],
+              "text": "-"
+            },
+            {
+              "cls": [],
+              "text": "遊直"
+            },
+            {
+              "cls": [],
+              "text": "-"
+            }
+          ],
+          [
+            {
+              "cls": [],
+              "text": "3"
+            },
+            {
+              "cls": [],
+              "text": "(一)二"
+            },
+            {
+              "id": "91395138",
+              "jaBoxscoreName": "太田"
+            },
+            {
+              "cls": [],
+              "text": "4"
+            },
+            {
+              "cls": [],
+              "text": "0"
+            },
+            {
+              "cls": [],
+              "text": "0"
+            },
+            {
+              "cls": [],
+              "text": "0"
+            },
+            {
+              "cls": [],
+              "text": "0"
+            },
+            {
+              "cls": [],
+              "text": "遊ゴロ"
+            },
+            {
+              "cls": [],
+              "text": "-"
+            },
+            {
+              "cls": [],
+              "text": "-"
+            },
+            {
+              "cls": [],
+              "text": "捕邪飛"
+            },
+            {
+              "cls": [],
+              "text": "-"
+            },
+            {
+              "cls": [],
+              "text": "遊ゴロ"
+            },
+            {
+              "cls": [],
+              "text": "-"
+            },
+            {
+              "cls": [],
+              "text": "三振"
+            },
+            {
+              "cls": [],
+              "text": "-"
+            }
+          ],
+          [
+            {
+              "cls": [],
+              "text": "4"
+            },
+            {
+              "cls": [],
+              "text": "(指)"
+            },
+            {
+              "id": "91495139",
+              "jaBoxscoreName": "森"
+            },
+            {
+              "cls": [],
+              "text": "3"
+            },
+            {
+              "cls": [],
+              "text": "0"
+            },
+            {
+              "cls": [],
+              "text": "0"
+            },
+            {
+              "cls": [],
+              "text": "0"
+            },
+            {
+              "cls": [],
+              "text": "0"
+            },
+            {
+              "cls": [],
+              "text": "-"
+            },
+            {
+              "cls": [],
+              "text": "右飛"
+            },
+            {
+              "cls": [],
+              "text": "-"
+            },
+            {
+              "cls": [],
+              "text": "-"
+            },
+            {
+              "cls": [
+                "walk",
+                "Blue"
+              ],
+              "text": "四球"
+            },
+            {
+              "cls": [],
+              "text": "-"
+            },
+            {
+              "cls": [],
+              "text": "中飛"
+            },
+            {
+              "cls": [],
+              "text": "右飛"
+            },
+            {
+              "cls": [],
+              "text": "-"
+            }
+          ],
+          [
+            {
+              "cls": [],
+              "text": "5"
+            },
+            {
+              "cls": [],
+              "text": "(左)"
+            },
+            {
+              "id": "71475132",
+              "jaBoxscoreName": "西川"
+            },
+            {
+              "cls": [],
+              "text": "3"
+            },
+            {
+              "cls": [],
+              "text": "1"
+            },
+            {
+              "cls": [],
+              "text": "0"
+            },
+            {
+              "cls": [],
+              "text": "0"
+            },
+            {
+              "cls": [],
+              "text": "0"
+            },
+            {
+              "cls": [],
+              "text": "-"
+            },
+            {
+              "cls": [],
+              "text": "三振"
+            },
+            {
+              "cls": [],
+              "text": "-"
+            },
+            {
+              "cls": [],
+              "text": "-"
+            },
+            {
+              "cls": [],
+              "text": "左邪飛"
+            },
+            {
+              "cls": [],
+              "text": "-"
+            },
+            {
+              "cls": [
+                "walk",
+                "Blue"
+              ],
+              "text": "四球"
+            },
+            {
+              "cls": [],
+              "text": "-"
+            },
+            {
+              "cls": [],
+              "text": "遊飛"
+            }
+          ],
+          [
+            {
+              "cls": [],
+              "text": "6"
+            },
+            {
+              "cls": [],
+              "text": "(遊)三"
+            },
+            {
+              "id": "91995151",
+              "jaBoxscoreName": "紅林"
+            },
+            {
+              "cls": [],
+              "text": "2"
+            },
+            {
+              "cls": [],
+              "text": "0"
+            },
+            {
+              "cls": [],
+              "text": "0"
+            },
+            {
+              "cls": [],
+              "text": "0"
+            },
+            {
+              "cls": [],
+              "text": "0"
+            },
+            {
+              "cls": [],
+              "text": "-"
+            },
+            {
+              "cls": [],
+              "text": "中飛"
+            },
+            {
+              "cls": [],
+              "text": "-"
+            },
+            {
+              "cls": [],
+              "text": "-"
+            },
+            {
+              "cls": [
+                "walk",
+                "Blue"
+              ],
+              "text": "四球"
+            },
+            {
+              "cls": [],
+              "text": "-"
+            },
+            {
+              "cls": [],
+              "text": "二ゴロ"
+            },
+            {
+              "cls": [],
+              "text": "-"
+            },
+            {
+              "cls": [
+                "walk",
+                "Blue"
+              ],
+              "text": "四球"
+            }
+          ],
+          [
+            {
+              "cls": [],
+              "text": "7"
+            },
+            {
+              "cls": [],
+              "text": "(右)"
+            },
+            {
+              "id": "51955153",
+              "jaBoxscoreName": "来田"
+            },
+            {
+              "cls": [],
+              "text": "2"
+            },
+            {
+              "cls": [],
+              "text": "0"
+            },
+            {
+              "cls": [],
+              "text": "0"
+            },
+            {
+              "cls": [],
+              "text": "0"
+            },
+            {
+              "cls": [],
+              "text": "0"
+            },
+            {
+              "cls": [],
+              "text": "-"
+            },
+            {
+              "cls": [],
+              "text": "-"
+            },
+            {
+              "cls": [],
+              "text": "中飛"
+            },
+            {
+              "cls": [],
+              "text": "-"
+            },
+            {
+              "cls": [],
+              "text": "三振"
+            },
+            {
+              "cls": [],
+              "text": "-"
+            },
+            {
+              "cls": [],
+              "text": "-"
+            },
+            {
+              "cls": [],
+              "text": "-"
+            },
+            {
+              "cls": [],
+              "text": "-"
+            }
+          ],
+          [
+            {
+              "cls": [],
+              "text": ""
+            },
+            {
+              "cls": [],
+              "text": "捕"
+            },
+            {
+              "id": "11815155",
+              "jaBoxscoreName": "福永"
+            },
+            {
+              "cls": [],
+              "text": "0"
+            },
+            {
+              "cls": [],
+              "text": "0"
+            },
+            {
+              "cls": [],
+              "text": "0"
+            },
+            {
+              "cls": [],
+              "text": "0"
+            },
+            {
+              "cls": [],
+              "text": "0"
+            },
+            {
+              "cls": [],
+              "text": "-"
+            },
+            {
+              "cls": [],
+              "text": "-"
+            },
+            {
+              "cls": [],
+              "text": "-"
+            },
+            {
+              "cls": [],
+              "text": "-"
+            },
+            {
+              "cls": [],
+              "text": "-"
+            },
+            {
+              "cls": [],
+              "text": "-"
+            },
+            {
+              "cls": [],
+              "text": "-"
+            },
+            {
+              "cls": [],
+              "text": "-"
+            },
+            {
+              "cls": [],
+              "text": "-"
+            }
+          ],
+          [
+            {
+              "cls": [],
+              "text": ""
+            },
+            {
+              "cls": [],
+              "text": "打右"
+            },
+            {
+              "id": "61965132",
+              "jaBoxscoreName": "杉本"
+            },
+            {
+              "cls": [],
+              "text": "2"
+            },
+            {
+              "cls": [],
+              "text": "1"
+            },
+            {
+              "cls": [],
+              "text": "1"
+            },
+            {
+              "cls": [],
+              "text": "2"
+            },
+            {
+              "cls": [],
+              "text": "0"
+            },
+            {
+              "cls": [],
+              "text": "-"
+            },
+            {
+              "cls": [],
+              "text": "-"
+            },
+            {
+              "cls": [],
+              "text": "-"
+            },
+            {
+              "cls": [],
+              "text": "-"
+            },
+            {
+              "cls": [],
+              "text": "-"
+            },
+            {
+              "cls": [],
+              "text": "-"
+            },
+            {
+              "cls": [
+                "hit",
+                "Red",
+                "rbi"
+              ],
+              "text": "左越本②"
+            },
+            {
+              "cls": [],
+              "text": "-"
+            },
+            {
+              "cls": [],
+              "text": "三振"
+            }
+          ],
+          [
+            {
+              "cls": [],
+              "text": "8"
+            },
+            {
+              "cls": [],
+              "text": "(捕)"
+            },
+            {
+              "id": "41645139",
+              "jaBoxscoreName": "若月"
+            },
+            {
+              "cls": [],
+              "text": "1"
+            },
+            {
+              "cls": [],
+              "text": "0"
+            },
+            {
+              "cls": [],
+              "text": "0"
+            },
+            {
+              "cls": [],
+              "text": "0"
+            },
+            {
+              "cls": [],
+              "text": "0"
+            },
+            {
+              "cls": [],
+              "text": "-"
+            },
+            {
+              "cls": [],
+              "text": "-"
+            },
+            {
+              "cls": [],
+              "text": "三振"
+            },
+            {
+              "cls": [],
+              "text": "-"
+            },
+            {
+              "cls": [],
+              "text": "-"
+            },
+            {
+              "cls": [],
+              "text": "-"
+            },
+            {
+              "cls": [],
+              "text": "-"
+            },
+            {
+              "cls": [],
+              "text": "-"
+            },
+            {
+              "cls": [],
+              "text": "-"
+            }
+          ],
+          [
+            {
+              "cls": [],
+              "text": ""
+            },
+            {
+              "cls": [],
+              "text": "打一"
+            },
+            {
+              "id": "61365112",
+              "jaBoxscoreName": "T-岡田"
+            },
+            {
+              "cls": [],
+              "text": "3"
+            },
+            {
+              "cls": [],
+              "text": "0"
+            },
+            {
+              "cls": [],
+              "text": "1"
+            },
+            {
+              "cls": [],
+              "text": "0"
+            },
+            {
+              "cls": [],
+              "text": "0"
+            },
+            {
+              "cls": [],
+              "text": "-"
+            },
+            {
+              "cls": [],
+              "text": "-"
+            },
+            {
+              "cls": [],
+              "text": "-"
+            },
+            {
+              "cls": [],
+              "text": "-"
+            },
+            {
+              "cls": [],
+              "text": "中飛"
+            },
+            {
+              "cls": [],
+              "text": "-"
+            },
+            {
+              "cls": [
+                "hit",
+                "Red"
+              ],
+              "text": "右前安"
+            },
+            {
+              "cls": [],
+              "text": "-"
+            },
+            {
+              "cls": [],
+              "text": "三振"
+            }
+          ],
+          [
+            {
+              "cls": [],
+              "text": "9"
+            },
+            {
+              "cls": [],
+              "text": "(中)"
+            },
+            {
+              "id": "63565155",
+              "jaBoxscoreName": "渡部"
+            },
+            {
+              "cls": [],
+              "text": "3"
+            },
+            {
+              "cls": [],
+              "text": "0"
+            },
+            {
+              "cls": [],
+              "text": "0"
+            },
+            {
+              "cls": [],
+              "text": "0"
+            },
+            {
+              "cls": [],
+              "text": "0"
+            },
+            {
+              "cls": [],
+              "text": "-"
+            },
+            {
+              "cls": [],
+              "text": "-"
+            },
+            {
+              "cls": [],
+              "text": "一直"
+            },
+            {
+              "cls": [],
+              "text": "-"
+            },
+            {
+              "cls": [],
+              "text": "-"
+            },
+            {
+              "cls": [],
+              "text": "二ゴロ"
+            },
+            {
+              "cls": [],
+              "text": "一ゴロ"
+            },
+            {
+              "cls": [],
+              "text": "-"
+            },
+            {
+              "cls": [],
+              "text": "-"
+            }
+          ],
+          [
+            {
+              "cls": [],
+              "text": ""
+            },
+            {
+              "cls": [],
+              "text": "捕"
+            },
+            {
+              "id": "81185139",
+              "jaBoxscoreName": "石川"
+            },
+            {
+              "cls": [],
+              "text": "0"
+            },
+            {
+              "cls": [],
+              "text": "0"
+            },
+            {
+              "cls": [],
+              "text": "0"
+            },
+            {
+              "cls": [],
+              "text": "0"
+            },
+            {
+              "cls": [],
+              "text": "0"
+            },
+            {
+              "cls": [],
+              "text": "-"
+            },
+            {
+              "cls": [],
+              "text": "-"
+            },
+            {
+              "cls": [],
+              "text": "-"
+            },
+            {
+              "cls": [],
+              "text": "-"
+            },
+            {
+              "cls": [],
+              "text": "-"
+            },
+            {
+              "cls": [],
+              "text": "-"
+            },
+            {
+              "cls": [],
+              "text": "-"
+            },
+            {
+              "cls": [],
+              "text": "-"
+            },
+            {
+              "cls": [],
+              "text": "-"
+            }
+          ],
+          [
+            {
+              "cls": [],
+              "text": ""
+            },
+            {
+              "cls": [],
+              "text": ""
+            },
+            {
+              "cls": [],
+              "text": "チーム計"
+            },
+            {
+              "cls": [],
+              "text": "31"
+            },
+            {
+              "cls": [],
+              "text": "2"
+            },
+            {
+              "cls": [],
+              "text": "4"
+            },
+            {
+              "cls": [],
+              "text": "2"
+            },
+            {
+              "cls": [],
+              "text": "0"
+            },
+            {
+              "cls": [],
+              "text": ""
+            },
+            {
+              "cls": [],
+              "text": ""
+            },
+            {
+              "cls": [],
+              "text": ""
+            },
+            {
+              "cls": [],
+              "text": ""
+            },
+            {
+              "cls": [],
+              "text": ""
+            },
+            {
+              "cls": [],
+              "text": ""
+            },
+            {
+              "cls": [],
+              "text": ""
+            },
+            {
+              "cls": [],
+              "text": ""
+            },
+            {
+              "cls": [],
+              "text": ""
+            }
+          ]
+        ],
+        "pitching": [
+          [
+            {
+              "cls": [],
+              "text": ""
+            },
+            {
+              "cls": [],
+              "text": "投手"
+            },
+            {
+              "cls": [],
+              "text": "投球数"
+            },
+            {
+              "cls": [],
+              "text": "打者"
+            },
+            {
+              "cls": [],
+              "text": "投球回"
+            },
+            {
+              "cls": [],
+              "text": "安打"
+            },
+            {
+              "cls": [],
+              "text": "本塁打"
+            },
+            {
+              "cls": [],
+              "text": "四球"
+            },
+            {
+              "cls": [],
+              "text": "死球"
+            },
+            {
+              "cls": [],
+              "text": "三振"
+            },
+            {
+              "cls": [],
+              "text": "暴投"
+            },
+            {
+              "cls": [],
+              "text": "ボーク"
+            },
+            {
+              "cls": [],
+              "text": "失点"
+            },
+            {
+              "cls": [],
+              "text": "自責点"
+            }
+          ],
+          [
+            {
+              "cls": [],
+              "text": "●"
+            },
+            {
+              "id": "43545159",
+              "jaBoxscoreName": "エスピノーザ"
+            },
+            {
+              "cls": [],
+              "text": "111"
+            },
+            {
+              "cls": [],
+              "text": "27"
+            },
+            {
+              "cls": [],
+              "text": "5"
+            },
+            {
+              "cls": [],
+              "text": "9"
+            },
+            {
+              "cls": [],
+              "text": "0"
+            },
+            {
+              "cls": [],
+              "text": "2"
+            },
+            {
+              "cls": [],
+              "text": "0"
+            },
+            {
+              "cls": [],
+              "text": "3"
+            },
+            {
+              "cls": [],
+              "text": "0"
+            },
+            {
+              "cls": [],
+              "text": "0"
+            },
+            {
+              "cls": [],
+              "text": "5"
+            },
+            {
+              "cls": [],
+              "text": "2"
+            }
+          ],
+          [
+            {
+              "cls": [],
+              "text": ""
+            },
+            {
+              "id": "41745153",
+              "jaBoxscoreName": "川瀬"
+            },
+            {
+              "cls": [],
+              "text": "33"
+            },
+            {
+              "cls": [],
+              "text": "7"
+            },
+            {
+              "cls": [],
+              "text": "1"
+            },
+            {
+              "cls": [],
+              "text": "2"
+            },
+            {
+              "cls": [],
+              "text": "0"
+            },
+            {
+              "cls": [],
+              "text": "2"
+            },
+            {
+              "cls": [],
+              "text": "0"
+            },
+            {
+              "cls": [],
+              "text": "1"
+            },
+            {
+              "cls": [],
+              "text": "0"
+            },
+            {
+              "cls": [],
+              "text": "0"
+            },
+            {
+              "cls": [],
+              "text": "3"
+            },
+            {
+              "cls": [],
+              "text": "3"
+            }
+          ],
+          [
+            {
+              "cls": [],
+              "text": ""
+            },
+            {
+              "id": "83185134",
+              "jaBoxscoreName": "山岡"
+            },
+            {
+              "cls": [],
+              "text": "8"
+            },
+            {
+              "cls": [],
+              "text": "4"
+            },
+            {
+              "cls": [],
+              "text": "1"
+            },
+            {
+              "cls": [],
+              "text": "1"
+            },
+            {
+              "cls": [],
+              "text": "0"
+            },
+            {
+              "cls": [],
+              "text": "0"
+            },
+            {
+              "cls": [],
+              "text": "0"
+            },
+            {
+              "cls": [],
+              "text": "0"
+            },
+            {
+              "cls": [],
+              "text": "0"
+            },
+            {
+              "cls": [],
+              "text": "0"
+            },
+            {
+              "cls": [],
+              "text": "0"
+            },
+            {
+              "cls": [],
+              "text": "0"
+            }
+          ],
+          [
+            {
+              "cls": [],
+              "text": ""
+            },
+            {
+              "id": "41745159",
+              "jaBoxscoreName": "古田島"
+            },
+            {
+              "cls": [],
+              "text": "9"
+            },
+            {
+              "cls": [],
+              "text": "3"
+            },
+            {
+              "cls": [],
+              "text": "1"
+            },
+            {
+              "cls": [],
+              "text": "0"
+            },
+            {
+              "cls": [],
+              "text": "0"
+            },
+            {
+              "cls": [],
+              "text": "0"
+            },
+            {
+              "cls": [],
+              "text": "0"
+            },
+            {
+              "cls": [],
+              "text": "0"
+            },
+            {
+              "cls": [],
+              "text": "0"
+            },
+            {
+              "cls": [],
+              "text": "0"
+            },
+            {
+              "cls": [],
+              "text": "0"
+            },
+            {
+              "cls": [],
+              "text": "0"
+            }
+          ],
+          [
+            {
+              "cls": [],
+              "text": ""
+            },
+            {
+              "id": "13215157",
+              "jaBoxscoreName": "ペルドモ"
+            },
+            {
+              "cls": [],
+              "text": "18"
+            },
+            {
+              "cls": [],
+              "text": "5"
+            },
+            {
+              "cls": [],
+              "text": "1"
+            },
+            {
+              "cls": [],
+              "text": "2"
+            },
+            {
+              "cls": [],
+              "text": "0"
+            },
+            {
+              "cls": [],
+              "text": "0"
+            },
+            {
+              "cls": [],
+              "text": "0"
+            },
+            {
+              "cls": [],
+              "text": "0"
+            },
+            {
+              "cls": [],
+              "text": "0"
+            },
+            {
+              "cls": [],
+              "text": "0"
+            },
+            {
+              "cls": [],
+              "text": "1"
+            },
+            {
+              "cls": [],
+              "text": "1"
+            }
+          ],
+          [
+            {
+              "cls": [],
+              "text": ""
+            },
+            {
+              "cls": [],
+              "text": "チーム計"
+            },
+            {
+              "cls": [],
+              "text": "179"
+            },
+            {
+              "cls": [],
+              "text": "46"
+            },
+            {
+              "cls": [],
+              "text": "9"
+            },
+            {
+              "cls": [],
+              "text": "14"
+            },
+            {
+              "cls": [],
+              "text": "0"
+            },
+            {
+              "cls": [],
+              "text": "4"
+            },
+            {
+              "cls": [],
+              "text": "0"
+            },
+            {
+              "cls": [],
+              "text": "4"
+            },
+            {
+              "cls": [],
+              "text": "0"
+            },
+            {
+              "cls": [],
+              "text": "0"
+            },
+            {
+              "cls": [],
+              "text": "9"
+            },
+            {
+              "cls": [],
+              "text": "6"
+            }
+          ]
+        ]
+      }
+    }
+  }
+]

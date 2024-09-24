@@ -1,0 +1,63 @@
+[
+  {
+    "id": "61965132-2024-11",
+    "date": "2024-09-24",
+    "batter": {
+      "jaBoxscoreName": "杉本",
+      "playerId": "61965132",
+      "boxscoreName": "Sugimoto",
+      "batSide": "R",
+      "teamCode": "B",
+      "primaryNumber": "99",
+      "jaRegisteredName": "杉本　裕太郎",
+      "fullLFMName": "Sugimoto, Yutaro"
+    },
+    "pitcher": {
+      "jaBoxscoreName": "今井",
+      "boxscoreName": "Imai",
+      "pitchHand": "R",
+      "teamCode": "L",
+      "primaryNumber": "48",
+      "jaRegisteredName": "今井　達也",
+      "fullLFMName": "Imai, Tatsuya"
+    },
+    "number": 11,
+    "inning": 7,
+    "halfInning": "bottom",
+    "outs": 2,
+    "RoB": "-2-",
+    "count": {
+      "balls": 0,
+      "strikes": 0
+    },
+    "runs": {
+      "road": 8,
+      "home": 0
+    },
+    "bop": 7,
+    "rbi": 2,
+    "whereHit": "7",
+    "venue": {
+      "jaBoxscoreName": "京セラD大阪",
+      "boxscoreName": "Kyocera Dome",
+      "jaName": "京セラドーム大阪",
+      "name": "Kyocera Dome Osaka"
+    },
+    "teams": {
+      "road": {
+        "teamCode": "L",
+        "teamName": "Lions",
+        "score": 9
+      },
+      "home": {
+        "teamCode": "B",
+        "teamName": "Buffaloes",
+        "score": 2
+      }
+    },
+    "jaText": "レフト2ランホームラン（打点2）",
+    "text": "Sugimoto homers (11) to left field.",
+    "url": "https://npb.jp/scores/2024/0924/b-l-25/playbyplay.html#com7-2",
+    "isPinchHit": "Y"
+  }
+]
