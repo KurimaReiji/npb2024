@@ -1,5 +1,5 @@
 {
-  "updated": "2024-09-23",
+  "updated": "2024-09-24",
   "teamStats": [
     {
       "teamCode": "T",
@@ -876,10 +876,10 @@
       "teamName": "Buffaloes",
       "team": {
         "stats": {
-          "cs": 32,
+          "cs": 33,
           "sb": 63,
           "ds": 0,
-          "rate": ".337",
+          "rate": ".344",
           "pickoff": {
             "pickoff": 12,
             "cs": 7,
@@ -913,10 +913,10 @@
             "lastName": "Wakatsuki"
           },
           "stats": {
-            "cs": 25,
+            "cs": 26,
             "sb": 29,
             "ds": 0,
-            "rate": ".463",
+            "rate": ".473",
             "pickoff": {
               "pickoff": 6,
               "cs": 4,
@@ -1781,10 +1781,10 @@
   "summary": [
     {
       "stats": {
-        "cs": 299,
+        "cs": 300,
         "sb": 752,
         "ds": 6,
-        "ratio": "28.6% (299/1045)"
+        "ratio": "28.7% (300/1046)"
       },
       "ja": "NPB",
       "en": "NPB"
@@ -1801,10 +1801,10 @@
     },
     {
       "stats": {
-        "cs": 159,
+        "cs": 160,
         "sb": 442,
         "ds": 5,
-        "ratio": "26.7% (159/596)"
+        "ratio": "26.8% (160/597)"
       },
       "ja": "パ・リーグ",
       "en": "Pacific League"
