@@ -7396,5 +7396,23 @@
     "score": "2 - 4",
     "place": "みずほPayPay",
     "status": "試合終了"
+  },
+  {
+    "date": "2024-09-27",
+    "url": "https://npb.jp/scores/2024/0927/g-d-25/",
+    "home": "読売ジャイアンツ",
+    "road": "中日ドラゴンズ",
+    "score": "3 - 1",
+    "place": "東京ドーム",
+    "status": "試合終了"
+  },
+  {
+    "date": "2024-09-27",
+    "url": "https://npb.jp/scores/2024/0927/c-t-25/",
+    "home": "広島東洋カープ",
+    "road": "阪神タイガース",
+    "score": "3 - 2",
+    "place": "マツダスタジアム",
+    "status": "試合終了"
   }
 ]
