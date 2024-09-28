@@ -1,0 +1,119 @@
+[
+  {
+    "jaText": "（走者・吉川）二塁牽制アウト",
+    "text": "Yoshikawa picked off at 2nd base.",
+    "pickoff": "Y"
+  },
+  {
+    "jaText": "（走者・小園）二塁盗塁成功",
+    "text": "Kozono steals 2nd base.",
+    "pickoff": ""
+  },
+  {
+    "jaText": "（走者・周東）二塁盗塁失敗",
+    "text": "Shuto caught stealing 2nd base.",
+    "pickoff": ""
+  },
+  {
+    "jaText": "（走者・ダウンズ）二塁盗塁成功",
+    "text": "Downs steals 2nd base.",
+    "pickoff": ""
+  },
+  {
+    "jaText": "（走者・緒方）二塁盗塁失敗",
+    "text": "R.Ogata caught stealing 2nd base.",
+    "pickoff": ""
+  },
+  {
+    "jaText": "（走者・渡部）二塁盗塁成功",
+    "text": "Watanabe steals 2nd base.",
+    "pickoff": ""
+  },
+  {
+    "jaText": "（走者・西川）三塁牽制アウト",
+    "text": "Nishikawa picked off at 3rd base.",
+    "pickoff": "Y"
+  },
+  {
+    "jaText": "（走者・中村奨）二塁盗塁成功",
+    "text": "S.Nakamura steals 2nd base.",
+    "pickoff": "",
+    "catcher": {},
+    "catchers": [
+      {
+        "playerId": "81785155",
+        "jaRegisteredName": "古賀　悠斗",
+        "teamCode": "L",
+        "primaryNumber": "22",
+        "primaryPosition": "Catcher",
+        "jaStatus": "支配下選手",
+        "batSide": "R",
+        "pitchHand": "R",
+        "height": "174",
+        "weight": "86",
+        "birthDate": "1999-09-10",
+        "jaNotes": "",
+        "notes": "",
+        "jaBoxscoreName": "古賀",
+        "boxscoreName": "Koga",
+        "jaFullName": "古賀　悠斗",
+        "jaFirstName": "悠斗",
+        "jaLastName": "古賀",
+        "fullLFMName": "Koga, Yuto",
+        "firstName": "Yuto",
+        "lastName": "Koga"
+      },
+      {
+        "playerId": "91995112",
+        "jaRegisteredName": "炭谷　銀仁朗",
+        "teamCode": "L",
+        "primaryNumber": "27",
+        "primaryPosition": "Catcher",
+        "jaStatus": "支配下選手",
+        "batSide": "R",
+        "pitchHand": "R",
+        "height": "181",
+        "weight": "98",
+        "birthDate": "1987-07-19",
+        "jaNotes": "",
+        "notes": "",
+        "jaBoxscoreName": "炭谷",
+        "boxscoreName": "Sumitani",
+        "jaFullName": "炭谷　銀仁朗",
+        "jaFirstName": "銀仁朗",
+        "jaLastName": "炭谷",
+        "fullLFMName": "Sumitani, Ginjiro",
+        "firstName": "Ginjiro",
+        "lastName": "Sumitani"
+      },
+      {
+        "playerId": "61265151",
+        "jaRegisteredName": "柘植　世那",
+        "teamCode": "L",
+        "primaryNumber": "37",
+        "primaryPosition": "Catcher",
+        "jaStatus": "支配下選手",
+        "batSide": "R",
+        "pitchHand": "R",
+        "height": "174",
+        "weight": "88",
+        "birthDate": "1997-06-03",
+        "jaNotes": "",
+        "notes": "",
+        "jaBoxscoreName": "柘植",
+        "boxscoreName": "Tsuge",
+        "jaFullName": "柘植　世那",
+        "jaFirstName": "世那",
+        "jaLastName": "柘植",
+        "fullLFMName": "Tsuge, Sena",
+        "firstName": "Sena",
+        "lastName": "Tsuge"
+      }
+    ]
+  },
+  {
+    "jaText": "（走者・外崎）二塁盗塁成功",
+    "text": "Tonosaki steals 2nd base.",
+    "pickoff": ""
+  }
+]
