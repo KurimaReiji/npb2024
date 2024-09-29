@@ -1,0 +1,244 @@
+[
+  {
+    "id": "53755153-2024-16",
+    "date": "2024-09-29",
+    "batter": {
+      "jaBoxscoreName": "サンタナ",
+      "playerId": "53755153",
+      "boxscoreName": "Santana",
+      "batSide": "R",
+      "teamCode": "S",
+      "primaryNumber": "25",
+      "jaRegisteredName": "Ｄ．サンタナ",
+      "fullLFMName": "Santana, Domingo"
+    },
+    "pitcher": {
+      "jaBoxscoreName": "グリフィン",
+      "boxscoreName": "Griffin",
+      "pitchHand": "L",
+      "teamCode": "G",
+      "primaryNumber": "29",
+      "jaRegisteredName": "Ｆ．グリフィン",
+      "fullLFMName": "Griffin, Foster"
+    },
+    "number": 16,
+    "inning": 1,
+    "halfInning": "bottom",
+    "outs": 1,
+    "RoB": "1--",
+    "count": {
+      "balls": 2,
+      "strikes": 1
+    },
+    "runs": {
+      "road": 0,
+      "home": 0
+    },
+    "bop": 3,
+    "rbi": 2,
+    "whereHit": "78",
+    "venue": {
+      "jaBoxscoreName": "神宮",
+      "boxscoreName": "Jingu",
+      "jaName": "神宮",
+      "name": "Jingu Stadium"
+    },
+    "teams": {
+      "road": {
+        "teamCode": "G",
+        "teamName": "Giants",
+        "score": 4
+      },
+      "home": {
+        "teamCode": "S",
+        "teamName": "Swallows",
+        "score": 5
+      }
+    },
+    "jaText": "左中間2ランホームラン（打点2）",
+    "text": "Santana homers (16) to left center.",
+    "url": "https://npb.jp/scores/2024/0929/s-g-25/playbyplay.html#com1-2"
+  },
+  {
+    "id": "31835134-2024-22",
+    "date": "2024-09-29",
+    "batter": {
+      "jaBoxscoreName": "細川",
+      "playerId": "31835134",
+      "boxscoreName": "Hosokawa",
+      "batSide": "R",
+      "teamCode": "D",
+      "primaryNumber": "55",
+      "jaRegisteredName": "細川　成也",
+      "fullLFMName": "Hosokawa, Seiya"
+    },
+    "pitcher": {
+      "jaBoxscoreName": "島内",
+      "boxscoreName": "Shimauchi",
+      "pitchHand": "R",
+      "teamCode": "C",
+      "primaryNumber": "43",
+      "jaRegisteredName": "島内　颯太郎",
+      "fullLFMName": "Shimauchi, Sotaro"
+    },
+    "number": 22,
+    "inning": 8,
+    "halfInning": "top",
+    "outs": 0,
+    "RoB": "---",
+    "count": {
+      "balls": 3,
+      "strikes": 1
+    },
+    "runs": {
+      "road": 2,
+      "home": 3
+    },
+    "bop": 5,
+    "rbi": 1,
+    "whereHit": "8",
+    "venue": {
+      "jaBoxscoreName": "マツダスタジアム",
+      "boxscoreName": "Mazda Stadium",
+      "jaName": "MAZDA Zoom-Zoom スタジアム広島",
+      "name": "MAZDA Zoom-Zoom Stadium Hiroshima"
+    },
+    "teams": {
+      "road": {
+        "teamCode": "D",
+        "teamName": "Dragons",
+        "score": 4
+      },
+      "home": {
+        "teamCode": "C",
+        "teamName": "Carp",
+        "score": 3
+      }
+    },
+    "jaText": "センターソロホームラン（打点1）",
+    "text": "Hosokawa homers (22) to center field.",
+    "url": "https://npb.jp/scores/2024/0929/c-d-25/playbyplay.html#com8-1"
+  },
+  {
+    "id": "71875155-2024-02",
+    "date": "2024-09-29",
+    "batter": {
+      "jaBoxscoreName": "ブライト",
+      "playerId": "71875155",
+      "boxscoreName": "Bright",
+      "batSide": "R",
+      "teamCode": "D",
+      "primaryNumber": "42",
+      "jaRegisteredName": "ブライト　健太",
+      "fullLFMName": "Bright, Kenta"
+    },
+    "pitcher": {
+      "jaBoxscoreName": "栗林",
+      "boxscoreName": "Kuribayashi",
+      "pitchHand": "R",
+      "teamCode": "C",
+      "primaryNumber": "20",
+      "jaRegisteredName": "栗林　良吏",
+      "fullLFMName": "Kuribayashi, Ryoji"
+    },
+    "number": 2,
+    "inning": 9,
+    "halfInning": "top",
+    "outs": 0,
+    "RoB": "---",
+    "count": {
+      "balls": 1,
+      "strikes": 1
+    },
+    "runs": {
+      "road": 3,
+      "home": 3
+    },
+    "bop": 9,
+    "rbi": 1,
+    "whereHit": "7",
+    "venue": {
+      "jaBoxscoreName": "マツダスタジアム",
+      "boxscoreName": "Mazda Stadium",
+      "jaName": "MAZDA Zoom-Zoom スタジアム広島",
+      "name": "MAZDA Zoom-Zoom Stadium Hiroshima"
+    },
+    "teams": {
+      "road": {
+        "teamCode": "D",
+        "teamName": "Dragons",
+        "score": 4
+      },
+      "home": {
+        "teamCode": "C",
+        "teamName": "Carp",
+        "score": 3
+      }
+    },
+    "jaText": "レフトソロホームラン（打点1）",
+    "text": "Bright homers (2) to left field.",
+    "url": "https://npb.jp/scores/2024/0929/c-d-25/playbyplay.html#com9-1",
+    "isPinchHit": "Y"
+  },
+  {
+    "id": "43245159-2024-01",
+    "date": "2024-09-29",
+    "batter": {
+      "jaBoxscoreName": "ダウンズ",
+      "playerId": "43245159",
+      "boxscoreName": "Downs",
+      "batSide": "R",
+      "teamCode": "H",
+      "primaryNumber": "4",
+      "jaRegisteredName": "Ｊ．ダウンズ",
+      "fullLFMName": "Downs, Jeter"
+    },
+    "pitcher": {
+      "jaBoxscoreName": "加藤貴",
+      "boxscoreName": "T.Katoh",
+      "pitchHand": "L",
+      "teamCode": "F",
+      "primaryNumber": "14",
+      "jaRegisteredName": "加藤　貴之",
+      "fullLFMName": "Katoh, Takayuki"
+    },
+    "number": 1,
+    "inning": 1,
+    "halfInning": "top",
+    "outs": 0,
+    "RoB": "---",
+    "count": {
+      "balls": 1,
+      "strikes": 2
+    },
+    "runs": {
+      "road": 0,
+      "home": 0
+    },
+    "bop": 1,
+    "rbi": 1,
+    "whereHit": "7",
+    "venue": {
+      "jaBoxscoreName": "エスコンＦ",
+      "boxscoreName": "ES CON FIELD",
+      "jaName": "エスコンフィールドＨＯＫＫＡＩＤＯ",
+      "name": "ES CON FIELD HOKKAIDO"
+    },
+    "teams": {
+      "road": {
+        "teamCode": "H",
+        "teamName": "Hawks",
+        "score": 6
+      },
+      "home": {
+        "teamCode": "F",
+        "teamName": "Fighters",
+        "score": 2
+      }
+    },
+    "jaText": "レフトソロホームラン（打点1）",
+    "text": "Downs homers (1) to left field.",
+    "url": "https://npb.jp/scores/2024/0929/f-h-25/playbyplay.html#com1-1",
+    "isLeadOff": "Y"
+  }
+]

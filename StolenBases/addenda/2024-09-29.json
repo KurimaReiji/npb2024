@@ -1,0 +1,111 @@
+[
+  {
+    "jaText": "（走者・村上）二塁盗塁成功",
+    "text": "Murakami steals 2nd base.",
+    "pickoff": ""
+  },
+  {
+    "jaText": "（走者・門脇）二塁盗塁失敗",
+    "text": "Kadowaki caught stealing 2nd base.",
+    "pickoff": "",
+    "catcher": {},
+    "catchers": [
+      {
+        "playerId": "51255118",
+        "jaRegisteredName": "中村　悠平",
+        "teamCode": "S",
+        "primaryNumber": "27",
+        "primaryPosition": "Catcher",
+        "jaStatus": "支配下選手",
+        "batSide": "R",
+        "pitchHand": "R",
+        "height": "176",
+        "weight": "79",
+        "birthDate": "1990-06-17",
+        "jaNotes": "",
+        "notes": "",
+        "jaBoxscoreName": "中村",
+        "boxscoreName": "Nakamura",
+        "jaFullName": "中村　悠平",
+        "jaFirstName": "悠平",
+        "jaLastName": "中村",
+        "fullLFMName": "Nakamura, Yuhei",
+        "firstName": "Yuhei",
+        "lastName": "Nakamura"
+      },
+      {
+        "playerId": "51855136",
+        "jaRegisteredName": "松本　直樹",
+        "teamCode": "S",
+        "primaryNumber": "32",
+        "primaryPosition": "Catcher",
+        "jaStatus": "支配下選手",
+        "batSide": "R",
+        "pitchHand": "R",
+        "height": "177",
+        "weight": "82",
+        "birthDate": "1993-10-17",
+        "jaNotes": "",
+        "notes": "",
+        "jaBoxscoreName": "松本直",
+        "boxscoreName": "N.Matsumoto",
+        "jaFullName": "松本　直樹",
+        "jaFirstName": "直樹",
+        "jaLastName": "松本",
+        "fullLFMName": "Matsumoto, Naoki",
+        "firstName": "Naoki",
+        "lastName": "Matsumoto"
+      }
+    ]
+  },
+  {
+    "jaText": "（走者・牧）本塁盗塁成功（ダブルスチール）",
+    "text": "Maki steals home plate.",
+    "pickoff": ""
+  },
+  {
+    "jaText": "（走者・宮﨑）三塁盗塁成功（ダブルスチール）",
+    "text": "Miyazaki steals 3rd base.",
+    "pickoff": ""
+  },
+  {
+    "jaText": "（走者・木浪）二塁盗塁成功",
+    "text": "Kinami steals 2nd base.",
+    "pickoff": ""
+  },
+  {
+    "jaText": "（走者・野間）三塁牽制アウト",
+    "text": "Noma picked off at 3rd base.",
+    "pickoff": "Y"
+  },
+  {
+    "jaText": "（走者・福永）二塁盗塁成功",
+    "text": "Fukunaga steals 2nd base.",
+    "pickoff": ""
+  },
+  {
+    "jaText": "（走者・野間）一塁牽制アウト",
+    "text": "Noma picked off at 1st base.",
+    "pickoff": "Y"
+  },
+  {
+    "jaText": "（走者・岡林）二塁盗塁成功",
+    "text": "Okabayashi steals 2nd base.",
+    "pickoff": ""
+  },
+  {
+    "jaText": "（走者・矢野）二塁盗塁成功",
+    "text": "Yano steals 2nd base.",
+    "pickoff": ""
+  },
+  {
+    "jaText": "（走者・滝澤）二塁盗塁失敗",
+    "text": "Takizawa caught stealing 2nd base.",
+    "pickoff": ""
+  },
+  {
+    "jaText": "（走者・長谷川）二塁盗塁成功",
+    "text": "Hasegawa steals 2nd base.",
+    "pickoff": ""
+  }
+]
