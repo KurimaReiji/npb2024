@@ -1075,13 +1075,13 @@
       "teamName": "Marines",
       "team": {
         "stats": {
-          "cs": 23,
+          "cs": 22,
           "sb": 88,
           "ds": 1,
-          "rate": ".209",
+          "rate": ".202",
           "pickoff": {
-            "pickoff": 10,
-            "cs": 7,
+            "pickoff": 11,
+            "cs": 8,
             "sb": 0
           }
         }
@@ -1112,13 +1112,13 @@
             "lastName": "Satoh"
           },
           "stats": {
-            "cs": 14,
+            "cs": 13,
             "sb": 61,
             "ds": 1,
-            "rate": ".189",
+            "rate": ".178",
             "pickoff": {
-              "pickoff": 8,
-              "cs": 5,
+              "pickoff": 9,
+              "cs": 6,
               "sb": 0
             }
           }
@@ -1817,10 +1817,10 @@
   "summary": [
     {
       "stats": {
-        "cs": 305,
+        "cs": 304,
         "sb": 777,
         "ds": 8,
-        "ratio": "28.4% (305/1074)"
+        "ratio": "28.3% (304/1073)"
       },
       "ja": "NPB",
       "en": "NPB"
@@ -1837,10 +1837,10 @@
     },
     {
       "stats": {
-        "cs": 163,
+        "cs": 162,
         "sb": 450,
         "ds": 5,
-        "ratio": "26.8% (163/608)"
+        "ratio": "26.7% (162/607)"
       },
       "ja": "パ・リーグ",
       "en": "Pacific League"

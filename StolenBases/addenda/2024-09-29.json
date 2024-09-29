@@ -74,8 +74,8 @@
   },
   {
     "jaText": "（走者・滝澤）二塁盗塁失敗",
-    "text": "Takizawa caught stealing 2nd base.",
-    "pickoff": ""
+    "text": "Takizawa picked off and caught stealing 2nd base.",
+    "pickoff": "Y"
   },
   {
     "jaText": "（走者・長谷川）二塁盗塁成功",
