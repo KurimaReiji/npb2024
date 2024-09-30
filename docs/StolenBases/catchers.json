@@ -1,5 +1,5 @@
 {
-  "updated": "2024-09-29",
+  "updated": "2024-09-30",
   "teamStats": [
     {
       "teamCode": "T",
@@ -224,10 +224,10 @@
       "teamName": "Baystars",
       "team": {
         "stats": {
-          "cs": 24,
+          "cs": 25,
           "sb": 66,
           "ds": 1,
-          "rate": ".270",
+          "rate": ".278",
           "pickoff": {
             "pickoff": 15,
             "cs": 5,
@@ -333,10 +333,10 @@
             "lastName": "Tobashira"
           },
           "stats": {
-            "cs": 2,
+            "cs": 3,
             "sb": 11,
             "ds": 0,
-            "rate": ".154",
+            "rate": ".214",
             "pickoff": {
               "pickoff": 3,
               "cs": 1,
@@ -1202,10 +1202,10 @@
       "teamName": "Hawks",
       "team": {
         "stats": {
-          "cs": 30,
-          "sb": 73,
+          "cs": 31,
+          "sb": 74,
           "ds": 0,
-          "rate": ".291",
+          "rate": ".295",
           "pickoff": {
             "pickoff": 5,
             "cs": 2,
@@ -1239,10 +1239,10 @@
             "lastName": "Kai"
           },
           "stats": {
-            "cs": 24,
-            "sb": 60,
+            "cs": 25,
+            "sb": 61,
             "ds": 0,
-            "rate": ".286",
+            "rate": ".291",
             "pickoff": {
               "pickoff": 3,
               "cs": 1,
@@ -1294,9 +1294,9 @@
       "team": {
         "stats": {
           "cs": 21,
-          "sb": 83,
+          "sb": 84,
           "ds": 0,
-          "rate": ".202",
+          "rate": ".200",
           "pickoff": {
             "pickoff": 10,
             "cs": 2,
@@ -1331,9 +1331,9 @@
           },
           "stats": {
             "cs": 7,
-            "sb": 45,
+            "sb": 46,
             "ds": 0,
-            "rate": ".135",
+            "rate": ".132",
             "pickoff": {
               "pickoff": 5,
               "cs": 0,
@@ -1457,12 +1457,12 @@
       "team": {
         "stats": {
           "cs": 24,
-          "sb": 70,
+          "sb": 71,
           "ds": 3,
-          "rate": ".264",
+          "rate": ".261",
           "pickoff": {
-            "pickoff": 26,
-            "cs": 10,
+            "pickoff": 27,
+            "cs": 11,
             "sb": 2
           }
         }
@@ -1530,12 +1530,12 @@
           },
           "stats": {
             "cs": 2,
-            "sb": 18,
+            "sb": 19,
             "ds": 1,
-            "rate": ".105",
+            "rate": ".100",
             "pickoff": {
-              "pickoff": 7,
-              "cs": 3,
+              "pickoff": 8,
+              "cs": 4,
               "sb": 0
             }
           }
@@ -1817,30 +1817,30 @@
   "summary": [
     {
       "stats": {
-        "cs": 304,
-        "sb": 777,
+        "cs": 306,
+        "sb": 780,
         "ds": 8,
-        "ratio": "28.3% (304/1073)"
+        "ratio": "28.4% (306/1078)"
       },
       "ja": "NPB",
       "en": "NPB"
     },
     {
       "stats": {
-        "cs": 142,
+        "cs": 143,
         "sb": 327,
         "ds": 3,
-        "ratio": "30.5% (142/466)"
+        "ratio": "30.6% (143/467)"
       },
       "ja": "セ・リーグ",
       "en": "Central League"
     },
     {
       "stats": {
-        "cs": 162,
-        "sb": 450,
+        "cs": 163,
+        "sb": 453,
         "ds": 5,
-        "ratio": "26.7% (162/607)"
+        "ratio": "26.7% (163/611)"
       },
       "ja": "パ・リーグ",
       "en": "Pacific League"
