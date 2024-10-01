@@ -1,0 +1,182 @@
+[
+  {
+    "id": "13915157-2024-14",
+    "date": "2024-10-01",
+    "batter": {
+      "jaBoxscoreName": "セデーニョ",
+      "playerId": "13915157",
+      "boxscoreName": "Cedeno",
+      "batSide": "R",
+      "teamCode": "B",
+      "primaryNumber": "40",
+      "jaRegisteredName": "Ｌ．セデーニョ",
+      "fullLFMName": "Cedeno, Leandro"
+    },
+    "pitcher": {
+      "jaBoxscoreName": "前田悠",
+      "boxscoreName": "Y.Maeda",
+      "pitchHand": "L",
+      "teamCode": "H",
+      "primaryNumber": "41",
+      "jaRegisteredName": "前田　悠伍",
+      "fullLFMName": "Maeda, Yugo"
+    },
+    "number": 14,
+    "inning": 3,
+    "halfInning": "top",
+    "outs": 0,
+    "RoB": "1--",
+    "count": {
+      "balls": 0,
+      "strikes": 1
+    },
+    "runs": {
+      "road": 4,
+      "home": 0
+    },
+    "bop": 4,
+    "rbi": 2,
+    "whereHit": "7",
+    "venue": {
+      "jaBoxscoreName": "みずほPayPay",
+      "boxscoreName": "MIZUHO PayPay",
+      "jaName": "みずほPayPayドーム福岡",
+      "name": "MIZUHO PayPay Dome FUKUOKA"
+    },
+    "teams": {
+      "road": {
+        "teamCode": "B",
+        "teamName": "Buffaloes",
+        "score": 6
+      },
+      "home": {
+        "teamCode": "H",
+        "teamName": "Hawks",
+        "score": 8
+      }
+    },
+    "jaText": "レフト2ランホームラン（打点2）",
+    "text": "Cedeno homers (14) to left field.",
+    "url": "https://npb.jp/scores/2024/1001/h-b-25/playbyplay.html#com3-1"
+  },
+  {
+    "id": "81885155-2024-07",
+    "date": "2024-10-01",
+    "batter": {
+      "jaBoxscoreName": "正木",
+      "playerId": "81885155",
+      "boxscoreName": "Masaki",
+      "batSide": "R",
+      "teamCode": "H",
+      "primaryNumber": "31",
+      "jaRegisteredName": "正木　智也",
+      "fullLFMName": "Masaki, Tomoya"
+    },
+    "pitcher": {
+      "jaBoxscoreName": "田嶋",
+      "boxscoreName": "Tajima",
+      "pitchHand": "L",
+      "teamCode": "B",
+      "primaryNumber": "29",
+      "jaRegisteredName": "田嶋　大樹",
+      "fullLFMName": "Tajima, Daiki"
+    },
+    "number": 7,
+    "inning": 4,
+    "halfInning": "bottom",
+    "outs": 0,
+    "RoB": "---",
+    "count": {
+      "balls": 1,
+      "strikes": 1
+    },
+    "runs": {
+      "road": 6,
+      "home": 1
+    },
+    "bop": 5,
+    "rbi": 1,
+    "whereHit": "7",
+    "venue": {
+      "jaBoxscoreName": "みずほPayPay",
+      "boxscoreName": "MIZUHO PayPay",
+      "jaName": "みずほPayPayドーム福岡",
+      "name": "MIZUHO PayPay Dome FUKUOKA"
+    },
+    "teams": {
+      "road": {
+        "teamCode": "B",
+        "teamName": "Buffaloes",
+        "score": 6
+      },
+      "home": {
+        "teamCode": "H",
+        "teamName": "Hawks",
+        "score": 8
+      }
+    },
+    "jaText": "レフトソロホームラン（打点1）",
+    "text": "Masaki homers (7) to left field.",
+    "url": "https://npb.jp/scores/2024/1001/h-b-25/playbyplay.html#com4-2"
+  },
+  {
+    "id": "01705130-2024-19",
+    "date": "2024-10-01",
+    "batter": {
+      "jaBoxscoreName": "栗原",
+      "playerId": "01705130",
+      "boxscoreName": "Kurihara",
+      "batSide": "L",
+      "teamCode": "H",
+      "primaryNumber": "24",
+      "jaRegisteredName": "栗原　陵矢",
+      "fullLFMName": "Kurihara, Ryoya"
+    },
+    "pitcher": {
+      "jaBoxscoreName": "田嶋",
+      "boxscoreName": "Tajima",
+      "pitchHand": "L",
+      "teamCode": "B",
+      "primaryNumber": "29",
+      "jaRegisteredName": "田嶋　大樹",
+      "fullLFMName": "Tajima, Daiki"
+    },
+    "number": 19,
+    "inning": 5,
+    "halfInning": "bottom",
+    "outs": 2,
+    "RoB": "1--",
+    "count": {
+      "balls": 1,
+      "strikes": 2
+    },
+    "runs": {
+      "road": 6,
+      "home": 2
+    },
+    "bop": 3,
+    "rbi": 2,
+    "whereHit": "9",
+    "venue": {
+      "jaBoxscoreName": "みずほPayPay",
+      "boxscoreName": "MIZUHO PayPay",
+      "jaName": "みずほPayPayドーム福岡",
+      "name": "MIZUHO PayPay Dome FUKUOKA"
+    },
+    "teams": {
+      "road": {
+        "teamCode": "B",
+        "teamName": "Buffaloes",
+        "score": 6
+      },
+      "home": {
+        "teamCode": "H",
+        "teamName": "Hawks",
+        "score": 8
+      }
+    },
+    "jaText": "ライト2ランホームラン（打点2）",
+    "text": "Kurihara homers (19) to right field.",
+    "url": "https://npb.jp/scores/2024/1001/h-b-25/playbyplay.html#com5-2"
+  }
+]
