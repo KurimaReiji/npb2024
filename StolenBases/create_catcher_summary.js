@@ -56,12 +56,14 @@ writeFileSync("../docs/StolenBases/catchers.json", output);
 function get_stats(inputs) {
   const cs = inputs.filter((r) => !r.pickoff).filter(({ scoring }) => scoring === "CaughtStealing").length;
   const sb = inputs.filter((r) => !r.pickoff).filter(({ scoring }) => scoring === "StolenBase").length;
-  const ds = .5 * inputs.filter(({ isDoubleSteal }) => isDoubleSteal).length;
-  const rate = (cs + sb > 0) ? (cs / (cs + sb - ds)).toFixed(3).replace(/^0/, "") : "";
+  const ds = .5 * inputs.filter((r) => !r.pickoff).filter(({ isDoubleSteal }) => isDoubleSteal).length;
+
   const pickoff = inputs.filter(({ pickoff }) => pickoff);
   const pickoff_cs = pickoff.filter(({ scoring }) => scoring === "CaughtStealing").length;
   const pickoff_sb = pickoff.filter(({ scoring }) => scoring === "StolenBase").length;
-  return { cs, sb, ds, rate, pickoff: { pickoff: pickoff.length, cs: pickoff_cs, sb: pickoff_sb } };
+  const pickoff_ds = .5 * pickoff.filter(({ isDoubleSteal }) => isDoubleSteal).length;
+  const rate = (cs + sb > 0) ? (cs / (cs + sb - ds)).toFixed(3).replace(/^0/, "") : "";
+  return { cs, sb, ds, rate, pickoff: { pickoff: pickoff.length - pickoff_ds, cs: pickoff_cs, sb: pickoff_sb, ds: pickoff_ds } };
 }
 
 function get_summary(teamStats) {

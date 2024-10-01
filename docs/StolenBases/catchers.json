@@ -8,12 +8,13 @@
         "stats": {
           "cs": 16,
           "sb": 62,
-          "ds": 2,
-          "rate": ".211",
+          "ds": 1,
+          "rate": ".208",
           "pickoff": {
-            "pickoff": 17,
+            "pickoff": 16,
             "cs": 5,
-            "sb": 4
+            "sb": 4,
+            "ds": 1
           }
         }
       },
@@ -45,12 +46,13 @@
           "stats": {
             "cs": 11,
             "sb": 41,
-            "ds": 2,
-            "rate": ".220",
+            "ds": 1,
+            "rate": ".216",
             "pickoff": {
-              "pickoff": 11,
+              "pickoff": 10,
               "cs": 5,
-              "sb": 4
+              "sb": 4,
+              "ds": 1
             }
           }
         },
@@ -86,7 +88,8 @@
             "pickoff": {
               "pickoff": 6,
               "cs": 0,
-              "sb": 0
+              "sb": 0,
+              "ds": 0
             }
           }
         }
@@ -104,7 +107,8 @@
           "pickoff": {
             "pickoff": 15,
             "cs": 2,
-            "sb": 1
+            "sb": 1,
+            "ds": 0
           }
         }
       },
@@ -141,7 +145,8 @@
             "pickoff": {
               "pickoff": 7,
               "cs": 1,
-              "sb": 0
+              "sb": 0,
+              "ds": 0
             }
           }
         },
@@ -177,7 +182,8 @@
             "pickoff": {
               "pickoff": 5,
               "cs": 1,
-              "sb": 1
+              "sb": 1,
+              "ds": 0
             }
           }
         },
@@ -213,7 +219,8 @@
             "pickoff": {
               "pickoff": 3,
               "cs": 0,
-              "sb": 0
+              "sb": 0,
+              "ds": 0
             }
           }
         }
@@ -231,7 +238,8 @@
           "pickoff": {
             "pickoff": 15,
             "cs": 5,
-            "sb": 1
+            "sb": 1,
+            "ds": 0
           }
         }
       },
@@ -268,7 +276,8 @@
             "pickoff": {
               "pickoff": 10,
               "cs": 2,
-              "sb": 1
+              "sb": 1,
+              "ds": 0
             }
           }
         },
@@ -304,7 +313,8 @@
             "pickoff": {
               "pickoff": 1,
               "cs": 1,
-              "sb": 0
+              "sb": 0,
+              "ds": 0
             }
           }
         },
@@ -340,7 +350,8 @@
             "pickoff": {
               "pickoff": 3,
               "cs": 1,
-              "sb": 0
+              "sb": 0,
+              "ds": 0
             }
           }
         },
@@ -376,7 +387,8 @@
             "pickoff": {
               "pickoff": 1,
               "cs": 1,
-              "sb": 0
+              "sb": 0,
+              "ds": 0
             }
           }
         }
@@ -394,7 +406,8 @@
           "pickoff": {
             "pickoff": 11,
             "cs": 4,
-            "sb": 1
+            "sb": 1,
+            "ds": 0
           }
         }
       },
@@ -431,7 +444,8 @@
             "pickoff": {
               "pickoff": 5,
               "cs": 2,
-              "sb": 0
+              "sb": 0,
+              "ds": 0
             }
           }
         },
@@ -467,7 +481,8 @@
             "pickoff": {
               "pickoff": 1,
               "cs": 0,
-              "sb": 0
+              "sb": 0,
+              "ds": 0
             }
           }
         },
@@ -503,7 +518,8 @@
             "pickoff": {
               "pickoff": 5,
               "cs": 2,
-              "sb": 1
+              "sb": 1,
+              "ds": 0
             }
           }
         },
@@ -539,7 +555,8 @@
             "pickoff": {
               "pickoff": 0,
               "cs": 0,
-              "sb": 0
+              "sb": 0,
+              "ds": 0
             }
           }
         }
@@ -557,7 +574,8 @@
           "pickoff": {
             "pickoff": 7,
             "cs": 3,
-            "sb": 0
+            "sb": 0,
+            "ds": 0
           }
         }
       },
@@ -594,7 +612,8 @@
             "pickoff": {
               "pickoff": 3,
               "cs": 0,
-              "sb": 0
+              "sb": 0,
+              "ds": 0
             }
           }
         },
@@ -630,7 +649,8 @@
             "pickoff": {
               "pickoff": 3,
               "cs": 3,
-              "sb": 0
+              "sb": 0,
+              "ds": 0
             }
           }
         },
@@ -666,7 +686,8 @@
             "pickoff": {
               "pickoff": 0,
               "cs": 0,
-              "sb": 0
+              "sb": 0,
+              "ds": 0
             }
           }
         },
@@ -702,7 +723,8 @@
             "pickoff": {
               "pickoff": 0,
               "cs": 0,
-              "sb": 0
+              "sb": 0,
+              "ds": 0
             }
           }
         },
@@ -738,7 +760,8 @@
             "pickoff": {
               "pickoff": 1,
               "cs": 0,
-              "sb": 0
+              "sb": 0,
+              "ds": 0
             }
           }
         }
@@ -756,7 +779,8 @@
           "pickoff": {
             "pickoff": 12,
             "cs": 4,
-            "sb": 0
+            "sb": 0,
+            "ds": 0
           }
         }
       },
@@ -793,7 +817,8 @@
             "pickoff": {
               "pickoff": 1,
               "cs": 0,
-              "sb": 0
+              "sb": 0,
+              "ds": 0
             }
           }
         },
@@ -829,7 +854,8 @@
             "pickoff": {
               "pickoff": 6,
               "cs": 2,
-              "sb": 0
+              "sb": 0,
+              "ds": 0
             }
           }
         },
@@ -865,7 +891,8 @@
             "pickoff": {
               "pickoff": 5,
               "cs": 2,
-              "sb": 0
+              "sb": 0,
+              "ds": 0
             }
           }
         },
@@ -901,7 +928,8 @@
             "pickoff": {
               "pickoff": 0,
               "cs": 0,
-              "sb": 0
+              "sb": 0,
+              "ds": 0
             }
           }
         }
@@ -919,7 +947,8 @@
           "pickoff": {
             "pickoff": 12,
             "cs": 7,
-            "sb": 0
+            "sb": 0,
+            "ds": 0
           }
         }
       },
@@ -956,7 +985,8 @@
             "pickoff": {
               "pickoff": 6,
               "cs": 4,
-              "sb": 0
+              "sb": 0,
+              "ds": 0
             }
           }
         },
@@ -992,7 +1022,8 @@
             "pickoff": {
               "pickoff": 5,
               "cs": 3,
-              "sb": 0
+              "sb": 0,
+              "ds": 0
             }
           }
         },
@@ -1028,7 +1059,8 @@
             "pickoff": {
               "pickoff": 1,
               "cs": 0,
-              "sb": 0
+              "sb": 0,
+              "ds": 0
             }
           }
         },
@@ -1064,7 +1096,8 @@
             "pickoff": {
               "pickoff": 0,
               "cs": 0,
-              "sb": 0
+              "sb": 0,
+              "ds": 0
             }
           }
         }
@@ -1082,7 +1115,8 @@
           "pickoff": {
             "pickoff": 11,
             "cs": 8,
-            "sb": 0
+            "sb": 0,
+            "ds": 0
           }
         }
       },
@@ -1119,7 +1153,8 @@
             "pickoff": {
               "pickoff": 9,
               "cs": 6,
-              "sb": 0
+              "sb": 0,
+              "ds": 0
             }
           }
         },
@@ -1155,7 +1190,8 @@
             "pickoff": {
               "pickoff": 2,
               "cs": 2,
-              "sb": 0
+              "sb": 0,
+              "ds": 0
             }
           }
         },
@@ -1191,7 +1227,8 @@
             "pickoff": {
               "pickoff": 0,
               "cs": 0,
-              "sb": 0
+              "sb": 0,
+              "ds": 0
             }
           }
         }
@@ -1209,7 +1246,8 @@
           "pickoff": {
             "pickoff": 5,
             "cs": 2,
-            "sb": 3
+            "sb": 3,
+            "ds": 0
           }
         }
       },
@@ -1246,7 +1284,8 @@
             "pickoff": {
               "pickoff": 3,
               "cs": 1,
-              "sb": 2
+              "sb": 2,
+              "ds": 0
             }
           }
         },
@@ -1282,7 +1321,8 @@
             "pickoff": {
               "pickoff": 2,
               "cs": 1,
-              "sb": 1
+              "sb": 1,
+              "ds": 0
             }
           }
         }
@@ -1300,7 +1340,8 @@
           "pickoff": {
             "pickoff": 10,
             "cs": 2,
-            "sb": 0
+            "sb": 0,
+            "ds": 0
           }
         }
       },
@@ -1337,7 +1378,8 @@
             "pickoff": {
               "pickoff": 5,
               "cs": 0,
-              "sb": 0
+              "sb": 0,
+              "ds": 0
             }
           }
         },
@@ -1373,7 +1415,8 @@
             "pickoff": {
               "pickoff": 3,
               "cs": 2,
-              "sb": 0
+              "sb": 0,
+              "ds": 0
             }
           }
         },
@@ -1409,7 +1452,8 @@
             "pickoff": {
               "pickoff": 0,
               "cs": 0,
-              "sb": 0
+              "sb": 0,
+              "ds": 0
             }
           }
         },
@@ -1445,7 +1489,8 @@
             "pickoff": {
               "pickoff": 2,
               "cs": 0,
-              "sb": 0
+              "sb": 0,
+              "ds": 0
             }
           }
         }
@@ -1463,7 +1508,8 @@
           "pickoff": {
             "pickoff": 27,
             "cs": 11,
-            "sb": 2
+            "sb": 2,
+            "ds": 0
           }
         }
       },
@@ -1500,7 +1546,8 @@
             "pickoff": {
               "pickoff": 17,
               "cs": 7,
-              "sb": 2
+              "sb": 2,
+              "ds": 0
             }
           }
         },
@@ -1536,7 +1583,8 @@
             "pickoff": {
               "pickoff": 8,
               "cs": 4,
-              "sb": 0
+              "sb": 0,
+              "ds": 0
             }
           }
         },
@@ -1572,7 +1620,8 @@
             "pickoff": {
               "pickoff": 2,
               "cs": 0,
-              "sb": 0
+              "sb": 0,
+              "ds": 0
             }
           }
         },
@@ -1608,7 +1657,8 @@
             "pickoff": {
               "pickoff": 0,
               "cs": 0,
-              "sb": 0
+              "sb": 0,
+              "ds": 0
             }
           }
         }
@@ -1626,7 +1676,8 @@
           "pickoff": {
             "pickoff": 10,
             "cs": 4,
-            "sb": 1
+            "sb": 1,
+            "ds": 0
           }
         }
       },
@@ -1663,7 +1714,8 @@
             "pickoff": {
               "pickoff": 6,
               "cs": 2,
-              "sb": 1
+              "sb": 1,
+              "ds": 0
             }
           }
         },
@@ -1699,7 +1751,8 @@
             "pickoff": {
               "pickoff": 3,
               "cs": 1,
-              "sb": 0
+              "sb": 0,
+              "ds": 0
             }
           }
         },
@@ -1735,7 +1788,8 @@
             "pickoff": {
               "pickoff": 0,
               "cs": 0,
-              "sb": 0
+              "sb": 0,
+              "ds": 0
             }
           }
         },
@@ -1771,7 +1825,8 @@
             "pickoff": {
               "pickoff": 1,
               "cs": 1,
-              "sb": 0
+              "sb": 0,
+              "ds": 0
             }
           }
         },
@@ -1807,7 +1862,8 @@
             "pickoff": {
               "pickoff": 0,
               "cs": 0,
-              "sb": 0
+              "sb": 0,
+              "ds": 0
             }
           }
         }
@@ -1819,8 +1875,8 @@
       "stats": {
         "cs": 309,
         "sb": 787,
-        "ds": 8,
-        "ratio": "28.4% (309/1088)"
+        "ds": 7,
+        "ratio": "28.4% (309/1089)"
       },
       "ja": "NPB",
       "en": "NPB"
@@ -1829,8 +1885,8 @@
       "stats": {
         "cs": 143,
         "sb": 328,
-        "ds": 3,
-        "ratio": "30.6% (143/468)"
+        "ds": 2,
+        "ratio": "30.5% (143/469)"
       },
       "ja": "セ・リーグ",
       "en": "Central League"
