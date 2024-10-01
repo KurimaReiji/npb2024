@@ -1,5 +1,5 @@
 {
-  "updated": "2024-09-30",
+  "updated": "2024-10-01",
   "teamStats": [
     {
       "teamCode": "T",
@@ -7,13 +7,13 @@
       "team": {
         "stats": {
           "cs": 16,
-          "sb": 64,
+          "sb": 62,
           "ds": 2,
-          "rate": ".205",
+          "rate": ".211",
           "pickoff": {
-            "pickoff": 15,
+            "pickoff": 17,
             "cs": 5,
-            "sb": 2
+            "sb": 4
           }
         }
       },
@@ -44,13 +44,13 @@
           },
           "stats": {
             "cs": 11,
-            "sb": 43,
+            "sb": 41,
             "ds": 2,
-            "rate": ".212",
+            "rate": ".220",
             "pickoff": {
-              "pickoff": 9,
+              "pickoff": 11,
               "cs": 5,
-              "sb": 2
+              "sb": 4
             }
           }
         },
@@ -225,9 +225,9 @@
       "team": {
         "stats": {
           "cs": 25,
-          "sb": 66,
+          "sb": 69,
           "ds": 1,
-          "rate": ".278",
+          "rate": ".269",
           "pickoff": {
             "pickoff": 15,
             "cs": 5,
@@ -334,9 +334,9 @@
           },
           "stats": {
             "cs": 3,
-            "sb": 11,
+            "sb": 14,
             "ds": 0,
-            "rate": ".214",
+            "rate": ".176",
             "pickoff": {
               "pickoff": 3,
               "cs": 1,
@@ -912,10 +912,10 @@
       "teamName": "Buffaloes",
       "team": {
         "stats": {
-          "cs": 33,
-          "sb": 63,
+          "cs": 34,
+          "sb": 64,
           "ds": 0,
-          "rate": ".344",
+          "rate": ".347",
           "pickoff": {
             "pickoff": 12,
             "cs": 7,
@@ -949,10 +949,10 @@
             "lastName": "Wakatsuki"
           },
           "stats": {
-            "cs": 26,
-            "sb": 29,
+            "cs": 27,
+            "sb": 30,
             "ds": 0,
-            "rate": ".473",
+            "rate": ".474",
             "pickoff": {
               "pickoff": 6,
               "cs": 4,
@@ -1076,9 +1076,9 @@
       "team": {
         "stats": {
           "cs": 22,
-          "sb": 88,
+          "sb": 89,
           "ds": 1,
-          "rate": ".202",
+          "rate": ".200",
           "pickoff": {
             "pickoff": 11,
             "cs": 8,
@@ -1113,9 +1113,9 @@
           },
           "stats": {
             "cs": 13,
-            "sb": 61,
+            "sb": 62,
             "ds": 1,
-            "rate": ".178",
+            "rate": ".176",
             "pickoff": {
               "pickoff": 9,
               "cs": 6,
@@ -1293,10 +1293,10 @@
       "teamName": "Eagles",
       "team": {
         "stats": {
-          "cs": 21,
+          "cs": 22,
           "sb": 84,
           "ds": 0,
-          "rate": ".200",
+          "rate": ".208",
           "pickoff": {
             "pickoff": 10,
             "cs": 2,
@@ -1330,10 +1330,10 @@
             "lastName": "Ishihara"
           },
           "stats": {
-            "cs": 7,
+            "cs": 8,
             "sb": 46,
             "ds": 0,
-            "rate": ".132",
+            "rate": ".148",
             "pickoff": {
               "pickoff": 5,
               "cs": 0,
@@ -1456,10 +1456,10 @@
       "teamName": "Lions",
       "team": {
         "stats": {
-          "cs": 24,
+          "cs": 25,
           "sb": 71,
           "ds": 3,
-          "rate": ".261",
+          "rate": ".269",
           "pickoff": {
             "pickoff": 27,
             "cs": 11,
@@ -1493,10 +1493,10 @@
             "lastName": "Koga"
           },
           "stats": {
-            "cs": 19,
+            "cs": 20,
             "sb": 43,
             "ds": 2,
-            "rate": ".317",
+            "rate": ".328",
             "pickoff": {
               "pickoff": 17,
               "cs": 7,
@@ -1620,9 +1620,9 @@
       "team": {
         "stats": {
           "cs": 32,
-          "sb": 73,
+          "sb": 77,
           "ds": 1,
-          "rate": ".308",
+          "rate": ".296",
           "pickoff": {
             "pickoff": 10,
             "cs": 4,
@@ -1729,9 +1729,9 @@
           },
           "stats": {
             "cs": 2,
-            "sb": 7,
+            "sb": 11,
             "ds": 0,
-            "rate": ".222",
+            "rate": ".154",
             "pickoff": {
               "pickoff": 0,
               "cs": 0,
@@ -1817,10 +1817,10 @@
   "summary": [
     {
       "stats": {
-        "cs": 306,
-        "sb": 780,
+        "cs": 309,
+        "sb": 787,
         "ds": 8,
-        "ratio": "28.4% (306/1078)"
+        "ratio": "28.4% (309/1088)"
       },
       "ja": "NPB",
       "en": "NPB"
@@ -1828,19 +1828,19 @@
     {
       "stats": {
         "cs": 143,
-        "sb": 327,
+        "sb": 328,
         "ds": 3,
-        "ratio": "30.6% (143/467)"
+        "ratio": "30.6% (143/468)"
       },
       "ja": "セ・リーグ",
       "en": "Central League"
     },
     {
       "stats": {
-        "cs": 163,
-        "sb": 453,
+        "cs": 166,
+        "sb": 459,
         "ds": 5,
-        "ratio": "26.7% (163/611)"
+        "ratio": "26.8% (166/620)"
       },
       "ja": "パ・リーグ",
       "en": "Pacific League"

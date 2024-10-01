@@ -35,12 +35,12 @@
   {
     "jaText": "（走者・牧）本塁盗塁成功（ダブルスチール）",
     "text": "Maki steals home plate.",
-    "pickoff": ""
+    "pickoff": "Y"
   },
   {
     "jaText": "（走者・宮﨑）三塁盗塁成功（ダブルスチール）",
     "text": "Miyazaki steals 3rd base.",
-    "pickoff": ""
+    "pickoff": "Y"
   },
   {
     "jaText": "（走者・木浪）二塁盗塁成功",
