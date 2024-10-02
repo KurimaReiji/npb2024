@@ -1,5 +1,5 @@
 {
-  "updated": "2024-10-01",
+  "updated": "2024-10-02",
   "teamStats": [
     {
       "teamCode": "T",
@@ -400,9 +400,9 @@
       "team": {
         "stats": {
           "cs": 28,
-          "sb": 42,
+          "sb": 43,
           "ds": 0,
-          "rate": ".400",
+          "rate": ".394",
           "pickoff": {
             "pickoff": 11,
             "cs": 4,
@@ -512,9 +512,9 @@
           },
           "stats": {
             "cs": 4,
-            "sb": 6,
+            "sb": 7,
             "ds": 0,
-            "rate": ".400",
+            "rate": ".364",
             "pickoff": {
               "pickoff": 5,
               "cs": 2,
@@ -1670,13 +1670,13 @@
       "team": {
         "stats": {
           "cs": 32,
-          "sb": 77,
+          "sb": 76,
           "ds": 1,
-          "rate": ".296",
+          "rate": ".299",
           "pickoff": {
-            "pickoff": 10,
+            "pickoff": 11,
             "cs": 4,
-            "sb": 1,
+            "sb": 2,
             "ds": 0
           }
         }
@@ -1782,13 +1782,13 @@
           },
           "stats": {
             "cs": 2,
-            "sb": 11,
+            "sb": 10,
             "ds": 0,
-            "rate": ".154",
+            "rate": ".167",
             "pickoff": {
-              "pickoff": 0,
+              "pickoff": 1,
               "cs": 0,
-              "sb": 0,
+              "sb": 1,
               "ds": 0
             }
           }
@@ -1884,9 +1884,9 @@
     {
       "stats": {
         "cs": 143,
-        "sb": 328,
+        "sb": 329,
         "ds": 2,
-        "ratio": "30.5% (143/469)"
+        "ratio": "30.4% (143/470)"
       },
       "ja": "セ・リーグ",
       "en": "Central League"
@@ -1894,9 +1894,9 @@
     {
       "stats": {
         "cs": 166,
-        "sb": 459,
+        "sb": 458,
         "ds": 5,
-        "ratio": "26.8% (166/620)"
+        "ratio": "26.8% (166/619)"
       },
       "ja": "パ・リーグ",
       "en": "Pacific League"

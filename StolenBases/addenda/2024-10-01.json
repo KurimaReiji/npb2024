@@ -78,7 +78,7 @@
   {
     "jaText": "（走者・西川）二塁盗塁成功",
     "text": "Nishikawa steals 2nd base.",
-    "pickoff": "",
+    "pickoff": "Y",
     "catcher": {
       "playerId": "21925151",
       "jaRegisteredName": "郡司　裕也",
