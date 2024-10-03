@@ -1,0 +1,122 @@
+[
+  {
+    "id": "91895133-2024-14",
+    "date": "2024-10-03",
+    "batter": {
+      "jaBoxscoreName": "山田",
+      "playerId": "91895133",
+      "boxscoreName": "Yamada",
+      "batSide": "R",
+      "teamCode": "S",
+      "primaryNumber": "1",
+      "jaRegisteredName": "山田　哲人",
+      "fullLFMName": "Yamada, Tetsuto"
+    },
+    "pitcher": {
+      "jaBoxscoreName": "森浦",
+      "boxscoreName": "Moriura",
+      "pitchHand": "L",
+      "teamCode": "C",
+      "primaryNumber": "13",
+      "jaRegisteredName": "森浦　大輔",
+      "fullLFMName": "Moriura, Daisuke"
+    },
+    "number": 14,
+    "inning": 9,
+    "halfInning": "bottom",
+    "outs": 0,
+    "RoB": "---",
+    "count": {
+      "balls": 1,
+      "strikes": 2
+    },
+    "runs": {
+      "road": 5,
+      "home": 1
+    },
+    "bop": 5,
+    "rbi": 1,
+    "whereHit": "78",
+    "venue": {
+      "jaBoxscoreName": "神宮",
+      "boxscoreName": "Jingu",
+      "jaName": "神宮",
+      "name": "Jingu Stadium"
+    },
+    "teams": {
+      "road": {
+        "teamCode": "C",
+        "teamName": "Carp",
+        "score": 5
+      },
+      "home": {
+        "teamCode": "S",
+        "teamName": "Swallows",
+        "score": 2
+      }
+    },
+    "jaText": "左中間ソロホームラン（打点1）",
+    "text": "Yamada homers (14) to left center.",
+    "url": "https://npb.jp/scores/2024/1003/s-c-24/playbyplay.html#com9-2"
+  },
+  {
+    "id": "41545136-2024-14",
+    "date": "2024-10-03",
+    "batter": {
+      "jaBoxscoreName": "清宮",
+      "playerId": "41545136",
+      "boxscoreName": "Kiyomiya",
+      "batSide": "L",
+      "teamCode": "F",
+      "primaryNumber": "21",
+      "jaRegisteredName": "清宮　幸太郎",
+      "fullLFMName": "Kiyomiya, Kotaro"
+    },
+    "pitcher": {
+      "jaBoxscoreName": "菊地",
+      "boxscoreName": "Kikuchi",
+      "pitchHand": "R",
+      "teamCode": "M",
+      "primaryNumber": "28",
+      "jaRegisteredName": "菊地　吏玖",
+      "fullLFMName": "Kikuchi, Riku"
+    },
+    "number": 14,
+    "inning": 9,
+    "halfInning": "top",
+    "outs": 0,
+    "RoB": "1--",
+    "count": {
+      "balls": 1,
+      "strikes": 0
+    },
+    "runs": {
+      "road": 1,
+      "home": 0
+    },
+    "bop": 3,
+    "rbi": 2,
+    "whereHit": "9",
+    "venue": {
+      "jaBoxscoreName": "ZOZOマリン",
+      "boxscoreName": "ZOZO Marine",
+      "jaName": "ZOZOマリンスタジアム",
+      "name": "ZOZO Marine Stadium"
+    },
+    "teams": {
+      "road": {
+        "teamCode": "F",
+        "teamName": "Fighters",
+        "score": 3
+      },
+      "home": {
+        "teamCode": "M",
+        "teamName": "Marines",
+        "score": 0
+      }
+    },
+    "jaText": "ライト2ランホームラン（打点2）",
+    "text": "Kiyomiya homers (14) to right field.",
+    "url": "https://npb.jp/scores/2024/1003/m-f-25/playbyplay.html#com9-1"
+  }
+]
