@@ -1,0 +1,122 @@
+[
+  {
+    "id": "51755135-2024-05",
+    "date": "2024-10-04",
+    "batter": {
+      "jaBoxscoreName": "桑原",
+      "playerId": "51755135",
+      "boxscoreName": "Kuwahara",
+      "batSide": "R",
+      "teamCode": "DB",
+      "primaryNumber": "1",
+      "jaRegisteredName": "桑原　将志",
+      "fullLFMName": "Kuwahara, Masayuki"
+    },
+    "pitcher": {
+      "jaBoxscoreName": "藤嶋",
+      "boxscoreName": "Fujishima",
+      "pitchHand": "R",
+      "teamCode": "D",
+      "primaryNumber": "54",
+      "jaRegisteredName": "藤嶋　健人",
+      "fullLFMName": "Fujishima, Kento"
+    },
+    "number": 5,
+    "inning": 8,
+    "halfInning": "top",
+    "outs": 0,
+    "RoB": "---",
+    "count": {
+      "balls": 2,
+      "strikes": 1
+    },
+    "runs": {
+      "road": 2,
+      "home": 0
+    },
+    "bop": 2,
+    "rbi": 1,
+    "whereHit": "7",
+    "venue": {
+      "jaBoxscoreName": "バンテリンドーム",
+      "boxscoreName": "Vantelin Dome",
+      "jaName": "バンテリンドーム ナゴヤ",
+      "name": "Vantelin Dome Nagoya"
+    },
+    "teams": {
+      "road": {
+        "teamCode": "DB",
+        "teamName": "Baystars",
+        "score": 3
+      },
+      "home": {
+        "teamCode": "D",
+        "teamName": "Dragons",
+        "score": 1
+      }
+    },
+    "jaText": "レフトソロホームラン（打点1）",
+    "text": "Kuwahara homers (5) to left field.",
+    "url": "https://npb.jp/scores/2024/1004/d-db-23/playbyplay.html#com8-1"
+  },
+  {
+    "id": "01705130-2024-20",
+    "date": "2024-10-04",
+    "batter": {
+      "jaBoxscoreName": "栗原",
+      "playerId": "01705130",
+      "boxscoreName": "Kurihara",
+      "batSide": "L",
+      "teamCode": "H",
+      "primaryNumber": "24",
+      "jaRegisteredName": "栗原　陵矢",
+      "fullLFMName": "Kurihara, Ryoya"
+    },
+    "pitcher": {
+      "jaBoxscoreName": "唐川",
+      "boxscoreName": "Karakawa",
+      "pitchHand": "R",
+      "teamCode": "M",
+      "primaryNumber": "19",
+      "jaRegisteredName": "唐川　侑己",
+      "fullLFMName": "Karakawa, Yuki"
+    },
+    "number": 20,
+    "inning": 6,
+    "halfInning": "bottom",
+    "outs": 0,
+    "RoB": "---",
+    "count": {
+      "balls": 1,
+      "strikes": 1
+    },
+    "runs": {
+      "road": 0,
+      "home": 0
+    },
+    "bop": 3,
+    "rbi": 1,
+    "whereHit": "89",
+    "venue": {
+      "jaBoxscoreName": "みずほPayPay",
+      "boxscoreName": "MIZUHO PayPay",
+      "jaName": "みずほPayPayドーム福岡",
+      "name": "MIZUHO PayPay Dome FUKUOKA"
+    },
+    "teams": {
+      "road": {
+        "teamCode": "M",
+        "teamName": "Marines",
+        "score": 0
+      },
+      "home": {
+        "teamCode": "H",
+        "teamName": "Hawks",
+        "score": 1
+      }
+    },
+    "jaText": "右中間ソロホームラン（打点1）",
+    "text": "Kurihara homers (20) to right center.",
+    "url": "https://npb.jp/scores/2024/1004/h-m-25/playbyplay.html#com6-2"
+  }
+]

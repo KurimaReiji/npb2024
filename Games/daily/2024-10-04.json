@@ -1,0 +1,7751 @@
+[
+  {
+    "date": "2024-10-04",
+    "pathname": "/scores/2024/1004/d-db-23/",
+    "jaTitle": "【JERA セ・リーグ公式戦】 中日ドラゴンズ vs 横浜DeNAベイスターズ 23回戦",
+    "teams": {
+      "road": {
+        "teamCode": "DB",
+        "teamName": "Baystars"
+      },
+      "home": {
+        "teamCode": "D",
+        "teamName": "Dragons"
+      }
+    },
+    "status": "Final",
+    "venue": {
+      "jaBoxscoreName": "バンテリンドーム",
+      "boxscoreName": "Vantelin Dome",
+      "jaName": "バンテリンドーム ナゴヤ",
+      "name": "Vantelin Dome Nagoya"
+    },
+    "startTime": "18:00",
+    "endTime": "20:54",
+    "duration": "02:54",
+    "attendanece": 36241,
+    "umpires": {
+      "jaText": "球審：白井 、塁審(一)：岩下 、塁審(二)：須山 、塁審(三)：嶋田"
+    },
+    "battery": {
+      "pitchers": {
+        "road": [
+          {
+            "id": "51655134",
+            "jaBoxscoreName": "濵口"
+          },
+          {
+            "id": "43545151",
+            "jaBoxscoreName": "ディアス"
+          },
+          {
+            "id": "41845130",
+            "jaBoxscoreName": "山﨑"
+          },
+          {
+            "id": "11015151",
+            "jaBoxscoreName": "坂本"
+          },
+          {
+            "id": "71975134",
+            "jaBoxscoreName": "佐々木"
+          }
+        ],
+        "home": [
+          {
+            "id": "81185138",
+            "jaBoxscoreName": "梅津"
+          },
+          {
+            "id": "21025137",
+            "jaBoxscoreName": "福谷"
+          },
+          {
+            "id": "21625134",
+            "jaBoxscoreName": "藤嶋"
+          },
+          {
+            "id": "21425151",
+            "jaBoxscoreName": "橋本"
+          }
+        ]
+      },
+      "catchers": {
+        "road": [
+          {
+            "id": "41245132",
+            "jaBoxscoreName": "戸柱"
+          },
+          {
+            "id": "21825157",
+            "jaBoxscoreName": "松尾"
+          }
+        ],
+        "home": [
+          {
+            "id": "61365132",
+            "jaBoxscoreName": "宇佐見"
+          }
+        ]
+      }
+    },
+    "homeruns": {
+      "road": [
+        {
+          "id": "51755135-2024-05",
+          "inning": 8,
+          "halfInning": "top",
+          "rbi": 1,
+          "number": 5,
+          "batter": {
+            "id": "51755135",
+            "jaBoxscoreName": "桑原"
+          },
+          "pitcher": {
+            "id": "21625134",
+            "jaBoxscoreName": "藤嶋"
+          }
+        }
+      ],
+      "home": []
+    },
+    "boxscore": {
+      "teamStats": {
+        "road": {
+          "batting": {
+            "atBats": 31,
+            "runs": 3,
+            "hits": 7,
+            "rbi": 3,
+            "stolenBases": 1
+          },
+          "pitching": {
+            "pitchesThrown": 131,
+            "battersFaced": 36,
+            "inningsPitched": 9,
+            "hits": 9,
+            "homeRuns": 0,
+            "baseOnBalls": 3,
+            "hitByPitch": 0,
+            "strikeOuts": 9,
+            "wildPitches": 0,
+            "balks": 0,
+            "runs": 1,
+            "earnedRuns": 1
+          }
+        },
+        "home": {
+          "batting": {
+            "atBats": 32,
+            "runs": 1,
+            "hits": 9,
+            "rbi": 1,
+            "stolenBases": 0
+          },
+          "pitching": {
+            "pitchesThrown": 148,
+            "battersFaced": 38,
+            "inningsPitched": 9,
+            "hits": 7,
+            "homeRuns": 1,
+            "baseOnBalls": 4,
+            "hitByPitch": 1,
+            "strikeOuts": 5,
+            "wildPitches": 0,
+            "balks": 0,
+            "runs": 3,
+            "earnedRuns": 3
+          }
+        }
+      }
+    },
+    "playByPlay": [
+      {
+        "inning": {
+          "inning": 1,
+          "halfInning": "top",
+          "text": "1回表（DeNAの攻撃）"
+        },
+        "pitcher": {
+          "id": "81185138",
+          "jaBoxscoreName": "梅津"
+        },
+        "jaText": "（先発投手） 梅津",
+        "home": {
+          "runs": 0
+        },
+        "road": {
+          "runs": 0
+        },
+        "isPitcherEvent": "Y",
+        "pa": {
+          "top": 0,
+          "bottom": 0,
+          "inn": 0,
+          "runs": 0
+        },
+        "runs": {
+          "road": 0,
+          "home": 0
+        }
+      },
+      {
+        "inning": {
+          "inning": 1,
+          "halfInning": "top",
+          "text": "1回表（DeNAの攻撃）"
+        },
+        "outs": 0,
+        "runners": "---",
+        "batter": {
+          "id": "51555155",
+          "jaBoxscoreName": "梶原"
+        },
+        "count": {
+          "balls": 3,
+          "strikes": 2
+        },
+        "jaResult": {
+          "players": [],
+          "text": "空振り三振"
+        },
+        "pitcher": {
+          "id": "81185138",
+          "jaBoxscoreName": "梅津"
+        },
+        "pa": {
+          "top": 1,
+          "bottom": 0,
+          "inn": 1,
+          "runs": 0
+        },
+        "runs": {
+          "road": 0,
+          "home": 0
+        }
+      },
+      {
+        "inning": {
+          "inning": 1,
+          "halfInning": "top",
+          "text": "1回表（DeNAの攻撃）"
+        },
+        "outs": 1,
+        "runners": "---",
+        "batter": {
+          "id": "51755135",
+          "jaBoxscoreName": "桑原"
+        },
+        "count": {
+          "balls": 2,
+          "strikes": 2
+        },
+        "jaResult": {
+          "players": [],
+          "text": "ピッチャーゴロ"
+        },
+        "pitcher": {
+          "id": "81185138",
+          "jaBoxscoreName": "梅津"
+        },
+        "pa": {
+          "top": 2,
+          "bottom": 0,
+          "inn": 2,
+          "runs": 0
+        },
+        "runs": {
+          "road": 0,
+          "home": 0
+        }
+      },
+      {
+        "inning": {
+          "inning": 1,
+          "halfInning": "top",
+          "text": "1回表（DeNAの攻撃）"
+        },
+        "outs": 2,
+        "runners": "---",
+        "batter": {
+          "id": "51555151",
+          "jaBoxscoreName": "蝦名"
+        },
+        "count": {
+          "balls": 1,
+          "strikes": 1
+        },
+        "jaResult": {
+          "players": [],
+          "text": "ライトフライ"
+        },
+        "pitcher": {
+          "id": "81185138",
+          "jaBoxscoreName": "梅津"
+        },
+        "pa": {
+          "top": 3,
+          "bottom": 0,
+          "inn": 3,
+          "runs": 0
+        },
+        "runs": {
+          "road": 0,
+          "home": 0
+        }
+      },
+      {
+        "inning": {
+          "inning": 1,
+          "halfInning": "bottom",
+          "text": "1回裏（中日の攻撃）"
+        },
+        "pitcher": {
+          "id": "51655134",
+          "jaBoxscoreName": "濵口"
+        },
+        "jaText": "（先発投手） 濵口",
+        "home": {
+          "runs": 0
+        },
+        "road": {
+          "runs": 0
+        },
+        "isPitcherEvent": "Y",
+        "pa": {
+          "top": 3,
+          "bottom": 0,
+          "inn": 0,
+          "runs": 0
+        },
+        "runs": {
+          "road": 0,
+          "home": 0
+        }
+      },
+      {
+        "inning": {
+          "inning": 1,
+          "halfInning": "bottom",
+          "text": "1回裏（中日の攻撃）"
+        },
+        "outs": 0,
+        "runners": "---",
+        "batter": {
+          "id": "81585151",
+          "jaBoxscoreName": "岡林"
+        },
+        "count": {
+          "balls": 1,
+          "strikes": 0
+        },
+        "jaResult": {
+          "players": [],
+          "text": "レフトフライ"
+        },
+        "pitcher": {
+          "id": "51655134",
+          "jaBoxscoreName": "濵口"
+        },
+        "pa": {
+          "top": 3,
+          "bottom": 1,
+          "inn": 1,
+          "runs": 0
+        },
+        "runs": {
+          "road": 0,
+          "home": 0
+        }
+      },
+      {
+        "inning": {
+          "inning": 1,
+          "halfInning": "bottom",
+          "text": "1回裏（中日の攻撃）"
+        },
+        "outs": 1,
+        "runners": "---",
+        "batter": {
+          "id": "03105157",
+          "jaBoxscoreName": "村松"
+        },
+        "count": {
+          "balls": 0,
+          "strikes": 1
+        },
+        "jaResult": {
+          "players": [],
+          "text": "レフト線ツーベース"
+        },
+        "pitcher": {
+          "id": "51655134",
+          "jaBoxscoreName": "濵口"
+        },
+        "pa": {
+          "top": 3,
+          "bottom": 2,
+          "inn": 2,
+          "runs": 0
+        },
+        "runs": {
+          "road": 0,
+          "home": 0
+        },
+        "hits": 1
+      },
+      {
+        "inning": {
+          "inning": 1,
+          "halfInning": "bottom",
+          "text": "1回裏（中日の攻撃）"
+        },
+        "outs": 1,
+        "runners": "-2-",
+        "batter": {
+          "id": "81685157",
+          "jaBoxscoreName": "福永"
+        },
+        "count": {
+          "balls": 3,
+          "strikes": 2
+        },
+        "jaResult": {
+          "players": [],
+          "text": "フォアボール"
+        },
+        "pitcher": {
+          "id": "51655134",
+          "jaBoxscoreName": "濵口"
+        },
+        "pa": {
+          "top": 3,
+          "bottom": 3,
+          "inn": 3,
+          "runs": 0
+        },
+        "runs": {
+          "road": 0,
+          "home": 0
+        }
+      },
+      {
+        "inning": {
+          "inning": 1,
+          "halfInning": "bottom",
+          "text": "1回裏（中日の攻撃）"
+        },
+        "outs": 1,
+        "runners": "12-",
+        "batter": {
+          "id": "91195151",
+          "jaBoxscoreName": "石川昂"
+        },
+        "count": {
+          "balls": 1,
+          "strikes": 2
+        },
+        "jaResult": {
+          "players": [],
+          "text": "セカンドゴロ併殺打"
+        },
+        "pitcher": {
+          "id": "51655134",
+          "jaBoxscoreName": "濵口"
+        },
+        "pa": {
+          "top": 3,
+          "bottom": 4,
+          "inn": 4,
+          "runs": 0
+        },
+        "runs": {
+          "road": 0,
+          "home": 0
+        }
+      },
+      {
+        "inning": {
+          "inning": 2,
+          "halfInning": "top",
+          "text": "2回表（DeNAの攻撃）"
+        },
+        "outs": 0,
+        "runners": "---",
+        "batter": {
+          "id": "73375151",
+          "jaBoxscoreName": "オースティン"
+        },
+        "count": {
+          "balls": 2,
+          "strikes": 2
+        },
+        "jaResult": {
+          "players": [],
+          "text": "センター前ヒット"
+        },
+        "pitcher": {
+          "id": "81185138",
+          "jaBoxscoreName": "梅津"
+        },
+        "pa": {
+          "top": 4,
+          "bottom": 4,
+          "inn": 1,
+          "runs": 0
+        },
+        "runs": {
+          "road": 0,
+          "home": 0
+        },
+        "hits": 1
+      },
+      {
+        "inning": {
+          "inning": 2,
+          "halfInning": "top",
+          "text": "2回表（DeNAの攻撃）"
+        },
+        "outs": 0,
+        "runners": "1--",
+        "batter": {
+          "id": "41245132",
+          "jaBoxscoreName": "戸柱"
+        },
+        "count": {
+          "balls": 3,
+          "strikes": 1
+        },
+        "jaResult": {
+          "players": [],
+          "text": "フォアボール"
+        },
+        "pitcher": {
+          "id": "81185138",
+          "jaBoxscoreName": "梅津"
+        },
+        "pa": {
+          "top": 5,
+          "bottom": 4,
+          "inn": 2,
+          "runs": 0
+        },
+        "runs": {
+          "road": 0,
+          "home": 0
+        }
+      },
+      {
+        "inning": {
+          "inning": 2,
+          "halfInning": "top",
+          "text": "2回表（DeNAの攻撃）"
+        },
+        "outs": 0,
+        "runners": "12-",
+        "batter": {
+          "id": "41945132",
+          "jaBoxscoreName": "柴田"
+        },
+        "count": {
+          "balls": 1,
+          "strikes": 1
+        },
+        "jaResult": {
+          "players": [],
+          "text": "ファースト犠牲バント"
+        },
+        "pitcher": {
+          "id": "81185138",
+          "jaBoxscoreName": "梅津"
+        },
+        "pa": {
+          "top": 6,
+          "bottom": 4,
+          "inn": 3,
+          "runs": 0
+        },
+        "runs": {
+          "road": 0,
+          "home": 0
+        }
+      },
+      {
+        "inning": {
+          "inning": 2,
+          "halfInning": "top",
+          "text": "2回表（DeNAの攻撃）"
+        },
+        "outs": 1,
+        "runners": "-23",
+        "batter": {
+          "id": "33135151",
+          "jaBoxscoreName": "森敬"
+        },
+        "count": {
+          "balls": 0,
+          "strikes": 1
+        },
+        "jaResult": {
+          "players": [],
+          "text": "レフト犠牲フライ（打点1）"
+        },
+        "pitcher": {
+          "id": "81185138",
+          "jaBoxscoreName": "梅津"
+        },
+        "pa": {
+          "top": 7,
+          "bottom": 4,
+          "inn": 4,
+          "runs": 0
+        },
+        "runs": {
+          "road": 0,
+          "home": 0
+        },
+        "rbi": 1
+      },
+      {
+        "inning": {
+          "inning": 2,
+          "halfInning": "top",
+          "text": "2回表（DeNAの攻撃）"
+        },
+        "outs": 2,
+        "runners": "-2-",
+        "batter": {
+          "id": "91695157",
+          "jaBoxscoreName": "林"
+        },
+        "count": {
+          "balls": 2,
+          "strikes": 1
+        },
+        "jaResult": {
+          "players": [],
+          "text": "センターフライ"
+        },
+        "pitcher": {
+          "id": "81185138",
+          "jaBoxscoreName": "梅津"
+        },
+        "pa": {
+          "top": 8,
+          "bottom": 4,
+          "inn": 5,
+          "runs": 1
+        },
+        "runs": {
+          "road": 1,
+          "home": 0
+        }
+      },
+      {
+        "inning": {
+          "inning": 2,
+          "halfInning": "bottom",
+          "text": "2回裏（中日の攻撃）"
+        },
+        "outs": 0,
+        "runners": "---",
+        "batter": {
+          "id": "31835134",
+          "jaBoxscoreName": "細川"
+        },
+        "count": {
+          "balls": 1,
+          "strikes": 2
+        },
+        "jaResult": {
+          "players": [],
+          "text": "空振り三振"
+        },
+        "pitcher": {
+          "id": "51655134",
+          "jaBoxscoreName": "濵口"
+        },
+        "pa": {
+          "top": 8,
+          "bottom": 5,
+          "inn": 1,
+          "runs": 0
+        },
+        "runs": {
+          "road": 1,
+          "home": 0
+        }
+      },
+      {
+        "inning": {
+          "inning": 2,
+          "halfInning": "bottom",
+          "text": "2回裏（中日の攻撃）"
+        },
+        "outs": 1,
+        "runners": "---",
+        "batter": {
+          "id": "93795157",
+          "jaBoxscoreName": "カリステ"
+        },
+        "count": {
+          "balls": 1,
+          "strikes": 2
+        },
+        "jaResult": {
+          "players": [],
+          "text": "見逃し三振"
+        },
+        "pitcher": {
+          "id": "51655134",
+          "jaBoxscoreName": "濵口"
+        },
+        "pa": {
+          "top": 8,
+          "bottom": 6,
+          "inn": 2,
+          "runs": 0
+        },
+        "runs": {
+          "road": 1,
+          "home": 0
+        }
+      },
+      {
+        "inning": {
+          "inning": 2,
+          "halfInning": "bottom",
+          "text": "2回裏（中日の攻撃）"
+        },
+        "outs": 2,
+        "runners": "---",
+        "batter": {
+          "id": "61365132",
+          "jaBoxscoreName": "宇佐見"
+        },
+        "count": {
+          "balls": 2,
+          "strikes": 2
+        },
+        "jaResult": {
+          "players": [],
+          "text": "空振り三振"
+        },
+        "pitcher": {
+          "id": "51655134",
+          "jaBoxscoreName": "濵口"
+        },
+        "pa": {
+          "top": 8,
+          "bottom": 7,
+          "inn": 3,
+          "runs": 0
+        },
+        "runs": {
+          "road": 1,
+          "home": 0
+        }
+      },
+      {
+        "inning": {
+          "inning": 3,
+          "halfInning": "top",
+          "text": "3回表（DeNAの攻撃）"
+        },
+        "outs": 0,
+        "runners": "---",
+        "batter": {
+          "id": "51655134",
+          "jaBoxscoreName": "濵口"
+        },
+        "count": {
+          "balls": 0,
+          "strikes": 1
+        },
+        "jaResult": {
+          "players": [],
+          "text": "ライトフライ"
+        },
+        "pitcher": {
+          "id": "81185138",
+          "jaBoxscoreName": "梅津"
+        },
+        "pa": {
+          "top": 9,
+          "bottom": 7,
+          "inn": 1,
+          "runs": 0
+        },
+        "runs": {
+          "road": 1,
+          "home": 0
+        }
+      },
+      {
+        "inning": {
+          "inning": 3,
+          "halfInning": "top",
+          "text": "3回表（DeNAの攻撃）"
+        },
+        "outs": 1,
+        "runners": "---",
+        "batter": {
+          "id": "51555155",
+          "jaBoxscoreName": "梶原"
+        },
+        "count": {
+          "balls": 1,
+          "strikes": 2
+        },
+        "jaResult": {
+          "players": [],
+          "text": "空振り三振"
+        },
+        "pitcher": {
+          "id": "81185138",
+          "jaBoxscoreName": "梅津"
+        },
+        "pa": {
+          "top": 10,
+          "bottom": 7,
+          "inn": 2,
+          "runs": 0
+        },
+        "runs": {
+          "road": 1,
+          "home": 0
+        }
+      },
+      {
+        "inning": {
+          "inning": 3,
+          "halfInning": "top",
+          "text": "3回表（DeNAの攻撃）"
+        },
+        "outs": 2,
+        "runners": "---",
+        "batter": {
+          "id": "51755135",
+          "jaBoxscoreName": "桑原"
+        },
+        "count": {
+          "balls": 3,
+          "strikes": 2
+        },
+        "jaResult": {
+          "players": [],
+          "text": "セカンドゴロ"
+        },
+        "pitcher": {
+          "id": "81185138",
+          "jaBoxscoreName": "梅津"
+        },
+        "pa": {
+          "top": 11,
+          "bottom": 7,
+          "inn": 3,
+          "runs": 0
+        },
+        "runs": {
+          "road": 1,
+          "home": 0
+        }
+      },
+      {
+        "inning": {
+          "inning": 3,
+          "halfInning": "bottom",
+          "text": "3回裏（中日の攻撃）"
+        },
+        "outs": 0,
+        "runners": "---",
+        "batter": {
+          "id": "21025157",
+          "jaBoxscoreName": "田中"
+        },
+        "count": {
+          "balls": 3,
+          "strikes": 1
+        },
+        "jaResult": {
+          "players": [],
+          "text": "フォアボール"
+        },
+        "pitcher": {
+          "id": "51655134",
+          "jaBoxscoreName": "濵口"
+        },
+        "pa": {
+          "top": 11,
+          "bottom": 8,
+          "inn": 1,
+          "runs": 0
+        },
+        "runs": {
+          "road": 1,
+          "home": 0
+        }
+      },
+      {
+        "inning": {
+          "inning": 3,
+          "halfInning": "bottom",
+          "text": "3回裏（中日の攻撃）"
+        },
+        "outs": 0,
+        "runners": "1--",
+        "batter": {
+          "id": "81185138",
+          "jaBoxscoreName": "梅津"
+        },
+        "count": {
+          "balls": 0,
+          "strikes": 0
+        },
+        "jaResult": {
+          "players": [],
+          "text": "ピッチャー犠牲バント"
+        },
+        "pitcher": {
+          "id": "51655134",
+          "jaBoxscoreName": "濵口"
+        },
+        "pa": {
+          "top": 11,
+          "bottom": 9,
+          "inn": 2,
+          "runs": 0
+        },
+        "runs": {
+          "road": 1,
+          "home": 0
+        }
+      },
+      {
+        "inning": {
+          "inning": 3,
+          "halfInning": "bottom",
+          "text": "3回裏（中日の攻撃）"
+        },
+        "outs": 1,
+        "runners": "-2-",
+        "batter": {
+          "id": "81585151",
+          "jaBoxscoreName": "岡林"
+        },
+        "count": {
+          "balls": 0,
+          "strikes": 1
+        },
+        "jaResult": {
+          "players": [],
+          "text": "ファーストヒット"
+        },
+        "pitcher": {
+          "id": "51655134",
+          "jaBoxscoreName": "濵口"
+        },
+        "pa": {
+          "top": 11,
+          "bottom": 10,
+          "inn": 3,
+          "runs": 0
+        },
+        "runs": {
+          "road": 1,
+          "home": 0
+        },
+        "hits": 1
+      },
+      {
+        "inning": {
+          "inning": 3,
+          "halfInning": "bottom",
+          "text": "3回裏（中日の攻撃）"
+        },
+        "outs": 1,
+        "runners": "1-3",
+        "batter": {
+          "id": "03105157",
+          "jaBoxscoreName": "村松"
+        },
+        "count": {
+          "balls": 0,
+          "strikes": 0
+        },
+        "jaResult": {
+          "players": [],
+          "text": "セカンドゴロ併殺打"
+        },
+        "pitcher": {
+          "id": "51655134",
+          "jaBoxscoreName": "濵口"
+        },
+        "pa": {
+          "top": 11,
+          "bottom": 11,
+          "inn": 4,
+          "runs": 0
+        },
+        "runs": {
+          "road": 1,
+          "home": 0
+        }
+      },
+      {
+        "inning": {
+          "inning": 4,
+          "halfInning": "top",
+          "text": "4回表（DeNAの攻撃）"
+        },
+        "outs": 0,
+        "runners": "---",
+        "batter": {
+          "id": "51555151",
+          "jaBoxscoreName": "蝦名"
+        },
+        "count": {
+          "balls": 1,
+          "strikes": 2
+        },
+        "jaResult": {
+          "players": [],
+          "text": "見逃し三振"
+        },
+        "pitcher": {
+          "id": "81185138",
+          "jaBoxscoreName": "梅津"
+        },
+        "pa": {
+          "top": 12,
+          "bottom": 11,
+          "inn": 1,
+          "runs": 0
+        },
+        "runs": {
+          "road": 1,
+          "home": 0
+        }
+      },
+      {
+        "inning": {
+          "inning": 4,
+          "halfInning": "top",
+          "text": "4回表（DeNAの攻撃）"
+        },
+        "outs": 1,
+        "runners": "---",
+        "batter": {
+          "id": "73375151",
+          "jaBoxscoreName": "オースティン"
+        },
+        "count": {
+          "balls": 0,
+          "strikes": 0
+        },
+        "jaResult": {
+          "players": [],
+          "text": "ライト前ヒット"
+        },
+        "pitcher": {
+          "id": "81185138",
+          "jaBoxscoreName": "梅津"
+        },
+        "pa": {
+          "top": 13,
+          "bottom": 11,
+          "inn": 2,
+          "runs": 0
+        },
+        "runs": {
+          "road": 1,
+          "home": 0
+        },
+        "hits": 1
+      },
+      {
+        "inning": {
+          "inning": 4,
+          "halfInning": "top",
+          "text": "4回表（DeNAの攻撃）"
+        },
+        "outs": 1,
+        "runners": "1--",
+        "batter": {
+          "id": "41245132",
+          "jaBoxscoreName": "戸柱"
+        },
+        "count": {
+          "balls": 1,
+          "strikes": 1
+        },
+        "jaResult": {
+          "players": [],
+          "text": "ショートフライ"
+        },
+        "pitcher": {
+          "id": "81185138",
+          "jaBoxscoreName": "梅津"
+        },
+        "pa": {
+          "top": 14,
+          "bottom": 11,
+          "inn": 3,
+          "runs": 0
+        },
+        "runs": {
+          "road": 1,
+          "home": 0
+        }
+      },
+      {
+        "inning": {
+          "inning": 4,
+          "halfInning": "top",
+          "text": "4回表（DeNAの攻撃）"
+        },
+        "outs": 2,
+        "runners": "1--",
+        "batter": {
+          "id": "41945132",
+          "jaBoxscoreName": "柴田"
+        },
+        "count": {
+          "balls": 0,
+          "strikes": 1
+        },
+        "jaResult": {
+          "players": [],
+          "text": "レフトフライ"
+        },
+        "pitcher": {
+          "id": "81185138",
+          "jaBoxscoreName": "梅津"
+        },
+        "pa": {
+          "top": 15,
+          "bottom": 11,
+          "inn": 4,
+          "runs": 0
+        },
+        "runs": {
+          "road": 1,
+          "home": 0
+        }
+      },
+      {
+        "inning": {
+          "inning": 4,
+          "halfInning": "bottom",
+          "text": "4回裏（中日の攻撃）"
+        },
+        "pitcher": {
+          "id": "43545151",
+          "jaBoxscoreName": "ディアス"
+        },
+        "jaText": "（投手交代） 濵口 → ディアス",
+        "home": {
+          "runs": 0
+        },
+        "road": {
+          "runs": 0
+        },
+        "isPitcherEvent": "Y",
+        "pa": {
+          "top": 15,
+          "bottom": 11,
+          "inn": 0,
+          "runs": 0
+        },
+        "runs": {
+          "road": 1,
+          "home": 0
+        }
+      },
+      {
+        "inning": {
+          "inning": 4,
+          "halfInning": "bottom",
+          "text": "4回裏（中日の攻撃）"
+        },
+        "outs": 0,
+        "runners": "---",
+        "batter": {
+          "id": "81685157",
+          "jaBoxscoreName": "福永"
+        },
+        "count": {
+          "balls": 2,
+          "strikes": 2
+        },
+        "jaResult": {
+          "players": [],
+          "text": "ファーストヒット"
+        },
+        "pitcher": {
+          "id": "43545151",
+          "jaBoxscoreName": "ディアス"
+        },
+        "pa": {
+          "top": 15,
+          "bottom": 12,
+          "inn": 1,
+          "runs": 0
+        },
+        "runs": {
+          "road": 1,
+          "home": 0
+        },
+        "hits": 1
+      },
+      {
+        "inning": {
+          "inning": 4,
+          "halfInning": "bottom",
+          "text": "4回裏（中日の攻撃）"
+        },
+        "outs": 0,
+        "runners": "1--",
+        "batter": {
+          "id": "91195151",
+          "jaBoxscoreName": "石川昂"
+        },
+        "count": {
+          "balls": 1,
+          "strikes": 0
+        },
+        "jaResult": {
+          "players": [],
+          "text": "ライトフライ"
+        },
+        "pitcher": {
+          "id": "43545151",
+          "jaBoxscoreName": "ディアス"
+        },
+        "pa": {
+          "top": 15,
+          "bottom": 13,
+          "inn": 2,
+          "runs": 0
+        },
+        "runs": {
+          "road": 1,
+          "home": 0
+        }
+      },
+      {
+        "inning": {
+          "inning": 4,
+          "halfInning": "bottom",
+          "text": "4回裏（中日の攻撃）"
+        },
+        "outs": 1,
+        "runners": "1--",
+        "batter": {
+          "id": "31835134",
+          "jaBoxscoreName": "細川"
+        },
+        "count": {
+          "balls": 0,
+          "strikes": 0
+        },
+        "jaResult": {
+          "players": [],
+          "text": "ライトフライ"
+        },
+        "pitcher": {
+          "id": "43545151",
+          "jaBoxscoreName": "ディアス"
+        },
+        "pa": {
+          "top": 15,
+          "bottom": 14,
+          "inn": 3,
+          "runs": 0
+        },
+        "runs": {
+          "road": 1,
+          "home": 0
+        }
+      },
+      {
+        "inning": {
+          "inning": 4,
+          "halfInning": "bottom",
+          "text": "4回裏（中日の攻撃）"
+        },
+        "outs": 2,
+        "runners": "1--",
+        "batter": {
+          "id": "93795157",
+          "jaBoxscoreName": "カリステ"
+        },
+        "count": {
+          "balls": 0,
+          "strikes": 0
+        },
+        "jaResult": {
+          "players": [],
+          "text": "ライトフライ"
+        },
+        "pitcher": {
+          "id": "43545151",
+          "jaBoxscoreName": "ディアス"
+        },
+        "pa": {
+          "top": 15,
+          "bottom": 15,
+          "inn": 4,
+          "runs": 0
+        },
+        "runs": {
+          "road": 1,
+          "home": 0
+        }
+      },
+      {
+        "inning": {
+          "inning": 5,
+          "halfInning": "top",
+          "text": "5回表（DeNAの攻撃）"
+        },
+        "outs": 0,
+        "runners": "---",
+        "batter": {
+          "id": "33135151",
+          "jaBoxscoreName": "森敬"
+        },
+        "count": {
+          "balls": 3,
+          "strikes": 2
+        },
+        "jaResult": {
+          "players": [],
+          "text": "ショートヒット"
+        },
+        "pitcher": {
+          "id": "81185138",
+          "jaBoxscoreName": "梅津"
+        },
+        "pa": {
+          "top": 16,
+          "bottom": 15,
+          "inn": 1,
+          "runs": 0
+        },
+        "runs": {
+          "road": 1,
+          "home": 0
+        },
+        "hits": 1
+      },
+      {
+        "inning": {
+          "inning": 5,
+          "halfInning": "top",
+          "text": "5回表（DeNAの攻撃）"
+        },
+        "outs": 0,
+        "runners": "1--",
+        "batter": {
+          "id": "91695157",
+          "jaBoxscoreName": "林"
+        },
+        "count": {
+          "balls": 1,
+          "strikes": 2
+        },
+        "jaResult": {
+          "players": [],
+          "text": "レフト前ヒット"
+        },
+        "pitcher": {
+          "id": "81185138",
+          "jaBoxscoreName": "梅津"
+        },
+        "pa": {
+          "top": 17,
+          "bottom": 15,
+          "inn": 2,
+          "runs": 0
+        },
+        "runs": {
+          "road": 1,
+          "home": 0
+        },
+        "hits": 1
+      },
+      {
+        "inning": {
+          "inning": 5,
+          "halfInning": "top",
+          "text": "5回表（DeNAの攻撃）"
+        },
+        "outs": 0,
+        "runners": "1-3",
+        "batter": {
+          "id": "13115153",
+          "jaBoxscoreName": "牧"
+        },
+        "count": {
+          "balls": 0,
+          "strikes": 0
+        },
+        "jaResult": {
+          "players": [],
+          "text": "セカンドフライ"
+        },
+        "isPinchHit": "Y",
+        "pitcher": {
+          "id": "81185138",
+          "jaBoxscoreName": "梅津"
+        },
+        "pa": {
+          "top": 18,
+          "bottom": 15,
+          "inn": 3,
+          "runs": 0
+        },
+        "runs": {
+          "road": 1,
+          "home": 0
+        }
+      },
+      {
+        "inning": {
+          "inning": 5,
+          "halfInning": "top",
+          "text": "5回表（DeNAの攻撃）"
+        },
+        "outs": 2,
+        "runners": "--3",
+        "batter": {
+          "id": "51555155",
+          "jaBoxscoreName": "梶原"
+        },
+        "count": {
+          "balls": 2,
+          "strikes": 2
+        },
+        "jaResult": {
+          "players": [],
+          "text": "レフト前タイムリーヒット（打点1）"
+        },
+        "pitcher": {
+          "id": "81185138",
+          "jaBoxscoreName": "梅津"
+        },
+        "pa": {
+          "top": 19,
+          "bottom": 15,
+          "inn": 4,
+          "runs": 0
+        },
+        "runs": {
+          "road": 1,
+          "home": 0
+        },
+        "rbi": 1,
+        "hits": 1
+      },
+      {
+        "inning": {
+          "inning": 5,
+          "halfInning": "top",
+          "text": "5回表（DeNAの攻撃）"
+        },
+        "outs": 2,
+        "runners": "1--",
+        "count": {},
+        "jaResult": {
+          "players": [
+            {
+              "id": "51555155",
+              "jaBoxscoreName": "梶原"
+            }
+          ],
+          "text": "（走者・梶原）二塁盗塁成功"
+        },
+        "isRunnerEvent": "Y",
+        "pitcher": {
+          "id": "81185138",
+          "jaBoxscoreName": "梅津"
+        },
+        "pa": {
+          "top": 19,
+          "bottom": 15,
+          "inn": 4,
+          "runs": 0
+        },
+        "runs": {
+          "road": 1,
+          "home": 0
+        }
+      },
+      {
+        "inning": {
+          "inning": 5,
+          "halfInning": "top",
+          "text": "5回表（DeNAの攻撃）"
+        },
+        "outs": 2,
+        "runners": "-2-",
+        "batter": {
+          "id": "51755135",
+          "jaBoxscoreName": "桑原"
+        },
+        "count": {
+          "balls": 2,
+          "strikes": 2
+        },
+        "jaResult": {
+          "players": [],
+          "text": "キャッチャーゴロ"
+        },
+        "pitcher": {
+          "id": "81185138",
+          "jaBoxscoreName": "梅津"
+        },
+        "pa": {
+          "top": 20,
+          "bottom": 15,
+          "inn": 5,
+          "runs": 1
+        },
+        "runs": {
+          "road": 2,
+          "home": 0
+        }
+      },
+      {
+        "inning": {
+          "inning": 5,
+          "halfInning": "bottom",
+          "text": "5回裏（中日の攻撃）"
+        },
+        "pitcher": {
+          "id": "41845130",
+          "jaBoxscoreName": "山﨑"
+        },
+        "jaText": "（投手交代） ディアス → 山﨑",
+        "home": {
+          "runs": 0
+        },
+        "road": {
+          "runs": 0
+        },
+        "isPitcherEvent": "Y",
+        "pa": {
+          "top": 20,
+          "bottom": 15,
+          "inn": 0,
+          "runs": 0
+        },
+        "runs": {
+          "road": 2,
+          "home": 0
+        }
+      },
+      {
+        "inning": {
+          "inning": 5,
+          "halfInning": "bottom",
+          "text": "5回裏（中日の攻撃）"
+        },
+        "outs": 0,
+        "runners": "---",
+        "batter": {
+          "id": "61365132",
+          "jaBoxscoreName": "宇佐見"
+        },
+        "count": {
+          "balls": 2,
+          "strikes": 2
+        },
+        "jaResult": {
+          "players": [],
+          "text": "見逃し三振"
+        },
+        "pitcher": {
+          "id": "41845130",
+          "jaBoxscoreName": "山﨑"
+        },
+        "pa": {
+          "top": 20,
+          "bottom": 16,
+          "inn": 1,
+          "runs": 0
+        },
+        "runs": {
+          "road": 2,
+          "home": 0
+        }
+      },
+      {
+        "inning": {
+          "inning": 5,
+          "halfInning": "bottom",
+          "text": "5回裏（中日の攻撃）"
+        },
+        "outs": 1,
+        "runners": "---",
+        "batter": {
+          "id": "21025157",
+          "jaBoxscoreName": "田中"
+        },
+        "count": {
+          "balls": 0,
+          "strikes": 1
+        },
+        "jaResult": {
+          "players": [],
+          "text": "センター前ヒット"
+        },
+        "pitcher": {
+          "id": "41845130",
+          "jaBoxscoreName": "山﨑"
+        },
+        "pa": {
+          "top": 20,
+          "bottom": 17,
+          "inn": 2,
+          "runs": 0
+        },
+        "runs": {
+          "road": 2,
+          "home": 0
+        },
+        "hits": 1
+      },
+      {
+        "inning": {
+          "inning": 5,
+          "halfInning": "bottom",
+          "text": "5回裏（中日の攻撃）"
+        },
+        "outs": 1,
+        "runners": "1--",
+        "batter": {
+          "id": "81785133",
+          "jaBoxscoreName": "後藤"
+        },
+        "count": {
+          "balls": 0,
+          "strikes": 1
+        },
+        "jaResult": {
+          "players": [],
+          "text": "セカンドゴロ（エラー）"
+        },
+        "isPinchHit": "Y",
+        "pitcher": {
+          "id": "41845130",
+          "jaBoxscoreName": "山﨑"
+        },
+        "pa": {
+          "top": 20,
+          "bottom": 18,
+          "inn": 3,
+          "runs": 0
+        },
+        "runs": {
+          "road": 2,
+          "home": 0
+        },
+        "errors": 1
+      },
+      {
+        "inning": {
+          "inning": 5,
+          "halfInning": "bottom",
+          "text": "5回裏（中日の攻撃）"
+        },
+        "outs": 1,
+        "runners": "12-",
+        "batter": {
+          "id": "81585151",
+          "jaBoxscoreName": "岡林"
+        },
+        "count": {
+          "balls": 3,
+          "strikes": 2
+        },
+        "jaResult": {
+          "players": [],
+          "text": "見逃し三振"
+        },
+        "pitcher": {
+          "id": "41845130",
+          "jaBoxscoreName": "山﨑"
+        },
+        "pa": {
+          "top": 20,
+          "bottom": 19,
+          "inn": 4,
+          "runs": 0
+        },
+        "runs": {
+          "road": 2,
+          "home": 0
+        }
+      },
+      {
+        "inning": {
+          "inning": 5,
+          "halfInning": "bottom",
+          "text": "5回裏（中日の攻撃）"
+        },
+        "outs": 2,
+        "runners": "12-",
+        "batter": {
+          "id": "03105157",
+          "jaBoxscoreName": "村松"
+        },
+        "count": {
+          "balls": 2,
+          "strikes": 2
+        },
+        "jaResult": {
+          "players": [],
+          "text": "ライトフライ"
+        },
+        "pitcher": {
+          "id": "41845130",
+          "jaBoxscoreName": "山﨑"
+        },
+        "pa": {
+          "top": 20,
+          "bottom": 20,
+          "inn": 5,
+          "runs": 0
+        },
+        "runs": {
+          "road": 2,
+          "home": 0
+        }
+      },
+      {
+        "inning": {
+          "inning": 6,
+          "halfInning": "top",
+          "text": "6回表（DeNAの攻撃）"
+        },
+        "pitcher": {
+          "id": "21025137",
+          "jaBoxscoreName": "福谷"
+        },
+        "jaText": "（投手交代） 梅津 → 福谷",
+        "home": {
+          "runs": 0
+        },
+        "road": {
+          "runs": 0
+        },
+        "isPitcherEvent": "Y",
+        "pa": {
+          "top": 20,
+          "bottom": 20,
+          "inn": 0,
+          "runs": 0
+        },
+        "runs": {
+          "road": 2,
+          "home": 0
+        }
+      },
+      {
+        "inning": {
+          "inning": 6,
+          "halfInning": "top",
+          "text": "6回表（DeNAの攻撃）"
+        },
+        "outs": 0,
+        "runners": "---",
+        "batter": {
+          "id": "51555151",
+          "jaBoxscoreName": "蝦名"
+        },
+        "count": {
+          "balls": 1,
+          "strikes": 1
+        },
+        "jaResult": {
+          "players": [],
+          "text": "ファーストファウルフライ"
+        },
+        "pitcher": {
+          "id": "21025137",
+          "jaBoxscoreName": "福谷"
+        },
+        "pa": {
+          "top": 21,
+          "bottom": 20,
+          "inn": 1,
+          "runs": 0
+        },
+        "runs": {
+          "road": 2,
+          "home": 0
+        }
+      },
+      {
+        "inning": {
+          "inning": 6,
+          "halfInning": "top",
+          "text": "6回表（DeNAの攻撃）"
+        },
+        "outs": 1,
+        "runners": "---",
+        "batter": {
+          "id": "73375151",
+          "jaBoxscoreName": "オースティン"
+        },
+        "count": {
+          "balls": 0,
+          "strikes": 0
+        },
+        "jaResult": {
+          "players": [],
+          "text": "センター前ヒット"
+        },
+        "pitcher": {
+          "id": "21025137",
+          "jaBoxscoreName": "福谷"
+        },
+        "pa": {
+          "top": 22,
+          "bottom": 20,
+          "inn": 2,
+          "runs": 0
+        },
+        "runs": {
+          "road": 2,
+          "home": 0
+        },
+        "hits": 1
+      },
+      {
+        "inning": {
+          "inning": 6,
+          "halfInning": "top",
+          "text": "6回表（DeNAの攻撃）"
+        },
+        "outs": 1,
+        "runners": "1--",
+        "batter": {
+          "id": "21825157",
+          "jaBoxscoreName": "松尾"
+        },
+        "count": {
+          "balls": 1,
+          "strikes": 2
+        },
+        "jaResult": {
+          "players": [],
+          "text": "サードゴロ"
+        },
+        "pitcher": {
+          "id": "21025137",
+          "jaBoxscoreName": "福谷"
+        },
+        "pa": {
+          "top": 23,
+          "bottom": 20,
+          "inn": 3,
+          "runs": 0
+        },
+        "runs": {
+          "road": 2,
+          "home": 0
+        }
+      },
+      {
+        "inning": {
+          "inning": 6,
+          "halfInning": "top",
+          "text": "6回表（DeNAの攻撃）"
+        },
+        "outs": 2,
+        "runners": "1--",
+        "batter": {
+          "id": "41945132",
+          "jaBoxscoreName": "柴田"
+        },
+        "count": {
+          "balls": 3,
+          "strikes": 2
+        },
+        "jaResult": {
+          "players": [],
+          "text": "フォアボール"
+        },
+        "pitcher": {
+          "id": "21025137",
+          "jaBoxscoreName": "福谷"
+        },
+        "pa": {
+          "top": 24,
+          "bottom": 20,
+          "inn": 4,
+          "runs": 0
+        },
+        "runs": {
+          "road": 2,
+          "home": 0
+        }
+      },
+      {
+        "inning": {
+          "inning": 6,
+          "halfInning": "top",
+          "text": "6回表（DeNAの攻撃）"
+        },
+        "outs": 2,
+        "runners": "12-",
+        "batter": {
+          "id": "33135151",
+          "jaBoxscoreName": "森敬"
+        },
+        "count": {
+          "balls": 0,
+          "strikes": 0
+        },
+        "jaResult": {
+          "players": [],
+          "text": "サードゴロ"
+        },
+        "pitcher": {
+          "id": "21025137",
+          "jaBoxscoreName": "福谷"
+        },
+        "pa": {
+          "top": 25,
+          "bottom": 20,
+          "inn": 5,
+          "runs": 0
+        },
+        "runs": {
+          "road": 2,
+          "home": 0
+        }
+      },
+      {
+        "inning": {
+          "inning": 6,
+          "halfInning": "bottom",
+          "text": "6回裏（中日の攻撃）"
+        },
+        "outs": 0,
+        "runners": "---",
+        "batter": {
+          "id": "81685157",
+          "jaBoxscoreName": "福永"
+        },
+        "count": {
+          "balls": 0,
+          "strikes": 2
+        },
+        "jaResult": {
+          "players": [],
+          "text": "ライト前ヒット"
+        },
+        "pitcher": {
+          "id": "41845130",
+          "jaBoxscoreName": "山﨑"
+        },
+        "pa": {
+          "top": 25,
+          "bottom": 21,
+          "inn": 1,
+          "runs": 0
+        },
+        "runs": {
+          "road": 2,
+          "home": 0
+        },
+        "hits": 1
+      },
+      {
+        "inning": {
+          "inning": 6,
+          "halfInning": "bottom",
+          "text": "6回裏（中日の攻撃）"
+        },
+        "outs": 0,
+        "runners": "1--",
+        "batter": {
+          "id": "91195151",
+          "jaBoxscoreName": "石川昂"
+        },
+        "count": {
+          "balls": 3,
+          "strikes": 0
+        },
+        "jaResult": {
+          "players": [],
+          "text": "フォアボール"
+        },
+        "pitcher": {
+          "id": "41845130",
+          "jaBoxscoreName": "山﨑"
+        },
+        "pa": {
+          "top": 25,
+          "bottom": 22,
+          "inn": 2,
+          "runs": 0
+        },
+        "runs": {
+          "road": 2,
+          "home": 0
+        }
+      },
+      {
+        "inning": {
+          "inning": 6,
+          "halfInning": "bottom",
+          "text": "6回裏（中日の攻撃）"
+        },
+        "outs": 0,
+        "runners": "12-",
+        "batter": {
+          "id": "31835134",
+          "jaBoxscoreName": "細川"
+        },
+        "count": {
+          "balls": 2,
+          "strikes": 2
+        },
+        "jaResult": {
+          "players": [],
+          "text": "ファーストファウルフライ"
+        },
+        "pitcher": {
+          "id": "41845130",
+          "jaBoxscoreName": "山﨑"
+        },
+        "pa": {
+          "top": 25,
+          "bottom": 23,
+          "inn": 3,
+          "runs": 0
+        },
+        "runs": {
+          "road": 2,
+          "home": 0
+        }
+      },
+      {
+        "inning": {
+          "inning": 6,
+          "halfInning": "bottom",
+          "text": "6回裏（中日の攻撃）"
+        },
+        "outs": 1,
+        "runners": "12-",
+        "batter": {
+          "id": "93795157",
+          "jaBoxscoreName": "カリステ"
+        },
+        "count": {
+          "balls": 0,
+          "strikes": 0
+        },
+        "jaResult": {
+          "players": [],
+          "text": "セカンドフライ"
+        },
+        "pitcher": {
+          "id": "41845130",
+          "jaBoxscoreName": "山﨑"
+        },
+        "pa": {
+          "top": 25,
+          "bottom": 24,
+          "inn": 4,
+          "runs": 0
+        },
+        "runs": {
+          "road": 2,
+          "home": 0
+        }
+      },
+      {
+        "inning": {
+          "inning": 6,
+          "halfInning": "bottom",
+          "text": "6回裏（中日の攻撃）"
+        },
+        "outs": 2,
+        "runners": "12-",
+        "batter": {
+          "id": "61365132",
+          "jaBoxscoreName": "宇佐見"
+        },
+        "count": {
+          "balls": 1,
+          "strikes": 2
+        },
+        "jaResult": {
+          "players": [],
+          "text": "空振り三振"
+        },
+        "pitcher": {
+          "id": "41845130",
+          "jaBoxscoreName": "山﨑"
+        },
+        "pa": {
+          "top": 25,
+          "bottom": 25,
+          "inn": 5,
+          "runs": 0
+        },
+        "runs": {
+          "road": 2,
+          "home": 0
+        }
+      },
+      {
+        "inning": {
+          "inning": 7,
+          "halfInning": "top",
+          "text": "7回表（DeNAの攻撃）"
+        },
+        "outs": 0,
+        "runners": "---",
+        "batter": {
+          "id": "91695157",
+          "jaBoxscoreName": "林"
+        },
+        "count": {
+          "balls": 1,
+          "strikes": 1
+        },
+        "jaResult": {
+          "players": [],
+          "text": "セカンドゴロ"
+        },
+        "pitcher": {
+          "id": "21025137",
+          "jaBoxscoreName": "福谷"
+        },
+        "pa": {
+          "top": 26,
+          "bottom": 25,
+          "inn": 1,
+          "runs": 0
+        },
+        "runs": {
+          "road": 2,
+          "home": 0
+        }
+      },
+      {
+        "inning": {
+          "inning": 7,
+          "halfInning": "top",
+          "text": "7回表（DeNAの攻撃）"
+        },
+        "outs": 1,
+        "runners": "---",
+        "batter": {
+          "id": "41945131",
+          "jaBoxscoreName": "筒香"
+        },
+        "count": {
+          "balls": 2,
+          "strikes": 2
+        },
+        "jaResult": {
+          "players": [],
+          "text": "見逃し三振"
+        },
+        "isPinchHit": "Y",
+        "pitcher": {
+          "id": "21025137",
+          "jaBoxscoreName": "福谷"
+        },
+        "pa": {
+          "top": 27,
+          "bottom": 25,
+          "inn": 2,
+          "runs": 0
+        },
+        "runs": {
+          "road": 2,
+          "home": 0
+        }
+      },
+      {
+        "inning": {
+          "inning": 7,
+          "halfInning": "top",
+          "text": "7回表（DeNAの攻撃）"
+        },
+        "outs": 2,
+        "runners": "---",
+        "batter": {
+          "id": "51555155",
+          "jaBoxscoreName": "梶原"
+        },
+        "count": {
+          "balls": 2,
+          "strikes": 2
+        },
+        "jaResult": {
+          "players": [],
+          "text": "見逃し三振"
+        },
+        "pitcher": {
+          "id": "21025137",
+          "jaBoxscoreName": "福谷"
+        },
+        "pa": {
+          "top": 28,
+          "bottom": 25,
+          "inn": 3,
+          "runs": 0
+        },
+        "runs": {
+          "road": 2,
+          "home": 0
+        }
+      },
+      {
+        "inning": {
+          "inning": 7,
+          "halfInning": "bottom",
+          "text": "7回裏（中日の攻撃）"
+        },
+        "pitcher": {
+          "id": "11015151",
+          "jaBoxscoreName": "坂本"
+        },
+        "jaText": "（投手交代） 山﨑 → 坂本",
+        "home": {
+          "runs": 0
+        },
+        "road": {
+          "runs": 0
+        },
+        "isPitcherEvent": "Y",
+        "pa": {
+          "top": 28,
+          "bottom": 25,
+          "inn": 0,
+          "runs": 0
+        },
+        "runs": {
+          "road": 2,
+          "home": 0
+        }
+      },
+      {
+        "inning": {
+          "inning": 7,
+          "halfInning": "bottom",
+          "text": "7回裏（中日の攻撃）"
+        },
+        "outs": 0,
+        "runners": "---",
+        "batter": {
+          "id": "21025157",
+          "jaBoxscoreName": "田中"
+        },
+        "count": {
+          "balls": 1,
+          "strikes": 2
+        },
+        "jaResult": {
+          "players": [],
+          "text": "空振り三振"
+        },
+        "pitcher": {
+          "id": "11015151",
+          "jaBoxscoreName": "坂本"
+        },
+        "pa": {
+          "top": 28,
+          "bottom": 26,
+          "inn": 1,
+          "runs": 0
+        },
+        "runs": {
+          "road": 2,
+          "home": 0
+        }
+      },
+      {
+        "inning": {
+          "inning": 7,
+          "halfInning": "bottom",
+          "text": "7回裏（中日の攻撃）"
+        },
+        "outs": 1,
+        "runners": "---",
+        "batter": {
+          "id": "71875155",
+          "jaBoxscoreName": "ブライト"
+        },
+        "count": {
+          "balls": 1,
+          "strikes": 2
+        },
+        "jaResult": {
+          "players": [],
+          "text": "空振り三振"
+        },
+        "isPinchHit": "Y",
+        "pitcher": {
+          "id": "11015151",
+          "jaBoxscoreName": "坂本"
+        },
+        "pa": {
+          "top": 28,
+          "bottom": 27,
+          "inn": 2,
+          "runs": 0
+        },
+        "runs": {
+          "road": 2,
+          "home": 0
+        }
+      },
+      {
+        "inning": {
+          "inning": 7,
+          "halfInning": "bottom",
+          "text": "7回裏（中日の攻撃）"
+        },
+        "outs": 2,
+        "runners": "---",
+        "batter": {
+          "id": "81585151",
+          "jaBoxscoreName": "岡林"
+        },
+        "count": {
+          "balls": 1,
+          "strikes": 1
+        },
+        "jaResult": {
+          "players": [],
+          "text": "センターフライ"
+        },
+        "pitcher": {
+          "id": "11015151",
+          "jaBoxscoreName": "坂本"
+        },
+        "pa": {
+          "top": 28,
+          "bottom": 28,
+          "inn": 3,
+          "runs": 0
+        },
+        "runs": {
+          "road": 2,
+          "home": 0
+        }
+      },
+      {
+        "inning": {
+          "inning": 8,
+          "halfInning": "top",
+          "text": "8回表（DeNAの攻撃）"
+        },
+        "pitcher": {
+          "id": "21625134",
+          "jaBoxscoreName": "藤嶋"
+        },
+        "jaText": "（投手交代） 福谷 → 藤嶋",
+        "home": {
+          "runs": 0
+        },
+        "road": {
+          "runs": 0
+        },
+        "isPitcherEvent": "Y",
+        "pa": {
+          "top": 28,
+          "bottom": 28,
+          "inn": 0,
+          "runs": 0
+        },
+        "runs": {
+          "road": 2,
+          "home": 0
+        }
+      },
+      {
+        "inning": {
+          "inning": 8,
+          "halfInning": "top",
+          "text": "8回表（DeNAの攻撃）"
+        },
+        "outs": 0,
+        "runners": "---",
+        "batter": {
+          "id": "51755135",
+          "jaBoxscoreName": "桑原"
+        },
+        "count": {
+          "balls": 2,
+          "strikes": 1
+        },
+        "jaResult": {
+          "players": [],
+          "text": "レフトソロホームラン（打点1）"
+        },
+        "pitcher": {
+          "id": "21625134",
+          "jaBoxscoreName": "藤嶋"
+        },
+        "pa": {
+          "top": 29,
+          "bottom": 28,
+          "inn": 1,
+          "runs": 0
+        },
+        "runs": {
+          "road": 2,
+          "home": 0
+        },
+        "rbi": 1,
+        "hits": 1
+      },
+      {
+        "inning": {
+          "inning": 8,
+          "halfInning": "top",
+          "text": "8回表（DeNAの攻撃）"
+        },
+        "outs": 0,
+        "runners": "---",
+        "batter": {
+          "id": "51555151",
+          "jaBoxscoreName": "蝦名"
+        },
+        "count": {
+          "balls": 0,
+          "strikes": 1
+        },
+        "jaResult": {
+          "players": [],
+          "text": "ライトフライ"
+        },
+        "pitcher": {
+          "id": "21625134",
+          "jaBoxscoreName": "藤嶋"
+        },
+        "pa": {
+          "top": 30,
+          "bottom": 28,
+          "inn": 2,
+          "runs": 1
+        },
+        "runs": {
+          "road": 3,
+          "home": 0
+        }
+      },
+      {
+        "inning": {
+          "inning": 8,
+          "halfInning": "top",
+          "text": "8回表（DeNAの攻撃）"
+        },
+        "outs": 1,
+        "runners": "---",
+        "batter": {
+          "id": "73375151",
+          "jaBoxscoreName": "オースティン"
+        },
+        "count": {
+          "balls": 1,
+          "strikes": 1
+        },
+        "jaResult": {
+          "players": [],
+          "text": "セカンドフライ"
+        },
+        "pitcher": {
+          "id": "21625134",
+          "jaBoxscoreName": "藤嶋"
+        },
+        "pa": {
+          "top": 31,
+          "bottom": 28,
+          "inn": 3,
+          "runs": 1
+        },
+        "runs": {
+          "road": 3,
+          "home": 0
+        }
+      },
+      {
+        "inning": {
+          "inning": 8,
+          "halfInning": "top",
+          "text": "8回表（DeNAの攻撃）"
+        },
+        "outs": 2,
+        "runners": "---",
+        "batter": {
+          "id": "21825157",
+          "jaBoxscoreName": "松尾"
+        },
+        "count": {
+          "balls": 2,
+          "strikes": 2
+        },
+        "jaResult": {
+          "players": [],
+          "text": "ライトフライ"
+        },
+        "pitcher": {
+          "id": "21625134",
+          "jaBoxscoreName": "藤嶋"
+        },
+        "pa": {
+          "top": 32,
+          "bottom": 28,
+          "inn": 4,
+          "runs": 1
+        },
+        "runs": {
+          "road": 3,
+          "home": 0
+        }
+      },
+      {
+        "inning": {
+          "inning": 8,
+          "halfInning": "bottom",
+          "text": "8回裏（中日の攻撃）"
+        },
+        "outs": 0,
+        "runners": "---",
+        "batter": {
+          "id": "03105157",
+          "jaBoxscoreName": "村松"
+        },
+        "count": {
+          "balls": 1,
+          "strikes": 2
+        },
+        "jaResult": {
+          "players": [],
+          "text": "空振り三振"
+        },
+        "pitcher": {
+          "id": "11015151",
+          "jaBoxscoreName": "坂本"
+        },
+        "pa": {
+          "top": 32,
+          "bottom": 29,
+          "inn": 1,
+          "runs": 0
+        },
+        "runs": {
+          "road": 3,
+          "home": 0
+        }
+      },
+      {
+        "inning": {
+          "inning": 8,
+          "halfInning": "bottom",
+          "text": "8回裏（中日の攻撃）"
+        },
+        "outs": 1,
+        "runners": "---",
+        "batter": {
+          "id": "81685157",
+          "jaBoxscoreName": "福永"
+        },
+        "count": {
+          "balls": 0,
+          "strikes": 0
+        },
+        "jaResult": {
+          "players": [],
+          "text": "サードゴロ（エラー）"
+        },
+        "pitcher": {
+          "id": "11015151",
+          "jaBoxscoreName": "坂本"
+        },
+        "pa": {
+          "top": 32,
+          "bottom": 30,
+          "inn": 2,
+          "runs": 0
+        },
+        "runs": {
+          "road": 3,
+          "home": 0
+        },
+        "errors": 1
+      },
+      {
+        "inning": {
+          "inning": 8,
+          "halfInning": "bottom",
+          "text": "8回裏（中日の攻撃）"
+        },
+        "outs": 1,
+        "runners": "1--",
+        "batter": {
+          "id": "91195151",
+          "jaBoxscoreName": "石川昂"
+        },
+        "count": {
+          "balls": 2,
+          "strikes": 2
+        },
+        "jaResult": {
+          "players": [],
+          "text": "ショートゴロ併殺打"
+        },
+        "pitcher": {
+          "id": "11015151",
+          "jaBoxscoreName": "坂本"
+        },
+        "pa": {
+          "top": 32,
+          "bottom": 31,
+          "inn": 3,
+          "runs": 0
+        },
+        "runs": {
+          "road": 3,
+          "home": 0
+        }
+      },
+      {
+        "inning": {
+          "inning": 9,
+          "halfInning": "top",
+          "text": "9回表（DeNAの攻撃）"
+        },
+        "pitcher": {
+          "id": "21425151",
+          "jaBoxscoreName": "橋本"
+        },
+        "jaText": "（投手交代） 藤嶋 → 橋本",
+        "home": {
+          "runs": 0
+        },
+        "road": {
+          "runs": 0
+        },
+        "isPitcherEvent": "Y",
+        "pa": {
+          "top": 32,
+          "bottom": 31,
+          "inn": 0,
+          "runs": 0
+        },
+        "runs": {
+          "road": 3,
+          "home": 0
+        }
+      },
+      {
+        "inning": {
+          "inning": 9,
+          "halfInning": "top",
+          "text": "9回表（DeNAの攻撃）"
+        },
+        "outs": 0,
+        "runners": "---",
+        "batter": {
+          "id": "41945132",
+          "jaBoxscoreName": "柴田"
+        },
+        "count": {
+          "balls": 0,
+          "strikes": 1
+        },
+        "jaResult": {
+          "players": [],
+          "text": "ショートゴロ"
+        },
+        "pitcher": {
+          "id": "21425151",
+          "jaBoxscoreName": "橋本"
+        },
+        "pa": {
+          "top": 33,
+          "bottom": 31,
+          "inn": 1,
+          "runs": 0
+        },
+        "runs": {
+          "road": 3,
+          "home": 0
+        }
+      },
+      {
+        "inning": {
+          "inning": 9,
+          "halfInning": "top",
+          "text": "9回表（DeNAの攻撃）"
+        },
+        "outs": 1,
+        "runners": "---",
+        "batter": {
+          "id": "33135151",
+          "jaBoxscoreName": "森敬"
+        },
+        "count": {
+          "balls": 3,
+          "strikes": 2
+        },
+        "jaResult": {
+          "players": [],
+          "text": "フォアボール"
+        },
+        "pitcher": {
+          "id": "21425151",
+          "jaBoxscoreName": "橋本"
+        },
+        "pa": {
+          "top": 34,
+          "bottom": 31,
+          "inn": 2,
+          "runs": 0
+        },
+        "runs": {
+          "road": 3,
+          "home": 0
+        }
+      },
+      {
+        "inning": {
+          "inning": 9,
+          "halfInning": "top",
+          "text": "9回表（DeNAの攻撃）"
+        },
+        "outs": 1,
+        "runners": "1--",
+        "batter": {
+          "id": "91695157",
+          "jaBoxscoreName": "林"
+        },
+        "count": {
+          "balls": 0,
+          "strikes": 1
+        },
+        "jaResult": {
+          "players": [],
+          "text": "デッドボール"
+        },
+        "pitcher": {
+          "id": "21425151",
+          "jaBoxscoreName": "橋本"
+        },
+        "pa": {
+          "top": 35,
+          "bottom": 31,
+          "inn": 3,
+          "runs": 0
+        },
+        "runs": {
+          "road": 3,
+          "home": 0
+        }
+      },
+      {
+        "inning": {
+          "inning": 9,
+          "halfInning": "top",
+          "text": "9回表（DeNAの攻撃）"
+        },
+        "outs": 1,
+        "runners": "12-",
+        "batter": {
+          "id": "41945131",
+          "jaBoxscoreName": "筒香"
+        },
+        "count": {
+          "balls": 0,
+          "strikes": 1
+        },
+        "jaResult": {
+          "players": [],
+          "text": "レフトフライ"
+        },
+        "pitcher": {
+          "id": "21425151",
+          "jaBoxscoreName": "橋本"
+        },
+        "pa": {
+          "top": 36,
+          "bottom": 31,
+          "inn": 4,
+          "runs": 0
+        },
+        "runs": {
+          "road": 3,
+          "home": 0
+        }
+      },
+      {
+        "inning": {
+          "inning": 9,
+          "halfInning": "top",
+          "text": "9回表（DeNAの攻撃）"
+        },
+        "outs": 2,
+        "runners": "12-",
+        "batter": {
+          "id": "91095138",
+          "jaBoxscoreName": "知野"
+        },
+        "count": {
+          "balls": 3,
+          "strikes": 1
+        },
+        "jaResult": {
+          "players": [],
+          "text": "フォアボール"
+        },
+        "isPinchHit": "Y",
+        "pitcher": {
+          "id": "21425151",
+          "jaBoxscoreName": "橋本"
+        },
+        "pa": {
+          "top": 37,
+          "bottom": 31,
+          "inn": 5,
+          "runs": 0
+        },
+        "runs": {
+          "road": 3,
+          "home": 0
+        }
+      },
+      {
+        "inning": {
+          "inning": 9,
+          "halfInning": "top",
+          "text": "9回表（DeNAの攻撃）"
+        },
+        "outs": 2,
+        "runners": "123",
+        "batter": {
+          "id": "51755135",
+          "jaBoxscoreName": "桑原"
+        },
+        "count": {
+          "balls": 2,
+          "strikes": 1
+        },
+        "jaResult": {
+          "players": [],
+          "text": "レフトフライ"
+        },
+        "pitcher": {
+          "id": "21425151",
+          "jaBoxscoreName": "橋本"
+        },
+        "pa": {
+          "top": 38,
+          "bottom": 31,
+          "inn": 6,
+          "runs": 0
+        },
+        "runs": {
+          "road": 3,
+          "home": 0
+        }
+      },
+      {
+        "inning": {
+          "inning": 9,
+          "halfInning": "bottom",
+          "text": "9回裏（中日の攻撃）"
+        },
+        "pitcher": {
+          "id": "71975134",
+          "jaBoxscoreName": "佐々木"
+        },
+        "jaText": "（投手交代） 坂本 → 佐々木",
+        "home": {
+          "runs": 0
+        },
+        "road": {
+          "runs": 0
+        },
+        "isPitcherEvent": "Y",
+        "pa": {
+          "top": 38,
+          "bottom": 31,
+          "inn": 0,
+          "runs": 0
+        },
+        "runs": {
+          "road": 3,
+          "home": 0
+        }
+      },
+      {
+        "inning": {
+          "inning": 9,
+          "halfInning": "bottom",
+          "text": "9回裏（中日の攻撃）"
+        },
+        "outs": 0,
+        "runners": "---",
+        "batter": {
+          "id": "31835134",
+          "jaBoxscoreName": "細川"
+        },
+        "count": {
+          "balls": 1,
+          "strikes": 2
+        },
+        "jaResult": {
+          "players": [],
+          "text": "レフト前ヒット"
+        },
+        "pitcher": {
+          "id": "71975134",
+          "jaBoxscoreName": "佐々木"
+        },
+        "pa": {
+          "top": 38,
+          "bottom": 32,
+          "inn": 1,
+          "runs": 0
+        },
+        "runs": {
+          "road": 3,
+          "home": 0
+        },
+        "hits": 1
+      },
+      {
+        "inning": {
+          "inning": 9,
+          "halfInning": "bottom",
+          "text": "9回裏（中日の攻撃）"
+        },
+        "outs": 0,
+        "runners": "1--",
+        "batter": {
+          "id": "93795157",
+          "jaBoxscoreName": "カリステ"
+        },
+        "count": {
+          "balls": 0,
+          "strikes": 0
+        },
+        "jaResult": {
+          "players": [],
+          "text": "ファーストゴロ併殺打"
+        },
+        "pitcher": {
+          "id": "71975134",
+          "jaBoxscoreName": "佐々木"
+        },
+        "pa": {
+          "top": 38,
+          "bottom": 33,
+          "inn": 2,
+          "runs": 0
+        },
+        "runs": {
+          "road": 3,
+          "home": 0
+        }
+      },
+      {
+        "inning": {
+          "inning": 9,
+          "halfInning": "bottom",
+          "text": "9回裏（中日の攻撃）"
+        },
+        "outs": 2,
+        "runners": "---",
+        "batter": {
+          "id": "61365132",
+          "jaBoxscoreName": "宇佐見"
+        },
+        "count": {
+          "balls": 2,
+          "strikes": 1
+        },
+        "jaResult": {
+          "players": [],
+          "text": "ライト前ヒット"
+        },
+        "pitcher": {
+          "id": "71975134",
+          "jaBoxscoreName": "佐々木"
+        },
+        "pa": {
+          "top": 38,
+          "bottom": 34,
+          "inn": 3,
+          "runs": 0
+        },
+        "runs": {
+          "road": 3,
+          "home": 0
+        },
+        "hits": 1
+      },
+      {
+        "inning": {
+          "inning": 9,
+          "halfInning": "bottom",
+          "text": "9回裏（中日の攻撃）"
+        },
+        "outs": 2,
+        "runners": "1--",
+        "batter": {
+          "id": "21025157",
+          "jaBoxscoreName": "田中"
+        },
+        "count": {
+          "balls": 0,
+          "strikes": 2
+        },
+        "jaResult": {
+          "players": [],
+          "text": "ライト前ヒット"
+        },
+        "pitcher": {
+          "id": "71975134",
+          "jaBoxscoreName": "佐々木"
+        },
+        "pa": {
+          "top": 38,
+          "bottom": 35,
+          "inn": 4,
+          "runs": 0
+        },
+        "runs": {
+          "road": 3,
+          "home": 0
+        },
+        "hits": 1
+      },
+      {
+        "inning": {
+          "inning": 9,
+          "halfInning": "bottom",
+          "text": "9回裏（中日の攻撃）"
+        },
+        "outs": 2,
+        "runners": "12-",
+        "batter": {
+          "id": "81585132",
+          "jaBoxscoreName": "川越"
+        },
+        "count": {
+          "balls": 0,
+          "strikes": 0
+        },
+        "jaResult": {
+          "players": [],
+          "text": "ライト前タイムリーヒット（打点1）"
+        },
+        "isPinchHit": "Y",
+        "pitcher": {
+          "id": "71975134",
+          "jaBoxscoreName": "佐々木"
+        },
+        "pa": {
+          "top": 38,
+          "bottom": 36,
+          "inn": 5,
+          "runs": 0
+        },
+        "runs": {
+          "road": 3,
+          "home": 0
+        },
+        "rbi": 1,
+        "hits": 1
+      },
+      {
+        "inning": {
+          "inning": 9,
+          "halfInning": "bottom",
+          "text": "9回裏（中日の攻撃）"
+        },
+        "outs": 2,
+        "runners": "1-3",
+        "count": {},
+        "jaResult": {
+          "players": [
+            {
+              "id": "71575159",
+              "jaBoxscoreName": "尾田"
+            }
+          ],
+          "text": "（走者・尾田）二塁盗塁失敗"
+        },
+        "isRunnerEvent": "Y",
+        "pitcher": {
+          "id": "71975134",
+          "jaBoxscoreName": "佐々木"
+        },
+        "pa": {
+          "top": 38,
+          "bottom": 36,
+          "inn": 5,
+          "runs": 0
+        },
+        "runs": {
+          "road": 3,
+          "home": 0
+        }
+      },
+      {
+        "inning": {
+          "inning": 9,
+          "halfInning": "bottom",
+          "text": "9回裏（中日の攻撃）"
+        },
+        "outs": 2,
+        "runners": "1-3",
+        "batter": {
+          "id": "81585151",
+          "jaBoxscoreName": "岡林"
+        },
+        "count": {
+          "balls": 0,
+          "strikes": 1
+        },
+        "jaResult": {
+          "players": [],
+          "text": "（途中終了）"
+        },
+        "isNoteEvent": "Y",
+        "pitcher": {
+          "id": "71975134",
+          "jaBoxscoreName": "佐々木"
+        },
+        "pa": {
+          "top": 38,
+          "bottom": 36,
+          "inn": 5,
+          "runs": 0
+        },
+        "runs": {
+          "road": 3,
+          "home": 0
+        }
+      }
+    ],
+    "linescore": [
+      "  Baystars | 0 1 0  0 1 0  0 1 0  | 3",
+      "   Dragons | 0 0 0  0 0 0  0 0 1  | 1"
+    ],
+    "teamStats": {
+      "home": {
+        "runs": 1,
+        "hits": 9,
+        "errors": 0
+      },
+      "road": {
+        "runs": 3,
+        "hits": 7,
+        "errors": 2
+      }
+    },
+    "innings": [
+      {
+        "num": 1,
+        "home": {
+          "runs": 0
+        },
+        "road": {
+          "runs": 0
+        }
+      },
+      {
+        "num": 2,
+        "home": {
+          "runs": 0
+        },
+        "road": {
+          "runs": 1
+        }
+      },
+      {
+        "num": 3,
+        "home": {
+          "runs": 0
+        },
+        "road": {
+          "runs": 0
+        }
+      },
+      {
+        "num": 4,
+        "home": {
+          "runs": 0
+        },
+        "road": {
+          "runs": 0
+        }
+      },
+      {
+        "num": 5,
+        "home": {
+          "runs": 0
+        },
+        "road": {
+          "runs": 1
+        }
+      },
+      {
+        "num": 6,
+        "home": {
+          "runs": 0
+        },
+        "road": {
+          "runs": 0
+        }
+      },
+      {
+        "num": 7,
+        "home": {
+          "runs": 0
+        },
+        "road": {
+          "runs": 0
+        }
+      },
+      {
+        "num": 8,
+        "home": {
+          "runs": 0
+        },
+        "road": {
+          "runs": 1
+        }
+      },
+      {
+        "num": 9,
+        "home": {
+          "runs": 1
+        },
+        "road": {
+          "runs": 0
+        }
+      }
+    ],
+    "players": [
+      {
+        "playerId": "51555155",
+        "jaRegisteredName": "梶原　昂希",
+        "teamCode": "DB",
+        "primaryNumber": "58",
+        "primaryPosition": "Outfielder",
+        "jaStatus": "支配下選手",
+        "batSide": "L",
+        "pitchHand": "R",
+        "height": "189",
+        "weight": "85",
+        "birthDate": "1999-09-19",
+        "jaNotes": "",
+        "notes": "",
+        "jaBoxscoreName": "梶原",
+        "boxscoreName": "Kajiwara",
+        "jaFullName": "梶原　昂希",
+        "jaFirstName": "昂希",
+        "jaLastName": "梶原",
+        "fullLFMName": "Kajiwara, Kouki",
+        "firstName": "Kouki",
+        "lastName": "Kajiwara"
+      },
+      {
+        "playerId": "11015151",
+        "jaRegisteredName": "坂本　裕哉",
+        "teamCode": "DB",
+        "primaryNumber": "20",
+        "primaryPosition": "Pitcher",
+        "jaStatus": "支配下選手",
+        "batSide": "L",
+        "pitchHand": "L",
+        "height": "180",
+        "weight": "87",
+        "birthDate": "1997-07-28",
+        "jaNotes": "",
+        "notes": "",
+        "jaBoxscoreName": "坂本",
+        "boxscoreName": "Sakamoto",
+        "jaFullName": "坂本　裕哉",
+        "jaFirstName": "裕哉",
+        "jaLastName": "坂本",
+        "fullLFMName": "Sakamoto, Yuya",
+        "firstName": "Yuya",
+        "lastName": "Sakamoto"
+      },
+      {
+        "playerId": "91095138",
+        "jaRegisteredName": "知野　直人",
+        "teamCode": "DB",
+        "primaryNumber": "60",
+        "primaryPosition": "Infielder",
+        "jaStatus": "支配下選手",
+        "batSide": "R",
+        "pitchHand": "R",
+        "height": "182",
+        "weight": "85",
+        "birthDate": "1999-02-16",
+        "jaNotes": "",
+        "notes": "",
+        "jaBoxscoreName": "知野",
+        "boxscoreName": "Chino",
+        "jaFullName": "知野　直人",
+        "jaFirstName": "直人",
+        "jaLastName": "知野",
+        "fullLFMName": "Chino, Naoto",
+        "firstName": "Naoto",
+        "lastName": "Chino"
+      },
+      {
+        "playerId": "71975134",
+        "jaRegisteredName": "佐々木　千隼",
+        "teamCode": "DB",
+        "primaryNumber": "41",
+        "primaryPosition": "Pitcher",
+        "jaStatus": "支配下選手",
+        "batSide": "R",
+        "pitchHand": "R",
+        "height": "181",
+        "weight": "83",
+        "birthDate": "1994-06-08",
+        "jaNotes": "",
+        "notes": "",
+        "jaBoxscoreName": "佐々木",
+        "boxscoreName": "Sasaki",
+        "jaFullName": "佐々木　千隼",
+        "jaFirstName": "千隼",
+        "jaLastName": "佐々木",
+        "fullLFMName": "Sasaki, Chihaya",
+        "firstName": "Chihaya",
+        "lastName": "Sasaki"
+      },
+      {
+        "playerId": "51755135",
+        "jaRegisteredName": "桑原　将志",
+        "teamCode": "DB",
+        "primaryNumber": "1",
+        "primaryPosition": "Outfielder",
+        "jaStatus": "支配下選手",
+        "batSide": "R",
+        "pitchHand": "R",
+        "height": "174",
+        "weight": "80",
+        "birthDate": "1993-07-21",
+        "jaNotes": "",
+        "notes": "",
+        "jaBoxscoreName": "桑原",
+        "boxscoreName": "Kuwahara",
+        "jaFullName": "桑原　将志",
+        "jaFirstName": "将志",
+        "jaLastName": "桑原",
+        "fullLFMName": "Kuwahara, Masayuki",
+        "firstName": "Masayuki",
+        "lastName": "Kuwahara"
+      },
+      {
+        "playerId": "51555151",
+        "jaRegisteredName": "蝦名　達夫",
+        "teamCode": "DB",
+        "primaryNumber": "61",
+        "primaryPosition": "Outfielder",
+        "jaStatus": "支配下選手",
+        "batSide": "R",
+        "pitchHand": "R",
+        "height": "185",
+        "weight": "88",
+        "birthDate": "1997-09-20",
+        "jaNotes": "",
+        "notes": "",
+        "jaBoxscoreName": "蝦名",
+        "boxscoreName": "Ebina",
+        "jaFullName": "蝦名　達夫",
+        "jaFirstName": "達夫",
+        "jaLastName": "蝦名",
+        "fullLFMName": "Ebina, Tatsuo",
+        "firstName": "Tatsuo",
+        "lastName": "Ebina"
+      },
+      {
+        "playerId": "73375151",
+        "jaRegisteredName": "Ｔ．オースティン",
+        "teamCode": "DB",
+        "primaryNumber": "3",
+        "primaryPosition": "Infielder",
+        "jaStatus": "支配下選手",
+        "batSide": "R",
+        "pitchHand": "R",
+        "height": "188",
+        "weight": "100",
+        "birthDate": "1991-09-06",
+        "jaNotes": "3/26 守備位置登録：外野手→内野手に変更",
+        "notes": "Position: Outfielder -> Infielder (Mar. 26).",
+        "jaBoxscoreName": "オースティン",
+        "boxscoreName": "Austin",
+        "jaFullName": "タイラー・オースティン",
+        "jaFirstName": "タイラー",
+        "jaLastName": "オースティン",
+        "fullLFMName": "Austin, Tyler",
+        "firstName": "Tyler",
+        "lastName": "Austin"
+      },
+      {
+        "playerId": "81585134",
+        "jaRegisteredName": "京田　陽太",
+        "teamCode": "DB",
+        "primaryNumber": "98",
+        "primaryPosition": "Infielder",
+        "jaStatus": "支配下選手",
+        "batSide": "L",
+        "pitchHand": "R",
+        "height": "184",
+        "weight": "90",
+        "birthDate": "1994-04-20",
+        "jaNotes": "",
+        "notes": "",
+        "jaBoxscoreName": "京田",
+        "boxscoreName": "Kyoda",
+        "jaFullName": "京田　陽太",
+        "jaFirstName": "陽太",
+        "jaLastName": "京田",
+        "fullLFMName": "Kyoda, Yota",
+        "firstName": "Yota",
+        "lastName": "Kyoda"
+      },
+      {
+        "playerId": "41245132",
+        "jaRegisteredName": "戸柱　恭孝",
+        "teamCode": "DB",
+        "primaryNumber": "10",
+        "primaryPosition": "Catcher",
+        "jaStatus": "支配下選手",
+        "batSide": "L",
+        "pitchHand": "R",
+        "height": "179",
+        "weight": "90",
+        "birthDate": "1990-04-11",
+        "jaNotes": "",
+        "notes": "",
+        "jaBoxscoreName": "戸柱",
+        "boxscoreName": "Tobashira",
+        "jaFullName": "戸柱　恭孝",
+        "jaFirstName": "恭孝",
+        "jaLastName": "戸柱",
+        "fullLFMName": "Tobashira, Yasutaka",
+        "firstName": "Yasutaka",
+        "lastName": "Tobashira"
+      },
+      {
+        "playerId": "21825157",
+        "jaRegisteredName": "松尾　汐恩",
+        "teamCode": "DB",
+        "primaryNumber": "5",
+        "primaryPosition": "Catcher",
+        "jaStatus": "支配下選手",
+        "batSide": "R",
+        "pitchHand": "R",
+        "height": "178",
+        "weight": "82",
+        "birthDate": "2004-07-06",
+        "jaNotes": "",
+        "notes": "",
+        "jaBoxscoreName": "松尾",
+        "boxscoreName": "Matsuo",
+        "jaFullName": "松尾　汐恩",
+        "jaFirstName": "汐恩",
+        "jaLastName": "松尾",
+        "fullLFMName": "Matsuo, Shion",
+        "firstName": "Shion",
+        "lastName": "Matsuo"
+      },
+      {
+        "playerId": "41945132",
+        "jaRegisteredName": "柴田　竜拓",
+        "teamCode": "DB",
+        "primaryNumber": "31",
+        "primaryPosition": "Infielder",
+        "jaStatus": "支配下選手",
+        "batSide": "L",
+        "pitchHand": "R",
+        "height": "167",
+        "weight": "68",
+        "birthDate": "1993-12-16",
+        "jaNotes": "",
+        "notes": "",
+        "jaBoxscoreName": "柴田",
+        "boxscoreName": "Shibata",
+        "jaFullName": "柴田　竜拓",
+        "jaFirstName": "竜拓",
+        "jaLastName": "柴田",
+        "fullLFMName": "Shibata, Tatsuhiro",
+        "firstName": "Tatsuhiro",
+        "lastName": "Shibata"
+      },
+      {
+        "playerId": "33135151",
+        "jaRegisteredName": "森　敬斗",
+        "teamCode": "DB",
+        "primaryNumber": "6",
+        "primaryPosition": "Infielder",
+        "jaStatus": "支配下選手",
+        "batSide": "L",
+        "pitchHand": "R",
+        "height": "177",
+        "weight": "80",
+        "birthDate": "2002-01-28",
+        "jaNotes": "",
+        "notes": "",
+        "jaBoxscoreName": "森敬",
+        "boxscoreName": "K.Mori",
+        "jaFullName": "森　敬斗",
+        "jaFirstName": "敬斗",
+        "jaLastName": "森",
+        "fullLFMName": "Mori, Keito",
+        "firstName": "Keito",
+        "lastName": "Mori"
+      },
+      {
+        "playerId": "91695157",
+        "jaRegisteredName": "林　琢真",
+        "teamCode": "DB",
+        "primaryNumber": "00",
+        "primaryPosition": "Infielder",
+        "jaStatus": "支配下選手",
+        "batSide": "L",
+        "pitchHand": "R",
+        "height": "174",
+        "weight": "74",
+        "birthDate": "2000-08-24",
+        "jaNotes": "",
+        "notes": "",
+        "jaBoxscoreName": "林",
+        "boxscoreName": "Hayashi",
+        "jaFullName": "林　琢真",
+        "jaFirstName": "琢真",
+        "jaLastName": "林",
+        "fullLFMName": "Hayashi, Takuma",
+        "firstName": "Takuma",
+        "lastName": "Hayashi"
+      },
+      {
+        "playerId": "51655134",
+        "jaRegisteredName": "濵口　遥大",
+        "teamCode": "DB",
+        "primaryNumber": "26",
+        "primaryPosition": "Pitcher",
+        "jaStatus": "支配下選手",
+        "batSide": "L",
+        "pitchHand": "L",
+        "height": "173",
+        "weight": "80",
+        "birthDate": "1995-03-16",
+        "jaNotes": "",
+        "notes": "",
+        "jaBoxscoreName": "濵口",
+        "boxscoreName": "Hamaguchi",
+        "jaFullName": "濵口　遥大",
+        "jaFirstName": "遥大",
+        "jaLastName": "濵口",
+        "fullLFMName": "Hamaguchi, Haruhiro",
+        "firstName": "Haruhiro",
+        "lastName": "Hamaguchi"
+      },
+      {
+        "playerId": "43545151",
+        "jaRegisteredName": "Ｙ．ディアス",
+        "teamCode": "DB",
+        "primaryNumber": "93",
+        "primaryPosition": "Pitcher",
+        "jaStatus": "支配下選手",
+        "batSide": "L",
+        "pitchHand": "L",
+        "height": "191",
+        "weight": "93",
+        "birthDate": "1999-06-10",
+        "jaNotes": "",
+        "notes": "",
+        "jaBoxscoreName": "ディアス",
+        "boxscoreName": "Diaz",
+        "jaFullName": "ジョフレック・ディアス",
+        "jaFirstName": "ジョフレック",
+        "jaLastName": "ディアス",
+        "fullLFMName": "Diaz, Yofrec",
+        "firstName": "Yofrec",
+        "lastName": "Diaz"
+      },
+      {
+        "playerId": "13115153",
+        "jaRegisteredName": "牧　秀悟",
+        "teamCode": "DB",
+        "primaryNumber": "2",
+        "primaryPosition": "Infielder",
+        "jaStatus": "支配下選手",
+        "batSide": "R",
+        "pitchHand": "R",
+        "height": "178",
+        "weight": "97",
+        "birthDate": "1998-04-21",
+        "jaNotes": "",
+        "notes": "",
+        "jaBoxscoreName": "牧",
+        "boxscoreName": "Maki",
+        "jaFullName": "牧　秀悟",
+        "jaFirstName": "秀悟",
+        "jaLastName": "牧",
+        "fullLFMName": "Maki, Shugo",
+        "firstName": "Shugo",
+        "lastName": "Maki"
+      },
+      {
+        "playerId": "41845130",
+        "jaRegisteredName": "山﨑　康晃",
+        "teamCode": "DB",
+        "primaryNumber": "19",
+        "primaryPosition": "Pitcher",
+        "jaStatus": "支配下選手",
+        "batSide": "R",
+        "pitchHand": "R",
+        "height": "179",
+        "weight": "88",
+        "birthDate": "1992-10-02",
+        "jaNotes": "",
+        "notes": "",
+        "jaBoxscoreName": "山﨑",
+        "boxscoreName": "Yamasaki",
+        "jaFullName": "山﨑　康晃",
+        "jaFirstName": "康晃",
+        "jaLastName": "山﨑",
+        "fullLFMName": "Yamasaki, Yasuaki",
+        "firstName": "Yasuaki",
+        "lastName": "Yamasaki"
+      },
+      {
+        "playerId": "41945131",
+        "jaRegisteredName": "筒香　嘉智",
+        "teamCode": "DB",
+        "primaryNumber": "25",
+        "primaryPosition": "Outfielder",
+        "jaStatus": "支配下選手",
+        "batSide": "L",
+        "pitchHand": "R",
+        "height": "185",
+        "weight": "97",
+        "birthDate": "1991-11-26",
+        "jaNotes": "4/19 支配下選手登録",
+        "notes": "Registered (Apr. 19).",
+        "jaBoxscoreName": "筒香",
+        "boxscoreName": "Tsutsugo",
+        "jaFullName": "筒香　嘉智",
+        "jaFirstName": "嘉智",
+        "jaLastName": "筒香",
+        "fullLFMName": "Tsutsugo, Yoshitomo",
+        "firstName": "Yoshitomo",
+        "lastName": "Tsutsugo"
+      },
+      {
+        "playerId": "71575136",
+        "jaRegisteredName": "神里　和毅",
+        "teamCode": "DB",
+        "primaryNumber": "8",
+        "primaryPosition": "Outfielder",
+        "jaStatus": "支配下選手",
+        "batSide": "L",
+        "pitchHand": "R",
+        "height": "179",
+        "weight": "86",
+        "birthDate": "1994-01-17",
+        "jaNotes": "",
+        "notes": "",
+        "jaBoxscoreName": "神里",
+        "boxscoreName": "Kamizato",
+        "jaFullName": "神里　和毅",
+        "jaFirstName": "和毅",
+        "jaLastName": "神里",
+        "fullLFMName": "Kamizato, Kazuki",
+        "firstName": "Kazuki",
+        "lastName": "Kamizato"
+      },
+      {
+        "playerId": "81585151",
+        "jaRegisteredName": "岡林　勇希",
+        "teamCode": "D",
+        "primaryNumber": "1",
+        "primaryPosition": "Outfielder",
+        "jaStatus": "支配下選手",
+        "batSide": "L",
+        "pitchHand": "R",
+        "height": "175",
+        "weight": "75",
+        "birthDate": "2002-02-22",
+        "jaNotes": "",
+        "notes": "",
+        "jaBoxscoreName": "岡林",
+        "boxscoreName": "Okabayashi",
+        "jaFullName": "岡林　勇希",
+        "jaFirstName": "勇希",
+        "jaLastName": "岡林",
+        "fullLFMName": "Okabayashi, Yuki",
+        "firstName": "Yuki",
+        "lastName": "Okabayashi"
+      },
+      {
+        "playerId": "03105157",
+        "jaRegisteredName": "村松　開人",
+        "teamCode": "D",
+        "primaryNumber": "5",
+        "primaryPosition": "Infielder",
+        "jaStatus": "支配下選手",
+        "batSide": "L",
+        "pitchHand": "R",
+        "height": "171",
+        "weight": "80",
+        "birthDate": "2001-01-06",
+        "jaNotes": "",
+        "notes": "",
+        "jaBoxscoreName": "村松",
+        "boxscoreName": "Muramatsu",
+        "jaFullName": "村松　開人",
+        "jaFirstName": "開人",
+        "jaLastName": "村松",
+        "fullLFMName": "Muramatsu, Kaito",
+        "firstName": "Kaito",
+        "lastName": "Muramatsu"
+      },
+      {
+        "playerId": "81685157",
+        "jaRegisteredName": "福永　裕基",
+        "teamCode": "D",
+        "primaryNumber": "68",
+        "primaryPosition": "Infielder",
+        "jaStatus": "支配下選手",
+        "batSide": "R",
+        "pitchHand": "R",
+        "height": "180",
+        "weight": "85",
+        "birthDate": "1996-09-16",
+        "jaNotes": "",
+        "notes": "",
+        "jaBoxscoreName": "福永",
+        "boxscoreName": "Fukunaga",
+        "jaFullName": "福永　裕基",
+        "jaFirstName": "裕基",
+        "jaLastName": "福永",
+        "fullLFMName": "Fukunaga, Hiroki",
+        "firstName": "Hiroki",
+        "lastName": "Fukunaga"
+      },
+      {
+        "playerId": "91195151",
+        "jaRegisteredName": "石川　昂弥",
+        "teamCode": "D",
+        "primaryNumber": "25",
+        "primaryPosition": "Infielder",
+        "jaStatus": "支配下選手",
+        "batSide": "R",
+        "pitchHand": "R",
+        "height": "186",
+        "weight": "100",
+        "birthDate": "2001-06-22",
+        "jaNotes": "",
+        "notes": "",
+        "jaBoxscoreName": "石川昂",
+        "boxscoreName": "T.Ishikawa",
+        "jaFullName": "石川　昂弥",
+        "jaFirstName": "昂弥",
+        "jaLastName": "石川",
+        "fullLFMName": "Ishikawa, Takaya",
+        "firstName": "Takaya",
+        "lastName": "Ishikawa"
+      },
+      {
+        "playerId": "31835134",
+        "jaRegisteredName": "細川　成也",
+        "teamCode": "D",
+        "primaryNumber": "55",
+        "primaryPosition": "Outfielder",
+        "jaStatus": "支配下選手",
+        "batSide": "R",
+        "pitchHand": "R",
+        "height": "179",
+        "weight": "98",
+        "birthDate": "1998-08-04",
+        "jaNotes": "",
+        "notes": "",
+        "jaBoxscoreName": "細川",
+        "boxscoreName": "Hosokawa",
+        "jaFullName": "細川　成也",
+        "jaFirstName": "成也",
+        "jaLastName": "細川",
+        "fullLFMName": "Hosokawa, Seiya",
+        "firstName": "Seiya",
+        "lastName": "Hosokawa"
+      },
+      {
+        "playerId": "93795157",
+        "jaRegisteredName": "Ｏ．カリステ",
+        "teamCode": "D",
+        "primaryNumber": "99",
+        "primaryPosition": "Infielder",
+        "jaStatus": "支配下選手",
+        "batSide": "R",
+        "pitchHand": "R",
+        "height": "184",
+        "weight": "87",
+        "birthDate": "1992-02-03",
+        "jaNotes": "",
+        "notes": "",
+        "jaBoxscoreName": "カリステ",
+        "boxscoreName": "Calixte",
+        "jaFullName": "オルランド・カリステ",
+        "jaFirstName": "オルランド",
+        "jaLastName": "カリステ",
+        "fullLFMName": "Calixte, Orlando",
+        "firstName": "Orlando",
+        "lastName": "Calixte"
+      },
+      {
+        "playerId": "61365132",
+        "jaRegisteredName": "宇佐見　真吾",
+        "teamCode": "D",
+        "primaryNumber": "39",
+        "primaryPosition": "Catcher",
+        "jaStatus": "支配下選手",
+        "batSide": "L",
+        "pitchHand": "R",
+        "height": "181",
+        "weight": "88",
+        "birthDate": "1993-06-04",
+        "jaNotes": "",
+        "notes": "",
+        "jaBoxscoreName": "宇佐見",
+        "boxscoreName": "Usami",
+        "jaFullName": "宇佐見　真吾",
+        "jaFirstName": "真吾",
+        "jaLastName": "宇佐見",
+        "fullLFMName": "Usami, Shingo",
+        "firstName": "Shingo",
+        "lastName": "Usami"
+      },
+      {
+        "playerId": "41545130",
+        "jaRegisteredName": "加藤　匠馬",
+        "teamCode": "D",
+        "primaryNumber": "49",
+        "primaryPosition": "Catcher",
+        "jaStatus": "支配下選手",
+        "batSide": "R",
+        "pitchHand": "R",
+        "height": "175",
+        "weight": "83",
+        "birthDate": "1992-04-29",
+        "jaNotes": "",
+        "notes": "",
+        "jaBoxscoreName": "加藤匠",
+        "boxscoreName": "T.Katoh",
+        "jaFullName": "加藤　匠馬",
+        "jaFirstName": "匠馬",
+        "jaLastName": "加藤",
+        "fullLFMName": "Katoh, Takuma",
+        "firstName": "Takuma",
+        "lastName": "Katoh"
+      },
+      {
+        "playerId": "21025157",
+        "jaRegisteredName": "田中　幹也",
+        "teamCode": "D",
+        "primaryNumber": "2",
+        "primaryPosition": "Infielder",
+        "jaStatus": "支配下選手",
+        "batSide": "R",
+        "pitchHand": "R",
+        "height": "166",
+        "weight": "68",
+        "birthDate": "2000-11-28",
+        "jaNotes": "",
+        "notes": "",
+        "jaBoxscoreName": "田中",
+        "boxscoreName": "Tanaka",
+        "jaFullName": "田中　幹也",
+        "jaFirstName": "幹也",
+        "jaLastName": "田中",
+        "fullLFMName": "Tanaka, Mikiya",
+        "firstName": "Mikiya",
+        "lastName": "Tanaka"
+      },
+      {
+        "playerId": "81185138",
+        "jaRegisteredName": "梅津　晃大",
+        "teamCode": "D",
+        "primaryNumber": "18",
+        "primaryPosition": "Pitcher",
+        "jaStatus": "支配下選手",
+        "batSide": "R",
+        "pitchHand": "R",
+        "height": "187",
+        "weight": "95",
+        "birthDate": "1996-10-24",
+        "jaNotes": "",
+        "notes": "",
+        "jaBoxscoreName": "梅津",
+        "boxscoreName": "Umetsu",
+        "jaFullName": "梅津　晃大",
+        "jaFirstName": "晃大",
+        "jaLastName": "梅津",
+        "fullLFMName": "Umetsu, Kodai",
+        "firstName": "Kodai",
+        "lastName": "Umetsu"
+      },
+      {
+        "playerId": "81785133",
+        "jaRegisteredName": "後藤　駿太",
+        "teamCode": "D",
+        "primaryNumber": "53",
+        "primaryPosition": "Outfielder",
+        "jaStatus": "支配下選手",
+        "batSide": "L",
+        "pitchHand": "R",
+        "height": "180",
+        "weight": "85",
+        "birthDate": "1993-03-05",
+        "jaNotes": "",
+        "notes": "",
+        "jaBoxscoreName": "後藤",
+        "boxscoreName": "Gotoh",
+        "jaFullName": "後藤　駿太",
+        "jaFirstName": "駿太",
+        "jaLastName": "後藤",
+        "fullLFMName": "Gotoh, Shunta",
+        "firstName": "Shunta",
+        "lastName": "Gotoh"
+      },
+      {
+        "playerId": "21025137",
+        "jaRegisteredName": "福谷　浩司",
+        "teamCode": "D",
+        "primaryNumber": "24",
+        "primaryPosition": "Pitcher",
+        "jaStatus": "支配下選手",
+        "batSide": "R",
+        "pitchHand": "R",
+        "height": "183",
+        "weight": "93",
+        "birthDate": "1991-01-09",
+        "jaNotes": "",
+        "notes": "",
+        "jaBoxscoreName": "福谷",
+        "boxscoreName": "Fukutani",
+        "jaFullName": "福谷　浩司",
+        "jaFirstName": "浩司",
+        "jaLastName": "福谷",
+        "fullLFMName": "Fukutani, Koji",
+        "firstName": "Koji",
+        "lastName": "Fukutani"
+      },
+      {
+        "playerId": "71875155",
+        "jaRegisteredName": "ブライト　健太",
+        "teamCode": "D",
+        "primaryNumber": "42",
+        "primaryPosition": "Outfielder",
+        "jaStatus": "支配下選手",
+        "batSide": "R",
+        "pitchHand": "R",
+        "height": "184",
+        "weight": "88",
+        "birthDate": "1999-05-07",
+        "jaNotes": "",
+        "notes": "",
+        "jaBoxscoreName": "ブライト",
+        "boxscoreName": "Bright",
+        "jaFullName": "ブライト　健太",
+        "jaFirstName": "健太",
+        "jaLastName": "ブライト",
+        "fullLFMName": "Bright, Kenta",
+        "firstName": "Kenta",
+        "lastName": "Bright"
+      },
+      {
+        "playerId": "21625134",
+        "jaRegisteredName": "藤嶋　健人",
+        "teamCode": "D",
+        "primaryNumber": "54",
+        "primaryPosition": "Pitcher",
+        "jaStatus": "支配下選手",
+        "batSide": "R",
+        "pitchHand": "R",
+        "height": "177",
+        "weight": "85",
+        "birthDate": "1998-05-08",
+        "jaNotes": "",
+        "notes": "",
+        "jaBoxscoreName": "藤嶋",
+        "boxscoreName": "Fujishima",
+        "jaFullName": "藤嶋　健人",
+        "jaFirstName": "健人",
+        "jaLastName": "藤嶋",
+        "fullLFMName": "Fujishima, Kento",
+        "firstName": "Kento",
+        "lastName": "Fujishima"
+      },
+      {
+        "playerId": "21425151",
+        "jaRegisteredName": "橋本　侑樹",
+        "teamCode": "D",
+        "primaryNumber": "13",
+        "primaryPosition": "Pitcher",
+        "jaStatus": "支配下選手",
+        "batSide": "L",
+        "pitchHand": "L",
+        "height": "180",
+        "weight": "75",
+        "birthDate": "1998-01-08",
+        "jaNotes": "",
+        "notes": "",
+        "jaBoxscoreName": "橋本",
+        "boxscoreName": "Hashimoto",
+        "jaFullName": "橋本　侑樹",
+        "jaFirstName": "侑樹",
+        "jaLastName": "橋本",
+        "fullLFMName": "Hashimoto, Yuki",
+        "firstName": "Yuki",
+        "lastName": "Hashimoto"
+      },
+      {
+        "playerId": "81585132",
+        "jaRegisteredName": "川越　誠司",
+        "teamCode": "D",
+        "primaryNumber": "44",
+        "primaryPosition": "Outfielder",
+        "jaStatus": "支配下選手",
+        "batSide": "L",
+        "pitchHand": "L",
+        "height": "174",
+        "weight": "80",
+        "birthDate": "1993-06-30",
+        "jaNotes": "",
+        "notes": "",
+        "jaBoxscoreName": "川越",
+        "boxscoreName": "Kawagoe",
+        "jaFullName": "川越　誠司",
+        "jaFirstName": "誠司",
+        "jaLastName": "川越",
+        "fullLFMName": "Kawagoe, Seiji",
+        "firstName": "Seiji",
+        "lastName": "Kawagoe"
+      },
+      {
+        "playerId": "71575159",
+        "jaRegisteredName": "尾田　剛樹",
+        "teamCode": "D",
+        "primaryNumber": "00",
+        "primaryPosition": "Outfielder",
+        "jaStatus": "支配下選手",
+        "batSide": "L",
+        "pitchHand": "L",
+        "height": "175",
+        "weight": "74",
+        "birthDate": "2000-08-03",
+        "jaNotes": "3/26 育成選手から支配下選手へ移行",
+        "notes": "Registered(developmental player ->) (Mar. 26).",
+        "jaBoxscoreName": "尾田",
+        "boxscoreName": "Oda",
+        "jaFullName": "尾田　剛樹",
+        "jaFirstName": "剛樹",
+        "jaLastName": "尾田",
+        "fullLFMName": "Oda, Gouki",
+        "firstName": "Gouki",
+        "lastName": "Oda"
+      }
+    ]
+  },
+  {
+    "date": "2024-10-04",
+    "pathname": "/scores/2024/1004/h-m-25/",
+    "jaTitle": "【パーソル パ・リーグ公式戦】 福岡ソフトバンクホークス vs 千葉ロッテマリーンズ 25回戦",
+    "teams": {
+      "road": {
+        "teamCode": "M",
+        "teamName": "Marines"
+      },
+      "home": {
+        "teamCode": "H",
+        "teamName": "Hawks"
+      }
+    },
+    "status": "Final",
+    "venue": {
+      "jaBoxscoreName": "みずほPayPay",
+      "boxscoreName": "MIZUHO PayPay",
+      "jaName": "みずほPayPayドーム福岡",
+      "name": "MIZUHO PayPay Dome FUKUOKA"
+    },
+    "startTime": "18:00",
+    "endTime": "20:34",
+    "duration": "02:34",
+    "attendanece": 39590,
+    "umpires": {
+      "jaText": "球審：眞鍋 、塁審(一)：松本 、塁審(二)：木内 、塁審(三)：原"
+    },
+    "battery": {
+      "pitchers": {
+        "road": [
+          {
+            "id": "31635153",
+            "jaBoxscoreName": "中森"
+          },
+          {
+            "id": "21525116",
+            "jaBoxscoreName": "唐川"
+          },
+          {
+            "id": "01205138",
+            "jaBoxscoreName": "中村稔"
+          }
+        ],
+        "home": [
+          {
+            "id": "01305157",
+            "jaBoxscoreName": "大津"
+          },
+          {
+            "id": "81285151",
+            "jaBoxscoreName": "津森"
+          },
+          {
+            "id": "31635155",
+            "jaBoxscoreName": "長谷川"
+          },
+          {
+            "id": "91995138",
+            "jaBoxscoreName": "杉山"
+          },
+          {
+            "id": "33435157",
+            "jaBoxscoreName": "ヘルナンデス"
+          }
+        ]
+      },
+      "catchers": {
+        "road": [
+          {
+            "id": "51455159",
+            "jaBoxscoreName": "寺地"
+          }
+        ],
+        "home": [
+          {
+            "id": "91595133",
+            "jaBoxscoreName": "甲斐"
+          }
+        ]
+      }
+    },
+    "homeruns": {
+      "road": [],
+      "home": [
+        {
+          "id": "01705130-2024-20",
+          "inning": 6,
+          "halfInning": "bottom",
+          "rbi": 1,
+          "number": 20,
+          "batter": {
+            "id": "01705130",
+            "jaBoxscoreName": "栗原"
+          },
+          "pitcher": {
+            "id": "21525116",
+            "jaBoxscoreName": "唐川"
+          }
+        }
+      ]
+    },
+    "boxscore": {
+      "teamStats": {
+        "road": {
+          "batting": {
+            "atBats": 31,
+            "runs": 0,
+            "hits": 4,
+            "rbi": 0,
+            "stolenBases": 1
+          },
+          "pitching": {
+            "pitchesThrown": 136,
+            "battersFaced": 34,
+            "inningsPitched": 8,
+            "hits": 7,
+            "homeRuns": 1,
+            "baseOnBalls": 2,
+            "hitByPitch": 1,
+            "strikeOuts": 8,
+            "wildPitches": 0,
+            "balks": 0,
+            "runs": 1,
+            "earnedRuns": 1
+          }
+        },
+        "home": {
+          "batting": {
+            "atBats": 30,
+            "runs": 1,
+            "hits": 7,
+            "rbi": 1,
+            "stolenBases": 0
+          },
+          "pitching": {
+            "pitchesThrown": 112,
+            "battersFaced": 32,
+            "inningsPitched": 9,
+            "hits": 4,
+            "homeRuns": 0,
+            "baseOnBalls": 1,
+            "hitByPitch": 0,
+            "strikeOuts": 4,
+            "wildPitches": 0,
+            "balks": 0,
+            "runs": 0,
+            "earnedRuns": 0
+          }
+        }
+      }
+    },
+    "playByPlay": [
+      {
+        "inning": {
+          "inning": 1,
+          "halfInning": "top",
+          "text": "1回表（ロッテの攻撃）"
+        },
+        "pitcher": {
+          "id": "01305157",
+          "jaBoxscoreName": "大津"
+        },
+        "jaText": "（先発投手） 大津",
+        "home": {
+          "runs": 0
+        },
+        "road": {
+          "runs": 0
+        },
+        "isPitcherEvent": "Y",
+        "pa": {
+          "top": 0,
+          "bottom": 0,
+          "inn": 0,
+          "runs": 0
+        },
+        "runs": {
+          "road": 0,
+          "home": 0
+        }
+      },
+      {
+        "inning": {
+          "inning": 1,
+          "halfInning": "top",
+          "text": "1回表（ロッテの攻撃）"
+        },
+        "outs": 0,
+        "runners": "---",
+        "batter": {
+          "id": "11515139",
+          "jaBoxscoreName": "岡"
+        },
+        "count": {
+          "balls": 0,
+          "strikes": 2
+        },
+        "jaResult": {
+          "players": [],
+          "text": "サードゴロ"
+        },
+        "pitcher": {
+          "id": "01305157",
+          "jaBoxscoreName": "大津"
+        },
+        "pa": {
+          "top": 1,
+          "bottom": 0,
+          "inn": 1,
+          "runs": 0
+        },
+        "runs": {
+          "road": 0,
+          "home": 0
+        }
+      },
+      {
+        "inning": {
+          "inning": 1,
+          "halfInning": "top",
+          "text": "1回表（ロッテの攻撃）"
+        },
+        "outs": 1,
+        "runners": "---",
+        "batter": {
+          "id": "41645136",
+          "jaBoxscoreName": "藤岡"
+        },
+        "count": {
+          "balls": 2,
+          "strikes": 2
+        },
+        "jaResult": {
+          "players": [],
+          "text": "レフトフライ"
+        },
+        "pitcher": {
+          "id": "01305157",
+          "jaBoxscoreName": "大津"
+        },
+        "pa": {
+          "top": 2,
+          "bottom": 0,
+          "inn": 2,
+          "runs": 0
+        },
+        "runs": {
+          "road": 0,
+          "home": 0
+        }
+      },
+      {
+        "inning": {
+          "inning": 1,
+          "halfInning": "top",
+          "text": "1回表（ロッテの攻撃）"
+        },
+        "outs": 2,
+        "runners": "---",
+        "batter": {
+          "id": "41545114",
+          "jaBoxscoreName": "角中"
+        },
+        "count": {
+          "balls": 2,
+          "strikes": 2
+        },
+        "jaResult": {
+          "players": [],
+          "text": "センターフライ"
+        },
+        "pitcher": {
+          "id": "01305157",
+          "jaBoxscoreName": "大津"
+        },
+        "pa": {
+          "top": 3,
+          "bottom": 0,
+          "inn": 3,
+          "runs": 0
+        },
+        "runs": {
+          "road": 0,
+          "home": 0
+        }
+      },
+      {
+        "inning": {
+          "inning": 1,
+          "halfInning": "bottom",
+          "text": "1回裏（ソフトバンクの攻撃）"
+        },
+        "pitcher": {
+          "id": "31635153",
+          "jaBoxscoreName": "中森"
+        },
+        "jaText": "（先発投手） 中森",
+        "home": {
+          "runs": 0
+        },
+        "road": {
+          "runs": 0
+        },
+        "isPitcherEvent": "Y",
+        "pa": {
+          "top": 3,
+          "bottom": 0,
+          "inn": 0,
+          "runs": 0
+        },
+        "runs": {
+          "road": 0,
+          "home": 0
+        }
+      },
+      {
+        "inning": {
+          "inning": 1,
+          "halfInning": "bottom",
+          "text": "1回裏（ソフトバンクの攻撃）"
+        },
+        "outs": 0,
+        "runners": "---",
+        "batter": {
+          "id": "43245159",
+          "jaBoxscoreName": "ダウンズ"
+        },
+        "count": {
+          "balls": 2,
+          "strikes": 2
+        },
+        "jaResult": {
+          "players": [],
+          "text": "ショートゴロ"
+        },
+        "pitcher": {
+          "id": "31635153",
+          "jaBoxscoreName": "中森"
+        },
+        "pa": {
+          "top": 3,
+          "bottom": 1,
+          "inn": 1,
+          "runs": 0
+        },
+        "runs": {
+          "road": 0,
+          "home": 0
+        }
+      },
+      {
+        "inning": {
+          "inning": 1,
+          "halfInning": "bottom",
+          "text": "1回裏（ソフトバンクの攻撃）"
+        },
+        "outs": 1,
+        "runners": "---",
+        "batter": {
+          "id": "31835133",
+          "jaBoxscoreName": "柳田"
+        },
+        "count": {
+          "balls": 3,
+          "strikes": 1
+        },
+        "jaResult": {
+          "players": [],
+          "text": "フォアボール"
+        },
+        "pitcher": {
+          "id": "31635153",
+          "jaBoxscoreName": "中森"
+        },
+        "pa": {
+          "top": 3,
+          "bottom": 2,
+          "inn": 2,
+          "runs": 0
+        },
+        "runs": {
+          "road": 0,
+          "home": 0
+        }
+      },
+      {
+        "inning": {
+          "inning": 1,
+          "halfInning": "bottom",
+          "text": "1回裏（ソフトバンクの攻撃）"
+        },
+        "outs": 1,
+        "runners": "1--",
+        "batter": {
+          "id": "01705130",
+          "jaBoxscoreName": "栗原"
+        },
+        "count": {
+          "balls": 0,
+          "strikes": 0
+        },
+        "jaResult": {
+          "players": [],
+          "text": "キャッチャーファウルフライ"
+        },
+        "pitcher": {
+          "id": "31635153",
+          "jaBoxscoreName": "中森"
+        },
+        "pa": {
+          "top": 3,
+          "bottom": 3,
+          "inn": 3,
+          "runs": 0
+        },
+        "runs": {
+          "road": 0,
+          "home": 0
+        }
+      },
+      {
+        "inning": {
+          "inning": 1,
+          "halfInning": "bottom",
+          "text": "1回裏（ソフトバンクの攻撃）"
+        },
+        "outs": 2,
+        "runners": "1--",
+        "batter": {
+          "id": "21425139",
+          "jaBoxscoreName": "山川"
+        },
+        "count": {
+          "balls": 0,
+          "strikes": 0
+        },
+        "jaResult": {
+          "players": [],
+          "text": "サードゴロ"
+        },
+        "pitcher": {
+          "id": "31635153",
+          "jaBoxscoreName": "中森"
+        },
+        "pa": {
+          "top": 3,
+          "bottom": 4,
+          "inn": 4,
+          "runs": 0
+        },
+        "runs": {
+          "road": 0,
+          "home": 0
+        }
+      },
+      {
+        "inning": {
+          "inning": 2,
+          "halfInning": "top",
+          "text": "2回表（ロッテの攻撃）"
+        },
+        "outs": 0,
+        "runners": "---",
+        "batter": {
+          "id": "03505136",
+          "jaBoxscoreName": "ソト"
+        },
+        "count": {
+          "balls": 0,
+          "strikes": 1
+        },
+        "jaResult": {
+          "players": [],
+          "text": "ライトフライ"
+        },
+        "pitcher": {
+          "id": "01305157",
+          "jaBoxscoreName": "大津"
+        },
+        "pa": {
+          "top": 4,
+          "bottom": 4,
+          "inn": 1,
+          "runs": 0
+        },
+        "runs": {
+          "road": 0,
+          "home": 0
+        }
+      },
+      {
+        "inning": {
+          "inning": 2,
+          "halfInning": "top",
+          "text": "2回表（ロッテの攻撃）"
+        },
+        "outs": 1,
+        "runners": "---",
+        "batter": {
+          "id": "31635138",
+          "jaBoxscoreName": "藤原"
+        },
+        "count": {
+          "balls": 2,
+          "strikes": 1
+        },
+        "jaResult": {
+          "players": [],
+          "text": "キャッチャーフライ"
+        },
+        "pitcher": {
+          "id": "01305157",
+          "jaBoxscoreName": "大津"
+        },
+        "pa": {
+          "top": 5,
+          "bottom": 4,
+          "inn": 2,
+          "runs": 0
+        },
+        "runs": {
+          "road": 0,
+          "home": 0
+        }
+      },
+      {
+        "inning": {
+          "inning": 2,
+          "halfInning": "top",
+          "text": "2回表（ロッテの攻撃）"
+        },
+        "outs": 2,
+        "runners": "---",
+        "batter": {
+          "id": "01105135",
+          "jaBoxscoreName": "石川慎"
+        },
+        "count": {
+          "balls": 1,
+          "strikes": 0
+        },
+        "jaResult": {
+          "players": [],
+          "text": "ライトフライ"
+        },
+        "pitcher": {
+          "id": "01305157",
+          "jaBoxscoreName": "大津"
+        },
+        "pa": {
+          "top": 6,
+          "bottom": 4,
+          "inn": 3,
+          "runs": 0
+        },
+        "runs": {
+          "road": 0,
+          "home": 0
+        }
+      },
+      {
+        "inning": {
+          "inning": 2,
+          "halfInning": "bottom",
+          "text": "2回裏（ソフトバンクの攻撃）"
+        },
+        "outs": 0,
+        "runners": "---",
+        "batter": {
+          "id": "81885155",
+          "jaBoxscoreName": "正木"
+        },
+        "count": {
+          "balls": 3,
+          "strikes": 2
+        },
+        "jaResult": {
+          "players": [],
+          "text": "空振り三振"
+        },
+        "pitcher": {
+          "id": "31635153",
+          "jaBoxscoreName": "中森"
+        },
+        "pa": {
+          "top": 6,
+          "bottom": 5,
+          "inn": 1,
+          "runs": 0
+        },
+        "runs": {
+          "road": 0,
+          "home": 0
+        }
+      },
+      {
+        "inning": {
+          "inning": 2,
+          "halfInning": "bottom",
+          "text": "2回裏（ソフトバンクの攻撃）"
+        },
+        "outs": 1,
+        "runners": "---",
+        "batter": {
+          "id": "31335131",
+          "jaBoxscoreName": "今宮"
+        },
+        "count": {
+          "balls": 2,
+          "strikes": 1
+        },
+        "jaResult": {
+          "players": [],
+          "text": "レフト前ヒット"
+        },
+        "pitcher": {
+          "id": "31635153",
+          "jaBoxscoreName": "中森"
+        },
+        "pa": {
+          "top": 6,
+          "bottom": 6,
+          "inn": 2,
+          "runs": 0
+        },
+        "runs": {
+          "road": 0,
+          "home": 0
+        },
+        "hits": 1
+      },
+      {
+        "inning": {
+          "inning": 2,
+          "halfInning": "bottom",
+          "text": "2回裏（ソフトバンクの攻撃）"
+        },
+        "outs": 1,
+        "runners": "1--",
+        "batter": {
+          "id": "73175151",
+          "jaBoxscoreName": "柳町"
+        },
+        "count": {
+          "balls": 1,
+          "strikes": 1
+        },
+        "jaResult": {
+          "players": [],
+          "text": "ライト前ヒット"
+        },
+        "pitcher": {
+          "id": "31635153",
+          "jaBoxscoreName": "中森"
+        },
+        "pa": {
+          "top": 6,
+          "bottom": 7,
+          "inn": 3,
+          "runs": 0
+        },
+        "runs": {
+          "road": 0,
+          "home": 0
+        },
+        "hits": 1
+      },
+      {
+        "inning": {
+          "inning": 2,
+          "halfInning": "bottom",
+          "text": "2回裏（ソフトバンクの攻撃）"
+        },
+        "outs": 1,
+        "runners": "1-3",
+        "batter": {
+          "id": "91595133",
+          "jaBoxscoreName": "甲斐"
+        },
+        "count": {
+          "balls": 3,
+          "strikes": 2
+        },
+        "jaResult": {
+          "players": [],
+          "text": "空振り三振"
+        },
+        "pitcher": {
+          "id": "31635153",
+          "jaBoxscoreName": "中森"
+        },
+        "pa": {
+          "top": 6,
+          "bottom": 8,
+          "inn": 4,
+          "runs": 0
+        },
+        "runs": {
+          "road": 0,
+          "home": 0
+        }
+      },
+      {
+        "inning": {
+          "inning": 2,
+          "halfInning": "bottom",
+          "text": "2回裏（ソフトバンクの攻撃）"
+        },
+        "outs": 2,
+        "runners": "1-3",
+        "batter": {
+          "id": "11715155",
+          "jaBoxscoreName": "川村"
+        },
+        "count": {
+          "balls": 1,
+          "strikes": 2
+        },
+        "jaResult": {
+          "players": [],
+          "text": "空振り三振"
+        },
+        "pitcher": {
+          "id": "31635153",
+          "jaBoxscoreName": "中森"
+        },
+        "pa": {
+          "top": 6,
+          "bottom": 9,
+          "inn": 5,
+          "runs": 0
+        },
+        "runs": {
+          "road": 0,
+          "home": 0
+        }
+      },
+      {
+        "inning": {
+          "inning": 3,
+          "halfInning": "top",
+          "text": "3回表（ロッテの攻撃）"
+        },
+        "outs": 0,
+        "runners": "---",
+        "batter": {
+          "id": "51455159",
+          "jaBoxscoreName": "寺地"
+        },
+        "count": {
+          "balls": 0,
+          "strikes": 0
+        },
+        "jaResult": {
+          "players": [],
+          "text": "セカンドゴロ"
+        },
+        "pitcher": {
+          "id": "01305157",
+          "jaBoxscoreName": "大津"
+        },
+        "pa": {
+          "top": 7,
+          "bottom": 9,
+          "inn": 1,
+          "runs": 0
+        },
+        "runs": {
+          "road": 0,
+          "home": 0
+        }
+      },
+      {
+        "inning": {
+          "inning": 3,
+          "halfInning": "top",
+          "text": "3回表（ロッテの攻撃）"
+        },
+        "outs": 1,
+        "runners": "---",
+        "batter": {
+          "id": "81885136",
+          "jaBoxscoreName": "安田"
+        },
+        "count": {
+          "balls": 1,
+          "strikes": 2
+        },
+        "jaResult": {
+          "players": [],
+          "text": "センターフライ"
+        },
+        "pitcher": {
+          "id": "01305157",
+          "jaBoxscoreName": "大津"
+        },
+        "pa": {
+          "top": 8,
+          "bottom": 9,
+          "inn": 2,
+          "runs": 0
+        },
+        "runs": {
+          "road": 0,
+          "home": 0
+        }
+      },
+      {
+        "inning": {
+          "inning": 3,
+          "halfInning": "top",
+          "text": "3回表（ロッテの攻撃）"
+        },
+        "outs": 2,
+        "runners": "---",
+        "batter": {
+          "id": "71275157",
+          "jaBoxscoreName": "友杉"
+        },
+        "count": {
+          "balls": 0,
+          "strikes": 1
+        },
+        "jaResult": {
+          "players": [],
+          "text": "ショートゴロ"
+        },
+        "pitcher": {
+          "id": "01305157",
+          "jaBoxscoreName": "大津"
+        },
+        "pa": {
+          "top": 9,
+          "bottom": 9,
+          "inn": 3,
+          "runs": 0
+        },
+        "runs": {
+          "road": 0,
+          "home": 0
+        }
+      },
+      {
+        "inning": {
+          "inning": 3,
+          "halfInning": "bottom",
+          "text": "3回裏（ソフトバンクの攻撃）"
+        },
+        "outs": 0,
+        "runners": "---",
+        "batter": {
+          "id": "43245159",
+          "jaBoxscoreName": "ダウンズ"
+        },
+        "count": {
+          "balls": 0,
+          "strikes": 0
+        },
+        "jaResult": {
+          "players": [],
+          "text": "ライトフライ"
+        },
+        "pitcher": {
+          "id": "31635153",
+          "jaBoxscoreName": "中森"
+        },
+        "pa": {
+          "top": 9,
+          "bottom": 10,
+          "inn": 1,
+          "runs": 0
+        },
+        "runs": {
+          "road": 0,
+          "home": 0
+        }
+      },
+      {
+        "inning": {
+          "inning": 3,
+          "halfInning": "bottom",
+          "text": "3回裏（ソフトバンクの攻撃）"
+        },
+        "outs": 1,
+        "runners": "---",
+        "batter": {
+          "id": "31835133",
+          "jaBoxscoreName": "柳田"
+        },
+        "count": {
+          "balls": 1,
+          "strikes": 2
+        },
+        "jaResult": {
+          "players": [],
+          "text": "ショートフライ"
+        },
+        "pitcher": {
+          "id": "31635153",
+          "jaBoxscoreName": "中森"
+        },
+        "pa": {
+          "top": 9,
+          "bottom": 11,
+          "inn": 2,
+          "runs": 0
+        },
+        "runs": {
+          "road": 0,
+          "home": 0
+        }
+      },
+      {
+        "inning": {
+          "inning": 3,
+          "halfInning": "bottom",
+          "text": "3回裏（ソフトバンクの攻撃）"
+        },
+        "outs": 2,
+        "runners": "---",
+        "batter": {
+          "id": "01705130",
+          "jaBoxscoreName": "栗原"
+        },
+        "count": {
+          "balls": 3,
+          "strikes": 2
+        },
+        "jaResult": {
+          "players": [],
+          "text": "レフト前ヒット"
+        },
+        "pitcher": {
+          "id": "31635153",
+          "jaBoxscoreName": "中森"
+        },
+        "pa": {
+          "top": 9,
+          "bottom": 12,
+          "inn": 3,
+          "runs": 0
+        },
+        "runs": {
+          "road": 0,
+          "home": 0
+        },
+        "hits": 1
+      },
+      {
+        "inning": {
+          "inning": 3,
+          "halfInning": "bottom",
+          "text": "3回裏（ソフトバンクの攻撃）"
+        },
+        "outs": 2,
+        "runners": "1--",
+        "batter": {
+          "id": "21425139",
+          "jaBoxscoreName": "山川"
+        },
+        "count": {
+          "balls": 2,
+          "strikes": 2
+        },
+        "jaResult": {
+          "players": [],
+          "text": "空振り三振"
+        },
+        "pitcher": {
+          "id": "31635153",
+          "jaBoxscoreName": "中森"
+        },
+        "pa": {
+          "top": 9,
+          "bottom": 13,
+          "inn": 4,
+          "runs": 0
+        },
+        "runs": {
+          "road": 0,
+          "home": 0
+        }
+      },
+      {
+        "inning": {
+          "inning": 4,
+          "halfInning": "top",
+          "text": "4回表（ロッテの攻撃）"
+        },
+        "outs": 0,
+        "runners": "---",
+        "batter": {
+          "id": "11515139",
+          "jaBoxscoreName": "岡"
+        },
+        "count": {
+          "balls": 2,
+          "strikes": 1
+        },
+        "jaResult": {
+          "players": [],
+          "text": "ショートゴロ"
+        },
+        "pitcher": {
+          "id": "01305157",
+          "jaBoxscoreName": "大津"
+        },
+        "pa": {
+          "top": 10,
+          "bottom": 13,
+          "inn": 1,
+          "runs": 0
+        },
+        "runs": {
+          "road": 0,
+          "home": 0
+        }
+      },
+      {
+        "inning": {
+          "inning": 4,
+          "halfInning": "top",
+          "text": "4回表（ロッテの攻撃）"
+        },
+        "outs": 1,
+        "runners": "---",
+        "batter": {
+          "id": "41645136",
+          "jaBoxscoreName": "藤岡"
+        },
+        "count": {
+          "balls": 3,
+          "strikes": 1
+        },
+        "jaResult": {
+          "players": [],
+          "text": "フォアボール"
+        },
+        "pitcher": {
+          "id": "01305157",
+          "jaBoxscoreName": "大津"
+        },
+        "pa": {
+          "top": 11,
+          "bottom": 13,
+          "inn": 2,
+          "runs": 0
+        },
+        "runs": {
+          "road": 0,
+          "home": 0
+        }
+      },
+      {
+        "inning": {
+          "inning": 4,
+          "halfInning": "top",
+          "text": "4回表（ロッテの攻撃）"
+        },
+        "outs": 1,
+        "runners": "1--",
+        "batter": {
+          "id": "41545114",
+          "jaBoxscoreName": "角中"
+        },
+        "count": {
+          "balls": 0,
+          "strikes": 0
+        },
+        "jaResult": {
+          "players": [],
+          "text": "ライト前ヒット"
+        },
+        "pitcher": {
+          "id": "01305157",
+          "jaBoxscoreName": "大津"
+        },
+        "pa": {
+          "top": 12,
+          "bottom": 13,
+          "inn": 3,
+          "runs": 0
+        },
+        "runs": {
+          "road": 0,
+          "home": 0
+        },
+        "hits": 1
+      },
+      {
+        "inning": {
+          "inning": 4,
+          "halfInning": "top",
+          "text": "4回表（ロッテの攻撃）"
+        },
+        "outs": 1,
+        "runners": "12-",
+        "batter": {
+          "id": "03505136",
+          "jaBoxscoreName": "ソト"
+        },
+        "count": {
+          "balls": 3,
+          "strikes": 2
+        },
+        "jaResult": {
+          "players": [],
+          "text": "ファーストファウルフライ"
+        },
+        "pitcher": {
+          "id": "01305157",
+          "jaBoxscoreName": "大津"
+        },
+        "pa": {
+          "top": 13,
+          "bottom": 13,
+          "inn": 4,
+          "runs": 0
+        },
+        "runs": {
+          "road": 0,
+          "home": 0
+        }
+      },
+      {
+        "inning": {
+          "inning": 4,
+          "halfInning": "top",
+          "text": "4回表（ロッテの攻撃）"
+        },
+        "outs": 2,
+        "runners": "12-",
+        "batter": {
+          "id": "31635138",
+          "jaBoxscoreName": "藤原"
+        },
+        "count": {
+          "balls": 2,
+          "strikes": 2
+        },
+        "jaResult": {
+          "players": [],
+          "text": "セカンドライナー"
+        },
+        "pitcher": {
+          "id": "01305157",
+          "jaBoxscoreName": "大津"
+        },
+        "pa": {
+          "top": 14,
+          "bottom": 13,
+          "inn": 5,
+          "runs": 0
+        },
+        "runs": {
+          "road": 0,
+          "home": 0
+        }
+      },
+      {
+        "inning": {
+          "inning": 4,
+          "halfInning": "bottom",
+          "text": "4回裏（ソフトバンクの攻撃）"
+        },
+        "outs": 0,
+        "runners": "---",
+        "batter": {
+          "id": "81885155",
+          "jaBoxscoreName": "正木"
+        },
+        "count": {
+          "balls": 1,
+          "strikes": 1
+        },
+        "jaResult": {
+          "players": [],
+          "text": "レフトフライ"
+        },
+        "pitcher": {
+          "id": "31635153",
+          "jaBoxscoreName": "中森"
+        },
+        "pa": {
+          "top": 14,
+          "bottom": 14,
+          "inn": 1,
+          "runs": 0
+        },
+        "runs": {
+          "road": 0,
+          "home": 0
+        }
+      },
+      {
+        "inning": {
+          "inning": 4,
+          "halfInning": "bottom",
+          "text": "4回裏（ソフトバンクの攻撃）"
+        },
+        "outs": 1,
+        "runners": "---",
+        "batter": {
+          "id": "31335131",
+          "jaBoxscoreName": "今宮"
+        },
+        "count": {
+          "balls": 0,
+          "strikes": 1
+        },
+        "jaResult": {
+          "players": [],
+          "text": "ショートゴロ"
+        },
+        "pitcher": {
+          "id": "31635153",
+          "jaBoxscoreName": "中森"
+        },
+        "pa": {
+          "top": 14,
+          "bottom": 15,
+          "inn": 2,
+          "runs": 0
+        },
+        "runs": {
+          "road": 0,
+          "home": 0
+        }
+      },
+      {
+        "inning": {
+          "inning": 4,
+          "halfInning": "bottom",
+          "text": "4回裏（ソフトバンクの攻撃）"
+        },
+        "outs": 2,
+        "runners": "---",
+        "batter": {
+          "id": "73175151",
+          "jaBoxscoreName": "柳町"
+        },
+        "count": {
+          "balls": 1,
+          "strikes": 0
+        },
+        "jaResult": {
+          "players": [],
+          "text": "ファーストゴロ"
+        },
+        "pitcher": {
+          "id": "31635153",
+          "jaBoxscoreName": "中森"
+        },
+        "pa": {
+          "top": 14,
+          "bottom": 16,
+          "inn": 3,
+          "runs": 0
+        },
+        "runs": {
+          "road": 0,
+          "home": 0
+        }
+      },
+      {
+        "inning": {
+          "inning": 5,
+          "halfInning": "top",
+          "text": "5回表（ロッテの攻撃）"
+        },
+        "outs": 0,
+        "runners": "---",
+        "batter": {
+          "id": "01105135",
+          "jaBoxscoreName": "石川慎"
+        },
+        "count": {
+          "balls": 0,
+          "strikes": 1
+        },
+        "jaResult": {
+          "players": [],
+          "text": "ライトフライ"
+        },
+        "pitcher": {
+          "id": "01305157",
+          "jaBoxscoreName": "大津"
+        },
+        "pa": {
+          "top": 15,
+          "bottom": 16,
+          "inn": 1,
+          "runs": 0
+        },
+        "runs": {
+          "road": 0,
+          "home": 0
+        }
+      },
+      {
+        "inning": {
+          "inning": 5,
+          "halfInning": "top",
+          "text": "5回表（ロッテの攻撃）"
+        },
+        "outs": 1,
+        "runners": "---",
+        "batter": {
+          "id": "51455159",
+          "jaBoxscoreName": "寺地"
+        },
+        "count": {
+          "balls": 1,
+          "strikes": 2
+        },
+        "jaResult": {
+          "players": [],
+          "text": "空振り三振"
+        },
+        "pitcher": {
+          "id": "01305157",
+          "jaBoxscoreName": "大津"
+        },
+        "pa": {
+          "top": 16,
+          "bottom": 16,
+          "inn": 2,
+          "runs": 0
+        },
+        "runs": {
+          "road": 0,
+          "home": 0
+        }
+      },
+      {
+        "inning": {
+          "inning": 5,
+          "halfInning": "top",
+          "text": "5回表（ロッテの攻撃）"
+        },
+        "outs": 2,
+        "runners": "---",
+        "batter": {
+          "id": "81885136",
+          "jaBoxscoreName": "安田"
+        },
+        "count": {
+          "balls": 1,
+          "strikes": 1
+        },
+        "jaResult": {
+          "players": [],
+          "text": "センターフライ"
+        },
+        "pitcher": {
+          "id": "01305157",
+          "jaBoxscoreName": "大津"
+        },
+        "pa": {
+          "top": 17,
+          "bottom": 16,
+          "inn": 3,
+          "runs": 0
+        },
+        "runs": {
+          "road": 0,
+          "home": 0
+        }
+      },
+      {
+        "inning": {
+          "inning": 5,
+          "halfInning": "bottom",
+          "text": "5回裏（ソフトバンクの攻撃）"
+        },
+        "outs": 0,
+        "runners": "---",
+        "batter": {
+          "id": "91595133",
+          "jaBoxscoreName": "甲斐"
+        },
+        "count": {
+          "balls": 2,
+          "strikes": 2
+        },
+        "jaResult": {
+          "players": [],
+          "text": "センター前ヒット"
+        },
+        "pitcher": {
+          "id": "31635153",
+          "jaBoxscoreName": "中森"
+        },
+        "pa": {
+          "top": 17,
+          "bottom": 17,
+          "inn": 1,
+          "runs": 0
+        },
+        "runs": {
+          "road": 0,
+          "home": 0
+        },
+        "hits": 1
+      },
+      {
+        "inning": {
+          "inning": 5,
+          "halfInning": "bottom",
+          "text": "5回裏（ソフトバンクの攻撃）"
+        },
+        "outs": 0,
+        "runners": "1--",
+        "batter": {
+          "id": "11715155",
+          "jaBoxscoreName": "川村"
+        },
+        "count": {
+          "balls": 1,
+          "strikes": 0
+        },
+        "jaResult": {
+          "players": [],
+          "text": "レフトフライ"
+        },
+        "pitcher": {
+          "id": "31635153",
+          "jaBoxscoreName": "中森"
+        },
+        "pa": {
+          "top": 17,
+          "bottom": 18,
+          "inn": 2,
+          "runs": 0
+        },
+        "runs": {
+          "road": 0,
+          "home": 0
+        }
+      },
+      {
+        "inning": {
+          "inning": 5,
+          "halfInning": "bottom",
+          "text": "5回裏（ソフトバンクの攻撃）"
+        },
+        "outs": 1,
+        "runners": "1--",
+        "batter": {
+          "id": "43245159",
+          "jaBoxscoreName": "ダウンズ"
+        },
+        "count": {
+          "balls": 2,
+          "strikes": 2
+        },
+        "jaResult": {
+          "players": [],
+          "text": "セカンドフライ"
+        },
+        "pitcher": {
+          "id": "31635153",
+          "jaBoxscoreName": "中森"
+        },
+        "pa": {
+          "top": 17,
+          "bottom": 19,
+          "inn": 3,
+          "runs": 0
+        },
+        "runs": {
+          "road": 0,
+          "home": 0
+        }
+      },
+      {
+        "inning": {
+          "inning": 5,
+          "halfInning": "bottom",
+          "text": "5回裏（ソフトバンクの攻撃）"
+        },
+        "outs": 2,
+        "runners": "1--",
+        "batter": {
+          "id": "31835133",
+          "jaBoxscoreName": "柳田"
+        },
+        "count": {
+          "balls": 0,
+          "strikes": 0
+        },
+        "jaResult": {
+          "players": [],
+          "text": "セカンドゴロ"
+        },
+        "pitcher": {
+          "id": "31635153",
+          "jaBoxscoreName": "中森"
+        },
+        "pa": {
+          "top": 17,
+          "bottom": 20,
+          "inn": 4,
+          "runs": 0
+        },
+        "runs": {
+          "road": 0,
+          "home": 0
+        }
+      },
+      {
+        "inning": {
+          "inning": 6,
+          "halfInning": "top",
+          "text": "6回表（ロッテの攻撃）"
+        },
+        "outs": 0,
+        "runners": "---",
+        "batter": {
+          "id": "71275157",
+          "jaBoxscoreName": "友杉"
+        },
+        "count": {
+          "balls": 1,
+          "strikes": 2
+        },
+        "jaResult": {
+          "players": [],
+          "text": "サードゴロ"
+        },
+        "pitcher": {
+          "id": "01305157",
+          "jaBoxscoreName": "大津"
+        },
+        "pa": {
+          "top": 18,
+          "bottom": 20,
+          "inn": 1,
+          "runs": 0
+        },
+        "runs": {
+          "road": 0,
+          "home": 0
+        }
+      },
+      {
+        "inning": {
+          "inning": 6,
+          "halfInning": "top",
+          "text": "6回表（ロッテの攻撃）"
+        },
+        "outs": 1,
+        "runners": "---",
+        "batter": {
+          "id": "11515139",
+          "jaBoxscoreName": "岡"
+        },
+        "count": {
+          "balls": 0,
+          "strikes": 2
+        },
+        "jaResult": {
+          "players": [],
+          "text": "空振り三振"
+        },
+        "pitcher": {
+          "id": "01305157",
+          "jaBoxscoreName": "大津"
+        },
+        "pa": {
+          "top": 19,
+          "bottom": 20,
+          "inn": 2,
+          "runs": 0
+        },
+        "runs": {
+          "road": 0,
+          "home": 0
+        }
+      },
+      {
+        "inning": {
+          "inning": 6,
+          "halfInning": "top",
+          "text": "6回表（ロッテの攻撃）"
+        },
+        "outs": 2,
+        "runners": "---",
+        "batter": {
+          "id": "41645136",
+          "jaBoxscoreName": "藤岡"
+        },
+        "count": {
+          "balls": 0,
+          "strikes": 0
+        },
+        "jaResult": {
+          "players": [],
+          "text": "レフトフライ"
+        },
+        "pitcher": {
+          "id": "01305157",
+          "jaBoxscoreName": "大津"
+        },
+        "pa": {
+          "top": 20,
+          "bottom": 20,
+          "inn": 3,
+          "runs": 0
+        },
+        "runs": {
+          "road": 0,
+          "home": 0
+        }
+      },
+      {
+        "inning": {
+          "inning": 6,
+          "halfInning": "bottom",
+          "text": "6回裏（ソフトバンクの攻撃）"
+        },
+        "pitcher": {
+          "id": "21525116",
+          "jaBoxscoreName": "唐川"
+        },
+        "jaText": "（投手交代） 中森 → 唐川",
+        "home": {
+          "runs": 0
+        },
+        "road": {
+          "runs": 0
+        },
+        "isPitcherEvent": "Y",
+        "pa": {
+          "top": 20,
+          "bottom": 20,
+          "inn": 0,
+          "runs": 0
+        },
+        "runs": {
+          "road": 0,
+          "home": 0
+        }
+      },
+      {
+        "inning": {
+          "inning": 6,
+          "halfInning": "bottom",
+          "text": "6回裏（ソフトバンクの攻撃）"
+        },
+        "outs": 0,
+        "runners": "---",
+        "batter": {
+          "id": "01705130",
+          "jaBoxscoreName": "栗原"
+        },
+        "count": {
+          "balls": 1,
+          "strikes": 1
+        },
+        "jaResult": {
+          "players": [],
+          "text": "右中間ソロホームラン（打点1）"
+        },
+        "pitcher": {
+          "id": "21525116",
+          "jaBoxscoreName": "唐川"
+        },
+        "pa": {
+          "top": 20,
+          "bottom": 21,
+          "inn": 1,
+          "runs": 0
+        },
+        "runs": {
+          "road": 0,
+          "home": 0
+        },
+        "rbi": 1,
+        "hits": 1
+      },
+      {
+        "inning": {
+          "inning": 6,
+          "halfInning": "bottom",
+          "text": "6回裏（ソフトバンクの攻撃）"
+        },
+        "outs": 0,
+        "runners": "---",
+        "batter": {
+          "id": "21425139",
+          "jaBoxscoreName": "山川"
+        },
+        "count": {
+          "balls": 2,
+          "strikes": 2
+        },
+        "jaResult": {
+          "players": [],
+          "text": "ファーストフライ"
+        },
+        "pitcher": {
+          "id": "21525116",
+          "jaBoxscoreName": "唐川"
+        },
+        "pa": {
+          "top": 20,
+          "bottom": 22,
+          "inn": 2,
+          "runs": 1
+        },
+        "runs": {
+          "road": 0,
+          "home": 1
+        }
+      },
+      {
+        "inning": {
+          "inning": 6,
+          "halfInning": "bottom",
+          "text": "6回裏（ソフトバンクの攻撃）"
+        },
+        "outs": 1,
+        "runners": "---",
+        "batter": {
+          "id": "81885155",
+          "jaBoxscoreName": "正木"
+        },
+        "count": {
+          "balls": 0,
+          "strikes": 1
+        },
+        "jaResult": {
+          "players": [],
+          "text": "デッドボール"
+        },
+        "pitcher": {
+          "id": "21525116",
+          "jaBoxscoreName": "唐川"
+        },
+        "pa": {
+          "top": 20,
+          "bottom": 23,
+          "inn": 3,
+          "runs": 1
+        },
+        "runs": {
+          "road": 0,
+          "home": 1
+        }
+      },
+      {
+        "inning": {
+          "inning": 6,
+          "halfInning": "bottom",
+          "text": "6回裏（ソフトバンクの攻撃）"
+        },
+        "outs": 1,
+        "runners": "-2-",
+        "batter": {
+          "id": "11715132",
+          "jaBoxscoreName": "川瀬"
+        },
+        "count": {
+          "balls": 2,
+          "strikes": 2
+        },
+        "jaResult": {
+          "players": [],
+          "text": "空振り三振"
+        },
+        "pitcher": {
+          "id": "21525116",
+          "jaBoxscoreName": "唐川"
+        },
+        "pa": {
+          "top": 20,
+          "bottom": 24,
+          "inn": 4,
+          "runs": 1
+        },
+        "runs": {
+          "road": 0,
+          "home": 1
+        }
+      },
+      {
+        "inning": {
+          "inning": 6,
+          "halfInning": "bottom",
+          "text": "6回裏（ソフトバンクの攻撃）"
+        },
+        "outs": 2,
+        "runners": "-2-",
+        "batter": {
+          "id": "73175151",
+          "jaBoxscoreName": "柳町"
+        },
+        "count": {
+          "balls": 0,
+          "strikes": 2
+        },
+        "jaResult": {
+          "players": [],
+          "text": "見逃し三振"
+        },
+        "pitcher": {
+          "id": "21525116",
+          "jaBoxscoreName": "唐川"
+        },
+        "pa": {
+          "top": 20,
+          "bottom": 25,
+          "inn": 5,
+          "runs": 1
+        },
+        "runs": {
+          "road": 0,
+          "home": 1
+        }
+      },
+      {
+        "inning": {
+          "inning": 7,
+          "halfInning": "top",
+          "text": "7回表（ロッテの攻撃）"
+        },
+        "pitcher": {
+          "id": "81285151",
+          "jaBoxscoreName": "津森"
+        },
+        "jaText": "（投手交代） 大津 → 津森",
+        "home": {
+          "runs": 0
+        },
+        "road": {
+          "runs": 0
+        },
+        "isPitcherEvent": "Y",
+        "pa": {
+          "top": 20,
+          "bottom": 25,
+          "inn": 0,
+          "runs": 0
+        },
+        "runs": {
+          "road": 0,
+          "home": 1
+        }
+      },
+      {
+        "inning": {
+          "inning": 7,
+          "halfInning": "top",
+          "text": "7回表（ロッテの攻撃）"
+        },
+        "outs": 0,
+        "runners": "---",
+        "batter": {
+          "id": "41545114",
+          "jaBoxscoreName": "角中"
+        },
+        "count": {
+          "balls": 3,
+          "strikes": 1
+        },
+        "jaResult": {
+          "players": [],
+          "text": "サードフライ"
+        },
+        "pitcher": {
+          "id": "81285151",
+          "jaBoxscoreName": "津森"
+        },
+        "pa": {
+          "top": 21,
+          "bottom": 25,
+          "inn": 1,
+          "runs": 0
+        },
+        "runs": {
+          "road": 0,
+          "home": 1
+        }
+      },
+      {
+        "inning": {
+          "inning": 7,
+          "halfInning": "top",
+          "text": "7回表（ロッテの攻撃）"
+        },
+        "outs": 1,
+        "runners": "---",
+        "batter": {
+          "id": "03505136",
+          "jaBoxscoreName": "ソト"
+        },
+        "count": {
+          "balls": 1,
+          "strikes": 2
+        },
+        "jaResult": {
+          "players": [],
+          "text": "空振り三振"
+        },
+        "pitcher": {
+          "id": "81285151",
+          "jaBoxscoreName": "津森"
+        },
+        "pa": {
+          "top": 22,
+          "bottom": 25,
+          "inn": 2,
+          "runs": 0
+        },
+        "runs": {
+          "road": 0,
+          "home": 1
+        }
+      },
+      {
+        "inning": {
+          "inning": 7,
+          "halfInning": "top",
+          "text": "7回表（ロッテの攻撃）"
+        },
+        "outs": 2,
+        "runners": "---",
+        "batter": {
+          "id": "31635138",
+          "jaBoxscoreName": "藤原"
+        },
+        "count": {
+          "balls": 0,
+          "strikes": 1
+        },
+        "jaResult": {
+          "players": [],
+          "text": "センター前ヒット"
+        },
+        "pitcher": {
+          "id": "81285151",
+          "jaBoxscoreName": "津森"
+        },
+        "pa": {
+          "top": 23,
+          "bottom": 25,
+          "inn": 3,
+          "runs": 0
+        },
+        "runs": {
+          "road": 0,
+          "home": 1
+        },
+        "hits": 1
+      },
+      {
+        "inning": {
+          "inning": 7,
+          "halfInning": "top",
+          "text": "7回表（ロッテの攻撃）"
+        },
+        "outs": 2,
+        "runners": "1--",
+        "batter": {
+          "id": "01105135",
+          "jaBoxscoreName": "石川慎"
+        },
+        "count": {
+          "balls": 2,
+          "strikes": 0
+        },
+        "jaResult": {
+          "players": [],
+          "text": "ライト前ヒット"
+        },
+        "pitcher": {
+          "id": "81285151",
+          "jaBoxscoreName": "津森"
+        },
+        "pa": {
+          "top": 24,
+          "bottom": 25,
+          "inn": 4,
+          "runs": 0
+        },
+        "runs": {
+          "road": 0,
+          "home": 1
+        },
+        "hits": 1
+      },
+      {
+        "inning": {
+          "inning": 7,
+          "halfInning": "top",
+          "text": "7回表（ロッテの攻撃）"
+        },
+        "outs": 2,
+        "runners": "12-",
+        "batter": {
+          "id": "51455159",
+          "jaBoxscoreName": "寺地"
+        },
+        "count": {
+          "balls": 0,
+          "strikes": 2
+        },
+        "jaResult": {
+          "players": [],
+          "text": "空振り三振"
+        },
+        "pitcher": {
+          "id": "81285151",
+          "jaBoxscoreName": "津森"
+        },
+        "pa": {
+          "top": 25,
+          "bottom": 25,
+          "inn": 5,
+          "runs": 0
+        },
+        "runs": {
+          "road": 0,
+          "home": 1
+        }
+      },
+      {
+        "inning": {
+          "inning": 7,
+          "halfInning": "bottom",
+          "text": "7回裏（ソフトバンクの攻撃）"
+        },
+        "outs": 0,
+        "runners": "---",
+        "batter": {
+          "id": "91595133",
+          "jaBoxscoreName": "甲斐"
+        },
+        "count": {
+          "balls": 1,
+          "strikes": 1
+        },
+        "jaResult": {
+          "players": [],
+          "text": "レフト前ヒット"
+        },
+        "pitcher": {
+          "id": "21525116",
+          "jaBoxscoreName": "唐川"
+        },
+        "pa": {
+          "top": 25,
+          "bottom": 26,
+          "inn": 1,
+          "runs": 0
+        },
+        "runs": {
+          "road": 0,
+          "home": 1
+        },
+        "hits": 1
+      },
+      {
+        "inning": {
+          "inning": 7,
+          "halfInning": "bottom",
+          "text": "7回裏（ソフトバンクの攻撃）"
+        },
+        "outs": 0,
+        "runners": "1--",
+        "batter": {
+          "id": "11715155",
+          "jaBoxscoreName": "川村"
+        },
+        "count": {
+          "balls": 1,
+          "strikes": 1
+        },
+        "jaResult": {
+          "players": [],
+          "text": "ピッチャー犠牲バント"
+        },
+        "pitcher": {
+          "id": "21525116",
+          "jaBoxscoreName": "唐川"
+        },
+        "pa": {
+          "top": 25,
+          "bottom": 27,
+          "inn": 2,
+          "runs": 0
+        },
+        "runs": {
+          "road": 0,
+          "home": 1
+        }
+      },
+      {
+        "inning": {
+          "inning": 7,
+          "halfInning": "bottom",
+          "text": "7回裏（ソフトバンクの攻撃）"
+        },
+        "outs": 1,
+        "runners": "-2-",
+        "batter": {
+          "id": "61465133",
+          "jaBoxscoreName": "牧原大"
+        },
+        "count": {
+          "balls": 3,
+          "strikes": 2
+        },
+        "jaResult": {
+          "players": [],
+          "text": "レフトフライ"
+        },
+        "pitcher": {
+          "id": "21525116",
+          "jaBoxscoreName": "唐川"
+        },
+        "pa": {
+          "top": 25,
+          "bottom": 28,
+          "inn": 3,
+          "runs": 0
+        },
+        "runs": {
+          "road": 0,
+          "home": 1
+        }
+      },
+      {
+        "inning": {
+          "inning": 7,
+          "halfInning": "bottom",
+          "text": "7回裏（ソフトバンクの攻撃）"
+        },
+        "outs": 2,
+        "runners": "-2-",
+        "batter": {
+          "id": "31835133",
+          "jaBoxscoreName": "柳田"
+        },
+        "count": {
+          "balls": 3,
+          "strikes": 2
+        },
+        "jaResult": {
+          "players": [],
+          "text": "セカンドゴロ"
+        },
+        "pitcher": {
+          "id": "21525116",
+          "jaBoxscoreName": "唐川"
+        },
+        "pa": {
+          "top": 25,
+          "bottom": 29,
+          "inn": 4,
+          "runs": 0
+        },
+        "runs": {
+          "road": 0,
+          "home": 1
+        }
+      },
+      {
+        "inning": {
+          "inning": 8,
+          "halfInning": "top",
+          "text": "8回表（ロッテの攻撃）"
+        },
+        "pitcher": {
+          "id": "31635155",
+          "jaBoxscoreName": "長谷川"
+        },
+        "jaText": "（投手交代） 津森 → 長谷川",
+        "home": {
+          "runs": 0
+        },
+        "road": {
+          "runs": 0
+        },
+        "isPitcherEvent": "Y",
+        "pa": {
+          "top": 25,
+          "bottom": 29,
+          "inn": 0,
+          "runs": 0
+        },
+        "runs": {
+          "road": 0,
+          "home": 1
+        }
+      },
+      {
+        "inning": {
+          "inning": 8,
+          "halfInning": "top",
+          "text": "8回表（ロッテの攻撃）"
+        },
+        "outs": 0,
+        "runners": "---",
+        "batter": {
+          "id": "71275132",
+          "jaBoxscoreName": "茶谷"
+        },
+        "count": {
+          "balls": 2,
+          "strikes": 1
+        },
+        "jaResult": {
+          "players": [],
+          "text": "ライトフライ"
+        },
+        "isPinchHit": "Y",
+        "pitcher": {
+          "id": "31635155",
+          "jaBoxscoreName": "長谷川"
+        },
+        "pa": {
+          "top": 26,
+          "bottom": 29,
+          "inn": 1,
+          "runs": 0
+        },
+        "runs": {
+          "road": 0,
+          "home": 1
+        }
+      },
+      {
+        "inning": {
+          "inning": 8,
+          "halfInning": "top",
+          "text": "8回表（ロッテの攻撃）"
+        },
+        "pitcher": {
+          "id": "91995138",
+          "jaBoxscoreName": "杉山"
+        },
+        "jaText": "（投手交代） 長谷川 → 杉山",
+        "home": {
+          "runs": 0
+        },
+        "road": {
+          "runs": 0
+        },
+        "isPitcherEvent": "Y",
+        "pa": {
+          "top": 26,
+          "bottom": 29,
+          "inn": 1,
+          "runs": 0
+        },
+        "runs": {
+          "road": 0,
+          "home": 1
+        }
+      },
+      {
+        "inning": {
+          "inning": 8,
+          "halfInning": "top",
+          "text": "8回表（ロッテの攻撃）"
+        },
+        "outs": 1,
+        "runners": "---",
+        "batter": {
+          "id": "71275157",
+          "jaBoxscoreName": "友杉"
+        },
+        "count": {
+          "balls": 2,
+          "strikes": 2
+        },
+        "jaResult": {
+          "players": [],
+          "text": "サードゴロ"
+        },
+        "pitcher": {
+          "id": "91995138",
+          "jaBoxscoreName": "杉山"
+        },
+        "pa": {
+          "top": 27,
+          "bottom": 29,
+          "inn": 2,
+          "runs": 0
+        },
+        "runs": {
+          "road": 0,
+          "home": 1
+        }
+      },
+      {
+        "inning": {
+          "inning": 8,
+          "halfInning": "top",
+          "text": "8回表（ロッテの攻撃）"
+        },
+        "outs": 2,
+        "runners": "---",
+        "batter": {
+          "id": "11515139",
+          "jaBoxscoreName": "岡"
+        },
+        "count": {
+          "balls": 1,
+          "strikes": 0
+        },
+        "jaResult": {
+          "players": [],
+          "text": "ショートゴロ"
+        },
+        "pitcher": {
+          "id": "91995138",
+          "jaBoxscoreName": "杉山"
+        },
+        "pa": {
+          "top": 28,
+          "bottom": 29,
+          "inn": 3,
+          "runs": 0
+        },
+        "runs": {
+          "road": 0,
+          "home": 1
+        }
+      },
+      {
+        "inning": {
+          "inning": 8,
+          "halfInning": "bottom",
+          "text": "8回裏（ソフトバンクの攻撃）"
+        },
+        "pitcher": {
+          "id": "01205138",
+          "jaBoxscoreName": "中村稔"
+        },
+        "jaText": "（投手交代） 唐川 → 中村稔",
+        "home": {
+          "runs": 0
+        },
+        "road": {
+          "runs": 0
+        },
+        "isPitcherEvent": "Y",
+        "pa": {
+          "top": 28,
+          "bottom": 29,
+          "inn": 0,
+          "runs": 0
+        },
+        "runs": {
+          "road": 0,
+          "home": 1
+        }
+      },
+      {
+        "inning": {
+          "inning": 8,
+          "halfInning": "bottom",
+          "text": "8回裏（ソフトバンクの攻撃）"
+        },
+        "outs": 0,
+        "runners": "---",
+        "batter": {
+          "id": "01705130",
+          "jaBoxscoreName": "栗原"
+        },
+        "count": {
+          "balls": 0,
+          "strikes": 1
+        },
+        "jaResult": {
+          "players": [],
+          "text": "レフトフライ"
+        },
+        "pitcher": {
+          "id": "01205138",
+          "jaBoxscoreName": "中村稔"
+        },
+        "pa": {
+          "top": 28,
+          "bottom": 30,
+          "inn": 1,
+          "runs": 0
+        },
+        "runs": {
+          "road": 0,
+          "home": 1
+        }
+      },
+      {
+        "inning": {
+          "inning": 8,
+          "halfInning": "bottom",
+          "text": "8回裏（ソフトバンクの攻撃）"
+        },
+        "outs": 1,
+        "runners": "---",
+        "batter": {
+          "id": "21425139",
+          "jaBoxscoreName": "山川"
+        },
+        "count": {
+          "balls": 3,
+          "strikes": 2
+        },
+        "jaResult": {
+          "players": [],
+          "text": "フォアボール"
+        },
+        "pitcher": {
+          "id": "01205138",
+          "jaBoxscoreName": "中村稔"
+        },
+        "pa": {
+          "top": 28,
+          "bottom": 31,
+          "inn": 2,
+          "runs": 0
+        },
+        "runs": {
+          "road": 0,
+          "home": 1
+        }
+      },
+      {
+        "inning": {
+          "inning": 8,
+          "halfInning": "bottom",
+          "text": "8回裏（ソフトバンクの攻撃）"
+        },
+        "outs": 1,
+        "runners": "1--",
+        "batter": {
+          "id": "11215116",
+          "jaBoxscoreName": "中村晃"
+        },
+        "count": {
+          "balls": 1,
+          "strikes": 2
+        },
+        "jaResult": {
+          "players": [],
+          "text": "ライト前ヒット"
+        },
+        "isPinchHit": "Y",
+        "pitcher": {
+          "id": "01205138",
+          "jaBoxscoreName": "中村稔"
+        },
+        "pa": {
+          "top": 28,
+          "bottom": 32,
+          "inn": 3,
+          "runs": 0
+        },
+        "runs": {
+          "road": 0,
+          "home": 1
+        },
+        "hits": 1
+      },
+      {
+        "inning": {
+          "inning": 8,
+          "halfInning": "bottom",
+          "text": "8回裏（ソフトバンクの攻撃）"
+        },
+        "outs": 1,
+        "runners": "12-",
+        "batter": {
+          "id": "11715132",
+          "jaBoxscoreName": "川瀬"
+        },
+        "count": {
+          "balls": 1,
+          "strikes": 2
+        },
+        "jaResult": {
+          "players": [],
+          "text": "空振り三振"
+        },
+        "pitcher": {
+          "id": "01205138",
+          "jaBoxscoreName": "中村稔"
+        },
+        "pa": {
+          "top": 28,
+          "bottom": 33,
+          "inn": 4,
+          "runs": 0
+        },
+        "runs": {
+          "road": 0,
+          "home": 1
+        }
+      },
+      {
+        "inning": {
+          "inning": 8,
+          "halfInning": "bottom",
+          "text": "8回裏（ソフトバンクの攻撃）"
+        },
+        "outs": 2,
+        "runners": "12-",
+        "batter": {
+          "id": "73175151",
+          "jaBoxscoreName": "柳町"
+        },
+        "count": {
+          "balls": 2,
+          "strikes": 2
+        },
+        "jaResult": {
+          "players": [],
+          "text": "空振り三振"
+        },
+        "pitcher": {
+          "id": "01205138",
+          "jaBoxscoreName": "中村稔"
+        },
+        "pa": {
+          "top": 28,
+          "bottom": 34,
+          "inn": 5,
+          "runs": 0
+        },
+        "runs": {
+          "road": 0,
+          "home": 1
+        }
+      },
+      {
+        "inning": {
+          "inning": 9,
+          "halfInning": "top",
+          "text": "9回表（ロッテの攻撃）"
+        },
+        "pitcher": {
+          "id": "33435157",
+          "jaBoxscoreName": "ヘルナンデス"
+        },
+        "jaText": "（投手交代） 杉山 → ヘルナンデス",
+        "home": {
+          "runs": 0
+        },
+        "road": {
+          "runs": 0
+        },
+        "isPitcherEvent": "Y",
+        "pa": {
+          "top": 28,
+          "bottom": 34,
+          "inn": 0,
+          "runs": 0
+        },
+        "runs": {
+          "road": 0,
+          "home": 1
+        }
+      },
+      {
+        "inning": {
+          "inning": 9,
+          "halfInning": "top",
+          "text": "9回表（ロッテの攻撃）"
+        },
+        "outs": 0,
+        "runners": "---",
+        "batter": {
+          "id": "11715153",
+          "jaBoxscoreName": "小川"
+        },
+        "count": {
+          "balls": 0,
+          "strikes": 0
+        },
+        "jaResult": {
+          "players": [],
+          "text": "セカンドゴロ"
+        },
+        "pitcher": {
+          "id": "33435157",
+          "jaBoxscoreName": "ヘルナンデス"
+        },
+        "pa": {
+          "top": 29,
+          "bottom": 34,
+          "inn": 1,
+          "runs": 0
+        },
+        "runs": {
+          "road": 0,
+          "home": 1
+        }
+      },
+      {
+        "inning": {
+          "inning": 9,
+          "halfInning": "top",
+          "text": "9回表（ロッテの攻撃）"
+        },
+        "outs": 1,
+        "runners": "---",
+        "batter": {
+          "id": "31535132",
+          "jaBoxscoreName": "愛斗"
+        },
+        "count": {
+          "balls": 1,
+          "strikes": 0
+        },
+        "jaResult": {
+          "players": [],
+          "text": "サードゴロ"
+        },
+        "pitcher": {
+          "id": "33435157",
+          "jaBoxscoreName": "ヘルナンデス"
+        },
+        "pa": {
+          "top": 30,
+          "bottom": 34,
+          "inn": 2,
+          "runs": 0
+        },
+        "runs": {
+          "road": 0,
+          "home": 1
+        }
+      },
+      {
+        "inning": {
+          "inning": 9,
+          "halfInning": "top",
+          "text": "9回表（ロッテの攻撃）"
+        },
+        "outs": 2,
+        "runners": "---",
+        "batter": {
+          "id": "91595151",
+          "jaBoxscoreName": "大下"
+        },
+        "count": {
+          "balls": 2,
+          "strikes": 1
+        },
+        "jaResult": {
+          "players": [],
+          "text": "セカンドヒット"
+        },
+        "pitcher": {
+          "id": "33435157",
+          "jaBoxscoreName": "ヘルナンデス"
+        },
+        "pa": {
+          "top": 31,
+          "bottom": 34,
+          "inn": 3,
+          "runs": 0
+        },
+        "runs": {
+          "road": 0,
+          "home": 1
+        },
+        "hits": 1
+      },
+      {
+        "inning": {
+          "inning": 9,
+          "halfInning": "top",
+          "text": "9回表（ロッテの攻撃）"
+        },
+        "outs": 2,
+        "runners": "1--",
+        "count": {},
+        "jaResult": {
+          "players": [
+            {
+              "id": "33335136",
+              "jaBoxscoreName": "和田"
+            }
+          ],
+          "text": "（走者・和田）二塁盗塁成功"
+        },
+        "isRunnerEvent": "Y",
+        "pitcher": {
+          "id": "33435157",
+          "jaBoxscoreName": "ヘルナンデス"
+        },
+        "pa": {
+          "top": 31,
+          "bottom": 34,
+          "inn": 3,
+          "runs": 0
+        },
+        "runs": {
+          "road": 0,
+          "home": 1
+        }
+      },
+      {
+        "inning": {
+          "inning": 9,
+          "halfInning": "top",
+          "text": "9回表（ロッテの攻撃）"
+        },
+        "outs": 2,
+        "runners": "-2-",
+        "batter": {
+          "id": "31635138",
+          "jaBoxscoreName": "藤原"
+        },
+        "count": {
+          "balls": 1,
+          "strikes": 1
+        },
+        "jaResult": {
+          "players": [],
+          "text": "レフトフライ"
+        },
+        "pitcher": {
+          "id": "33435157",
+          "jaBoxscoreName": "ヘルナンデス"
+        },
+        "pa": {
+          "top": 32,
+          "bottom": 34,
+          "inn": 4,
+          "runs": 0
+        },
+        "runs": {
+          "road": 0,
+          "home": 1
+        }
+      }
+    ],
+    "linescore": [
+      "   Marines | 0 0 0  0 0 0  0 0 0  | 0",
+      "     Hawks | 0 0 0  0 0 1  0 0 x  | 1"
+    ],
+    "teamStats": {
+      "home": {
+        "runs": 1,
+        "hits": 7,
+        "errors": 0
+      },
+      "road": {
+        "runs": 0,
+        "hits": 4,
+        "errors": 0
+      }
+    },
+    "innings": [
+      {
+        "num": 1,
+        "home": {
+          "runs": 0
+        },
+        "road": {
+          "runs": 0
+        }
+      },
+      {
+        "num": 2,
+        "home": {
+          "runs": 0
+        },
+        "road": {
+          "runs": 0
+        }
+      },
+      {
+        "num": 3,
+        "home": {
+          "runs": 0
+        },
+        "road": {
+          "runs": 0
+        }
+      },
+      {
+        "num": 4,
+        "home": {
+          "runs": 0
+        },
+        "road": {
+          "runs": 0
+        }
+      },
+      {
+        "num": 5,
+        "home": {
+          "runs": 0
+        },
+        "road": {
+          "runs": 0
+        }
+      },
+      {
+        "num": 6,
+        "home": {
+          "runs": 1
+        },
+        "road": {
+          "runs": 0
+        }
+      },
+      {
+        "num": 7,
+        "home": {
+          "runs": 0
+        },
+        "road": {
+          "runs": 0
+        }
+      },
+      {
+        "num": 8,
+        "home": {
+          "runs": 0
+        },
+        "road": {
+          "runs": 0
+        }
+      },
+      {
+        "num": 9,
+        "home": {
+          "runs": 0
+        },
+        "road": {
+          "runs": 0
+        }
+      }
+    ],
+    "players": [
+      {
+        "playerId": "11515139",
+        "jaRegisteredName": "岡　大海",
+        "teamCode": "M",
+        "primaryNumber": "25",
+        "primaryPosition": "Outfielder",
+        "jaStatus": "支配下選手",
+        "batSide": "R",
+        "pitchHand": "R",
+        "height": "185",
+        "weight": "80",
+        "birthDate": "1991-07-15",
+        "jaNotes": "",
+        "notes": "",
+        "jaBoxscoreName": "岡",
+        "boxscoreName": "Oka",
+        "jaFullName": "岡　大海",
+        "jaFirstName": "大海",
+        "jaLastName": "岡",
+        "fullLFMName": "Oka, Hiromi",
+        "firstName": "Hiromi",
+        "lastName": "Oka"
+      },
+      {
+        "playerId": "41645136",
+        "jaRegisteredName": "藤岡　裕大",
+        "teamCode": "M",
+        "primaryNumber": "7",
+        "primaryPosition": "Infielder",
+        "jaStatus": "支配下選手",
+        "batSide": "L",
+        "pitchHand": "R",
+        "height": "178",
+        "weight": "86",
+        "birthDate": "1993-08-08",
+        "jaNotes": "",
+        "notes": "",
+        "jaBoxscoreName": "藤岡",
+        "boxscoreName": "Fujioka",
+        "jaFullName": "藤岡　裕大",
+        "jaFirstName": "裕大",
+        "jaLastName": "藤岡",
+        "fullLFMName": "Fujioka, Yudai",
+        "firstName": "Yudai",
+        "lastName": "Fujioka"
+      },
+      {
+        "playerId": "11715153",
+        "jaRegisteredName": "小川　龍成",
+        "teamCode": "M",
+        "primaryNumber": "57",
+        "primaryPosition": "Infielder",
+        "jaStatus": "支配下選手",
+        "batSide": "L",
+        "pitchHand": "R",
+        "height": "171",
+        "weight": "74",
+        "birthDate": "1998-04-05",
+        "jaNotes": "",
+        "notes": "",
+        "jaBoxscoreName": "小川",
+        "boxscoreName": "Ogawa",
+        "jaFullName": "小川　龍成",
+        "jaFirstName": "龍成",
+        "jaLastName": "小川",
+        "fullLFMName": "Ogawa, Ryusei",
+        "firstName": "Ryusei",
+        "lastName": "Ogawa"
+      },
+      {
+        "playerId": "41545114",
+        "jaRegisteredName": "角中　勝也",
+        "teamCode": "M",
+        "primaryNumber": "3",
+        "primaryPosition": "Outfielder",
+        "jaStatus": "支配下選手",
+        "batSide": "L",
+        "pitchHand": "R",
+        "height": "180",
+        "weight": "85",
+        "birthDate": "1987-05-25",
+        "jaNotes": "",
+        "notes": "",
+        "jaBoxscoreName": "角中",
+        "boxscoreName": "Kakunaka",
+        "jaFullName": "角中　勝也",
+        "jaFirstName": "勝也",
+        "jaLastName": "角中",
+        "fullLFMName": "Kakunaka, Katsuya",
+        "firstName": "Katsuya",
+        "lastName": "Kakunaka"
+      },
+      {
+        "playerId": "31535132",
+        "jaRegisteredName": "愛斗",
+        "teamCode": "M",
+        "primaryNumber": "50",
+        "primaryPosition": "Outfielder",
+        "jaStatus": "支配下選手",
+        "batSide": "R",
+        "pitchHand": "R",
+        "height": "177",
+        "weight": "92",
+        "birthDate": "1997-04-06",
+        "jaNotes": "",
+        "notes": "",
+        "jaBoxscoreName": "愛斗",
+        "boxscoreName": "Takeda",
+        "jaFullName": "武田　愛斗",
+        "jaFirstName": "愛斗",
+        "jaLastName": "武田",
+        "fullLFMName": "Takeda, Aito",
+        "firstName": "Aito",
+        "lastName": "Takeda"
+      },
+      {
+        "playerId": "03505136",
+        "jaRegisteredName": "Ｎ．ソト",
+        "teamCode": "M",
+        "primaryNumber": "99",
+        "primaryPosition": "Infielder",
+        "jaStatus": "支配下選手",
+        "batSide": "R",
+        "pitchHand": "R",
+        "height": "185",
+        "weight": "97",
+        "birthDate": "1989-02-28",
+        "jaNotes": "2/19 支配下選手登録",
+        "notes": "Registered (Feb. 19).",
+        "jaBoxscoreName": "ソト",
+        "boxscoreName": "Soto",
+        "jaFullName": "ネフタリ・ソト",
+        "jaFirstName": "ネフタリ",
+        "jaLastName": "ソト",
+        "fullLFMName": "Soto, Neftali",
+        "firstName": "Neftali",
+        "lastName": "Soto"
+      },
+      {
+        "playerId": "91595151",
+        "jaRegisteredName": "大下　誠一郎",
+        "teamCode": "M",
+        "primaryNumber": "39",
+        "primaryPosition": "Infielder",
+        "jaStatus": "支配下選手",
+        "batSide": "R",
+        "pitchHand": "R",
+        "height": "171",
+        "weight": "89",
+        "birthDate": "1997-11-03",
+        "jaNotes": "",
+        "notes": "",
+        "jaBoxscoreName": "大下",
+        "boxscoreName": "Ohshita",
+        "jaFullName": "大下　誠一郎",
+        "jaFirstName": "誠一郎",
+        "jaLastName": "大下",
+        "fullLFMName": "Ohshita, Seiichiro",
+        "firstName": "Seiichiro",
+        "lastName": "Ohshita"
+      },
+      {
+        "playerId": "33335136",
+        "jaRegisteredName": "和田　康士朗",
+        "teamCode": "M",
+        "primaryNumber": "63",
+        "primaryPosition": "Outfielder",
+        "jaStatus": "支配下選手",
+        "batSide": "L",
+        "pitchHand": "L",
+        "height": "185",
+        "weight": "77",
+        "birthDate": "1999-01-14",
+        "jaNotes": "",
+        "notes": "",
+        "jaBoxscoreName": "和田",
+        "boxscoreName": "Wada",
+        "jaFullName": "和田　康士朗",
+        "jaFirstName": "康士朗",
+        "jaLastName": "和田",
+        "fullLFMName": "Wada, Koshiro",
+        "firstName": "Koshiro",
+        "lastName": "Wada"
+      },
+      {
+        "playerId": "31635138",
+        "jaRegisteredName": "藤原　恭大",
+        "teamCode": "M",
+        "primaryNumber": "1",
+        "primaryPosition": "Outfielder",
+        "jaStatus": "支配下選手",
+        "batSide": "L",
+        "pitchHand": "L",
+        "height": "181",
+        "weight": "80",
+        "birthDate": "2000-05-06",
+        "jaNotes": "",
+        "notes": "",
+        "jaBoxscoreName": "藤原",
+        "boxscoreName": "Fujiwara",
+        "jaFullName": "藤原　恭大",
+        "jaFirstName": "恭大",
+        "jaLastName": "藤原",
+        "fullLFMName": "Fujiwara, Kyota",
+        "firstName": "Kyota",
+        "lastName": "Fujiwara"
+      },
+      {
+        "playerId": "01105135",
+        "jaRegisteredName": "石川　慎吾",
+        "teamCode": "M",
+        "primaryNumber": "23",
+        "primaryPosition": "Outfielder",
+        "jaStatus": "支配下選手",
+        "batSide": "R",
+        "pitchHand": "R",
+        "height": "178",
+        "weight": "80",
+        "birthDate": "1993-04-27",
+        "jaNotes": "",
+        "notes": "",
+        "jaBoxscoreName": "石川慎",
+        "boxscoreName": "S.Ishikawa",
+        "jaFullName": "石川　慎吾",
+        "jaFirstName": "慎吾",
+        "jaLastName": "石川",
+        "fullLFMName": "Ishikawa, Shingo",
+        "firstName": "Shingo",
+        "lastName": "Ishikawa"
+      },
+      {
+        "playerId": "51455159",
+        "jaRegisteredName": "寺地　隆成",
+        "teamCode": "M",
+        "primaryNumber": "65",
+        "primaryPosition": "Catcher",
+        "jaStatus": "支配下選手",
+        "batSide": "L",
+        "pitchHand": "R",
+        "height": "177",
+        "weight": "82",
+        "birthDate": "2005-08-19",
+        "jaNotes": "",
+        "notes": "",
+        "jaBoxscoreName": "寺地",
+        "boxscoreName": "Terachi",
+        "jaFullName": "寺地　隆成",
+        "jaFirstName": "隆成",
+        "jaLastName": "寺地",
+        "fullLFMName": "Terachi, Ryusei",
+        "firstName": "Ryusei",
+        "lastName": "Terachi"
+      },
+      {
+        "playerId": "81885136",
+        "jaRegisteredName": "安田　尚憲",
+        "teamCode": "M",
+        "primaryNumber": "5",
+        "primaryPosition": "Infielder",
+        "jaStatus": "支配下選手",
+        "batSide": "L",
+        "pitchHand": "R",
+        "height": "188",
+        "weight": "100",
+        "birthDate": "1999-04-15",
+        "jaNotes": "",
+        "notes": "",
+        "jaBoxscoreName": "安田",
+        "boxscoreName": "Yasuda",
+        "jaFullName": "安田　尚憲",
+        "jaFirstName": "尚憲",
+        "jaLastName": "安田",
+        "fullLFMName": "Yasuda, Hisanori",
+        "firstName": "Hisanori",
+        "lastName": "Yasuda"
+      },
+      {
+        "playerId": "71275132",
+        "jaRegisteredName": "茶谷　健太",
+        "teamCode": "M",
+        "primaryNumber": "67",
+        "primaryPosition": "Infielder",
+        "jaStatus": "支配下選手",
+        "batSide": "R",
+        "pitchHand": "R",
+        "height": "186",
+        "weight": "88",
+        "birthDate": "1998-01-16",
+        "jaNotes": "",
+        "notes": "",
+        "jaBoxscoreName": "茶谷",
+        "boxscoreName": "Chatani",
+        "jaFullName": "茶谷　健太",
+        "jaFirstName": "健太",
+        "jaLastName": "茶谷",
+        "fullLFMName": "Chatani, Kenta",
+        "firstName": "Kenta",
+        "lastName": "Chatani"
+      },
+      {
+        "playerId": "71275157",
+        "jaRegisteredName": "友杉　篤輝",
+        "teamCode": "M",
+        "primaryNumber": "4",
+        "primaryPosition": "Infielder",
+        "jaStatus": "支配下選手",
+        "batSide": "R",
+        "pitchHand": "R",
+        "height": "171",
+        "weight": "70",
+        "birthDate": "2000-11-07",
+        "jaNotes": "",
+        "notes": "",
+        "jaBoxscoreName": "友杉",
+        "boxscoreName": "Tomosugi",
+        "jaFullName": "友杉　篤輝",
+        "jaFirstName": "篤輝",
+        "jaLastName": "友杉",
+        "fullLFMName": "Tomosugi, Atsuki",
+        "firstName": "Atsuki",
+        "lastName": "Tomosugi"
+      },
+      {
+        "playerId": "31635153",
+        "jaRegisteredName": "中森　俊介",
+        "teamCode": "M",
+        "primaryNumber": "56",
+        "primaryPosition": "Pitcher",
+        "jaStatus": "支配下選手",
+        "batSide": "L",
+        "pitchHand": "R",
+        "height": "182",
+        "weight": "90",
+        "birthDate": "2002-05-29",
+        "jaNotes": "",
+        "notes": "",
+        "jaBoxscoreName": "中森",
+        "boxscoreName": "Nakamori",
+        "jaFullName": "中森　俊介",
+        "jaFirstName": "俊介",
+        "jaLastName": "中森",
+        "fullLFMName": "Nakamori, Shunsuke",
+        "firstName": "Shunsuke",
+        "lastName": "Nakamori"
+      },
+      {
+        "playerId": "21525116",
+        "jaRegisteredName": "唐川　侑己",
+        "teamCode": "M",
+        "primaryNumber": "19",
+        "primaryPosition": "Pitcher",
+        "jaStatus": "支配下選手",
+        "batSide": "R",
+        "pitchHand": "R",
+        "height": "181",
+        "weight": "90",
+        "birthDate": "1989-07-05",
+        "jaNotes": "",
+        "notes": "",
+        "jaBoxscoreName": "唐川",
+        "boxscoreName": "Karakawa",
+        "jaFullName": "唐川　侑己",
+        "jaFirstName": "侑己",
+        "jaLastName": "唐川",
+        "fullLFMName": "Karakawa, Yuki",
+        "firstName": "Yuki",
+        "lastName": "Karakawa"
+      },
+      {
+        "playerId": "01205138",
+        "jaRegisteredName": "中村　稔弥",
+        "teamCode": "M",
+        "primaryNumber": "48",
+        "primaryPosition": "Pitcher",
+        "jaStatus": "支配下選手",
+        "batSide": "L",
+        "pitchHand": "L",
+        "height": "178",
+        "weight": "84",
+        "birthDate": "1996-07-08",
+        "jaNotes": "",
+        "notes": "",
+        "jaBoxscoreName": "中村稔",
+        "boxscoreName": "T.Nakamura",
+        "jaFullName": "中村　稔弥",
+        "jaFirstName": "稔弥",
+        "jaLastName": "中村",
+        "fullLFMName": "Nakamura, Toshiya",
+        "firstName": "Toshiya",
+        "lastName": "Nakamura"
+      },
+      {
+        "playerId": "43245159",
+        "jaRegisteredName": "Ｊ．ダウンズ",
+        "teamCode": "H",
+        "primaryNumber": "4",
+        "primaryPosition": "Infielder",
+        "jaStatus": "支配下選手",
+        "batSide": "R",
+        "pitchHand": "R",
+        "height": "178",
+        "weight": "89",
+        "birthDate": "1998-07-27",
+        "jaNotes": "7/30 支配下選手登録",
+        "notes": "Registered (Jul. 30).",
+        "jaBoxscoreName": "ダウンズ",
+        "boxscoreName": "Downs",
+        "jaFullName": "ジーター・ダウンズ",
+        "jaFirstName": "ジーター",
+        "jaLastName": "ダウンズ",
+        "fullLFMName": "Downs, Jeter",
+        "firstName": "Jeter",
+        "lastName": "Downs"
+      },
+      {
+        "playerId": "61465133",
+        "jaRegisteredName": "牧原　大成",
+        "teamCode": "H",
+        "primaryNumber": "8",
+        "primaryPosition": "Infielder",
+        "jaStatus": "支配下選手",
+        "batSide": "L",
+        "pitchHand": "R",
+        "height": "172",
+        "weight": "74",
+        "birthDate": "1992-10-15",
+        "jaNotes": "",
+        "notes": "",
+        "jaBoxscoreName": "牧原大",
+        "boxscoreName": "T.Makihara",
+        "jaFullName": "牧原　大成",
+        "jaFirstName": "大成",
+        "jaLastName": "牧原",
+        "fullLFMName": "Makihara, Taisei",
+        "firstName": "Taisei",
+        "lastName": "Makihara"
+      },
+      {
+        "playerId": "31835133",
+        "jaRegisteredName": "柳田　悠岐",
+        "teamCode": "H",
+        "primaryNumber": "9",
+        "primaryPosition": "Outfielder",
+        "jaStatus": "支配下選手",
+        "batSide": "L",
+        "pitchHand": "R",
+        "height": "188",
+        "weight": "93",
+        "birthDate": "1988-10-09",
+        "jaNotes": "",
+        "notes": "",
+        "jaBoxscoreName": "柳田",
+        "boxscoreName": "Yanagita",
+        "jaFullName": "柳田　悠岐",
+        "jaFirstName": "悠岐",
+        "jaLastName": "柳田",
+        "fullLFMName": "Yanagita, Yuki",
+        "firstName": "Yuki",
+        "lastName": "Yanagita"
+      },
+      {
+        "playerId": "81585153",
+        "jaRegisteredName": "緒方　理貢",
+        "teamCode": "H",
+        "primaryNumber": "57",
+        "primaryPosition": "Outfielder",
+        "jaStatus": "支配下選手",
+        "batSide": "L",
+        "pitchHand": "R",
+        "height": "174",
+        "weight": "72",
+        "birthDate": "1998-09-22",
+        "jaNotes": "3/19 育成選手から支配下選手へ移行",
+        "notes": "Registered(developmental player ->) (Mar. 19).",
+        "jaBoxscoreName": "緒方",
+        "boxscoreName": "R.Ogata",
+        "jaFullName": "緒方　理貢",
+        "jaFirstName": "理貢",
+        "jaLastName": "緒方",
+        "fullLFMName": "Ogata, Riku",
+        "firstName": "Riku",
+        "lastName": "Ogata"
+      },
+      {
+        "playerId": "01705130",
+        "jaRegisteredName": "栗原　陵矢",
+        "teamCode": "H",
+        "primaryNumber": "24",
+        "primaryPosition": "Infielder",
+        "jaStatus": "支配下選手",
+        "batSide": "L",
+        "pitchHand": "R",
+        "height": "179",
+        "weight": "83",
+        "birthDate": "1996-07-04",
+        "jaNotes": "",
+        "notes": "",
+        "jaBoxscoreName": "栗原",
+        "boxscoreName": "Kurihara",
+        "jaFullName": "栗原　陵矢",
+        "jaFirstName": "陵矢",
+        "jaLastName": "栗原",
+        "fullLFMName": "Kurihara, Ryoya",
+        "firstName": "Ryoya",
+        "lastName": "Kurihara"
+      },
+      {
+        "playerId": "21425139",
+        "jaRegisteredName": "山川　穂高",
+        "teamCode": "H",
+        "primaryNumber": "25",
+        "primaryPosition": "Infielder",
+        "jaStatus": "支配下選手",
+        "batSide": "R",
+        "pitchHand": "R",
+        "height": "176",
+        "weight": "103",
+        "birthDate": "1991-11-23",
+        "jaNotes": "",
+        "notes": "",
+        "jaBoxscoreName": "山川",
+        "boxscoreName": "Yamakawa",
+        "jaFullName": "山川　穂高",
+        "jaFirstName": "穂高",
+        "jaLastName": "山川",
+        "fullLFMName": "Yamakawa, Hotaka",
+        "firstName": "Hotaka",
+        "lastName": "Yamakawa"
+      },
+      {
+        "playerId": "91095151",
+        "jaRegisteredName": "佐藤　直樹",
+        "teamCode": "H",
+        "primaryNumber": "30",
+        "primaryPosition": "Outfielder",
+        "jaStatus": "支配下選手",
+        "batSide": "R",
+        "pitchHand": "R",
+        "height": "177",
+        "weight": "88",
+        "birthDate": "1998-09-03",
+        "jaNotes": "",
+        "notes": "",
+        "jaBoxscoreName": "佐藤直",
+        "boxscoreName": "N.Satoh",
+        "jaFullName": "佐藤　直樹",
+        "jaFirstName": "直樹",
+        "jaLastName": "佐藤",
+        "fullLFMName": "Satoh, Naoki",
+        "firstName": "Naoki",
+        "lastName": "Satoh"
+      },
+      {
+        "playerId": "81885155",
+        "jaRegisteredName": "正木　智也",
+        "teamCode": "H",
+        "primaryNumber": "31",
+        "primaryPosition": "Outfielder",
+        "jaStatus": "支配下選手",
+        "batSide": "R",
+        "pitchHand": "R",
+        "height": "182",
+        "weight": "92",
+        "birthDate": "1999-11-05",
+        "jaNotes": "",
+        "notes": "",
+        "jaBoxscoreName": "正木",
+        "boxscoreName": "Masaki",
+        "jaFullName": "正木　智也",
+        "jaFirstName": "智也",
+        "jaLastName": "正木",
+        "fullLFMName": "Masaki, Tomoya",
+        "firstName": "Tomoya",
+        "lastName": "Masaki"
+      },
+      {
+        "playerId": "11215116",
+        "jaRegisteredName": "中村　晃",
+        "teamCode": "H",
+        "primaryNumber": "7",
+        "primaryPosition": "Outfielder",
+        "jaStatus": "支配下選手",
+        "batSide": "L",
+        "pitchHand": "L",
+        "height": "175",
+        "weight": "81",
+        "birthDate": "1989-11-05",
+        "jaNotes": "",
+        "notes": "",
+        "jaBoxscoreName": "中村晃",
+        "boxscoreName": "A.Nakamura",
+        "jaFullName": "中村　晃",
+        "jaFirstName": "晃",
+        "jaLastName": "中村",
+        "fullLFMName": "Nakamura, Akira",
+        "firstName": "Akira",
+        "lastName": "Nakamura"
+      },
+      {
+        "playerId": "31335131",
+        "jaRegisteredName": "今宮　健太",
+        "teamCode": "H",
+        "primaryNumber": "6",
+        "primaryPosition": "Infielder",
+        "jaStatus": "支配下選手",
+        "batSide": "R",
+        "pitchHand": "R",
+        "height": "172",
+        "weight": "76",
+        "birthDate": "1991-07-15",
+        "jaNotes": "",
+        "notes": "",
+        "jaBoxscoreName": "今宮",
+        "boxscoreName": "Imamiya",
+        "jaFullName": "今宮　健太",
+        "jaFirstName": "健太",
+        "jaLastName": "今宮",
+        "fullLFMName": "Imamiya, Kenta",
+        "firstName": "Kenta",
+        "lastName": "Imamiya"
+      },
+      {
+        "playerId": "11715132",
+        "jaRegisteredName": "川瀬　晃",
+        "teamCode": "H",
+        "primaryNumber": "0",
+        "primaryPosition": "Infielder",
+        "jaStatus": "支配下選手",
+        "batSide": "L",
+        "pitchHand": "R",
+        "height": "175",
+        "weight": "71",
+        "birthDate": "1997-09-15",
+        "jaNotes": "",
+        "notes": "",
+        "jaBoxscoreName": "川瀬",
+        "boxscoreName": "Kawase",
+        "jaFullName": "川瀬　晃",
+        "jaFirstName": "晃",
+        "jaLastName": "川瀬",
+        "fullLFMName": "Kawase, Hikaru",
+        "firstName": "Hikaru",
+        "lastName": "Kawase"
+      },
+      {
+        "playerId": "73175151",
+        "jaRegisteredName": "柳町　達",
+        "teamCode": "H",
+        "primaryNumber": "32",
+        "primaryPosition": "Outfielder",
+        "jaStatus": "支配下選手",
+        "batSide": "L",
+        "pitchHand": "R",
+        "height": "180",
+        "weight": "80",
+        "birthDate": "1997-04-20",
+        "jaNotes": "",
+        "notes": "",
+        "jaBoxscoreName": "柳町",
+        "boxscoreName": "Yanagimachi",
+        "jaFullName": "柳町　達",
+        "jaFirstName": "達",
+        "jaLastName": "柳町",
+        "fullLFMName": "Yanagimachi, Tatsuru",
+        "firstName": "Tatsuru",
+        "lastName": "Yanagimachi"
+      },
+      {
+        "playerId": "91595133",
+        "jaRegisteredName": "甲斐　拓也",
+        "teamCode": "H",
+        "primaryNumber": "19",
+        "primaryPosition": "Catcher",
+        "jaStatus": "支配下選手",
+        "batSide": "R",
+        "pitchHand": "R",
+        "height": "170",
+        "weight": "87",
+        "birthDate": "1992-11-05",
+        "jaNotes": "",
+        "notes": "",
+        "jaBoxscoreName": "甲斐",
+        "boxscoreName": "T.Kai",
+        "jaFullName": "甲斐　拓也",
+        "jaFirstName": "拓也",
+        "jaLastName": "甲斐",
+        "fullLFMName": "Kai, Takuya",
+        "firstName": "Takuya",
+        "lastName": "Kai"
+      },
+      {
+        "playerId": "11715155",
+        "jaRegisteredName": "川村　友斗",
+        "teamCode": "H",
+        "primaryNumber": "61",
+        "primaryPosition": "Outfielder",
+        "jaStatus": "支配下選手",
+        "batSide": "L",
+        "pitchHand": "R",
+        "height": "181",
+        "weight": "88",
+        "birthDate": "1999-08-13",
+        "jaNotes": "3/19 育成選手から支配下選手へ移行",
+        "notes": "Registered(developmental player ->) (Mar. 19).",
+        "jaBoxscoreName": "川村",
+        "boxscoreName": "Kawamura",
+        "jaFullName": "川村　友斗",
+        "jaFirstName": "友斗",
+        "jaLastName": "川村",
+        "fullLFMName": "Kawamura, Yuto",
+        "firstName": "Yuto",
+        "lastName": "Kawamura"
+      },
+      {
+        "playerId": "01305157",
+        "jaRegisteredName": "大津　亮介",
+        "teamCode": "H",
+        "primaryNumber": "26",
+        "primaryPosition": "Pitcher",
+        "jaStatus": "支配下選手",
+        "batSide": "L",
+        "pitchHand": "R",
+        "height": "175",
+        "weight": "64",
+        "birthDate": "1999-01-13",
+        "jaNotes": "",
+        "notes": "",
+        "jaBoxscoreName": "大津",
+        "boxscoreName": "Ohtsu",
+        "jaFullName": "大津　亮介",
+        "jaFirstName": "亮介",
+        "jaLastName": "大津",
+        "fullLFMName": "Ohtsu, Ryosuke",
+        "firstName": "Ryosuke",
+        "lastName": "Ohtsu"
+      },
+      {
+        "playerId": "81285151",
+        "jaRegisteredName": "津森　宥紀",
+        "teamCode": "H",
+        "primaryNumber": "11",
+        "primaryPosition": "Pitcher",
+        "jaStatus": "支配下選手",
+        "batSide": "R",
+        "pitchHand": "R",
+        "height": "176",
+        "weight": "85",
+        "birthDate": "1998-01-21",
+        "jaNotes": "",
+        "notes": "",
+        "jaBoxscoreName": "津森",
+        "boxscoreName": "Tsumori",
+        "jaFullName": "津森　宥紀",
+        "jaFirstName": "宥紀",
+        "jaLastName": "津森",
+        "fullLFMName": "Tsumori, Yuki",
+        "firstName": "Yuki",
+        "lastName": "Tsumori"
+      },
+      {
+        "playerId": "31635155",
+        "jaRegisteredName": "長谷川　威展",
+        "teamCode": "H",
+        "primaryNumber": "59",
+        "primaryPosition": "Pitcher",
+        "jaStatus": "支配下選手",
+        "batSide": "L",
+        "pitchHand": "L",
+        "height": "178",
+        "weight": "85",
+        "birthDate": "1999-08-09",
+        "jaNotes": "",
+        "notes": "",
+        "jaBoxscoreName": "長谷川",
+        "boxscoreName": "Hasegawa",
+        "jaFullName": "長谷川　威展",
+        "jaFirstName": "威展",
+        "jaLastName": "長谷川",
+        "fullLFMName": "Hasegawa, Takehiro",
+        "firstName": "Takehiro",
+        "lastName": "Hasegawa"
+      },
+      {
+        "playerId": "91995138",
+        "jaRegisteredName": "杉山　一樹",
+        "teamCode": "H",
+        "primaryNumber": "40",
+        "primaryPosition": "Pitcher",
+        "jaStatus": "支配下選手",
+        "batSide": "R",
+        "pitchHand": "R",
+        "height": "193",
+        "weight": "105",
+        "birthDate": "1997-12-07",
+        "jaNotes": "",
+        "notes": "",
+        "jaBoxscoreName": "杉山",
+        "boxscoreName": "Sugiyama",
+        "jaFullName": "杉山　一樹",
+        "jaFirstName": "一樹",
+        "jaLastName": "杉山",
+        "fullLFMName": "Sugiyama, Kazuki",
+        "firstName": "Kazuki",
+        "lastName": "Sugiyama"
+      },
+      {
+        "playerId": "33435157",
+        "jaRegisteredName": "Ｄ．ヘルナンデス",
+        "teamCode": "H",
+        "primaryNumber": "63",
+        "primaryPosition": "Pitcher",
+        "jaStatus": "支配下選手",
+        "batSide": "L",
+        "pitchHand": "L",
+        "height": "188",
+        "weight": "115",
+        "birthDate": "1996-12-17",
+        "jaNotes": "",
+        "notes": "",
+        "jaBoxscoreName": "ヘルナンデス",
+        "boxscoreName": "Hernandez",
+        "jaFullName": "ダーウィンゾン・ヘルナンデス",
+        "jaFirstName": "ダーウィンゾン",
+        "jaLastName": "ヘルナンデス",
+        "fullLFMName": "Hernandez, Darwinzon",
+        "firstName": "Darwinzon",
+        "lastName": "Hernandez"
+      }
+    ]
+  }
+]

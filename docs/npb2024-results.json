@@ -7639,5 +7639,23 @@
     "score": "4 - 2",
     "place": "みずほPayPay",
     "status": "試合終了"
+  },
+  {
+    "date": "2024-10-04",
+    "url": "https://npb.jp/scores/2024/1004/d-db-23/",
+    "home": "中日ドラゴンズ",
+    "road": "横浜DeNAベイスターズ",
+    "score": "1 - 3",
+    "place": "バンテリンドーム",
+    "status": "試合終了"
+  },
+  {
+    "date": "2024-10-04",
+    "url": "https://npb.jp/scores/2024/1004/h-m-25/",
+    "home": "福岡ソフトバンクホークス",
+    "road": "千葉ロッテマリーンズ",
+    "score": "1 - 0",
+    "place": "みずほPayPay",
+    "status": "試合終了"
   }
 ]
