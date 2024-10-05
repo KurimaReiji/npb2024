@@ -849,3 +849,6 @@
 {"date":"2024-10-03","endTime":"21:15","road":{"team":"Tigers","runs":3,"starter":"L"},"home":{"team":"Baystars","runs":1,"starter":"L"}}
 {"date":"2024-10-04","endTime":"20:34","road":{"team":"Marines","runs":0,"starter":"R"},"home":{"team":"Hawks","runs":1,"starter":"R"}}
 {"date":"2024-10-04","endTime":"20:54","road":{"team":"Baystars","runs":3,"starter":"L"},"home":{"team":"Dragons","runs":1,"starter":"R"}}
+{"date":"2024-10-05","endTime":"17:31","road":{"team":"Baystars","runs":3,"starter":"L"},"home":{"team":"Dragons","runs":4,"starter":"L"}}
+{"date":"2024-10-05","endTime":"20:56","road":{"team":"Swallows","runs":1,"starter":"L"},"home":{"team":"Carp","runs":3,"starter":"R"}}
+{"date":"2024-10-05","endTime":"21:03","road":{"team":"Fighters","runs":3,"starter":"L"},"home":{"team":"Eagles","runs":2,"starter":"L"}}

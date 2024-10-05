@@ -7657,5 +7657,32 @@
     "score": "1 - 0",
     "place": "みずほPayPay",
     "status": "試合終了"
+  },
+  {
+    "date": "2024-10-05",
+    "url": "https://npb.jp/scores/2024/1005/d-db-24/",
+    "home": "中日ドラゴンズ",
+    "road": "横浜DeNAベイスターズ",
+    "score": "4 - 3",
+    "place": "バンテリンドーム",
+    "status": "試合終了"
+  },
+  {
+    "date": "2024-10-05",
+    "url": "https://npb.jp/scores/2024/1005/c-s-25/",
+    "home": "広島東洋カープ",
+    "road": "東京ヤクルトスワローズ",
+    "score": "3 - 1",
+    "place": "マツダスタジアム",
+    "status": "試合終了"
+  },
+  {
+    "date": "2024-10-05",
+    "url": "https://npb.jp/scores/2024/1005/e-f-24/",
+    "home": "東北楽天ゴールデンイーグルス",
+    "road": "北海道日本ハムファイターズ",
+    "score": "2 - 3",
+    "place": "楽天モバイル",
+    "status": "試合終了"
   }
 ]
