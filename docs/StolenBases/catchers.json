@@ -1,5 +1,5 @@
 {
-  "updated": "2024-10-04",
+  "updated": "2024-10-05",
   "teamStats": [
     {
       "teamCode": "T",
@@ -232,9 +232,9 @@
       "team": {
         "stats": {
           "cs": 26,
-          "sb": 71,
+          "sb": 72,
           "ds": 1,
-          "rate": ".271",
+          "rate": ".268",
           "pickoff": {
             "pickoff": 15,
             "cs": 5,
@@ -381,9 +381,9 @@
           },
           "stats": {
             "cs": 1,
-            "sb": 3,
+            "sb": 4,
             "ds": 0,
-            "rate": ".250",
+            "rate": ".200",
             "pickoff": {
               "pickoff": 1,
               "cs": 1,
@@ -568,9 +568,9 @@
       "team": {
         "stats": {
           "cs": 34,
-          "sb": 42,
+          "sb": 44,
           "ds": 0,
-          "rate": ".447",
+          "rate": ".436",
           "pickoff": {
             "pickoff": 7,
             "cs": 3,
@@ -643,9 +643,9 @@
           },
           "stats": {
             "cs": 11,
-            "sb": 15,
+            "sb": 16,
             "ds": 0,
-            "rate": ".423",
+            "rate": ".407",
             "pickoff": {
               "pickoff": 3,
               "cs": 3,
@@ -730,6 +730,43 @@
         },
         {
           "catcher": {
+            "playerId": "11615157",
+            "jaRegisteredName": "橋本　星哉",
+            "teamCode": "S",
+            "primaryNumber": "93",
+            "primaryPosition": "Catcher",
+            "jaStatus": "支配下選手",
+            "batSide": "L",
+            "pitchHand": "R",
+            "height": "178",
+            "weight": "85",
+            "birthDate": "2000-09-18",
+            "jaNotes": "",
+            "notes": "",
+            "jaBoxscoreName": "橋本",
+            "boxscoreName": "Hashimoto",
+            "jaFullName": "橋本　星哉",
+            "jaFirstName": "星哉",
+            "jaLastName": "橋本",
+            "fullLFMName": "Hashimoto, Seiya",
+            "firstName": "Seiya",
+            "lastName": "Hashimoto"
+          },
+          "stats": {
+            "cs": 0,
+            "sb": 1,
+            "ds": 0,
+            "rate": ".000",
+            "pickoff": {
+              "pickoff": 0,
+              "cs": 0,
+              "sb": 0,
+              "ds": 0
+            }
+          }
+        },
+        {
+          "catcher": {
             "playerId": "01005159",
             "jaRegisteredName": "鈴木　叶",
             "teamCode": "S",
@@ -773,9 +810,9 @@
       "team": {
         "stats": {
           "cs": 18,
-          "sb": 75,
+          "sb": 77,
           "ds": 0,
-          "rate": ".194",
+          "rate": ".189",
           "pickoff": {
             "pickoff": 12,
             "cs": 4,
@@ -785,6 +822,43 @@
         }
       },
       "catchers": [
+        {
+          "catcher": {
+            "playerId": "31735132",
+            "jaRegisteredName": "木下　拓哉",
+            "teamCode": "D",
+            "primaryNumber": "35",
+            "primaryPosition": "Catcher",
+            "jaStatus": "支配下選手",
+            "batSide": "R",
+            "pitchHand": "R",
+            "height": "183",
+            "weight": "95",
+            "birthDate": "1991-12-18",
+            "jaNotes": "",
+            "notes": "",
+            "jaBoxscoreName": "木下",
+            "boxscoreName": "Kinoshita",
+            "jaFullName": "木下　拓哉",
+            "jaFirstName": "拓哉",
+            "jaLastName": "木下",
+            "fullLFMName": "Kinoshita, Takuya",
+            "firstName": "Takuya",
+            "lastName": "Kinoshita"
+          },
+          "stats": {
+            "cs": 3,
+            "sb": 27,
+            "ds": 0,
+            "rate": ".100",
+            "pickoff": {
+              "pickoff": 6,
+              "cs": 2,
+              "sb": 0,
+              "ds": 0
+            }
+          }
+        },
         {
           "catcher": {
             "playerId": "61365132",
@@ -817,43 +891,6 @@
             "pickoff": {
               "pickoff": 1,
               "cs": 0,
-              "sb": 0,
-              "ds": 0
-            }
-          }
-        },
-        {
-          "catcher": {
-            "playerId": "31735132",
-            "jaRegisteredName": "木下　拓哉",
-            "teamCode": "D",
-            "primaryNumber": "35",
-            "primaryPosition": "Catcher",
-            "jaStatus": "支配下選手",
-            "batSide": "R",
-            "pitchHand": "R",
-            "height": "183",
-            "weight": "95",
-            "birthDate": "1991-12-18",
-            "jaNotes": "",
-            "notes": "",
-            "jaBoxscoreName": "木下",
-            "boxscoreName": "Kinoshita",
-            "jaFullName": "木下　拓哉",
-            "jaFirstName": "拓哉",
-            "jaLastName": "木下",
-            "fullLFMName": "Kinoshita, Takuya",
-            "firstName": "Takuya",
-            "lastName": "Kinoshita"
-          },
-          "stats": {
-            "cs": 3,
-            "sb": 25,
-            "ds": 0,
-            "rate": ".107",
-            "pickoff": {
-              "pickoff": 6,
-              "cs": 2,
               "sb": 0,
               "ds": 0
             }
@@ -1333,10 +1370,10 @@
       "teamName": "Eagles",
       "team": {
         "stats": {
-          "cs": 22,
+          "cs": 23,
           "sb": 84,
           "ds": 0,
-          "rate": ".208",
+          "rate": ".215",
           "pickoff": {
             "pickoff": 10,
             "cs": 2,
@@ -1408,10 +1445,10 @@
             "lastName": "Ohta"
           },
           "stats": {
-            "cs": 12,
+            "cs": 13,
             "sb": 31,
             "ds": 0,
-            "rate": ".279",
+            "rate": ".295",
             "pickoff": {
               "pickoff": 3,
               "cs": 2,
@@ -1670,9 +1707,9 @@
       "team": {
         "stats": {
           "cs": 32,
-          "sb": 78,
+          "sb": 79,
           "ds": 1,
-          "rate": ".294",
+          "rate": ".291",
           "pickoff": {
             "pickoff": 11,
             "cs": 4,
@@ -1708,9 +1745,9 @@
           },
           "stats": {
             "cs": 18,
-            "sb": 30,
+            "sb": 31,
             "ds": 0,
-            "rate": ".375",
+            "rate": ".367",
             "pickoff": {
               "pickoff": 6,
               "cs": 2,
@@ -1873,10 +1910,10 @@
   "summary": [
     {
       "stats": {
-        "cs": 312,
-        "sb": 796,
+        "cs": 313,
+        "sb": 802,
         "ds": 7,
-        "ratio": "28.3% (312/1101)"
+        "ratio": "28.2% (313/1108)"
       },
       "ja": "NPB",
       "en": "NPB"
@@ -1884,19 +1921,19 @@
     {
       "stats": {
         "cs": 145,
-        "sb": 333,
+        "sb": 338,
         "ds": 2,
-        "ratio": "30.5% (145/476)"
+        "ratio": "30.1% (145/481)"
       },
       "ja": "セ・リーグ",
       "en": "Central League"
     },
     {
       "stats": {
-        "cs": 167,
-        "sb": 463,
+        "cs": 168,
+        "sb": 464,
         "ds": 5,
-        "ratio": "26.7% (167/625)"
+        "ratio": "26.8% (168/627)"
       },
       "ja": "パ・リーグ",
       "en": "Pacific League"
