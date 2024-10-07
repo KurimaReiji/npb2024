@@ -8,7 +8,7 @@ const scraper = () => {
   const rows = [...tbl.querySelectorAll("tr:has(.stplayer)")].map(tr => [...tr.querySelectorAll("td")]).map(tds => tds.slice(1).map(td => td.textContent.trim()));
   return {
     headings,
-    updated,
+    updated: updated.includes("2024") ? updated : "Final",
     rows: rows.map(s => ({ player: s[0], team: s[1].replace(/[（）]/g, ""), value: s[2] }))
   };
 };
