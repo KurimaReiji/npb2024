@@ -1001,7 +1001,7 @@
     "standingsType": "regular season",
     "season": "2024",
     "league": "Pacific League",
-    "lastUpdated": "2024-10-06",
+    "lastUpdated": "2024-10-08",
     "teamRecords": [
       {
         "teamName": "Hawks",
@@ -1171,19 +1171,19 @@
       {
         "teamName": "Fighters",
         "wins": 75,
-        "losses": 59,
+        "losses": 60,
         "ties": 8,
-        "pct": ".560",
+        "pct": ".556",
         "overall": {
-          "gamesPlayed": 142,
+          "gamesPlayed": 143,
           "wins": 75,
-          "losses": 59,
+          "losses": 60,
           "ties": 8,
           "runsScored": 532,
-          "runsAllowed": 483,
-          "runDifferential": 49,
-          "wlt": "WLWLWWLLWLWLLWTWWWWLWLWWLWLWLLLWWWWWTLLWWLWWLWWLLWWLLWLLLWWLLTLTWLLTLLLWLLLLWWLWWLWWWWWTLWTWWLWLWWWWWWLWWLLLWWWLWWTLWLLWWWWLWWLLWWWLWLLWWLLLWW",
-          "streak": "W2",
+          "runsAllowed": 485,
+          "runDifferential": 47,
+          "wlt": "WLWLWWLLWLWLLWTWWWWLWLWWLWLWLLLWWWWWTLLWWLWWLWWLLWWLLWLLLWWLLTLTWLLTLLLWLLLLWWLWWLWWWWWTLWTWWLWLWWWWWWLWWLLLWWWLWWTLWLLWWWWLWWLLWWWLWLLWWLLLWWL",
+          "streak": "L1",
           "splitRecords": [
             {
               "type": "left",
@@ -1194,7 +1194,7 @@
             {
               "type": "right",
               "wins": 41,
-              "losses": 38,
+              "losses": 39,
               "ties": 4
             },
             {
@@ -1205,7 +1205,7 @@
             {
               "type": "shutout",
               "pitching": 16,
-              "batting": 10,
+              "batting": 11,
               "ties": 0
             },
             {
@@ -1216,16 +1216,16 @@
             {
               "type": "xWinLoss",
               "wins": 73,
-              "losses": 61,
+              "losses": 62,
               "luck": 2
             }
           ],
           "last10": {
-            "wins": 5,
-            "losses": 5,
+            "wins": 4,
+            "losses": 6,
             "ties": 0
           },
-          "gamesBack": "13.0"
+          "gamesBack": "13.5"
         },
         "home": {
           "gamesPlayed": 72,
@@ -1280,15 +1280,15 @@
           }
         },
         "road": {
-          "gamesPlayed": 70,
+          "gamesPlayed": 71,
           "wins": 34,
-          "losses": 34,
+          "losses": 35,
           "ties": 2,
           "runsScored": 229,
-          "runsAllowed": 220,
-          "runDifferential": 9,
-          "wlt": "WLWWLWLLWLWLWLWLLLTLLWWLWWWLLWLLLLTLLWWWWWLWLWWWLLLWWWWLLWWLLWWLWLLLWW",
-          "streak": "W2",
+          "runsAllowed": 222,
+          "runDifferential": 7,
+          "wlt": "WLWWLWLLWLWLWLWLLLTLLWWLWWWLLWLLLLTLLWWWWWLWLWWWLLLWWWWLLWWLLWWLWLLLWWL",
+          "streak": "L1",
           "splitRecords": [
             {
               "type": "left",
@@ -1299,7 +1299,7 @@
             {
               "type": "right",
               "wins": 18,
-              "losses": 23,
+              "losses": 24,
               "ties": 1
             },
             {
@@ -1310,7 +1310,7 @@
             {
               "type": "shutout",
               "pitching": 8,
-              "batting": 7,
+              "batting": 8,
               "ties": 0
             },
             {
@@ -1321,7 +1321,7 @@
             {
               "type": "xWinLoss",
               "wins": 35,
-              "losses": 33,
+              "losses": 34,
               "luck": -1
             }
           ],
@@ -1331,7 +1331,7 @@
             "ties": 0
           }
         },
-        "lastUpdated": "2024-10-05"
+        "lastUpdated": "2024-10-08"
       },
       {
         "teamName": "Marines",
@@ -1500,20 +1500,20 @@
       },
       {
         "teamName": "Eagles",
-        "wins": 66,
+        "wins": 67,
         "losses": 72,
         "ties": 3,
-        "pct": ".478",
+        "pct": ".482",
         "overall": {
-          "gamesPlayed": 141,
-          "wins": 66,
+          "gamesPlayed": 142,
+          "wins": 67,
           "losses": 72,
           "ties": 3,
-          "runsScored": 488,
+          "runsScored": 490,
           "runsAllowed": 577,
-          "runDifferential": -89,
-          "wlt": "LLWWLLLWLWLWTLWLLLWWLWWLWLWWLLLWWLLWLWLLLLLLWLWWWWLWWWWWLWWWLLWTLWLLLLWLWWLWLWWWWLLWWWLLWLWLWLWLLLWLLWWLLWWWWLWTWLLLWLWWLLLWWWWWLLLWWLLLLLLLL",
-          "streak": "L8",
+          "runDifferential": -87,
+          "wlt": "LLWWLLLWLWLWTLWLLLWWLWWLWLWWLLLWWLLWLWLLLLLLWLWWWWLWWWWWLWWWLLWTLWLLLLWLWWLWLWWWWLLWWWLLWLWLWLWLLLWLLWWLLWWWWLWTWLLLWLWWLLLWWWWWLLLWWLLLLLLLLW",
+          "streak": "W1",
           "splitRecords": [
             {
               "type": "left",
@@ -1523,7 +1523,7 @@
             },
             {
               "type": "right",
-              "wins": 37,
+              "wins": 38,
               "losses": 38,
               "ties": 2
             },
@@ -1534,7 +1534,7 @@
             },
             {
               "type": "shutout",
-              "pitching": 10,
+              "pitching": 11,
               "batting": 16,
               "ties": 0
             },
@@ -1546,8 +1546,8 @@
             {
               "type": "xWinLoss",
               "wins": 59,
-              "losses": 79,
-              "luck": 7
+              "losses": 80,
+              "luck": 8
             }
           ],
           "last10": {
@@ -1555,18 +1555,18 @@
             "losses": 8,
             "ties": 0
           },
-          "gamesBack": "24.0"
+          "gamesBack": "23.5"
         },
         "home": {
-          "gamesPlayed": 69,
-          "wins": 29,
+          "gamesPlayed": 70,
+          "wins": 30,
           "losses": 39,
           "ties": 1,
-          "runsScored": 202,
+          "runsScored": 204,
           "runsAllowed": 269,
-          "runDifferential": -67,
-          "wlt": "LLWLLWWTLWLLLWWLLLWWLLLWWWLWWWLLWLLWLWWWLLWLWLLLLLWWWLLLWLLWWWWLLLLLL",
-          "streak": "L6",
+          "runDifferential": -65,
+          "wlt": "LLWLLWWTLWLLLWWLLLWWLLLWWWLWWWLLWLLWLWWWLLWLWLLLLLWWWLLLWLLWWWWLLLLLLW",
+          "streak": "W1",
           "splitRecords": [
             {
               "type": "left",
@@ -1576,7 +1576,7 @@
             },
             {
               "type": "right",
-              "wins": 18,
+              "wins": 19,
               "losses": 18,
               "ties": 1
             },
@@ -1587,7 +1587,7 @@
             },
             {
               "type": "shutout",
-              "pitching": 3,
+              "pitching": 4,
               "batting": 12,
               "ties": 0
             },
@@ -1598,7 +1598,7 @@
             },
             {
               "type": "xWinLoss",
-              "wins": 25,
+              "wins": 26,
               "losses": 43,
               "luck": 4
             }
@@ -1661,7 +1661,7 @@
             "ties": 0
           }
         },
-        "lastUpdated": "2024-10-06"
+        "lastUpdated": "2024-10-08"
       },
       {
         "teamName": "Buffaloes",
