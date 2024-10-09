@@ -1,5 +1,5 @@
 {
-  "updated": "2024-10-06",
+  "updated": "2024-10-09",
   "teamStats": [
     {
       "teamCode": "T",
@@ -1370,10 +1370,10 @@
       "teamName": "Eagles",
       "team": {
         "stats": {
-          "cs": 23,
-          "sb": 85,
+          "cs": 24,
+          "sb": 86,
           "ds": 0,
-          "rate": ".213",
+          "rate": ".218",
           "pickoff": {
             "pickoff": 10,
             "cs": 2,
@@ -1408,10 +1408,10 @@
             "lastName": "Ishihara"
           },
           "stats": {
-            "cs": 8,
-            "sb": 46,
+            "cs": 9,
+            "sb": 47,
             "ds": 0,
-            "rate": ".148",
+            "rate": ".161",
             "pickoff": {
               "pickoff": 5,
               "cs": 0,
@@ -1539,9 +1539,9 @@
       "team": {
         "stats": {
           "cs": 25,
-          "sb": 71,
+          "sb": 72,
           "ds": 3,
-          "rate": ".269",
+          "rate": ".266",
           "pickoff": {
             "pickoff": 27,
             "cs": 11,
@@ -1577,9 +1577,9 @@
           },
           "stats": {
             "cs": 20,
-            "sb": 43,
+            "sb": 44,
             "ds": 2,
-            "rate": ".328",
+            "rate": ".323",
             "pickoff": {
               "pickoff": 17,
               "cs": 7,
@@ -1910,10 +1910,10 @@
   "summary": [
     {
       "stats": {
-        "cs": 313,
-        "sb": 804,
+        "cs": 314,
+        "sb": 806,
         "ds": 7,
-        "ratio": "28.2% (313/1110)"
+        "ratio": "28.2% (314/1113)"
       },
       "ja": "NPB",
       "en": "NPB"
@@ -1930,10 +1930,10 @@
     },
     {
       "stats": {
-        "cs": 168,
-        "sb": 465,
+        "cs": 169,
+        "sb": 467,
         "ds": 5,
-        "ratio": "26.8% (168/628)"
+        "ratio": "26.8% (169/631)"
       },
       "ja": "パ・リーグ",
       "en": "Pacific League"
