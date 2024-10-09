@@ -1,0 +1,62 @@
+[
+  {
+    "id": "41245130-2024-07",
+    "date": "2024-10-09",
+    "batter": {
+      "jaBoxscoreName": "外崎",
+      "playerId": "41245130",
+      "boxscoreName": "Tonosaki",
+      "batSide": "R",
+      "teamCode": "L",
+      "primaryNumber": "5",
+      "jaRegisteredName": "外崎　修汰",
+      "fullLFMName": "Tonosaki, Shuta"
+    },
+    "pitcher": {
+      "jaBoxscoreName": "岸",
+      "boxscoreName": "Kishi",
+      "pitchHand": "R",
+      "teamCode": "E",
+      "primaryNumber": "11",
+      "jaRegisteredName": "岸　孝之",
+      "fullLFMName": "Kishi, Takayuki"
+    },
+    "number": 7,
+    "inning": 1,
+    "halfInning": "top",
+    "outs": 1,
+    "RoB": "---",
+    "count": {
+      "balls": 2,
+      "strikes": 1
+    },
+    "runs": {
+      "road": 0,
+      "home": 0
+    },
+    "bop": 2,
+    "rbi": 1,
+    "whereHit": "7",
+    "venue": {
+      "jaBoxscoreName": "楽天モバイル",
+      "boxscoreName": "Rakuten Mobile",
+      "jaName": "楽天モバイルパーク宮城",
+      "name": "Rakuten Mobile Park Miyagi"
+    },
+    "teams": {
+      "road": {
+        "teamCode": "L",
+        "teamName": "Lions",
+        "score": 2
+      },
+      "home": {
+        "teamCode": "E",
+        "teamName": "Eagles",
+        "score": 2
+      }
+    },
+    "jaText": "レフトソロホームラン（打点1）",
+    "text": "Tonosaki homers (7) to left field.",
+    "url": "https://npb.jp/scores/2024/1009/e-l-25/playbyplay.html#com1-1"
+  }
+]
