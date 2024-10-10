@@ -1,7 +1,5 @@
 name: get CS% leaders
 on:
-  schedule:
-    - cron: '35 17 * 6-10 *'
   workflow_dispatch:
 
 jobs:
