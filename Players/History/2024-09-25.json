@@ -1,0 +1,31 @@
+[
+  {
+    "playerId": "83285159",
+    "jaRegisteredName": "Ｍ．フルプ",
+    "date": "2024-09-25",
+    "jaEvent": "育成選手登録",
+    "newValue": {
+      "teamCode": "G",
+      "primaryNumber": "037",
+      "primaryPosition": "Outfielder",
+      "jaStatus": "育成選手",
+      "playerId": "83285159",
+      "jaRegisteredName": "Ｍ．フルプ",
+      "batSide": "R",
+      "pitchHand": "R",
+      "height": "193",
+      "weight": "99",
+      "birthDate": "1999-01-09",
+      "jaNotes": "9/25 育成選手登録",
+      "notes": "Registered (Sep. 25).",
+      "jaBoxscoreName": "フルプ",
+      "boxscoreName": "Chlup",
+      "jaFullName": "マレク・フルプ",
+      "jaFirstName": "マレク",
+      "jaLastName": "フルプ",
+      "fullLFMName": "Chlup, Marek",
+      "firstName": "Marek",
+      "lastName": "Chlup"
+    }
+  }
+]

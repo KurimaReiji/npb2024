@@ -1,0 +1,31 @@
+[
+  {
+    "playerId": "71475157",
+    "jaRegisteredName": "西濱　勇星",
+    "date": "2024-09-28",
+    "jaEvent": "育成選手登録",
+    "newValue": {
+      "teamCode": "S",
+      "primaryNumber": "016",
+      "primaryPosition": "Pitcher",
+      "jaStatus": "育成選手",
+      "playerId": "71475157",
+      "jaRegisteredName": "西濱　勇星",
+      "batSide": "L",
+      "pitchHand": "R",
+      "height": "181",
+      "weight": "80",
+      "birthDate": "2002-11-23",
+      "jaNotes": "9/28 育成選手登録",
+      "notes": "Registered (Sep. 28).",
+      "jaBoxscoreName": "西濱",
+      "boxscoreName": "Nishihama",
+      "jaFullName": "西濱　勇星",
+      "jaFirstName": "勇星",
+      "jaLastName": "西濱",
+      "fullLFMName": "Nishihama, Yuhsei",
+      "firstName": "Yuhsei",
+      "lastName": "Nishihama"
+    }
+  }
+]
