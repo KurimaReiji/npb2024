@@ -78,7 +78,7 @@
   {
     "jaText": "（走者・小郷）本塁盗塁失敗",
     "text": "Ogoh caught stealing home plate.",
-    "pickoff": "",
+    "pickoff": "Y",
     "notes": [
       "三塁走者 小郷 は塁を飛び出しておりアウト 2アウト"
     ]
