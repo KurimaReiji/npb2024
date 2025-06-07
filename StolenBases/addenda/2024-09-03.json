@@ -16,8 +16,8 @@
   },
   {
     "jaText": "（走者・知野）二塁盗塁成功",
-    "text": "Chino steals 2nd base.",
-    "pickoff": "",
+    "text": "Chino picked off and steals 2nd base.",
+    "pickoff": "Y",
     "catcher": {
       "playerId": "21125151",
       "jaRegisteredName": "石原　貴規",
